@@ -1,0 +1,31 @@
+[book]
+authors = ["James Hawley"]
+language = "en"
+multilingual = false
+src = "."
+title = "Recipe Book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+mathjax-support = false
+
+[output.html.fold]
+enable = false
+level = 0
+
+[output.html.playground]
+editable = false
+copy-js = true
+line-numbers = false
+
+[output.html.search]
+enable = true
+limit-results = 30
+
+[output.markdown]
+
+[build]
+build-dir = "docs"
+
+# [output.linkcheck]
