@@ -1,0 +1,32 @@
+# Chicken, potatoes, green beans
+
+| Info      | Amount     |
+| --------- | ---------- |
+| Prep Time | 15 min     |
+| Cook Time | 4 h        |
+| Yields    | 4 servings |
+
+Added: 2019-03-23
+
+Tags: #slow-cooker #chicken #dinner
+
+## Ingredients
+
+| Quantity | Item                                                                  |
+| -------- | --------------------------------------------------------------------- |
+| 2 lbs    | [chicken breasts](../Ingredients/chicken%20breast.md)                   |
+| 1/2 lbs  | [green beans](../Ingredients/green%20beans.md)                          |
+| 3/2 lbs  | red [potatoes](../Ingredients/potatoes.md), chunked                   |
+| 1/3 cup  | [lemon juice](../Ingredients/lemon%20juice.md)                          |
+| 1/4 cup  | [olive oil](../Ingredients/olive%20oil.md)                              |
+| 1 tsp    | [oregano](../Ingredients/oregano.md)                                  |
+| 1/4 tsp  | [onion powder](../Ingredients/onion-powder.md)                        |
+| 2 cloves | [garlic](../Ingredients/garlic.md), minced                            |
+|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
+
+## Directions
+
+1. Place chicken, green beans, and potatoes into the slow cooker
+2. In a separate bowl, whisk together remaining ingredients
+   1. Pour evenly over slow cooker contents
+3. Cover, cook on high for 4 h
