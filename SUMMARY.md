@@ -1,0 +1,133 @@
+# Summary
+
+[Introduction](Intro.md)
+
+# Breakfasts
+
+- [Waffles, pancakes]()
+  - [Buttermilk pancakes or waffles](Recipes/buttermilk-pancakes-waffles.md)
+  - [Dark chocolate waffles](Recipes/dark-chocolate-waffles.md)
+  - [Pumpkin waffles](Recipes/pumpkin-waffles.md)
+- [French toast](Recipes/french-toast.md)
+- [Cinnamon maple granola](Recipes/cinnamon-maple-granola.md)
+
+# Sides
+
+- [Finger food]()
+  - [Greek fries](Recipes/greek-fries.md)
+- [Salads]()
+  - [Bean medley salad](Recipes/bean-medley-salad.md)
+  - [Greek tortellini salad](Recipes/greek-tortellini-salad.md)
+  - [Craisin and feta salad](Recipes/craisin-feta-salad.md)
+  - [Mediterranean salad](Recipes/mediterranean-salad.md)
+  - [Blackberry balsamic chicken salad](Recipes/blackberry-balsamic-chicken-salad.md)
+  - [Honey roasted carrots](Recipes/honey-roasted-carrots.md)
+  - [Autumn arugula salad](Recipes/autumn-arugula-salad.md)
+- [Rice]()
+  - [Spicy rice](Recipes/spicy-rice.md)
+  - [Spanish rice](Recipes/spanish-rice.md)
+  - [Spanakorizo rice](Recipes/spanakorizo-rice.md)
+
+# Entrees
+
+- [Sandwiches & wraps]()
+  - [Pulled pork sandwiches](Recipes/pulled-pork.md)
+  - [Smashed chickpea avocado sandwich](Recipes/smashed-chickpea-avocado-sandwich.md)
+  - [Roasted tomato aioli sandwiches](Recipes/roasted-tomato-aioli-sandwiches.md)
+  - [One pot wraps](Recipes/one-pot-wraps.md)
+  - [Sloppy glows](Recipes/sloppy-glows.md)
+- [Salad bowls]()
+  - [Winter salad bowl](Recipes/winter-salad-bowl.md)
+  - [Sweet potato quinoa bowl](Recipes/sweet-potato-quinoa-bowl.md)
+  - [Thai veggie bowl](Recipes/thai-veggie-bowl.md)
+  - [Spanish quinoa](Recipes/spanish-quinoa.md)
+  - [Roasted chickpeas stuffed avocado](Recipes/roasted-chickpeas-stuffed-avocado.md)
+- [Fish]()
+  - [Cod and tangy tartar sauce](Recipes/cod-tangy-tartar-sauce.md)
+  - [Spicy halibut](Recipes/spicy-halibut.md)
+  - [Salmon, asparagus, and rice](Recipes/salmon-asparagus-rice.md)
+  - [Shallow-fried beer-battered fish and chips](Recipes/shallow-fried-beer-battered-fish-chips.md)
+- [Pasta]()
+  - [Lasagna](Recipes/lasagna.md)
+  - [Farfalle, tomato, feta, and balsamic](Recipes/farfalle-tomato-feta-balsamic.md)
+  - [Basil and tomato orzo](Recipes/basil-tomato-orzo.md)
+  - [Peanut butter noodles](Recipes/peanut-butter-noodles.md)
+  - [Aglio, olio, e peperoncino](Recipes/garlic-pepper-pasta.md)
+  - [Linguine, zucchine, e gamberetti](Recipes/linguine-zucchini-prawns.md)
+  - [Pasta al ragù](Recipes/pasta-al-ragu.md)
+  - [Chicken tetrazzini](Recipes/chicken-tetrazzini.md)
+  - [Broccoli, ham, macaroni, and cheese](Recipes/broccoli-ham-macaroni-cheese.md)
+- [Soups]()
+  - [Chili](Recipes/chili.md)
+  - [African peanut stew](Recipes/african-peanut-stew.md)
+  - [Hamburger soup](Recipes/hamburger-soup.md)
+  - [Broccoli and cheddar soup](Recipes/broccoli-cheddar-soup.md)
+  - [Cream of tomato soup](Recipes/cream-tomato-soup.md)
+  - [Carrot ginger soup](Recipes/carrot-ginger-soup.md)
+  - [Beef stew](Recipes/beef-stew.md)
+  - [Tomato spinach tortellini soup](Recipes/tomato-spinach-tortellini-soup.md)
+  - [Tortellini sausage soup](Recipes/tortellini-sausage-soup.md)
+  - [Lentil soup](Recipes/lentil-soup.md)
+- [Beef]()
+  - [Pot roast](Recipes/pot-roast.md)
+  - [Beef stroganoff](Recipes/beef-stroganoff.md)
+  - [Stuffed peppers](Recipes/stuffed-peppers.md)
+  - [Shepherd's pie](Recipes/shepherds-pie.md)
+  - [Beef macaroni](Recipes/beef-macaroni.md)
+- [Chicken]()
+  - [Butter chicken](Recipes/butter-chicken.md)
+  - [Chicken and chickpea traybake](Recipes/chicken-chickpea-traybake.md)
+  - [Pad Thai](Recipes/pad-thai.md)
+  - [Chicken, potatoes, green beans](Recipes/chicken-potatoes-green-beans.md)
+  - [Honey garlic chicken and veggies](Recipes/honey-garlic-chicken-veggies.md)
+  - [Balsamic chicken](Recipes/balsamic-chicken.md)
+  - [Chicken fried rice](Recipes/chicken-fried-rice.md)
+  - [Honey mustard chicken and potatoes](Recipes/honey-mustard-chicken-potatoes.md)
+  - [Chicken lo mein](Recipes/chicken-lo-mein.md)
+  - [Chicken lettuce wraps](Recipes/chicken-lettuce-wraps.md)
+  - [Lemon garlic chicken](Recipes/lemon-garlic-chicken.md)
+  - [Maple cranberry chicken](Recipes/maple-cranberry-chicken.md)
+
+# Sauces
+
+- [Spicy mayo](Recipes/spicy-mayo.md)
+- [Alfredo](Recipes/alfredo-sauce.md)
+- [Artichoke and spinach dip](Recipes/artichoke-spinach-dip.md)
+
+# Baked goods
+
+- [Breads]()
+  - [Banana bread](Recipes/banana-bread.md)
+  - [Pumpkin bread](Recipes/pumpkin-bread.md)
+- [Cookies]()
+  - [Gingersnaps](Recipes/gingersnaps.md)
+- [Muffins]()
+  - [Pumpkin muffins](Recipes/pumpkin-muffins.md)
+- [Pies]()
+  - [Apple pie](Recipes/apple-pie.md)
+
+# Beverages
+
+- [Bases]()
+  - [Simple syrup](Recipes/simple-syrup.md)
+
+- [Virgin]()
+  - [Banana honey smoothie](Recipes/banana-honey-smoothie.md)
+  - [Apple cider](Recipes/apple-cider.md)
+  - [Peanut butter fruit smoothie](Recipes/peanut-butter-fruit-smoothie.md)
+  - [Frozen berry fruit smoothie](Recipes/frozen-berry-smoothie.md)
+
+- [Alcoholic]()
+  - [Whiskey sour](Recipes/whiskey-sour.md)
+  - [Cinnamon maple whiskey sour](Recipes/cinnamon-maple-whiskey-sour.md)
+  - [Moscow mule](Recipes/moscow-mule.md)
+  - [Strawberry daquiri](Recipes/strawberry-daiquiri.md)
+  - [Gin fizz](Recipes/gin-fizz.md)
+
+# Components
+
+- [Chicken breasts](Recipes/chicken-breasts.md)
+- [Steak](Recipes/steak.md)
+- [Sweet potato fries](Recipes/sweet-potato-fries.md)
+- [Black bean quinoa falafel](Recipes/black-bean-quinoa-falafel.md)
+- [Hummus](Recipes/hummus.md)
