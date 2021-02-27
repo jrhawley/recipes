@@ -2,13 +2,13 @@
 
 Added: 2020-06-03 21:18
 
-Tags: #alcoholic #drink #beverage
+Tags: #beverage
 
 ## Ingredients
 
-| Quantity | Item                                                   |
-| -------- | ------------------------------------------------------ |
-| 1 cup    | [water](../Ingredients/water.md)                       |
+| Quantity | Item                                                     |
+| -------- | -------------------------------------------------------- |
+| 1 cup    | [water](../Ingredients/water.md)                         |
 | 1 cup    | [granulated sugar](../Ingredients/granulated%20sugar.md) |
 
 ## Directions

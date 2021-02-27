@@ -118,11 +118,18 @@
   - [Frozen berry fruit smoothie](Recipes/frozen-berry-smoothie.md)
 
 - [Alcoholic]()
-  - [Whiskey sour](Recipes/whiskey-sour.md)
   - [Cinnamon maple whiskey sour](Recipes/cinnamon-maple-whiskey-sour.md)
-  - [Moscow mule](Recipes/moscow-mule.md)
-  - [Strawberry daquiri](Recipes/strawberry-daiquiri.md)
+  - [El Presidente](Recipes/el-presidente.md)
   - [Gin fizz](Recipes/gin-fizz.md)
+  - [Manhattan](Recipes/manhattan.md)
+  - [Martini](Recipes/martini.md)
+  - [Moscow mule](Recipes/moscow-mule.md)
+  - [Negroni](Recipes/negroni.md)
+  - [Rum old fashioned](Recipes/rum-old-fashioned.md)
+  - [Scofflaw](../recipe-book/Recipes/scofflaw.md)
+  - [Strawberry daquiri](Recipes/strawberry-daiquiri.md)
+  - [White lady](../recipe-book/Recipes/white-lady.md)
+  - [Whiskey sour](Recipes/whiskey-sour.md)
 
 # Components
 

@@ -6,11 +6,11 @@ Tags: #alcoholic #beverage
 
 ## Ingredients
 
-| Quantity | Item                                   |
-| -------- | -------------------------------------- |
-| 1 oz     | [Campari](../Ingredients/campari.md)   |
-| 1 oz     | [gin](../Ingredients/gin.md)           |
-| 1 oz     | [vermouth](../Ingredients/vermouth.md) |
+| Quantity | Item                                         |
+| -------- | -------------------------------------------- |
+| 1 oz     | [Campari](../Ingredients/campari.md)         |
+| 1 oz     | [gin](../Ingredients/gin.md)                 |
+| 1 oz     | [sweet vermouth](../Ingredients/vermouth.md) |
 
 ## Directions
 
