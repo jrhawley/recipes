@@ -34,7 +34,3 @@ Tags: #pasta #vegetarian #dinner
 2. While pasta cooks, combine vinegar and following 6 ingredients in small bowl
 3. Gradually add oil to vinegar, stirring constantly
 4. Drizzle vinaigrette over pasta, and toss well to coat
-
-## References & Notes
-
-1.
