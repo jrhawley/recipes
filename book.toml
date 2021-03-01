@@ -3,12 +3,19 @@ authors = ["James Hawley"]
 language = "en"
 multilingual = false
 src = "."
-title = "Recipe Book"
+title = "Recipe Book - James Hawley"
+
+[preprocessor.links]
+renderers = ["html"]
 
 [output.html]
-default-theme = "light"
-preferred-dark-theme = "navy"
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
 mathjax-support = false
+git-repository-url = "https://github.com/jrhawley/recipes"
+
+[output.html.print]
+enable = true
 
 [output.html.fold]
 enable = false
@@ -23,9 +30,5 @@ line-numbers = false
 enable = true
 limit-results = 30
 
-[output.markdown]
-
 [build]
 build-dir = "docs"
-
-# [output.linkcheck]
