@@ -39,6 +39,7 @@
 - [Salad bowls]()
   - [Winter salad bowl](Recipes/winter-salad-bowl.md)
   - [Sweet potato quinoa bowl](Recipes/sweet-potato-quinoa-bowl.md)
+  - [Sweet potato burrito bowl](Recipes/sweet-potato-burrito-bowl.md)
   - [Thai veggie bowl](Recipes/thai-veggie-bowl.md)
   - [Spanish quinoa](Recipes/spanish-quinoa.md)
   - [Roasted chickpeas stuffed avocado](Recipes/roasted-chickpeas-stuffed-avocado.md)
