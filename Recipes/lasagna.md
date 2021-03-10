@@ -6,7 +6,7 @@
 | Cook Time | 4 h        |
 | Yields    | 8 servings |
 
-![Lasagna](../Media/lasagna.jpg)
+![Lasagna](../assets/lasagna.jpg)
 
 Added: 2019-03-23
 
@@ -14,23 +14,23 @@ Tags: #pasta #lasagna #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity   | Item                                                                 |
-| ---------- | -------------------------------------------------------------------- |
+| Quantity   | Item                                                                   |
+| ---------- | ---------------------------------------------------------------------- |
 | 500 g      | [ground beef](../Ingredients/ground%20beef.md) (exclude if vegetarian) |
-| 3 handfuls | [spinach](../Ingredients/spinach.md) (exclude if carnivorous)        |
-| 2 tsp      | [salt](../Ingredients/salt.md)                                       |
-| 1 tsp      | [pepper](../Ingredients/pepper.md)                                   |
-| 1          | large [onion](../Ingredients/onion.md), chopped                      |
+| 3 handfuls | [spinach](../Ingredients/spinach.md) (exclude if carnivorous)          |
+| 2 tsp      | [salt](../Ingredients/salt.md)                                         |
+| 1 tsp      | [pepper](../Ingredients/pepper.md)                                     |
+| 1          | large [onion](../Ingredients/onion.md), chopped                        |
 | 1 tsp      | [italian seasoning](../Ingredients/italian%20seasoning.md)             |
-| 2 Tbsp     | dried [parsley](../Ingredients/parsley.md)                           |
-| 2 tsp      | [garlic powder](../Ingredients/garlic-powder.md)                     |
+| 2 Tbsp     | dried [parsley](../Ingredients/parsley.md)                             |
+| 2 tsp      | [garlic powder](../Ingredients/garlic-powder.md)                       |
 | 6 oz       | [tomato paste](../Ingredients/tomato%20paste.md)                       |
 | 28 oz      | [tomato sauce](../Ingredients/tomato%20sauce.md)                       |
-| 5/4 cups   | [water](../Ingredients/water.md)                                     |
-| 8 oz       | [lasagna noodles](../Ingredients/lasagna-noodles.md), uncooked       |
-| 4 cups     | shredded [mozzarella](../Ingredients/mozzarella.md)                  |
-| 3/2 cups   | [ricotta](../Ingredients/ricotta.md)                                 |
-| 1/2 cup    | [parmesan](../Ingredients/parmesan.md)                               |
+| 5/4 cups   | [water](../Ingredients/water.md)                                       |
+| 8 oz       | [lasagna noodles](../Ingredients/lasagna-noodles.md), uncooked         |
+| 4 cups     | shredded [mozzarella](../Ingredients/mozzarella.md)                    |
+| 3/2 cups   | [ricotta](../Ingredients/ricotta.md)                                   |
+| 1/2 cup    | [parmesan](../Ingredients/parmesan.md)                                 |
 
 ## Directions
 

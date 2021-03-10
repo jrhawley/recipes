@@ -1,10 +1,12 @@
 # Greek fries
 
-| Info      | Amount |
-| --------- | ------ |
-| Prep Time | 10 min |
-| Cook Time |        |
-| Yields    |        |
+| Info      | Amount     |
+| --------- | ---------- |
+| Prep Time | 10 min     |
+| Cook Time | 40 min     |
+| Yields    | 3 servings |
+
+![Greek fries](../assets/greek-fries.jpg)
 
 Added: 2021-02-26
 

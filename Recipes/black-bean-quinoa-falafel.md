@@ -6,11 +6,11 @@
 | Cook Time | 45 min     |
 | Yields    | 12 falafel |
 
+![black bean quinoa falafel](../assets/black-bean-quinoa-falafel.jpg)
+
 Added: 2020-09-24
 
 Tags: #vegetarian #prep #dinner
-
-![black bean quinoa falafel](../Media/black-bean-quinoa-falafel.jpg)
 
 ## Ingredients
 

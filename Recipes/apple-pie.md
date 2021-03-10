@@ -6,7 +6,7 @@
 | Bake Time | 50 min  |
 | Yields    | 13" pie |
 
-![Apple pie](../Media/apple-pie.jpg)
+![Apple pie](../assets/apple-pie.jpg)
 
 Added: 2018-12-18 09:15
 

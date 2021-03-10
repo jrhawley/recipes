@@ -6,7 +6,7 @@
 | Cook Time | 4 h        |
 | Yields    | 4 servings |
 
-![Honey garlic chicken and veggies](../Media/honey-garlic-chicken-veggies.jpg)
+![Honey garlic chicken and veggies](../assets/honey-garlic-chicken-veggies.jpg)
 
 Added: 2019-12-07
 
@@ -18,17 +18,17 @@ Tags: #slow-cooker #diner
 
 | Quantity | Item                                                        |
 | -------- | ----------------------------------------------------------- |
-| 4        | [chicken breasts](../Ingredients/chicken%20breast.md)         |
+| 4        | [chicken breasts](../Ingredients/chicken%20breast.md)       |
 | 16 oz    | baby [red potatoes](../Ingredients/red-potatoes.md), halved |
 | 16 oz    | baby [carrots](../Ingredients/carrot.md)                    |
-| 16 oz    | [green beans](../Ingredients/green%20beans.md), trimmed       |
+| 16 oz    | [green beans](../Ingredients/green%20beans.md), trimmed     |
 | 2 Tbsp   | [parsley](../Ingredients/parsley.md), chopped               |
 
 ### Sauce
 
 | Quantity | Item                                                     |
 | -------- | -------------------------------------------------------- |
-| 1/2 cup  | [soy sauce](../Ingredients/soy%20sauce.md)                 |
+| 1/2 cup  | [soy sauce](../Ingredients/soy%20sauce.md)               |
 | 1/2 cup  | [honey](../Ingredients/honey.md)                         |
 | 1/4 cup  | [ketchup](../Ingredients/ketchup.md)                     |
 | 2 cloves | [garlic](../Ingredients/garlic.md), minced               |

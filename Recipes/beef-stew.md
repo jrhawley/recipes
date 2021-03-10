@@ -6,7 +6,7 @@
 | Cook Time | 7 h        |
 | Yields    | 4 servings |
 
-![Beef stew](../Media/beef-stew.jpg)
+![Beef stew](../assets/beef-stew.jpg)
 
 Added: 2018-02-03
 
@@ -18,7 +18,7 @@ Tags: #stew #soup #beef #dinner
 | -------- | ---------------------------------------------------------------------------- |
 | 2 lbs    | [beef chuck](../Ingredients/beef-chuck.md), cut into 1" pieces               |
 | 1/4 cup  | [flour](../Ingredients/flour.md)                                             |
-| 3 Tbsp   | [canola oil](../Ingredients/canola%20oil.md)                                   |
+| 3 Tbsp   | [canola oil](../Ingredients/canola%20oil.md)                                 |
 | 1        | [carrots](../Ingredients/carrot.md)                                          |
 | 1        | [onion](../Ingredients/onion.md)                                             |
 | 2 cloves | [garlic](../Ingredients/garlic.md), minced                                   |
@@ -27,7 +27,7 @@ Tags: #stew #soup #beef #dinner
 | 1        | [Yukon gold potato](../Ingredients/Yukon gold potato.md), cut into 1" chunks |
 | 3 sprigs | [thyme](../Ingredients/thyme.md)                                             |
 | 2 Tbsp   | [molasses](../Ingredients/molasses.md)                                       |
-| 1 Tbsp   | [tomato paste](../Ingredients/tomato%20paste.md)                               |
+| 1 Tbsp   | [tomato paste](../Ingredients/tomato%20paste.md)                             |
 | 1 tsp    | [salt](../Ingredients/salt.md)                                               |
 | 1/2 cup  | [frozen peas](../Ingredients/frozen-peas.md)                                 |
 | 1/2 cup  | fresh [parsley](../Ingredients/parsley.md), chopped                          |

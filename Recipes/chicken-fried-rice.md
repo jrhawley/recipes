@@ -6,7 +6,7 @@
 | Cook Time | 40 min     |
 | Yields    | 4 servings |
 
-![Chicken fried rice](../Media/chicken-fried-rice.jpg)
+![Chicken fried rice](../assets/chicken-fried-rice.jpg)
 
 Added: 2020-07-12
 
@@ -17,16 +17,16 @@ Tags: #chicken #dinner
 | Quantity | Item                                                                  |
 | -------- | --------------------------------------------------------------------- |
 | 2 cups   | [basmati rice](../Ingredients/rice.md), uncooked                      |
-| 3 Tbsp   | [vegetable oil](../Ingredients/vegetable%20oil.md)                      |
-| 2        | [chicken breasts](../Ingredients/chicken%20breast.md)                   |
+| 3 Tbsp   | [vegetable oil](../Ingredients/vegetable%20oil.md)                    |
+| 2        | [chicken breasts](../Ingredients/chicken%20breast.md)                 |
 | 1        | [onion](../Ingredients/onion.md), diced                               |
 | 1        | [carrot](../Ingredients/carrot.md), peeled, diced                     |
-| 3 stalks | [green onion](../Ingredients/green%20onion.md), thinly sliced           |
+| 3 stalks | [green onion](../Ingredients/green%20onion.md), thinly sliced         |
 | 2 cloves | [garlic](../Ingredients/garlic.md), minced                            |
-| 1 Tbsp   | [soy sauce](../Ingredients/soy%20sauce.md)                              |
-| 2 tsp    | [sesame oil](../Ingredients/sesame%20oil.md)                            |
+| 1 Tbsp   | [soy sauce](../Ingredients/soy%20sauce.md)                            |
+| 2 tsp    | [sesame oil](../Ingredients/sesame%20oil.md)                          |
 | 1 cup    | frozen [peas](../Ingredients/peas.md)                                 |
-| 2        | [eggs](../Ingredients/cherry%20tomato.md), lightly beaten               |
+| 2        | [eggs](../Ingredients/cherry%20tomato.md), lightly beaten             |
 |          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
 
 ## Directions

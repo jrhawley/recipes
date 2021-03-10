@@ -6,7 +6,7 @@
 | Cook Time | 35 mins |
 | Yields    | 4 cups  |
 
-![Cinnamon maple granola](../Media/cinnamon-maple-granola.jpg)
+![Cinnamon maple granola](../assets/cinnamon-maple-granola.jpg)
 
 Added: 2019-05-21 09:41
 
@@ -14,10 +14,10 @@ Tags: #cereal #granola #baking
 
 ## Ingredients
 
-| Quantity | Item                                                 |
-| -------- | ---------------------------------------------------- |
-| 4 cups   | [oats](../Ingredients/oats.md)                       |
-| 2 tsp    | [cinnamon](../Ingredients/cinnamon.md)               |
+| Quantity | Item                                                   |
+| -------- | ------------------------------------------------------ |
+| 4 cups   | [oats](../Ingredients/oats.md)                         |
+| 2 tsp    | [cinnamon](../Ingredients/cinnamon.md)                 |
 | 1/2 cup  | [pure maple syrup](../Ingredients/maple%20syrup.md)    |
 | 1/3 cup  | [olive oil](../Ingredients/olive%20oil.md)             |
 | 3/2 tsp  | [vanilla extract](../Ingredients/vanilla%20extract.md) |

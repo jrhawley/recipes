@@ -6,7 +6,7 @@
 | Cook Time | 30 min     |
 | Yields    | 4 servings |
 
-![Sweet potato burrito bowl](../Media/sweet-potato-burrito-bowl.jpg)
+![Sweet potato burrito bowl](../assets/sweet-potato-burrito-bowl.jpg)
 
 Added: 2021-03-03
 

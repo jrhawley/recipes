@@ -6,7 +6,7 @@
 | Cook Time | 10 min     |
 | Yields    | 4 servings |
 
-![Blackberry balsamic chicken salad](../Media/blackberry-balsamic-salad.jpg)
+![Blackberry balsamic chicken salad](../assets/blackberry-balsamic-salad.jpg)
 
 Added: 2019-08-12
 
@@ -19,32 +19,32 @@ Tags: #salad #chicken #lunch #dinner
 | Quantity | Item                                                                  |
 | -------- | --------------------------------------------------------------------- |
 | 1/2 cup  | [blackberries](../Ingredients/blackberry.md)                          |
-| 2 Tbsp   | [balsamic vinegar](../Ingredients/balsamic%20vinegar.md)                |
-| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                              |
+| 2 Tbsp   | [balsamic vinegar](../Ingredients/balsamic%20vinegar.md)              |
+| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                            |
 | 2 Tbsp   | [honey](../Ingredients/honey.md)                                      |
-| 2 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)                      |
-| 1 tsp    | [soy sauce](../Ingredients/soy%20sauce.md)                              |
+| 2 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)                    |
+| 1 tsp    | [soy sauce](../Ingredients/soy%20sauce.md)                            |
 | 1 clove  | [garlic](../Ingredients/garlic.md), minced                            |
 |          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
 
 ### Cheese
 
-| Quantity | Item                                                                 |
-| -------- | -------------------------------------------------------------------- |
+| Quantity | Item                                                                   |
+| -------- | ---------------------------------------------------------------------- |
 | 8 oz     | [goat cheese](../Ingredients/goat%20cheese.md), sliced into 1/4" discs |
-| 1/4 cup  | [flour](../Ingredients/flour.md)                                     |
-| 1        | [egg](../Ingredients/egg.md), lightly beaten                         |
-| 1 cup    | [breadcrumbs](../Ingredients/breadcrumbs.md)                         |
+| 1/4 cup  | [flour](../Ingredients/flour.md)                                       |
+| 1        | [egg](../Ingredients/egg.md), lightly beaten                           |
+| 1 cup    | [breadcrumbs](../Ingredients/breadcrumbs.md)                           |
 
 ### Salad
 
 | Quantity | Item                                                                                                                      |
 | -------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1/2 lbs  | [chicken breasts](../Ingredients/chicken%20breast.md)                                                                      |
+| 1/2 lbs  | [chicken breasts](../Ingredients/chicken%20breast.md)                                                                     |
 | 6 cups   | [lettuce](../Ingredients/lettuce.md) or [spinach](../Ingredients/spinach.md)                                              |
-| 1 cup    | [blackberries](../Ingredients/blackberry.md)                                                                            |
+| 1 cup    | [blackberries](../Ingredients/blackberry.md)                                                                              |
 | 1 cup    | [avocado](../Ingredients/avocado.md)                                                                                      |
-| 1/4 cup  | [red onion](../Ingredients/red%20onion.md), sliced                                                                          |
+| 1/4 cup  | [red onion](../Ingredients/red%20onion.md), sliced                                                                        |
 | 1/4 cup  | [walnuts](../Ingredients/walnuts.md), [pistachios](../Ingredients/pistachios.md), or [almonds](../Ingredients/almonds.md) |
 
 ## Directions

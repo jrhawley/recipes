@@ -6,7 +6,7 @@
 | Cook Time | 15 min     |
 | Yields    | 4 servings |
 
-![Cream of tomato soup](../Media/cream-tomato.jpg)
+![Cream of tomato soup](../assets/cream-tomato.jpg)
 
 Added: 2018-04-07
 
@@ -19,9 +19,9 @@ Tags: #soup #vegetarian #vegan
 | Quantity | Item                                                      |
 | -------- | --------------------------------------------------------- |
 | 15 oz    | [chickpeas](../Ingredients/chickpeas.md), drained, rinsed |
-| 1 tsp    | [olive oil](../Ingredients/olive%20oil.md)                  |
+| 1 tsp    | [olive oil](../Ingredients/olive%20oil.md)                |
 | 1/2 tsp  | dried [oregano](../Ingredients/oregano.md)                |
-| 1/8 tsp  | [cayenne pepper](../Ingredients/cayenne%20pepper.md)        |
+| 1/8 tsp  | [cayenne pepper](../Ingredients/cayenne%20pepper.md)      |
 | 1 tsp    | [garlic powder](../Ingredients/garlic-powder.md)          |
 | 1/4 tsp  | [onion powder](../Ingredients/onion-powder.md)            |
 | 1 tsp    | fine grain sea [salt](../Ingredients/salt.md)             |
@@ -30,14 +30,14 @@ Tags: #soup #vegetarian #vegan
 
 | Quantity | Item                                                                         |
 | -------- | ---------------------------------------------------------------------------- |
-| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                     |
+| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                   |
 | 1        | [yellow onion](../Ingredients/yellow-onion.md), diced                        |
 | 2 cloves | [garlic](../Ingredients/garlic.md), minced                                   |
 | 1/2 cup  | [cashews](../Ingredients/cashews.md), soaked                                 |
-| 2 cups   | [vegetable broth](../Ingredients/vegetable%20broth.md)                         |
+| 2 cups   | [vegetable broth](../Ingredients/vegetable%20broth.md)                       |
 | 28 oz    | [whole peeled tomatoes](../Ingredients/whole peeled tomatoes.md) with juices |
 | 1/4 cup  | oil-packed [sundried tomatoes](../Ingredients/sundried-tomatoes.md)          |
-| 2 oz     | [tomato paste](../Ingredients/tomato%20paste.md)                               |
+| 2 oz     | [tomato paste](../Ingredients/tomato%20paste.md)                             |
 | 1 tsp    | dried [oregano](../Ingredients/oregano.md)                                   |
 | 1 tsp    | fine grain sea [salt](../Ingredients/salt.md)                                |
 | 1 tsp    | [pepper](../Ingredients/pepper.md)                                           |
