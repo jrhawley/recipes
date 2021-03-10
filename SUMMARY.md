@@ -15,6 +15,8 @@
 
 - [Finger food]()
   - [Greek fries](Recipes/greek-fries.md)
+  - [Sweet potato fries](Recipes/sweet-potato-fries.md)
+  - [Black bean quinoa falafel](Recipes/black-bean-quinoa-falafel.md)
 - [Salads]()
   - [Bean medley salad](Recipes/bean-medley-salad.md)
   - [Greek tortellini salad](Recipes/greek-tortellini-salad.md)
@@ -70,12 +72,14 @@
   - [Tortellini sausage soup](Recipes/tortellini-sausage-soup.md)
   - [Lentil soup](Recipes/lentil-soup.md)
 - [Beef]()
+  - [Steak](Recipes/steak.md)
   - [Pot roast](Recipes/pot-roast.md)
   - [Beef stroganoff](Recipes/beef-stroganoff.md)
   - [Stuffed peppers](Recipes/stuffed-peppers.md)
   - [Shepherd's pie](Recipes/shepherds-pie.md)
   - [Beef macaroni](Recipes/beef-macaroni.md)
 - [Chicken]()
+  - [Chicken breasts](Recipes/chicken-breasts.md)
   - [Butter chicken](Recipes/butter-chicken.md)
   - [Chicken and chickpea traybake](Recipes/chicken-chickpea-traybake.md)
   - [Pad Thai](Recipes/pad-thai.md)
@@ -89,11 +93,12 @@
   - [Lemon garlic chicken](Recipes/lemon-garlic-chicken.md)
   - [Maple cranberry chicken](Recipes/maple-cranberry-chicken.md)
 
-# Sauces
+# Sauces & Dips
 
-- [Spicy mayo](Recipes/spicy-mayo.md)
 - [Alfredo](Recipes/alfredo-sauce.md)
 - [Artichoke and spinach dip](Recipes/artichoke-spinach-dip.md)
+- [Hummus](Recipes/hummus.md)
+- [Spicy mayo](Recipes/spicy-mayo.md)
 
 # Baked goods
 
@@ -131,11 +136,3 @@
   - [Strawberry daquiri](Recipes/strawberry-daiquiri.md)
   - [White lady](Recipes/white-lady.md)
   - [Whiskey sour](Recipes/whiskey-sour.md)
-
-# Components
-
-- [Chicken breasts](Recipes/chicken-breasts.md)
-- [Steak](Recipes/steak.md)
-- [Sweet potato fries](Recipes/sweet-potato-fries.md)
-- [Black bean quinoa falafel](Recipes/black-bean-quinoa-falafel.md)
-- [Hummus](Recipes/hummus.md)
