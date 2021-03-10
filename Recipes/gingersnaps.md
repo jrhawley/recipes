@@ -6,7 +6,7 @@
 | Cook Time | 10 min     |
 | Yields    | 36 cookies |
 
-![Gingersnaps](Media/gingersnaps.jpg)
+![Gingersnaps](../assets/gingersnaps.jpg)
 
 Added: 2018-12-18 09:16
 
