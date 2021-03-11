@@ -26,16 +26,16 @@ Tags: #slow-cooker #diner
 
 ### Sauce
 
-| Quantity | Item                                                     |
-| -------- | -------------------------------------------------------- |
-| 1/2 cup  | [soy sauce](../Ingredients/soy%20sauce.md)               |
-| 1/2 cup  | [honey](../Ingredients/honey.md)                         |
-| 1/4 cup  | [ketchup](../Ingredients/ketchup.md)                     |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced               |
-| 1 tsp    | [basil](../Ingredients/basil.md)                         |
-| 1/2 tsp  | [oregano](../Ingredients/oregano.md)                     |
-| 1/4 tsp  | [red pepper flakes](../Ingredients/red pepper flakes.md) |
-| 1/4 tsp  | [pepper](../Ingredients/pepper.md)                       |
+| Quantity | Item                                                         |
+| -------- | ------------------------------------------------------------ |
+| 1/2 cup  | [soy sauce](../Ingredients/soy%20sauce.md)                   |
+| 1/2 cup  | [honey](../Ingredients/honey.md)                             |
+| 1/4 cup  | [ketchup](../Ingredients/ketchup.md)                         |
+| 2 cloves | [garlic](../Ingredients/garlic.md), minced                   |
+| 1 tsp    | [basil](../Ingredients/basil.md)                             |
+| 1/2 tsp  | [oregano](../Ingredients/oregano.md)                         |
+| 1/4 tsp  | [red pepper flakes](../Ingredients/red%20pepper%20flakes.md) |
+| 1/4 tsp  | [pepper](../Ingredients/pepper.md)                           |
 
 ## Directions
 

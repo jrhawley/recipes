@@ -28,20 +28,20 @@ Tags: #soup #vegetarian #vegan
 
 ### Tomato soup
 
-| Quantity | Item                                                                         |
-| -------- | ---------------------------------------------------------------------------- |
-| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                   |
-| 1        | [yellow onion](../Ingredients/yellow-onion.md), diced                        |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                   |
-| 1/2 cup  | [cashews](../Ingredients/cashews.md), soaked                                 |
-| 2 cups   | [vegetable broth](../Ingredients/vegetable%20broth.md)                       |
-| 28 oz    | [whole peeled tomatoes](../Ingredients/whole peeled tomatoes.md) with juices |
-| 1/4 cup  | oil-packed [sundried tomatoes](../Ingredients/sundried-tomatoes.md)          |
-| 2 oz     | [tomato paste](../Ingredients/tomato%20paste.md)                             |
-| 1 tsp    | dried [oregano](../Ingredients/oregano.md)                                   |
-| 1 tsp    | fine grain sea [salt](../Ingredients/salt.md)                                |
-| 1 tsp    | [pepper](../Ingredients/pepper.md)                                           |
-| 1/2 tsp  | dried [thyme](../Ingredients/thyme.md)                                       |
+| Quantity | Item                                                                             |
+| -------- | -------------------------------------------------------------------------------- |
+| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                       |
+| 1        | [yellow onion](../Ingredients/yellow-onion.md), diced                            |
+| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                       |
+| 1/2 cup  | [cashews](../Ingredients/cashews.md), soaked                                     |
+| 2 cups   | [vegetable broth](../Ingredients/vegetable%20broth.md)                           |
+| 28 oz    | [whole peeled tomatoes](../Ingredients/whole%20peeled%20tomatoes.md) with juices |
+| 1/4 cup  | oil-packed [sundried tomatoes](../Ingredients/sundried-tomatoes.md)              |
+| 2 oz     | [tomato paste](../Ingredients/tomato%20paste.md)                                 |
+| 1 tsp    | dried [oregano](../Ingredients/oregano.md)                                       |
+| 1 tsp    | fine grain sea [salt](../Ingredients/salt.md)                                    |
+| 1 tsp    | [pepper](../Ingredients/pepper.md)                                               |
+| 1/2 tsp  | dried [thyme](../Ingredients/thyme.md)                                           |
 
 ### Garnish
 

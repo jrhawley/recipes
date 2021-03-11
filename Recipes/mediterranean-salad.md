@@ -17,14 +17,14 @@ Tags: #salad #vegetarian #dinner
 | Quantity | Item                                                                   |
 | -------- | ---------------------------------------------------------------------- |
 | 1        | [cucumber](../Ingredients/cucumber.md), diced                          |
-| 1/2      | [red onion](../Ingredients/red%20onion.md), diced                        |
-| 15 oz    | [six bean medley](../Ingredients/six bean medley.md)                   |
+| 1/2      | [red onion](../Ingredients/red%20onion.md), diced                      |
+| 15 oz    | [six bean medley](../Ingredients/six%20bean%20medley.md)               |
 | 1        | [tomato](../Ingredients/tomato.md), diced                              |
 | 1/4 cup  | [kalamata olives](../Ingredients/kalamata-olives.md), pitted and diced |
 | 50 g     | [feta](../Ingredients/feta.md)                                         |
 | 1/2      | [lemon](../Ingredients/lemon.md)                                       |
-| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                               |
-| 1 Tbsp   | [balsamic vinegar](../Ingredients/balsamic%20vinegar.md)                 |
+| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                             |
+| 1 Tbsp   | [balsamic vinegar](../Ingredients/balsamic%20vinegar.md)               |
 
 ## Directions
 

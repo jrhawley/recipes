@@ -12,20 +12,20 @@ Tags: #slow-cooker #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                   |
-| -------- | ---------------------------------------------------------------------- |
+| Quantity | Item                                                                     |
+| -------- | ------------------------------------------------------------------------ |
 | 2 lbs    | boneless, skinless [chicken breasts](../Ingredients/chicken%20breast.md) |
-| 5 oz     | [snap peas](../Ingredients/snap-peas.md)                               |
-| 1        | large [red bell pepper](../Ingredients/red bell pepper.md), sliced     |
-| 5 oz     | [water chestnuts](../Ingredients/water-chestnuts.md), sliced           |
+| 5 oz     | [snap peas](../Ingredients/snap-peas.md)                                 |
+| 1        | large [red bell pepper](../Ingredients/red%20bell%20pepper.md), sliced   |
+| 5 oz     | [water chestnuts](../Ingredients/water-chestnuts.md), sliced             |
 | 4 stalks | [green onion](../Ingredients/green%20onion.md), chopped                  |
 | 1 cup    | [vegetable broth](../Ingredients/vegetable%20broth.md)                   |
-| 1/4 cup  | [worcestershire sauce](../Ingredients/worcestershire-sauce.md)         |
+| 1/4 cup  | [worcestershire sauce](../Ingredients/worcestershire-sauce.md)           |
 | 1/4 cup  | low sodium [soy sauce](../Ingredients/soy%20sauce.md)                    |
-| 2 Tbsp   | [honey](../Ingredients/honey.md)                                       |
-| 2 tsp    | [garlic](../Ingredients/garlic.md), minced                             |
-| 1 tsp    | ground [ginger](../Ingredients/ginger.md)                              |
-| 14 oz    | [lo mein noodles](../Ingredients/lo mein noodles.md), uncooked         |
+| 2 Tbsp   | [honey](../Ingredients/honey.md)                                         |
+| 2 tsp    | [garlic](../Ingredients/garlic.md), minced                               |
+| 1 tsp    | ground [ginger](../Ingredients/ginger.md)                                |
+| 14 oz    | [lo mein noodles](../Ingredients/lo%20mein%20noodles.md), uncooked       |
 
 ## Directions
 

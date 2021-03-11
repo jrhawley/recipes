@@ -30,7 +30,7 @@ Tags: #soup #pasta #vegetarian #dinner
 | 1/4 cup  | [basil](../Ingredients/basil.md), chopped (optional)                                                         |
 |          | [salt](../Ingredients/salt.md)                                                                               |
 |          | [pepper](../Ingredients/pepper.md)                                                                           |
-|          | [red pepper flakes](../Ingredients/red pepper flakes.md)                                                     |
+|          | [red pepper flakes](../Ingredients/red%20pepper%20flakes.md)                                                 |
 
 ## Directions
 

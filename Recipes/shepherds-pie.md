@@ -14,16 +14,16 @@ Tags: #beef #potatoes #dinner
 
 ### Beef
 
-| Quantity | Item                                                               |
-| -------- | ------------------------------------------------------------------ |
-| 1 lbs    | extra lean [ground beef](../Ingredients/ground%20beef.md)            |
-| 1/2 cup  | [onion](../Ingredients/onion.md), chopped                          |
-| 1/3 cup  | [celery](../Ingredients/celery.md), chopped                        |
-| 1/4 tsp  | [salt](../Ingredients/salt.md)                                     |
-| 1/4 tsp  | [pepper](../Ingredients/pepper.md)                                 |
-| 10 oz    | [cream of mushroom soup](../Ingredients/cream of mushroom soup.md) |
-| 10 oz    | [peas](../Ingredients/peas.md)                                     |
-| 8 oz     | [corn niblets](../Ingredients/corn.md)                             |
+| Quantity | Item                                                                   |
+| -------- | ---------------------------------------------------------------------- |
+| 1 lbs    | extra lean [ground beef](../Ingredients/ground%20beef.md)              |
+| 1/2 cup  | [onion](../Ingredients/onion.md), chopped                              |
+| 1/3 cup  | [celery](../Ingredients/celery.md), chopped                            |
+| 1/4 tsp  | [salt](../Ingredients/salt.md)                                         |
+| 1/4 tsp  | [pepper](../Ingredients/pepper.md)                                     |
+| 10 oz    | [cream of mushroom soup](../Ingredients/cream%20of%20mushroom soup.md) |
+| 10 oz    | [peas](../Ingredients/peas.md)                                         |
+| 8 oz     | [corn niblets](../Ingredients/corn.md)                                 |
 
 ### Topping
 

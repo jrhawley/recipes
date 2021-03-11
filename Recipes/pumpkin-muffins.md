@@ -14,28 +14,28 @@ Tags: #muffins #pumpkin #baking
 
 ## Muffins
 
-| Quantity  | Item                                                                                               |
-| --------- | -------------------------------------------------------------------------------------------------- |
-| 14 oz can | [pumpkin puree](../Ingredients/pumpkin%20puree.md)                                                   |
-| 1 cup     | [sugar](../Ingredients/sugar.md)                                                                   |
-| 1 cup     | [canola oil](../Ingredients/canola%20oil.md)                                                         |
-| 1         | [egg](../Ingredients/egg.md)                                                                       |
-| 2 tsp     | [vanilla extract](../Ingredients/vanilla%20extract.md)                                               |
-| 3 cup     | [flour](../Ingredients/flour.md)                                                                   |
-| 1 Tbsp    | [cinnamon](../Ingredients/cinnamon.md) or [pumpkin pie spice](../Ingredients/pumpkin pie spice.md) |
-| 1/2 tsp   | [nutmeg](../Ingredients/nutmeg.md)                                                                 |
-| 2 tsp     | [baking powder](../Ingredients/baking%20powder.md)                                                   |
-| 1 tsp     | [baking soda](../Ingredients/baking%20soda.md)                                                       |
-| 1/2 tsp   | [salt](../Ingredients/salt.md)                                                                     |
+| Quantity  | Item                                                                                                   |
+| --------- | ------------------------------------------------------------------------------------------------------ |
+| 14 oz can | [pumpkin puree](../Ingredients/pumpkin%20puree.md)                                                     |
+| 1 cup     | [sugar](../Ingredients/sugar.md)                                                                       |
+| 1 cup     | [canola oil](../Ingredients/canola%20oil.md)                                                           |
+| 1         | [egg](../Ingredients/egg.md)                                                                           |
+| 2 tsp     | [vanilla extract](../Ingredients/vanilla%20extract.md)                                                 |
+| 3 cup     | [flour](../Ingredients/flour.md)                                                                       |
+| 1 Tbsp    | [cinnamon](../Ingredients/cinnamon.md) or [pumpkin pie spice](../Ingredients/pumpkin%20pie%20spice.md) |
+| 1/2 tsp   | [nutmeg](../Ingredients/nutmeg.md)                                                                     |
+| 2 tsp     | [baking powder](../Ingredients/baking%20powder.md)                                                     |
+| 1 tsp     | [baking soda](../Ingredients/baking%20soda.md)                                                         |
+| 1/2 tsp   | [salt](../Ingredients/salt.md)                                                                         |
 
 ## Cream Cheese
 
-| Quantity | Item                                                     |
-| -------- | -------------------------------------------------------- |
+| Quantity | Item                                                       |
+| -------- | ---------------------------------------------------------- |
 | 6 oz     | [cream cheese](../Ingredients/cream%20cheese.md), softened |
-| 1/4 cup  | [sugar](../Ingredients/sugar.md)                         |
-| 1        | [egg](../Ingredients/egg.md)                             |
-| 2 Tbsp   | [flour](../Ingredients/flour.md)                         |
+| 1/4 cup  | [sugar](../Ingredients/sugar.md)                           |
+| 1        | [egg](../Ingredients/egg.md)                               |
+| 2 Tbsp   | [flour](../Ingredients/flour.md)                           |
 
 ## Directions
 

@@ -12,22 +12,22 @@ Tags: #chili #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                              |
-| -------- | --------------------------------------------------------------------------------- |
+| Quantity | Item                                                                                |
+| -------- | ----------------------------------------------------------------------------------- |
 | 2 lbs    | [ground beef](../Ingredients/ground%20beef.md)                                      |
 | 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                          |
-| 3        | [onions](../Ingredients/onions.md), diced                                         |
-| 3 stalks | [celery](../Ingredients/celery.md), diced                                         |
+| 3        | [onions](../Ingredients/onions.md), diced                                           |
+| 3 stalks | [celery](../Ingredients/celery.md), diced                                           |
 | 1        | green [bell pepper](../Ingredients/bell%20pepper.md)                                |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                        |
-| 19 oz    | [dark red kidney beans](../Ingredients/dark red kidney beans.md), rinsed, drained |
-| 20 oz    | [tomato soup](../Ingredients/tomato-soup.md), undiluted                           |
+| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                          |
+| 19 oz    | [dark red kidney beans](../Ingredients/dark%20red kidney beans.md), rinsed, drained |
+| 20 oz    | [tomato soup](../Ingredients/tomato-soup.md), undiluted                             |
 | 28 oz    | [diced tomatoes](../Ingredients/diced%20tomatoes.md)                                |
 | 1 Tbsp   | [chili powder](../Ingredients/chili%20powder.md), divided                           |
-| 1 tsp    | [oregano](../Ingredients/oregano.md)                                              |
-| 1 tsp    | [salt](../Ingredients/salt.md)                                                    |
-| 1/2 tsp  | [pepper](../Ingredients/pepper.md)                                                |
-| 1 tsp    | [sugar](../Ingredients/sugar.md)                                                  |
+| 1 tsp    | [oregano](../Ingredients/oregano.md)                                                |
+| 1 tsp    | [salt](../Ingredients/salt.md)                                                      |
+| 1/2 tsp  | [pepper](../Ingredients/pepper.md)                                                  |
+| 1 tsp    | [sugar](../Ingredients/sugar.md)                                                    |
 
 ## Directions
 

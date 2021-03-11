@@ -16,15 +16,15 @@ Tags: #chicken #dinner
 
 ### Dressing
 
-| Quantity | Item                                                     |
-| -------- | -------------------------------------------------------- |
-| 5 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)               |
-| 4 cloves | [garlic](../Ingredients/garlic.md), minced               |
-| 1 tsp    | [paprika](../Ingredients/paprika.md)                     |
-| 1 tsp    | [cumin](../Ingredients/cumin.md)                         |
-| 1 pinch  | [red pepper flakes](../Ingredients/red pepper flakes.md) |
-|          | [salt](../Ingredients/salt.md)                           |
-|          | [pepper](../Ingredients/pepper.md)                       |
+| Quantity | Item                                                         |
+| -------- | ------------------------------------------------------------ |
+| 5 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                   |
+| 4 cloves | [garlic](../Ingredients/garlic.md), minced                   |
+| 1 tsp    | [paprika](../Ingredients/paprika.md)                         |
+| 1 tsp    | [cumin](../Ingredients/cumin.md)                             |
+| 1 pinch  | [red pepper flakes](../Ingredients/red%20pepper%20flakes.md) |
+|          | [salt](../Ingredients/salt.md)                               |
+|          | [pepper](../Ingredients/pepper.md)                           |
 
 ### Chicken
 
