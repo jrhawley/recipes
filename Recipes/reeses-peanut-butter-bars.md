@@ -6,15 +6,15 @@
 | Cook Time |        |
 | Yields    |        |
 
-Added: 2013-11-09 22:56
+Added: 2013-11-09
 
 Tags: #dessert
 
 ## Ingredients
 
-| Quantity       | Item                                                           |
-| -------------- | -------------------------------------------------------------- |
-| 1 cup          | [butter](../Ingredients/butter.md), melted                     |
+| Quantity       | Item                                                             |
+| -------------- | ---------------------------------------------------------------- |
+| 1 cup          | [butter](../Ingredients/butter.md), melted                       |
 | 2 cup          | [graham cracker](../Ingredients/graham%20cracker.md) crumbs      |
 | 2 cup          | [icing sugar](../Ingredients/icing%20sugar.md)                   |
 | 1 cup + 4 Tbsp | [peanut butter](../Ingredients/peanut%20butter.md)               |
@@ -29,4 +29,3 @@ Tags: #dessert
     1. Stir occasionally until smooth
     1. Spread over the peanut butter layer
     1. Refrigerate for at least one hour before cutting into squares
-
