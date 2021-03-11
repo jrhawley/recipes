@@ -12,20 +12,20 @@ Tags: #chicken #slow-cooker #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                    |
-| -------- | --------------------------------------------------------------------------------------- |
-| 2 tsp    | ground [ginger](../Ingredients/ginger.md)[curry powder](../Ingredients/curry%20powder.md) |
-| 2 tsp    | ground [curry powder](../Ingredients/curry%20powder.md)                                   |
-| 1 tsp    | ground [cumin](../Ingredients/cumin.md)                                                 |
-| 1 tsp    | ground [cinnamon](../Ingredients/cinnamon.md)                                           |
-| 1 tsp    | ground [coriander](../Ingredients/coriander.md)                                         |
-| 1        | [onion](../Ingredients/onion.md), finley diced                                          |
-| 2        | [chicken breasts](../Ingredients/chicken%20breast.md), cubed                             |
-| 2 Tbsp   | [butter](../Ingredients/butter.md), melted                                              |
-| 2 cups   | [tomato sauce](../Ingredients/tomato%20sauce.md)                                            |
-| 1 Tbsp   | [lime juice](../Ingredients/lime%20juice.md)                                              |
-| 1/2 cup  | plain [Greek yogurt](../Ingredients/greek%20yogurt.md)                                    |
-| 1/4 cup  | [parsley](../Ingredients/parsley.md), chopped to garnish                                |
+| Quantity | Item                                                         |
+| -------- | ------------------------------------------------------------ |
+| 2 tsp    | ground [ginger](../Ingredients/ginger.md)                    |
+| 2 tsp    | ground [curry powder](../Ingredients/curry%20powder.md)      |
+| 1 tsp    | ground [cumin](../Ingredients/cumin.md)                      |
+| 1 tsp    | ground [cinnamon](../Ingredients/cinnamon.md)                |
+| 1 tsp    | ground [coriander](../Ingredients/coriander.md)              |
+| 1        | [onion](../Ingredients/onion.md), finley diced               |
+| 2        | [chicken breasts](../Ingredients/chicken%20breast.md), cubed |
+| 2 Tbsp   | [butter](../Ingredients/butter.md), melted                   |
+| 2 cups   | [tomato sauce](../Ingredients/tomato%20sauce.md)             |
+| 1 Tbsp   | [lime juice](../Ingredients/lime%20juice.md)                 |
+| 1/2 cup  | plain [Greek yogurt](../Ingredients/greek%20yogurt.md)       |
+| 1/4 cup  | [parsley](../Ingredients/parsley.md), chopped to garnish     |
 
 ## Directions
 
