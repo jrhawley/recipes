@@ -28,7 +28,8 @@ Tags: #soup #pasta #vegetarian #dinner
 | 10 oz    | [spinach](../Ingredients/spinach.md), coarsely chopped                                                       |
 | 1/2 cup  | [whipping cream](../Ingredients/whipping%20cream.md) or [Greek yogurt](../Ingredients/greek%20yogurt.md)     |
 | 1/4 cup  | [basil](../Ingredients/basil.md), chopped (optional)                                                         |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md)                                        |
+|          | [salt](../Ingredients/salt.md)                                                                               |
+|          | [pepper](../Ingredients/pepper.md)                                                                           |
 |          | [red pepper flakes](../Ingredients/red pepper flakes.md)                                                     |
 
 ## Directions

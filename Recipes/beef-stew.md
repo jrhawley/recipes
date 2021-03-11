@@ -31,7 +31,8 @@ Tags: #stew #soup #beef #dinner
 | 1 tsp    | [salt](../Ingredients/salt.md)                                               |
 | 1/2 cup  | [frozen peas](../Ingredients/frozen-peas.md)                                 |
 | 1/2 cup  | fresh [parsley](../Ingredients/parsley.md), chopped                          |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md)        |
+|          | [salt](../Ingredients/salt.md)                                               |
+|          | [pepper](../Ingredients/pepper.md)                                           |
 
 ## Directions
 

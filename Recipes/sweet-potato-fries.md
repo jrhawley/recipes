@@ -12,12 +12,13 @@ Tags: #basics #potato #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                  |
-| -------- | --------------------------------------------------------------------- |
-| 1        | [sweet potato](../Ingredients/sweet%20potato.md)                        |
-| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                              |
-|          | [corn starch](../Ingredients/corn%20starch.md)                          |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
+| Quantity | Item                                             |
+| -------- | ------------------------------------------------ |
+| 1        | [sweet potato](../Ingredients/sweet%20potato.md) |
+| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)       |
+|          | [corn starch](../Ingredients/corn%20starch.md)   |
+|          | [salt](../Ingredients/salt.md)                   |
+|          | [pepper](../Ingredients/pepper.md)               |
 
 ## Directions
 

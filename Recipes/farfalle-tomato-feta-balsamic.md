@@ -24,7 +24,8 @@ Tags: #pasta #vegetarian #dinner
 | 1 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)                                           |
 | 1 clove  | [garlic](../Ingredients/garlic.md). minced                                                   |
 | 4 oz     | [feta](../Ingredients/feta.md), crumbled                                                     |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md)                        |
+|          | [salt](../Ingredients/salt.md)                                                               |
+|          | [pepper](../Ingredients/pepper.md)                                                           |
 |          | [olive oil](../Ingredients/olive%20oil.md)                                                   |
 
 ## Directions

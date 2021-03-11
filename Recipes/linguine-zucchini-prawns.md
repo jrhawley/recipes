@@ -14,16 +14,17 @@ Tags: #pasta #dinner
 
 ## Ingredients
 
-| Quantity    | Item                                                                  |
-| ----------- | --------------------------------------------------------------------- |
-| 1 clove     | [garlic](../Ingredients/garlic.md), finely diced                      |
-| 2           | [shallots](../Ingredients/shallots.md), finely diced                  |
-| 1           | small [zucchini](../Ingredients/zucchini.md), sliced in half moons    |
-| 300 - 350 g | [prawns](../Ingredients/prawns.md), thawed                            |
-| 500 g       | [linguine](../Ingredients/linguine.md)                                |
-| 2 Tbsp      | [olive oil](../Ingredients/olive%20oil.md)                              |
-|             | [thyme](../Ingredients/thyme.md)                                      |
-|             | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
+| Quantity    | Item                                                               |
+| ----------- | ------------------------------------------------------------------ |
+| 1 clove     | [garlic](../Ingredients/garlic.md), finely diced                   |
+| 2           | [shallots](../Ingredients/shallots.md), finely diced               |
+| 1           | small [zucchini](../Ingredients/zucchini.md), sliced in half moons |
+| 300 - 350 g | [prawns](../Ingredients/prawns.md), thawed                         |
+| 500 g       | [linguine](../Ingredients/linguine.md)                             |
+| 2 Tbsp      | [olive oil](../Ingredients/olive%20oil.md)                         |
+|             | [thyme](../Ingredients/thyme.md)                                   |
+|             | [salt](../Ingredients/salt.md)                                     |
+|             | [pepper](../Ingredients/pepper.md)                                 |
 
 ## Directions
 

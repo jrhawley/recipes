@@ -30,7 +30,8 @@ Tags: #pasta #dinner
 | 3 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                                             |
 | 500 g    | [tortiglioni](../Ingredients/tortiglioni.md) or [tagliatelle](../Ingredients/tagliatelle.md)           |
 |          | [parmesan](../Ingredients/parmesan.md)                                                                 |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md)                                  |
+|          | [salt](../Ingredients/salt.md)                                                                         |
+|          | [pepper](../Ingredients/pepper.md)                                                                     |
 |          | [thyme](../Ingredients/thyme.md)                                                                       |
 
 ## Directions

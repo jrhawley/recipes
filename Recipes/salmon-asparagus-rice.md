@@ -16,10 +16,11 @@ Tags: #fish #dinner
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 4 filets | [salmon](../Ingredients/salmon.md)                                                                                                                |
 | 1 lb     | [asparagus](../Ingredients/asparagus.md)                                                                                                          |
-| 3 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                                                                                          |
+| 3 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                                                                                        |
 | 2 cloves | [garlic](../Ingredients/garlic.md), minced                                                                                                        |
 | 1        | [lemon](../Ingredients/lemon.md), thinly sliced                                                                                                   |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md)                                                                             |
+|          | [salt](../Ingredients/salt.md)                                                                                                                    |
+|          | [pepper](../Ingredients/pepper.md)                                                                                                                |
 |          | [dill](../Ingredients/dill.md), [thyme](../Ingredients/thyme.md), [rosemary](../Ingredients/rosemary.md), or [parsley](../Ingredients/parsley.md) |
 
 ## Directions

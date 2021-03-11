@@ -25,13 +25,14 @@ Tags: #vegetarian #salad #dinner
 | 1/2      | [red onion](../Ingredients/red%20onion.md)                                    |
 | 3/4 cup  | [feta](../Ingredients/feta.md)                                                |
 
-| Quantity | Item                                                                  |
-| -------- | --------------------------------------------------------------------- |
-| 1/4 cup  | [olive oil](../Ingredients/olive%20oil.md)                            |
-| 3 Tbsp   | [red wine vinegar](../Ingredients/red wine vinegar.md)                |
-| 1 clove  | [garlic](../Ingredients/garlic.md), minced                            |
-| 1/2 tsp  | dried [oregano](../Ingredients/oregano.md)                            |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
+| Quantity | Item                                                   |
+| -------- | ------------------------------------------------------ |
+| 1/4 cup  | [olive oil](../Ingredients/olive%20oil.md)             |
+| 3 Tbsp   | [red wine vinegar](../Ingredients/red wine vinegar.md) |
+| 1 clove  | [garlic](../Ingredients/garlic.md), minced             |
+| 1/2 tsp  | dried [oregano](../Ingredients/oregano.md)             |
+|          | [salt](../Ingredients/salt.md)                         |
+|          | [pepper](../Ingredients/pepper.md)                     |
 
 ## Directions
 

@@ -12,20 +12,21 @@ Tags: #vegetarian #sandwich #lunch #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                  |
-| -------- | --------------------------------------------------------------------- |
-| 2        | [beefsteak tomatoes](../Ingredients/tomato.md), sliced                |
-| 1/4 cup  | [mayonnaise](../Ingredients/mayonnaise.md)                            |
-| 1/2      | [lemon](../Ingredients/lemon.md), juiced                              |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                            |
-| 4 slices | [sourdough](../Ingredients/sourdough.md), thick slices                |
-| 1        | [avocado](../Ingredients/avocado.md)                                  |
-|          | [olive oil](../Ingredients/olive%20oil.md)                              |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
-|          | [oregano](../Ingredients/oregano.md)                                  |
-|          | [butter](../Ingredients/butter.md)                                    |
-|          | [basil](../Ingredients/basil.md)                                      |
-|          | [arugula](../Ingredients/arugula.md)                                  |
+| Quantity | Item                                                   |
+| -------- | ------------------------------------------------------ |
+| 2        | [beefsteak tomatoes](../Ingredients/tomato.md), sliced |
+| 1/4 cup  | [mayonnaise](../Ingredients/mayonnaise.md)             |
+| 1/2      | [lemon](../Ingredients/lemon.md), juiced               |
+| 2 cloves | [garlic](../Ingredients/garlic.md), minced             |
+| 4 slices | [sourdough](../Ingredients/sourdough.md), thick slices |
+| 1        | [avocado](../Ingredients/avocado.md)                   |
+|          | [olive oil](../Ingredients/olive%20oil.md)             |
+|          | [salt](../Ingredients/salt.md)                         |
+|          | [pepper](../Ingredients/pepper.md)                     |
+|          | [oregano](../Ingredients/oregano.md)                   |
+|          | [butter](../Ingredients/butter.md)                     |
+|          | [basil](../Ingredients/basil.md)                       |
+|          | [arugula](../Ingredients/arugula.md)                   |
 
 ## Directions
 

@@ -12,18 +12,19 @@ Tags: #slow-cooker #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                  |
-| -------- | --------------------------------------------------------------------- |
-| 3 lbs    | [chuck roast](../Ingredients/chuck-roast.md)                          |
-| 5        | [potatoes](../Ingredients/potatoes.md), chunked                       |
-| 1        | [onion](../Ingredients/onion.md), chunked                             |
-| 4        | [carrots](../Ingredients/carrot.md), chunked                          |
-| 2 cups   | [beef broth](../Ingredients/beef%20broth.md)                            |
-| 2 cups   | [water](../Ingredients/water.md)                                      |
-| 1/2 tsp  | [garlic powder](../Ingredients/garlic-powder.md)                      |
-| 1/2 tsp  | [onion powder](../Ingredients/onion-powder.md)                        |
-| 1/2 tsp  | [Italian seasoning](../Ingredients/italian%20seasoning.md)              |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
+| Quantity | Item                                                       |
+| -------- | ---------------------------------------------------------- |
+| 3 lbs    | [chuck roast](../Ingredients/chuck-roast.md)               |
+| 5        | [potatoes](../Ingredients/potatoes.md), chunked            |
+| 1        | [onion](../Ingredients/onion.md), chunked                  |
+| 4        | [carrots](../Ingredients/carrot.md), chunked               |
+| 2 cups   | [beef broth](../Ingredients/beef%20broth.md)               |
+| 2 cups   | [water](../Ingredients/water.md)                           |
+| 1/2 tsp  | [garlic powder](../Ingredients/garlic-powder.md)           |
+| 1/2 tsp  | [onion powder](../Ingredients/onion-powder.md)             |
+| 1/2 tsp  | [Italian seasoning](../Ingredients/italian%20seasoning.md) |
+|          | [salt](../Ingredients/salt.md)                             |
+|          | [pepper](../Ingredients/pepper.md)                         |
 
 ## Directions
 

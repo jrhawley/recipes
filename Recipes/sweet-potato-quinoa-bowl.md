@@ -12,21 +12,22 @@ Tags: #vegetarian #vegan #bowl #dinner
 
 ## Ingredients
 
-| Quantity  | Item                                                                  |
-| --------- | --------------------------------------------------------------------- |
-| 1 cup     | [quinoa](../Ingredients/quinoa.md), uncooked                          |
-| 2 cups    | [vegetable broth](../Ingredients/vegetable%20broth.md)                  |
-| 1/2 lbs   | [broccoli](../Ingredients/broccoli.md) florets                        |
-| 1         | [sweet potato](../Ingredients/sweet%20potato.md), chunked               |
-| 15 oz     | [chickpeas](../Ingredients/chickpeas.md), drained, rinsed             |
-| 1 handful | [kale](../Ingredients/kale.md), chopped                               |
-| 1/4 cup   | [parsley](../Ingredients/parsley.md), chopped                         |
-| 3 Tbsp    | [feta](../Ingredients/feta.md)                                        |
-| 1         | [lemon](../Ingredients/lemon.md)                                      |
-| 2 tsp     | [apple cider vinegar](../Ingredients/apple cider vinegar.md)          |
-| 2 tsp     | [maple syrup](../Ingredients/maple%20syrup.md)                          |
-|           | [olive oil](../Ingredients/olive%20oil.md)                              |
-|           | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
+| Quantity  | Item                                                         |
+| --------- | ------------------------------------------------------------ |
+| 1 cup     | [quinoa](../Ingredients/quinoa.md), uncooked                 |
+| 2 cups    | [vegetable broth](../Ingredients/vegetable%20broth.md)       |
+| 1/2 lbs   | [broccoli](../Ingredients/broccoli.md) florets               |
+| 1         | [sweet potato](../Ingredients/sweet%20potato.md), chunked    |
+| 15 oz     | [chickpeas](../Ingredients/chickpeas.md), drained, rinsed    |
+| 1 handful | [kale](../Ingredients/kale.md), chopped                      |
+| 1/4 cup   | [parsley](../Ingredients/parsley.md), chopped                |
+| 3 Tbsp    | [feta](../Ingredients/feta.md)                               |
+| 1         | [lemon](../Ingredients/lemon.md)                             |
+| 2 tsp     | [apple cider vinegar](../Ingredients/apple cider vinegar.md) |
+| 2 tsp     | [maple syrup](../Ingredients/maple%20syrup.md)               |
+|           | [olive oil](../Ingredients/olive%20oil.md)                   |
+|           | [salt](../Ingredients/salt.md)                               |
+|           | [pepper](../Ingredients/pepper.md)                           |
 
 ## Directions
 

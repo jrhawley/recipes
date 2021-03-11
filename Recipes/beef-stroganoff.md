@@ -12,15 +12,16 @@ Tags: #beef #slow-cooker #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                                 |
-| -------- | ---------------------------------------------------------------------------------------------------- |
-| 2 lbs    | [ground beef](../Ingredients/ground%20beef.md)                                                         |
-| 2        | [onions](../Ingredients/onion.md), diced                                                            |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                                           |
+| Quantity | Item                                                                                                     |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| 2 lbs    | [ground beef](../Ingredients/ground%20beef.md)                                                           |
+| 2        | [onions](../Ingredients/onion.md), diced                                                                 |
+| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                                               |
 | 1 cup    | [beef consomme](../Ingredients/beef%20consomme.md) or [beef bouillon](../Ingredients/beef%20bouillon.md) |
-| 3 Tbsp   | [tomato paste](../Ingredients/tomato%20paste.md)                                                       |
-| 2 Tbsp   | [flour](../Ingredients/flour.md)                                                                     |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md)                                |
+| 3 Tbsp   | [tomato paste](../Ingredients/tomato%20paste.md)                                                         |
+| 2 Tbsp   | [flour](../Ingredients/flour.md)                                                                         |
+|          | [salt](../Ingredients/salt.md)                                                                           |
+|          | [pepper](../Ingredients/pepper.md)                                                                       |
 
 ## Directions
 

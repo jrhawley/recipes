@@ -12,20 +12,20 @@ Tags: #noodle #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                                     |
-| -------- | -------------------------------------------------------------------------------------------------------- |
-| 16 oz    | [brown rice noodles](../Ingredients/brown rice noodles.md)                                               |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                                               |
-| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                                                 |
-| 2/3 cup  | [peanut butter](../Ingredients/peanut%20butter.md)                                                         |
-| 3 Tbsp   | [soy sauce](../Ingredients/soy%20sauce.md)                                                                 |
+| Quantity | Item                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------ |
+| 16 oz    | [brown rice noodles](../Ingredients/brown%20rice%20noodles.md)                                               |
+| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                                                   |
+| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                                                   |
+| 2/3 cup  | [peanut butter](../Ingredients/peanut%20butter.md)                                                           |
+| 3 Tbsp   | [soy sauce](../Ingredients/soy%20sauce.md)                                                                   |
 | 1/4 cup  | [vegetable broth](../Ingredients/vegetable%20broth.md) or [chicken broth](../Ingredients/chicken%20broth.md) |
-| 1 Tbsp   | [rice vinegar](../Ingredients/rice-vinegar.md)                                                           |
-| 1 Tbsp   | [sesame oil](../Ingredients/sesame%20oil.md)                                                               |
-| 1 Tbsp   | [maple syrup](../Ingredients/maple%20syrup.md)                                                             |
-| 1/4 cup  | [peanuts](../Ingredients/peanuts.md), crushed
-| 1/2 tsp  | [red pepper flakes](../Ingredients/red-pepper-flakes.md)                                                 |
-| 1 stalk  | [green onion](../Ingredients/green%20onion.md)                                                             |
+| 1 Tbsp   | [rice vinegar](../Ingredients/rice-vinegar.md)                                                               |
+| 1 Tbsp   | [sesame oil](../Ingredients/sesame%20oil.md)                                                                 |
+| 1 Tbsp   | [maple syrup](../Ingredients/maple%20syrup.md)                                                               |
+| 1/4 cup  | [peanuts](../Ingredients/peanuts.md), crushed                                                                |
+| 1/2 tsp  | [red pepper flakes](../Ingredients/red-pepper-flakes.md)                                                     |
+| 1 stalk  | [green onion](../Ingredients/green%20onion.md)                                                               |
 
 ## Directions
 

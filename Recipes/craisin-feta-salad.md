@@ -23,14 +23,15 @@ Tags: #salad #vegetarian #dinner
 
 ### Dressing
 
-| Quantity | Item                                                                  |
-| -------- | --------------------------------------------------------------------- |
-| 1/3 cup  | [olive oil](../Ingredients/olive%20oil.md)                              |
-| 1 Tbsp   | [red wine vinegar](../Ingredients/red wine vinegar.md)                |
-| 2 Tbsp   | [maple syrup](../Ingredients/maple%20syrup.md)                          |
-| 1 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)                      |
-| 1/2 tsp  | [oregano](../Ingredients/oregano.md)                                  |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
+| Quantity | Item                                                   |
+| -------- | ------------------------------------------------------ |
+| 1/3 cup  | [olive oil](../Ingredients/olive%20oil.md)             |
+| 1 Tbsp   | [red wine vinegar](../Ingredients/red wine vinegar.md) |
+| 2 Tbsp   | [maple syrup](../Ingredients/maple%20syrup.md)         |
+| 1 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)     |
+| 1/2 tsp  | [oregano](../Ingredients/oregano.md)                   |
+|          | [salt](../Ingredients/salt.md)                         |
+|          | [pepper](../Ingredients/pepper.md)                     |
 
 ## Directions
 

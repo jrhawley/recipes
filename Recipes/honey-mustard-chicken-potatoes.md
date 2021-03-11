@@ -12,20 +12,21 @@ Tags: #chicken #potatoes #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                  |
-| -------- | --------------------------------------------------------------------- |
-| 4        | [chicken breasts](../Ingredients/chicken%20breast.md)                   |
-| 1 Tbsp   | [garlic powder](../Ingredients/garlic-powder.md)                      |
-| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                              |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                            |
-| 1/4 cup  | [honey](../Ingredients/honey.md)                                      |
-| 3 Tbsp   | [whole grain mustard](../Ingredients/whole grain mustard.md)          |
-| 2 Tbsp   | [dijon mustard](../Ingredients/dijon%20mustard.md)                      |
-| 2 Tbsp   | [water](../Ingredients/water.md)                                      |
-| 1 lbs    | baby [red potatoes](../Ingredients/red-potatoes.md), quartered        |
-| 8 oz     | [green beans](../Ingredients/green%20beans.md), halved                  |
-| 2 sprigs | [rosemary](../Ingredients/rosemary.md)                                |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
+| Quantity | Item                                                           |
+| -------- | -------------------------------------------------------------- |
+| 4        | [chicken breasts](../Ingredients/chicken%20breast.md)          |
+| 1 Tbsp   | [garlic powder](../Ingredients/garlic-powder.md)               |
+| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                     |
+| 2 cloves | [garlic](../Ingredients/garlic.md), minced                     |
+| 1/4 cup  | [honey](../Ingredients/honey.md)                               |
+| 3 Tbsp   | [whole grain mustard](../Ingredients/whole grain mustard.md)   |
+| 2 Tbsp   | [dijon mustard](../Ingredients/dijon%20mustard.md)             |
+| 2 Tbsp   | [water](../Ingredients/water.md)                               |
+| 1 lbs    | baby [red potatoes](../Ingredients/red-potatoes.md), quartered |
+| 8 oz     | [green beans](../Ingredients/green%20beans.md), halved         |
+| 2 sprigs | [rosemary](../Ingredients/rosemary.md)                         |
+|          | [salt](../Ingredients/salt.md)                                 |
+|          | [pepper](../Ingredients/pepper.md)                             |
 
 ## Directions
 

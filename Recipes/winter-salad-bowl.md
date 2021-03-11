@@ -14,28 +14,30 @@ Tags: #vegetarian #vegan #dinner
 
 ### Salad
 
-| Quantity | Item                                                                  |
-| -------- | --------------------------------------------------------------------- |
-| 2        | large Yukon gold [potatoes](../Ingredients/potato.md), diced          |
-| 12 oz    | [green beans](../Ingredients/green%20beans.md), trimmed and chopped     |
-| 1 clove  | [garlic](../Ingredients/garlic.md)                                    |
-| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                              |
-| 1 cup    | [quinoa](../Ingredients/quinoa.md), uncooked                          |
-| 1 cup    | [kale](../Ingredients/kale.md), stemmed, finely chopped               |
-| 3        | [green onions](../Ingredients/green%20onion.md), sliced                 |
-| 1/4 cup  | toasted [pumpkin seeds](../Ingredients/pumpkin%20seeds.md)              |
-| 1        | large ripe [avocado](../Ingredients/avocado.md)                       |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
+| Quantity | Item                                                                |
+| -------- | ------------------------------------------------------------------- |
+| 2        | large Yukon gold [potatoes](../Ingredients/potato.md), diced        |
+| 12 oz    | [green beans](../Ingredients/green%20beans.md), trimmed and chopped |
+| 1 clove  | [garlic](../Ingredients/garlic.md)                                  |
+| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                          |
+| 1 cup    | [quinoa](../Ingredients/quinoa.md), uncooked                        |
+| 1 cup    | [kale](../Ingredients/kale.md), stemmed, finely chopped             |
+| 3        | [green onions](../Ingredients/green%20onion.md), sliced             |
+| 1/4 cup  | toasted [pumpkin seeds](../Ingredients/pumpkin%20seeds.md)          |
+| 1        | large ripe [avocado](../Ingredients/avocado.md)                     |
+|          | [salt](../Ingredients/salt.md)                                      |
+|          | [pepper](../Ingredients/pepper.md)                                  |
 
 ### Dressing
 
-| Quantity | Item                                                                  |
-| -------- | --------------------------------------------------------------------- |
-| 1/4 cup  | [red wine vinegar](../Ingredients/red%20wine%20vinegar.md)                |
-| 1/4 cup  | [olive oil](../Ingredients/olive%20oil.md)                              |
-| 2 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)                      |
-| 1 Tbsp   | [maple syrup](../Ingredients/maple%20syrup.md)                          |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
+| Quantity | Item                                                       |
+| -------- | ---------------------------------------------------------- |
+| 1/4 cup  | [red wine vinegar](../Ingredients/red%20wine%20vinegar.md) |
+| 1/4 cup  | [olive oil](../Ingredients/olive%20oil.md)                 |
+| 2 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)         |
+| 1 Tbsp   | [maple syrup](../Ingredients/maple%20syrup.md)             |
+|          | [salt](../Ingredients/salt.md)                             |
+|          | [pepper](../Ingredients/pepper.md)                         |
 
 ## Directions
 

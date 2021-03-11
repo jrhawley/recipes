@@ -16,16 +16,17 @@ Tags: #salad #chicken #lunch #dinner
 
 ### Vinaigrette
 
-| Quantity | Item                                                                  |
-| -------- | --------------------------------------------------------------------- |
-| 1/2 cup  | [blackberries](../Ingredients/blackberry.md)                          |
-| 2 Tbsp   | [balsamic vinegar](../Ingredients/balsamic%20vinegar.md)              |
-| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                            |
-| 2 Tbsp   | [honey](../Ingredients/honey.md)                                      |
-| 2 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)                    |
-| 1 tsp    | [soy sauce](../Ingredients/soy%20sauce.md)                            |
-| 1 clove  | [garlic](../Ingredients/garlic.md), minced                            |
-|          | [salt](../Ingredients/salt.md) and [pepper](../Ingredients/pepper.md) |
+| Quantity | Item                                                     |
+| -------- | -------------------------------------------------------- |
+| 1/2 cup  | [blackberries](../Ingredients/blackberry.md)             |
+| 2 Tbsp   | [balsamic vinegar](../Ingredients/balsamic%20vinegar.md) |
+| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)               |
+| 2 Tbsp   | [honey](../Ingredients/honey.md)                         |
+| 2 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)       |
+| 1 tsp    | [soy sauce](../Ingredients/soy%20sauce.md)               |
+| 1 clove  | [garlic](../Ingredients/garlic.md), minced               |
+|          | [salt](../Ingredients/salt.md)                           |
+|          | [pepper](../Ingredients/pepper.md)                       |
 
 ### Cheese
 
