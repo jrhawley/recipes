@@ -10,11 +10,7 @@
             "args": [
                 "serve",
             ],
-            "problemMatcher": [],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            "problemMatcher": []
         },
         {
             "label": "Compile Recipe",
@@ -37,7 +33,11 @@
             "args": [
                 "build",
             ],
-            "problemMatcher": []
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }
