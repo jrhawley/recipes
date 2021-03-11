@@ -105,6 +105,7 @@
 - [Breads]()
   - [Banana bread](Recipes/banana-bread.md)
   - [Pumpkin bread](Recipes/pumpkin-bread.md)
+  - [Reese's peanut butter bars](Recipes/reeses-peanut-butter-bars.md)
 - [Cookies]()
   - [Gingersnaps](Recipes/gingersnaps.md)
 - [Muffins]()
