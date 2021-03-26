@@ -37,11 +37,11 @@ Tags: #soup #vegan #vegetarian #dinner
 2. Add bell pepper, sweet potato, tomatoes, and juices
    1. Raise to medium-high heat, simmer for 5 minutes
    2. Season with salt and pepper
-3. In a medium bowl, whisk together peanut butter, 1 cup of vegetable broth until no clumps remain
-   1. Stir into vegetables with remaining vegetable broth with chili powder
-4. Cover with a lid, reduce to medium-low heat, simmer for 10-20 min until sweet potato is tender
-5. Stir in chickpeas and spinach, cook until spinach is wilted
-6. Salt and pepper to taste, garnish with parsley and roasted peanuts before serving
+3. Add vegetable broth, peanut butter, and chili powder
+   1. Stir to ensure peanut butter melts and is evenly dispersed
+   2. Cover with a lid, reduce to medium-low heat, simmer for 10-20 min until sweet potato is tender
+4. Stir in chickpeas and spinach, cook until spinach is wilted
+5. Salt and pepper to taste, garnish with parsley and roasted peanuts before serving
 
 ## References & Notes
 
