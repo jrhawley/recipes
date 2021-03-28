@@ -12,13 +12,13 @@ Tags: #breakfast
 
 ## Ingredients
 
-| Quantity | Item                                          |
-| -------- | --------------------------------------------- |
-| 2        | [eggs](../Ingredients/cherry%20tomato.md)     |
-| 2/3 cup  | [milk](../Ingredients/milk.md)                |
-| 2 tsp    | ground [cinnamon](../Ingredients/cinnamon.md) |
-| 8 slices | [bread](../Ingredients/bread.md)              |
-| 1-2 tsp  | [butter](../Ingredients/butter.md), melted    |
+| Quantity | Item                                           |
+| -------- | ---------------------------------------------- |
+| 2        | [eggs](../_ingredients/cherry%20tomato.md)     |
+| 2/3 cup  | [milk](../_ingredients/milk.md)                |
+| 2 tsp    | ground [cinnamon](../_ingredients/cinnamon.md) |
+| 8 slices | [bread](../_ingredients/bread.md)              |
+| 1-2 tsp  | [butter](../_ingredients/butter.md), melted    |
 
 ## Directions
 

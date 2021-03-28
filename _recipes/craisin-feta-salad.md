@@ -14,24 +14,24 @@ Tags: #salad #vegetarian #dinner
 
 ### Salad
 
-| Quantity | Item                                                               |
-| -------- | ------------------------------------------------------------------ |
-| 1 box    | [baby romaine lettuce](../Ingredients/baby%20romaine%20lettuce.md) |
-| 1 cup    | [craisins](../Ingredients/craisins.md)                             |
-| 1/3 cup  | toasted [pine nuts](../Ingredients/pine-nuts.md)                   |
-| 1/2 cup  | goat [feta](../Ingredients/feta.md)                                |
+| Quantity | Item                                                                |
+| -------- | ------------------------------------------------------------------- |
+| 1 box    | [baby romaine lettuce](../_ingredients/baby%20romaine%20lettuce.md) |
+| 1 cup    | [craisins](../_ingredients/craisins.md)                             |
+| 1/3 cup  | toasted [pine nuts](../_ingredients/pine-nuts.md)                   |
+| 1/2 cup  | goat [feta](../_ingredients/feta.md)                                |
 
 ### Dressing
 
-| Quantity | Item                                                       |
-| -------- | ---------------------------------------------------------- |
-| 1/3 cup  | [olive oil](../Ingredients/olive%20oil.md)                 |
-| 1 Tbsp   | [red wine vinegar](../Ingredients/red%20wine%20vinegar.md) |
-| 2 Tbsp   | [maple syrup](../Ingredients/maple%20syrup.md)             |
-| 1 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)         |
-| 1/2 tsp  | [oregano](../Ingredients/oregano.md)                       |
-|          | [salt](../Ingredients/salt.md)                             |
-|          | [pepper](../Ingredients/pepper.md)                         |
+| Quantity | Item                                                        |
+| -------- | ----------------------------------------------------------- |
+| 1/3 cup  | [olive oil](../_ingredients/olive%20oil.md)                 |
+| 1 Tbsp   | [red wine vinegar](../_ingredients/red%20wine%20vinegar.md) |
+| 2 Tbsp   | [maple syrup](../_ingredients/maple%20syrup.md)             |
+| 1 tsp    | [dijon mustard](../_ingredients/dijon%20mustard.md)         |
+| 1/2 tsp  | [oregano](../_ingredients/oregano.md)                       |
+|          | [salt](../_ingredients/salt.md)                             |
+|          | [pepper](../_ingredients/pepper.md)                         |
 
 ## Directions
 

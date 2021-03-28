@@ -13,17 +13,17 @@ Tags: #waffles #breakfast
 
 ## Ingredients
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 2        | [eggs](../Ingredients/cherry%20tomato.md), large            |
-| 2 cup    | [flour](../Ingredients/flour.md)                            |
-| 2 tsp    | [baking powder](../Ingredients/baking%20powder.md)          |
-| 1/3 cup  | [brown sugar](../Ingredients/brown%20sugar.md)              |
-| 1/3 cup  | [cocoa powder](../Ingredients/cocoa-powder.md), unsweetened |
-| 1/2 tsp  | [salt](../Ingredients/salt.md)                              |
-| 1/4 cup  | [chocolate chips](../Ingredients/chocolate%20chips.md)      |
-| 1/3 cup  | [olive oil](../Ingredients/olive%20oil.md)                  |
-| 7/4 cup  | [milk](../Ingredients/milk.md)                              |
+| Quantity | Item                                                         |
+| -------- | ------------------------------------------------------------ |
+| 2        | [eggs](../_ingredients/cherry%20tomato.md), large            |
+| 2 cup    | [flour](../_ingredients/flour.md)                            |
+| 2 tsp    | [baking powder](../_ingredients/baking%20powder.md)          |
+| 1/3 cup  | [brown sugar](../_ingredients/brown%20sugar.md)              |
+| 1/3 cup  | [cocoa powder](../_ingredients/cocoa-powder.md), unsweetened |
+| 1/2 tsp  | [salt](../_ingredients/salt.md)                              |
+| 1/4 cup  | [chocolate chips](../_ingredients/chocolate%20chips.md)      |
+| 1/3 cup  | [olive oil](../_ingredients/olive%20oil.md)                  |
+| 7/4 cup  | [milk](../_ingredients/milk.md)                              |
 
 ## Directions
 

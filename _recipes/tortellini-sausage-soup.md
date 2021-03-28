@@ -12,21 +12,21 @@ Tags: #soup #sausage #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                                         |
-| -------- | ------------------------------------------------------------------------------------------------------------ |
-| 500 g    | [Italian sausage](../Ingredients/sausage.md), ground                                                         |
-| 1        | [onion](../Ingredients/onion.md), finely diced                                                               |
-| 4 cloves | [garlic](../Ingredients/garlic.md), minced                                                                   |
-| 1 L      | [chicken broth](../Ingredients/chicken%20broth.md) or [vegetable broth](../Ingredients/vegetable%20broth.md) |
-| 400 mL   | [crushed tomatoes](../Ingredients/crushed%20tomato.md)                                                       |
-| 2 Tbsp   | [tomato paste](../Ingredients/tomato%20paste.md)                                                             |
-| 300 mL   | [tortellini](../Ingredients/tortellini.md)                                                                   |
-| 250 mL   | [heavy cream](../Ingredients/heavy%20cream.md)                                                               |
-|          | [spinach](../Ingredients/spinach.md)                                                                         |
-|          | [salt](../Ingredients/salt.md)                                                                               |
-|          | [pepper](../Ingredients/pepper.md)                                                                           |
-|          | [parmesan](../Ingredients/parmesan.md)                                                                       |
-|          | [sourdough](../Ingredients/sourdough.md)                                                                     |
+| Quantity | Item                                                                                                           |
+| -------- | -------------------------------------------------------------------------------------------------------------- |
+| 500 g    | [Italian sausage](../_ingredients/sausage.md), ground                                                          |
+| 1        | [onion](../_ingredients/onion.md), finely diced                                                                |
+| 4 cloves | [garlic](../_ingredients/garlic.md), minced                                                                    |
+| 1 L      | [chicken broth](../_ingredients/chicken%20broth.md) or [vegetable broth](../_ingredients/vegetable%20broth.md) |
+| 400 mL   | [crushed tomatoes](../_ingredients/crushed%20tomato.md)                                                        |
+| 2 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)                                                              |
+| 300 mL   | [tortellini](../_ingredients/tortellini.md)                                                                    |
+| 250 mL   | [heavy cream](../_ingredients/heavy%20cream.md)                                                                |
+|          | [spinach](../_ingredients/spinach.md)                                                                          |
+|          | [salt](../_ingredients/salt.md)                                                                                |
+|          | [pepper](../_ingredients/pepper.md)                                                                            |
+|          | [parmesan](../_ingredients/parmesan.md)                                                                        |
+|          | [sourdough](../_ingredients/sourdough.md)                                                                      |
 
 ## Directions
 

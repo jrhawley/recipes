@@ -12,21 +12,21 @@ Tags: #chicken #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                             |
-| -------- | ---------------------------------------------------------------- |
-| 6 Tbsp   | [butter](../Ingredients/butter.md)                               |
-| 1        | [onion](../Ingredients/onion.md), chopped                        |
-| 1 stalk  | [celery](../Ingredients/celery.md)                               |
-| 3 Tbsp   | [flour](../Ingredients/flour.md)                                 |
-| 7/2 cup  | [milk](../Ingredients/milk.md)                                   |
-| 3/2 tsp  | [salt](../Ingredients/salt.md)                                   |
-| 1/4 tsp  | [pepper](../Ingredients/pepper.md)                               |
-| 1 Tbsp   | [Worchestershire sauce](../Ingredients/worchestershire%20sauce.md) |
-| 1/2 cup  | [cream cheese](../Ingredients/cream%20cheese.md)                   |
-| 3 cup    | [chicken](../Ingredients/chicken.md), cooked                     |
-| 1 pkg    | [egg noodles](../Ingredients/egg-noodles.md), cooked             |
-| 1/2 cup  | [parmesan](../Ingredients/parmesan.md), grated                   |
-| 1/2 cup  | [breadcrumbs](../Ingredients/breadcrumbs.md)                     |
+| Quantity | Item                                                                |
+| -------- | ------------------------------------------------------------------- |
+| 6 Tbsp   | [butter](../_ingredients/butter.md)                                 |
+| 1        | [onion](../_ingredients/onion.md), chopped                          |
+| 1 stalk  | [celery](../_ingredients/celery.md)                                 |
+| 3 Tbsp   | [flour](../_ingredients/flour.md)                                   |
+| 7/2 cup  | [milk](../_ingredients/milk.md)                                     |
+| 3/2 tsp  | [salt](../_ingredients/salt.md)                                     |
+| 1/4 tsp  | [pepper](../_ingredients/pepper.md)                                 |
+| 1 Tbsp   | [Worchestershire sauce](../_ingredients/worchestershire%20sauce.md) |
+| 1/2 cup  | [cream cheese](../_ingredients/cream%20cheese.md)                   |
+| 3 cup    | [chicken](../_ingredients/chicken.md), cooked                       |
+| 1 pkg    | [egg noodles](../_ingredients/egg-noodles.md), cooked               |
+| 1/2 cup  | [parmesan](../_ingredients/parmesan.md), grated                     |
+| 1/2 cup  | [breadcrumbs](../_ingredients/breadcrumbs.md)                       |
 
 ## Directions
 

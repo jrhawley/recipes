@@ -14,13 +14,13 @@ Tags: #cereal #granola #baking
 
 ## Ingredients
 
-| Quantity | Item                                                   |
-| -------- | ------------------------------------------------------ |
-| 4 cups   | [oats](../Ingredients/oats.md)                         |
-| 2 tsp    | [cinnamon](../Ingredients/cinnamon.md)                 |
-| 1/2 cup  | [pure maple syrup](../Ingredients/maple%20syrup.md)    |
-| 1/3 cup  | [olive oil](../Ingredients/olive%20oil.md)             |
-| 3/2 tsp  | [vanilla extract](../Ingredients/vanilla%20extract.md) |
+| Quantity | Item                                                    |
+| -------- | ------------------------------------------------------- |
+| 4 cups   | [oats](../_ingredients/oats.md)                         |
+| 2 tsp    | [cinnamon](../_ingredients/cinnamon.md)                 |
+| 1/2 cup  | [pure maple syrup](../_ingredients/maple%20syrup.md)    |
+| 1/3 cup  | [olive oil](../_ingredients/olive%20oil.md)             |
+| 3/2 tsp  | [vanilla extract](../_ingredients/vanilla%20extract.md) |
 
 ## Directions
 

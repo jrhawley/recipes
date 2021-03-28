@@ -6,12 +6,12 @@ Tags: #alcoholic #beverage
 
 ## Ingredients
 
-| Quantity | Item                                         |
-| -------- | -------------------------------------------- |
-| 2 oz     | [rum](../Ingredients/rum.md)                 |
-| 1 oz     | [vermouth](../Ingredients/vermouth.md)       |
-| 1/3 oz   | [Triple Sec](../Ingredients/triple%20sec.md) |
-| 1 dash   | [grenadine](../Ingredients/grenadine.md)     |
+| Quantity | Item                                          |
+| -------- | --------------------------------------------- |
+| 2 oz     | [rum](../_ingredients/rum.md)                 |
+| 1 oz     | [vermouth](../_ingredients/vermouth.md)       |
+| 1/3 oz   | [Triple Sec](../_ingredients/triple%20sec.md) |
+| 1 dash   | [grenadine](../_ingredients/grenadine.md)     |
 
 ## Directions
 

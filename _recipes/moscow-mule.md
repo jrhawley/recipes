@@ -6,12 +6,12 @@ Tags: #alcoholic #beverage
 
 ## Ingredients
 
-| Quantity | Item                                         |
-| -------- | -------------------------------------------- |
-| 1.5 oz   | [vodka](../Ingredients/vodka.md)             |
-| 4.5 oz   | [ginger beer](../Ingredients/ginger-beer.md) |
-| 1 oz     | [lime juice](../Ingredients/lime%20juice.md) |
-|          | [ice cubes](../Ingredients/ice-cubes.md)     |
+| Quantity | Item                                          |
+| -------- | --------------------------------------------- |
+| 1.5 oz   | [vodka](../_ingredients/vodka.md)             |
+| 4.5 oz   | [ginger beer](../_ingredients/ginger-beer.md) |
+| 1 oz     | [lime juice](../_ingredients/lime%20juice.md) |
+|          | [ice cubes](../_ingredients/ice-cubes.md)     |
 
 ## Directions
 

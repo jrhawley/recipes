@@ -14,18 +14,18 @@ Tags: #cookies #dessert
 
 ## Ingredients
 
-| Quantity | Item                                                  |
-| -------- | ----------------------------------------------------- |
-| 1 cup    | [sugar](../Ingredients/sugar.md)                      |
-| 3/4 cup  | [shortening](../Ingredients/shortening.md)            |
-| 1/4 cup  | Crosby's fancy [molasses](../Ingredients/molasses.md) |
-| 1        | [egg](../Ingredients/egg.md)                          |
-| 2 cup    | [flour](../Ingredients/flour.md)                      |
-| 2 tsp    | [baking soda](../Ingredients/baking%20soda.md)        |
-| 1/2 tsp  | [salt](../Ingredients/salt.md)                        |
-| 1/2 tsp  | [cinnamon](../Ingredients/cinnamon.md)                |
-| 1/4 tsp  | ground [cloves](../Ingredients/cloves.md)             |
-| 1/4 tsp  | ground [ginger](../Ingredients/ginger.md)             |
+| Quantity | Item                                                   |
+| -------- | ------------------------------------------------------ |
+| 1 cup    | [sugar](../_ingredients/sugar.md)                      |
+| 3/4 cup  | [shortening](../_ingredients/shortening.md)            |
+| 1/4 cup  | Crosby's fancy [molasses](../_ingredients/molasses.md) |
+| 1        | [egg](../_ingredients/egg.md)                          |
+| 2 cup    | [flour](../_ingredients/flour.md)                      |
+| 2 tsp    | [baking soda](../_ingredients/baking%20soda.md)        |
+| 1/2 tsp  | [salt](../_ingredients/salt.md)                        |
+| 1/2 tsp  | [cinnamon](../_ingredients/cinnamon.md)                |
+| 1/4 tsp  | ground [cloves](../_ingredients/cloves.md)             |
+| 1/4 tsp  | ground [ginger](../_ingredients/ginger.md)             |
 
 ## Directions
 

@@ -14,15 +14,15 @@ Tags: #pasta #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                     |
-| -------- | ---------------------------------------------------------------------------------------- |
-| 4 cloves | [garlic](../Ingredients/garlic.md), finely diced                                         |
-| 3/4 cup  | [olive oil](../Ingredients/olive%20oil.md)                                                 |
-| 20       | [anchovies](../Ingredients/anchovies.md)                                                 |
-| 30       | [cherry tomatoes](../Ingredients/cherry%20tomato.md), halved                               |
-| 500 g    | [spaghetti](../Ingredients/spaghetti.md) or [spaghettoni](../Ingredients/spaghettoni.md) |
-|          | [pepper](../Ingredients/pepper.md)                                                       |
-|          | dry [chili flakes](../Ingredients/chili-flakes.md)                                       |
+| Quantity | Item                                                                                       |
+| -------- | ------------------------------------------------------------------------------------------ |
+| 4 cloves | [garlic](../_ingredients/garlic.md), finely diced                                          |
+| 3/4 cup  | [olive oil](../_ingredients/olive%20oil.md)                                                |
+| 20       | [anchovies](../_ingredients/anchovies.md)                                                  |
+| 30       | [cherry tomatoes](../_ingredients/cherry%20tomato.md), halved                              |
+| 500 g    | [spaghetti](../_ingredients/spaghetti.md) or [spaghettoni](../_ingredients/spaghettoni.md) |
+|          | [pepper](../_ingredients/pepper.md)                                                        |
+|          | dry [chili flakes](../_ingredients/chili-flakes.md)                                        |
 
 ## Directions
 

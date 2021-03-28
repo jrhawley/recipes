@@ -14,20 +14,20 @@ Tags: #vegetarian #rice #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                                |
-| -------- | --------------------------------------------------------------------------------------------------- |
-| 3 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                                          |
-| 1        | medium [onion](../Ingredients/onion.md), chopped                                                    |
-| 4 cloves | [garlic](../Ingredients/garlic.md), chopped                                                         |
-| 4 Tbsp   | [chives](../Ingredients/chives.md) or [scallions](../Ingredients/scallions.md), chopped and divided |
-| 4 Tbsp   | [dill](../Ingredients/dill.md)                                                                      |
-| 1/2 lbs  | baby [spinach](../Ingredients/spinach.md)                                                           |
-| 1 cup    | basmati [rice](../Ingredients/rice.md)                                                              |
-| 2 cup    | [vegetable broth](../Ingredients/vegetable%20broth.md)                                              |
-| 3 Tbsp   | [butter](../Ingredients/butter.md)                                                                  |
-| 2 Tbsp   | [lemon juice](../Ingredients/lemon%20juice.md)                                                      |
-| 2 tsp    | [lemon zest](../Ingredients/lemon.md)                                                               |
-|          | [feta](../Ingredients/feta.md)                                                                      |
+| Quantity | Item                                                                                                  |
+| -------- | ----------------------------------------------------------------------------------------------------- |
+| 3 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                                                           |
+| 1        | medium [onion](../_ingredients/onion.md), chopped                                                     |
+| 4 cloves | [garlic](../_ingredients/garlic.md), chopped                                                          |
+| 4 Tbsp   | [chives](../_ingredients/chives.md) or [scallions](../_ingredients/scallions.md), chopped and divided |
+| 4 Tbsp   | [dill](../_ingredients/dill.md)                                                                       |
+| 1/2 lbs  | baby [spinach](../_ingredients/spinach.md)                                                            |
+| 1 cup    | basmati [rice](../_ingredients/rice.md)                                                               |
+| 2 cup    | [vegetable broth](../_ingredients/vegetable%20broth.md)                                               |
+| 3 Tbsp   | [butter](../_ingredients/butter.md)                                                                   |
+| 2 Tbsp   | [lemon juice](../_ingredients/lemon%20juice.md)                                                       |
+| 2 tsp    | [lemon zest](../_ingredients/lemon.md)                                                                |
+|          | [feta](../_ingredients/feta.md)                                                                       |
 
 ## Directions
 

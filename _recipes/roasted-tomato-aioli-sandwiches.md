@@ -12,21 +12,21 @@ Tags: #vegetarian #sandwich #lunch #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                   |
-| -------- | ------------------------------------------------------ |
-| 2        | [beefsteak tomatoes](../Ingredients/tomato.md), sliced |
-| 1/4 cup  | [mayonnaise](../Ingredients/mayonnaise.md)             |
-| 1/2      | [lemon](../Ingredients/lemon.md), juiced               |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced             |
-| 4 slices | [sourdough](../Ingredients/sourdough.md), thick slices |
-| 1        | [avocado](../Ingredients/avocado.md)                   |
-|          | [olive oil](../Ingredients/olive%20oil.md)             |
-|          | [salt](../Ingredients/salt.md)                         |
-|          | [pepper](../Ingredients/pepper.md)                     |
-|          | [oregano](../Ingredients/oregano.md)                   |
-|          | [butter](../Ingredients/butter.md)                     |
-|          | [basil](../Ingredients/basil.md)                       |
-|          | [arugula](../Ingredients/arugula.md)                   |
+| Quantity | Item                                                    |
+| -------- | ------------------------------------------------------- |
+| 2        | [beefsteak tomatoes](../_ingredients/tomato.md), sliced |
+| 1/4 cup  | [mayonnaise](../_ingredients/mayonnaise.md)             |
+| 1/2      | [lemon](../_ingredients/lemon.md), juiced               |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced             |
+| 4 slices | [sourdough](../_ingredients/sourdough.md), thick slices |
+| 1        | [avocado](../_ingredients/avocado.md)                   |
+|          | [olive oil](../_ingredients/olive%20oil.md)             |
+|          | [salt](../_ingredients/salt.md)                         |
+|          | [pepper](../_ingredients/pepper.md)                     |
+|          | [oregano](../_ingredients/oregano.md)                   |
+|          | [butter](../_ingredients/butter.md)                     |
+|          | [basil](../_ingredients/basil.md)                       |
+|          | [arugula](../_ingredients/arugula.md)                   |
 
 ## Directions
 

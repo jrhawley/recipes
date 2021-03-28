@@ -14,23 +14,23 @@ Tags: #rice #vegetarian #bowl #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                         |
-| -------- | ---------------------------------------------------------------------------- |
-| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                   |
-| 1        | small yellow [onion](../Ingredients/onion.md), finely diced                  |
-| 3 cloves | [garlic](../Ingredients/garlic.md), minced                                   |
-| 2 tsp    | [paprika](../Ingredients/paprika.md)                                         |
-| 1 tsp    | [cumin](../Ingredients/cumin.md)                                             |
-| 1 tsp    | [oregano](../Ingredients/oregano.md)                                         |
-| 1/4 tsp  | [cayenne pepper](../Ingredients/cayenne%20pepper.md)                         |
-| 1/2 tsp  | [salt](../Ingredients/salt.md)                                               |
-| 1 cup    | [quinoa](../Ingredients/quinoa.md), uncooked                                 |
-| 15 oz    | [diced tomatoes](../Ingredients/diced%20tomatoes.md)                         |
-| 15 oz    | [chickpeas](../Ingredients/chickpeas.md), drained, rinsed                    |
-| 2 cups   | [vegetable broth](../Ingredients/vegetable%20broth.md)                       |
-| 15 oz    | [artichoke hearts](../Ingredients/artichoke%20hearts.md), quartered, drained |
-| 1        | [lemon](../Ingredients/lemon.md)                                             |
-|          | [parsley](../Ingredients/parsley.md)                                         |
+| Quantity | Item                                                                          |
+| -------- | ----------------------------------------------------------------------------- |
+| 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                                   |
+| 1        | small yellow [onion](../_ingredients/onion.md), finely diced                  |
+| 3 cloves | [garlic](../_ingredients/garlic.md), minced                                   |
+| 2 tsp    | [paprika](../_ingredients/paprika.md)                                         |
+| 1 tsp    | [cumin](../_ingredients/cumin.md)                                             |
+| 1 tsp    | [oregano](../_ingredients/oregano.md)                                         |
+| 1/4 tsp  | [cayenne pepper](../_ingredients/cayenne%20pepper.md)                         |
+| 1/2 tsp  | [salt](../_ingredients/salt.md)                                               |
+| 1 cup    | [quinoa](../_ingredients/quinoa.md), uncooked                                 |
+| 15 oz    | [diced tomatoes](../_ingredients/diced%20tomatoes.md)                         |
+| 15 oz    | [chickpeas](../_ingredients/chickpeas.md), drained, rinsed                    |
+| 2 cups   | [vegetable broth](../_ingredients/vegetable%20broth.md)                       |
+| 15 oz    | [artichoke hearts](../_ingredients/artichoke%20hearts.md), quartered, drained |
+| 1        | [lemon](../_ingredients/lemon.md)                                             |
+|          | [parsley](../_ingredients/parsley.md)                                         |
 
 ## Directions
 

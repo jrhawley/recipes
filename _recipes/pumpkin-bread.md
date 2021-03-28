@@ -12,20 +12,20 @@ Tags: #bread #pumpkin #baking
 
 ## Ingredients
 
-| Quantity | Item                                                 |
-| -------- | ---------------------------------------------------- |
-| 3 cup    | [flour](../Ingredients/flour.md)                     |
-| 1 tsp    | ground [cloves](../Ingredients/cloves.md)            |
-| 2 tsp    | ground [cinnamon](../Ingredients/cinnamon.md)        |
-| 1 tsp    | ground [nutmeg](../Ingredients/nutmeg.md)            |
-| 1/2 tsp  | [salt](../Ingredients/salt.md)                       |
-| 1 tsp    | [baking soda](../Ingredients/baking%20soda.md)         |
-| 1/2 tsp  | [baking powder](../Ingredients/baking%20powder.md)     |
-| 3 cup    | granulated [sugar](../Ingredients/sugar.md)          |
-| 1 cup    | soft [butter](../Ingredients/butter.md)              |
-| 3        | large [eggs](../Ingredients/egg.md)                  |
-| 16 oz    | [pumpkin puree](../Ingredients/pumpkin%20puree.md)     |
-| 1/2 cup  | chopped [pecans](../Ingredients/pecan.md) (optional) |
+| Quantity | Item                                                  |
+| -------- | ----------------------------------------------------- |
+| 3 cup    | [flour](../_ingredients/flour.md)                     |
+| 1 tsp    | ground [cloves](../_ingredients/cloves.md)            |
+| 2 tsp    | ground [cinnamon](../_ingredients/cinnamon.md)        |
+| 1 tsp    | ground [nutmeg](../_ingredients/nutmeg.md)            |
+| 1/2 tsp  | [salt](../_ingredients/salt.md)                       |
+| 1 tsp    | [baking soda](../_ingredients/baking%20soda.md)       |
+| 1/2 tsp  | [baking powder](../_ingredients/baking%20powder.md)   |
+| 3 cup    | granulated [sugar](../_ingredients/sugar.md)          |
+| 1 cup    | soft [butter](../_ingredients/butter.md)              |
+| 3        | large [eggs](../_ingredients/egg.md)                  |
+| 16 oz    | [pumpkin puree](../_ingredients/pumpkin%20puree.md)   |
+| 1/2 cup  | chopped [pecans](../_ingredients/pecan.md) (optional) |
 
 ## Directions
 

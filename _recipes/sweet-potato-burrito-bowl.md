@@ -14,19 +14,19 @@ Tags: #dinner #potato #vegan
 
 ## Ingredients
 
-| Quantity | Item                                                   |
-| -------- | ------------------------------------------------------ |
-| 1        | large [sweet potato](../Ingredients/sweet%20potato.md) |
-| 2        | [bell peppers](../Ingredients/bell%20pepper.md)        |
-| 1        | small [red onion](../Ingredients/red%20onion.md)       |
-| 1 tsp    | [paprika](../Ingredients/paprika.md)                   |
-| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)             |
-| 1/2 cup  | [rice](../Ingredients/rice.md)                         |
-| 14 oz    | [black beans](../Ingredients/black%20beans.md)         |
-| 1 cup    | cooked [corn](../Ingredients/corn.md)                  |
-| 1        | [avocado](../Ingredients/avocado.md)                   |
-|          | [salt](../Ingredients/salt.md)                         |
-|          | [pepper](../Ingredients/pepper.md)                     |
+| Quantity | Item                                                    |
+| -------- | ------------------------------------------------------- |
+| 1        | large [sweet potato](../_ingredients/sweet%20potato.md) |
+| 2        | [bell peppers](../_ingredients/bell%20pepper.md)        |
+| 1        | small [red onion](../_ingredients/red%20onion.md)       |
+| 1 tsp    | [paprika](../_ingredients/paprika.md)                   |
+| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)             |
+| 1/2 cup  | [rice](../_ingredients/rice.md)                         |
+| 14 oz    | [black beans](../_ingredients/black%20beans.md)         |
+| 1 cup    | cooked [corn](../_ingredients/corn.md)                  |
+| 1        | [avocado](../_ingredients/avocado.md)                   |
+|          | [salt](../_ingredients/salt.md)                         |
+|          | [pepper](../_ingredients/pepper.md)                     |
 
 ## Directions
 

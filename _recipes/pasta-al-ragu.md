@@ -16,23 +16,23 @@ Tags: #pasta #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                                   |
-| -------- | ------------------------------------------------------------------------------------------------------ |
-| 1/2      | [red onion](../Ingredients/red%20onion.md), finely diced                                               |
-| 1        | [carrot](../Ingredients/carrot.md), finely diced                                                       |
-| 2 stalks | [celery](../Ingredients/celery.md), finely diced                                                       |
-| 1 clove  | [garlic](../Ingredients/garlic.md), finely diced                                                       |
-| 400 g    | medium [ground beef](../Ingredients/ground%20beef.md)                                                  |
-| 250 g    | [ground pork](../Ingredients/ground-pork.md) or [bangers sausages](../Ingredients/bangers-sausages.md) |
-| 750 mL   | [red wine](../Ingredients/red-wine.md)                                                                 |
-| 2 Tbsp   | [tomato paste](../Ingredients/tomato%20paste.md)                                                       |
-| 800 g    | finely [diced tomatoes](../Ingredients/diced%20tomatoes.md) (Mutti Polpa)                              |
-| 3 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                                             |
-| 500 g    | [tortiglioni](../Ingredients/tortiglioni.md) or [tagliatelle](../Ingredients/tagliatelle.md)           |
-|          | [parmesan](../Ingredients/parmesan.md)                                                                 |
-|          | [salt](../Ingredients/salt.md)                                                                         |
-|          | [pepper](../Ingredients/pepper.md)                                                                     |
-|          | [thyme](../Ingredients/thyme.md)                                                                       |
+| Quantity | Item                                                                                                     |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| 1/2      | [red onion](../_ingredients/red%20onion.md), finely diced                                                |
+| 1        | [carrot](../_ingredients/carrot.md), finely diced                                                        |
+| 2 stalks | [celery](../_ingredients/celery.md), finely diced                                                        |
+| 1 clove  | [garlic](../_ingredients/garlic.md), finely diced                                                        |
+| 400 g    | medium [ground beef](../_ingredients/ground%20beef.md)                                                   |
+| 250 g    | [ground pork](../_ingredients/ground-pork.md) or [bangers sausages](../_ingredients/bangers-sausages.md) |
+| 750 mL   | [red wine](../_ingredients/red-wine.md)                                                                  |
+| 2 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)                                                        |
+| 800 g    | finely [diced tomatoes](../_ingredients/diced%20tomatoes.md) (Mutti Polpa)                               |
+| 3 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                                                              |
+| 500 g    | [tortiglioni](../_ingredients/tortiglioni.md) or [tagliatelle](../_ingredients/tagliatelle.md)           |
+|          | [parmesan](../_ingredients/parmesan.md)                                                                  |
+|          | [salt](../_ingredients/salt.md)                                                                          |
+|          | [pepper](../_ingredients/pepper.md)                                                                      |
+|          | [thyme](../_ingredients/thyme.md)                                                                        |
 
 ## Directions
 

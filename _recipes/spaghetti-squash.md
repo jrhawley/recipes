@@ -12,14 +12,14 @@ Tags: #basics #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                   |
-| -------- | ------------------------------------------------------ |
-| 1        | [spaghetti squash](../Ingredients/spaghetti%20squash.md) |
-| 1 tsp    | minced [red pepper](../Ingredients/red%20pepper.md)      |
-| 1 clove  | [garlic](../Ingredients/garlic.md)                     |
-| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)               |
-|          | [salt](../Ingredients/salt.md)                         |
-|          | [pepper](../Ingredients/pepper.md)                     |
+| Quantity | Item                                                      |
+| -------- | --------------------------------------------------------- |
+| 1        | [spaghetti squash](../_ingredients/spaghetti%20squash.md) |
+| 1 tsp    | minced [red pepper](../_ingredients/red%20pepper.md)      |
+| 1 clove  | [garlic](../_ingredients/garlic.md)                       |
+| 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)               |
+|          | [salt](../_ingredients/salt.md)                           |
+|          | [pepper](../_ingredients/pepper.md)                       |
 
 ## Directions
 

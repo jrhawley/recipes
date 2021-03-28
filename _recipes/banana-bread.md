@@ -12,16 +12,16 @@ Tags: #baking #bread
 
 ## Ingredients
 
-| Quantity | Item                                           |
-| -------- | ---------------------------------------------- |
-| 1/4 cup  | [butter](../Ingredients/butter.md)             |
-| 1/4 cup  | [sugar](../Ingredients/sugar.md)               |
-| 1        | [egg](../Ingredients/egg.md), beaten           |
-| 2        | [bananas](../Ingredients/banana.md), crushed   |
-| 3/2 cup  | [flour](../Ingredients/flour.md)               |
-| 1 tsp    | [baking soda](../Ingredients/baking%20soda.md) |
-| 1/2 tsp  | [salt](../Ingredients/salt.md)                 |
-| 1/2 tsp  | [vanilla](../Ingredients/vanilla%20extract.md) |
+| Quantity | Item                                            |
+| -------- | ----------------------------------------------- |
+| 1/4 cup  | [butter](../_ingredients/butter.md)             |
+| 1/4 cup  | [sugar](../_ingredients/sugar.md)               |
+| 1        | [egg](../_ingredients/egg.md), beaten           |
+| 2        | [bananas](../_ingredients/banana.md), crushed   |
+| 3/2 cup  | [flour](../_ingredients/flour.md)               |
+| 1 tsp    | [baking soda](../_ingredients/baking%20soda.md) |
+| 1/2 tsp  | [salt](../_ingredients/salt.md)                 |
+| 1/2 tsp  | [vanilla](../_ingredients/vanilla%20extract.md) |
 
 ## Directions
 

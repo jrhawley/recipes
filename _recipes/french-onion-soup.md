@@ -12,19 +12,19 @@ Tags: #soup #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                                          |
-| -------- | ------------------------------------------------------------------------------------------------------------- |
-| 3        | yellow [onion](../Ingredients/onion.md)s, peeled and sliced thinly                                            |
-| 3 Tbsp   | [butter](../Ingredients/butter.md)                                                                            |
-| 2 Tbsp   | [brown sugar](../Ingredients/brown%20sugar.md)                                                                  |
-| 2 Tbsp   | [Worchestershire sauce](../Ingredients/worchestershire%20sauce.md)                                              |
-| 2 Tbsp   | [garlic](../Ingredients/garlic.md), minced                                                                    |
-| 8 cups   | low sodium [beef broth](../Ingredients/beef%20broth.md) or [vegetable broth](../Ingredients/vegetable%20broth.md) |
-| 1        | [bay leaf](../Ingredients/bay%20leaf.md)                                                                        |
-| 1 sprig  | fresh [thyme](../Ingredients/thyme.md)                                                                        |
-| 6 slices | [French bread](../Ingredients/french%20bread.md)                                                                |
-| 1 cup    | [Swiss cheese](../Ingredients/swiss%20cheese.md), shredded                                                      |
-| 1 cup    | [parmesan](../Ingredients/parmesan.md), shredded                                                              |
+| Quantity | Item                                                                                                                |
+| -------- | ------------------------------------------------------------------------------------------------------------------- |
+| 3        | yellow [onion](../_ingredients/onion.md)s, peeled and sliced thinly                                                 |
+| 3 Tbsp   | [butter](../_ingredients/butter.md)                                                                                 |
+| 2 Tbsp   | [brown sugar](../_ingredients/brown%20sugar.md)                                                                     |
+| 2 Tbsp   | [Worchestershire sauce](../_ingredients/worchestershire%20sauce.md)                                                 |
+| 2 Tbsp   | [garlic](../_ingredients/garlic.md), minced                                                                         |
+| 8 cups   | low sodium [beef broth](../_ingredients/beef%20broth.md) or [vegetable broth](../_ingredients/vegetable%20broth.md) |
+| 1        | [bay leaf](../_ingredients/bay%20leaf.md)                                                                           |
+| 1 sprig  | fresh [thyme](../_ingredients/thyme.md)                                                                             |
+| 6 slices | [French bread](../_ingredients/french%20bread.md)                                                                   |
+| 1 cup    | [Swiss cheese](../_ingredients/swiss%20cheese.md), shredded                                                         |
+| 1 cup    | [parmesan](../_ingredients/parmesan.md), shredded                                                                   |
 
 ## Directions
 

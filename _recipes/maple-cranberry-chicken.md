@@ -12,17 +12,17 @@ Tags: #chicken #maple #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                       |
-| -------- | ---------------------------------------------------------- |
-| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                 |
-| 6        | [chicken breasts](../Ingredients/chicken%20breast.md)      |
-|          | [salt](../Ingredients/salt.md)                             |
-|          | [pepper](../Ingredients/pepper.md)                         |
-| 1/4 cup  | [white wine](../Ingredients/white%20wine.md)               |
-| 1/2 cup  | [maple syrup](../Ingredients/maple%20syrup.md)             |
-| 1/4 cup  | [dijon mustard](../Ingredients/dijon%20mustard.md)         |
-| 1 cup    | fresh or frozen [cranberries](../Ingredients/cranberry.md) |
-| 4 sprigs | fresh [rosemary](../Ingredients/rosemary.md)               |
+| Quantity | Item                                                        |
+| -------- | ----------------------------------------------------------- |
+| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                 |
+| 6        | [chicken breasts](../_ingredients/chicken%20breast.md)      |
+|          | [salt](../_ingredients/salt.md)                             |
+|          | [pepper](../_ingredients/pepper.md)                         |
+| 1/4 cup  | [white wine](../_ingredients/white%20wine.md)               |
+| 1/2 cup  | [maple syrup](../_ingredients/maple%20syrup.md)             |
+| 1/4 cup  | [dijon mustard](../_ingredients/dijon%20mustard.md)         |
+| 1 cup    | fresh or frozen [cranberries](../_ingredients/cranberry.md) |
+| 4 sprigs | fresh [rosemary](../_ingredients/rosemary.md)               |
 
 ## Directions
 
@@ -40,4 +40,4 @@ Tags: #chicken #maple #dinner
 ## References & Notes
 
 1. [Original recipe](https://thebusybaker.ca/maple-cranberry-roast-chicken/#wprm-recipe-container-12798)
-2. Pair with other late fall or winter vegetables like [sweet potatoes](../Ingredients/sweet%20potato.md) and/or [green beans](../Ingredients/green%20beans.md)
+2. Pair with other late fall or winter vegetables like [sweet potatoes](../_ingredients/sweet%20potato.md) and/or [green beans](../_ingredients/green%20beans.md)

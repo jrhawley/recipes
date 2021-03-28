@@ -14,22 +14,22 @@ Tags: #shortbread #dessert #chocolate
 
 ## Shortbread
 
-| Quantity | Item                                     |
-| -------- | ---------------------------------------- |
-| 4 oz     | [margarine](../Ingredients/margarine.md) |
-| 2 oz     | [sugar](../Ingredients/sugar.md)         |
-| 6 oz     | [flour](../Ingredients/flour.md)         |
+| Quantity | Item                                      |
+| -------- | ----------------------------------------- |
+| 4 oz     | [margarine](../_ingredients/margarine.md) |
+| 2 oz     | [sugar](../_ingredients/sugar.md)         |
+| 6 oz     | [flour](../_ingredients/flour.md)         |
 
 ## Caramel
 
-| Quantity | Item                                                               |
-| -------- | ------------------------------------------------------------------ |
-| 8 oz     | [margarine](../Ingredients/margarine.md)                           |
-| 4 Tbsp   | [syrup](../Ingredients/syrup.md)                                   |
-| 4 oz     | [sugar](../Ingredients/sugar.md)                                   |
-| 400 oz   | [condensed milk](../Ingredients/condensed-milk.md)                 |
-|          | drops of [vanilla extract](../Ingredients/vanilla%20extract.md)      |
-| 100 g    | [milk chocolate](../Ingredients/milk-chocolate.md) (bars or chips) |
+| Quantity | Item                                                                |
+| -------- | ------------------------------------------------------------------- |
+| 8 oz     | [margarine](../_ingredients/margarine.md)                           |
+| 4 Tbsp   | [syrup](../_ingredients/syrup.md)                                   |
+| 4 oz     | [sugar](../_ingredients/sugar.md)                                   |
+| 400 oz   | [condensed milk](../_ingredients/condensed-milk.md)                 |
+|          | drops of [vanilla extract](../_ingredients/vanilla%20extract.md)    |
+| 100 g    | [milk chocolate](../_ingredients/milk-chocolate.md) (bars or chips) |
 
 ## Directions
 

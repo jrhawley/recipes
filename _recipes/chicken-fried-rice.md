@@ -14,21 +14,21 @@ Tags: #chicken #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                          |
-| -------- | ------------------------------------------------------------- |
-| 2 cups   | [basmati rice](../Ingredients/rice.md), uncooked              |
-| 3 Tbsp   | [vegetable oil](../Ingredients/vegetable%20oil.md)            |
-| 2        | [chicken breasts](../Ingredients/chicken%20breast.md)         |
-| 1        | [onion](../Ingredients/onion.md), diced                       |
-| 1        | [carrot](../Ingredients/carrot.md), peeled, diced             |
-| 3 stalks | [green onion](../Ingredients/green%20onion.md), thinly sliced |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                    |
-| 1 Tbsp   | [soy sauce](../Ingredients/soy%20sauce.md)                    |
-| 2 tsp    | [sesame oil](../Ingredients/sesame%20oil.md)                  |
-| 1 cup    | frozen [peas](../Ingredients/peas.md)                         |
-| 2        | [eggs](../Ingredients/cherry%20tomato.md), lightly beaten     |
-|          | [salt](../Ingredients/salt.md)                                |
-|          | [pepper](../Ingredients/pepper.md)                            |
+| Quantity | Item                                                           |
+| -------- | -------------------------------------------------------------- |
+| 2 cups   | [basmati rice](../_ingredients/rice.md), uncooked              |
+| 3 Tbsp   | [vegetable oil](../_ingredients/vegetable%20oil.md)            |
+| 2        | [chicken breasts](../_ingredients/chicken%20breast.md)         |
+| 1        | [onion](../_ingredients/onion.md), diced                       |
+| 1        | [carrot](../_ingredients/carrot.md), peeled, diced             |
+| 3 stalks | [green onion](../_ingredients/green%20onion.md), thinly sliced |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced                    |
+| 1 Tbsp   | [soy sauce](../_ingredients/soy%20sauce.md)                    |
+| 2 tsp    | [sesame oil](../_ingredients/sesame%20oil.md)                  |
+| 1 cup    | frozen [peas](../_ingredients/peas.md)                         |
+| 2        | [eggs](../_ingredients/cherry%20tomato.md), lightly beaten     |
+|          | [salt](../_ingredients/salt.md)                                |
+|          | [pepper](../_ingredients/pepper.md)                            |
 
 ## Directions
 

@@ -12,15 +12,15 @@ Tags: #chicken #basics
 
 ## Ingredients
 
-| Quantity | Item                                                                     |
-| -------- | ------------------------------------------------------------------------ |
-| 1-4      | [chicken breasts](../Ingredients/chicken%20breast.md), fresh, not frozen |
-| 1/4 cup  | [flour](../Ingredients/flour.md)                                         |
-| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                               |
-| 1 tsp    | [butter](../Ingredients/butter.md)                                       |
-| 1 tsp    | [herbs](../Ingredients/herbs.md), freshly chopped (optional)             |
-|          | [salt](../Ingredients/salt.md)                                           |
-|          | [pepper](../Ingredients/pepper.md)                                       |
+| Quantity | Item                                                                      |
+| -------- | ------------------------------------------------------------------------- |
+| 1-4      | [chicken breasts](../_ingredients/chicken%20breast.md), fresh, not frozen |
+| 1/4 cup  | [flour](../_ingredients/flour.md)                                         |
+| 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                               |
+| 1 tsp    | [butter](../_ingredients/butter.md)                                       |
+| 1 tsp    | [herbs](../_ingredients/herbs.md), freshly chopped (optional)             |
+|          | [salt](../_ingredients/salt.md)                                           |
+|          | [pepper](../_ingredients/pepper.md)                                       |
 
 ## Directions
 

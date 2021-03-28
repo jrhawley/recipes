@@ -12,16 +12,16 @@ Tags: #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                          |
-| -------- | ------------------------------------------------------------- |
-| 1 cup    | [quinoa](../Ingredients/quinoa.md), uncooked                  |
-| 1.75 cup | [vegetable broth](../Ingredients/vegetable%20broth.md)          |
-| 15 oz    | [black beans](../Ingredients/black%20beans.md), drained, rinsed |
-| 1        | small red [bell pepper](../Ingredients/bell%20pepper.md), diced |
-| 12 oz    | diced [pineapple](../Ingredients/pineapple.md)                |
-| 1 tsp    | [paprika](../Ingredients/paprika.md)                          |
-| 1 Tbsp   | [lime juice](../Ingredients/lime%20juice.md)                    |
-|          | [lettuce](../Ingredients/lettuce.md) or flour wraps           |
+| Quantity | Item                                                             |
+| -------- | ---------------------------------------------------------------- |
+| 1 cup    | [quinoa](../_ingredients/quinoa.md), uncooked                    |
+| 1.75 cup | [vegetable broth](../_ingredients/vegetable%20broth.md)          |
+| 15 oz    | [black beans](../_ingredients/black%20beans.md), drained, rinsed |
+| 1        | small red [bell pepper](../_ingredients/bell%20pepper.md), diced |
+| 12 oz    | diced [pineapple](../_ingredients/pineapple.md)                  |
+| 1 tsp    | [paprika](../_ingredients/paprika.md)                            |
+| 1 Tbsp   | [lime juice](../_ingredients/lime%20juice.md)                    |
+|          | [lettuce](../_ingredients/lettuce.md) or flour wraps             |
 
 ## Directions
 

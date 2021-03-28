@@ -14,16 +14,16 @@ Tags: #vegetarian #prep #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                   |
-| -------- | ---------------------------------------------------------------------- |
-| 1 cup    | cooked [quinoa](../Ingredients/quinoa.md), cooled                      |
-| 15 oz    | [black beans](../Ingredients/black%20beans.md), rinsed, drained, dried |
-| 1/4 cup  | [pumpkin seeds](../Ingredients/pumpkin%20seeds.md)                     |
-| 5 cloves | [garlic](../Ingredients/garlic.md), minced                             |
-| 1/2 tsp  | [salt](../Ingredients/salt.md)                                         |
-| 1 tsp    | ground [cumin](../Ingredients/cumin.md)                                |
-| 1/2 tsp  | [coriander](../Ingredients/coriander.md)                               |
-| 2 Tbsp   | [tomato paste](../Ingredients/tomato%20paste.md)                       |
+| Quantity | Item                                                                    |
+| -------- | ----------------------------------------------------------------------- |
+| 1 cup    | cooked [quinoa](../_ingredients/quinoa.md), cooled                      |
+| 15 oz    | [black beans](../_ingredients/black%20beans.md), rinsed, drained, dried |
+| 1/4 cup  | [pumpkin seeds](../_ingredients/pumpkin%20seeds.md)                     |
+| 5 cloves | [garlic](../_ingredients/garlic.md), minced                             |
+| 1/2 tsp  | [salt](../_ingredients/salt.md)                                         |
+| 1 tsp    | ground [cumin](../_ingredients/cumin.md)                                |
+| 1/2 tsp  | [coriander](../_ingredients/coriander.md)                               |
+| 2 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)                       |
 
 ## Directions
 

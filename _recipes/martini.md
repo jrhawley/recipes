@@ -6,10 +6,10 @@ Tags: #alcoholic #beverage
 
 ## Ingredients
 
-| Quantity | Item                                   |
-| -------- | -------------------------------------- |
-| 1/3 oz   | [vermouth](../Ingredients/vermouth.md) |
-| 2 oz     | [gin](../Ingredients/gin.md)           |
+| Quantity | Item                                    |
+| -------- | --------------------------------------- |
+| 1/3 oz   | [vermouth](../_ingredients/vermouth.md) |
+| 2 oz     | [gin](../_ingredients/gin.md)           |
 
 ## Directions
 

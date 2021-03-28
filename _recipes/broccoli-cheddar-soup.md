@@ -12,22 +12,22 @@ Tags: #soup #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                          |
-| -------- | ------------------------------------------------------------- |
-| 5 cups   | [broccoli](../Ingredients/broccoli.md) florets, thinly sliced |
-| 1        | medium [yellow onion](../Ingredients/onion.md), diced  |
-| 3 cloves | [garlic](../Ingredients/garlic.md), minced                    |
-| 1 cup    | [carrots](../Ingredients/carrot.md), grated                  |
-| 2 oz     | reduced fat [cream cheese](../Ingredients/cream%20cheese.md)    |
-| 1 tsp    | [salt](../Ingredients/salt.md)                                |
-| 1 tsp    | [pepper](../Ingredients/pepper.md)                            |
-| 1/4 tsp  | [nutmeg](../Ingredients/nutmeg.md)                            |
-| 4 cups   | [vegetable broth](../Ingredients/vegetable%20broth.md)          |
-| 1 Tbsp   | [water](../Ingredients/water.md)                              |
-| 1/4 cup  | warm [water](../Ingredients/water.md)                         |
-| 1 Tbsp   | [cornstarch](../Ingredients/cornstarch.md)                    |
-| 1/4 cup  | plain [Greek yogurt](../Ingredients/greek%20yogurt.md)          |
-| 1 cup    | [cheddar](../Ingredients/cheddar.md), grated                  |
+| Quantity | Item                                                           |
+| -------- | -------------------------------------------------------------- |
+| 5 cups   | [broccoli](../_ingredients/broccoli.md) florets, thinly sliced |
+| 1        | medium [yellow onion](../_ingredients/onion.md), diced         |
+| 3 cloves | [garlic](../_ingredients/garlic.md), minced                    |
+| 1 cup    | [carrots](../_ingredients/carrot.md), grated                   |
+| 2 oz     | reduced fat [cream cheese](../_ingredients/cream%20cheese.md)  |
+| 1 tsp    | [salt](../_ingredients/salt.md)                                |
+| 1 tsp    | [pepper](../_ingredients/pepper.md)                            |
+| 1/4 tsp  | [nutmeg](../_ingredients/nutmeg.md)                            |
+| 4 cups   | [vegetable broth](../_ingredients/vegetable%20broth.md)        |
+| 1 Tbsp   | [water](../_ingredients/water.md)                              |
+| 1/4 cup  | warm [water](../_ingredients/water.md)                         |
+| 1 Tbsp   | [cornstarch](../_ingredients/cornstarch.md)                    |
+| 1/4 cup  | plain [Greek yogurt](../_ingredients/greek%20yogurt.md)        |
+| 1 cup    | [cheddar](../_ingredients/cheddar.md), grated                  |
 
 ## Directions
 

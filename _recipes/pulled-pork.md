@@ -14,21 +14,21 @@ Tags: #pork #slow-cooker #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                             |
-| -------- | ---------------------------------------------------------------- |
-| 1 tsp    | [vegetable oil](../Ingredients/vegetable%20oil.md)               |
-| 4 lbs    | [pork](../Ingredients/pork.md) shoulder roast                    |
-| 1 cup    | [barbecue sauce](../Ingredients/barbecue-sauce.md)               |
-| 1/2 cup  | [apple cider vinegar](../Ingredients/apple%20cider%20vinegar.md) |
-| 1/2 cup  | [chicken broth](../Ingredients/chicken%20broth.md)               |
-| 1/4 cup  | [light brown sugar](../Ingredients/brown%20sugar.md)             |
-| 1 Tbsp   | [mustard](../Ingredients/mustard.md)                             |
-| 1 Tbsp   | [Worcestershire sauce](../Ingredients/Worcestershire-sauce.md)   |
-| 1 Tbsp   | [chili powder](../Ingredients/chili%20powder.md)                 |
-| 1        | large [onion](../Ingredients/onion.md), diced                    |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                       |
-| 2/3 tsp  | dried [thyme](../Ingredients/thyme.md)                           |
-| 8        | [hamburger buns](../Ingredients/hamburger-buns.md)               |
+| Quantity | Item                                                              |
+| -------- | ----------------------------------------------------------------- |
+| 1 tsp    | [vegetable oil](../_ingredients/vegetable%20oil.md)               |
+| 4 lbs    | [pork](../_ingredients/pork.md) shoulder roast                    |
+| 1 cup    | [barbecue sauce](../_ingredients/barbecue-sauce.md)               |
+| 1/2 cup  | [apple cider vinegar](../_ingredients/apple%20cider%20vinegar.md) |
+| 1/2 cup  | [chicken broth](../_ingredients/chicken%20broth.md)               |
+| 1/4 cup  | [light brown sugar](../_ingredients/brown%20sugar.md)             |
+| 1 Tbsp   | [mustard](../_ingredients/mustard.md)                             |
+| 1 Tbsp   | [Worcestershire sauce](../_ingredients/Worcestershire-sauce.md)   |
+| 1 Tbsp   | [chili powder](../_ingredients/chili%20powder.md)                 |
+| 1        | large [onion](../_ingredients/onion.md), diced                    |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced                       |
+| 2/3 tsp  | dried [thyme](../_ingredients/thyme.md)                           |
+| 8        | [hamburger buns](../_ingredients/hamburger-buns.md)               |
 
 ## Directions
 

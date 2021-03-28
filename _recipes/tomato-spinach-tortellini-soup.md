@@ -14,23 +14,23 @@ Tags: #soup #pasta #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                                         |
-| -------- | ------------------------------------------------------------------------------------------------------------ |
-| 2 Tbsp   | [butter](../Ingredients/butter.md)                                                                           |
-| 1        | [onion](../Ingredients/onion.md), diced                                                                      |
-| 2 cloves | [garlic](../Ingredients/garlic.md), chopped                                                                  |
-| 1/4 cup  | [flour](../Ingredients/flour.md)                                                                             |
-| 3 cups   | [vegetable broth](../Ingredients/vegetable%20broth.md) or [chicken broth](../Ingredients/chicken%20broth.md) |
-| 28 oz    | [diced tomatoes](../Ingredients/diced%20tomatoes.md)                                                         |
-| 2 Tbsp   | [tomato paste](../Ingredients/tomato%20paste.md)                                                             |
-| 8 oz     | cheese [tortellini](../Ingredients/tortellini.md)                                                            |
-| 1/2 cup  | [parmesan](../Ingredients/parmesan.md), grated                                                               |
-| 10 oz    | [spinach](../Ingredients/spinach.md), coarsely chopped                                                       |
-| 1/2 cup  | [whipping cream](../Ingredients/whipping%20cream.md) or [Greek yogurt](../Ingredients/greek%20yogurt.md)     |
-| 1/4 cup  | [basil](../Ingredients/basil.md), chopped (optional)                                                         |
-|          | [salt](../Ingredients/salt.md)                                                                               |
-|          | [pepper](../Ingredients/pepper.md)                                                                           |
-|          | [red pepper flakes](../Ingredients/red%20pepper%20flakes.md)                                                 |
+| Quantity | Item                                                                                                           |
+| -------- | -------------------------------------------------------------------------------------------------------------- |
+| 2 Tbsp   | [butter](../_ingredients/butter.md)                                                                            |
+| 1        | [onion](../_ingredients/onion.md), diced                                                                       |
+| 2 cloves | [garlic](../_ingredients/garlic.md), chopped                                                                   |
+| 1/4 cup  | [flour](../_ingredients/flour.md)                                                                              |
+| 3 cups   | [vegetable broth](../_ingredients/vegetable%20broth.md) or [chicken broth](../_ingredients/chicken%20broth.md) |
+| 28 oz    | [diced tomatoes](../_ingredients/diced%20tomatoes.md)                                                          |
+| 2 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)                                                              |
+| 8 oz     | cheese [tortellini](../_ingredients/tortellini.md)                                                             |
+| 1/2 cup  | [parmesan](../_ingredients/parmesan.md), grated                                                                |
+| 10 oz    | [spinach](../_ingredients/spinach.md), coarsely chopped                                                        |
+| 1/2 cup  | [whipping cream](../_ingredients/whipping%20cream.md) or [Greek yogurt](../_ingredients/greek%20yogurt.md)     |
+| 1/4 cup  | [basil](../_ingredients/basil.md), chopped (optional)                                                          |
+|          | [salt](../_ingredients/salt.md)                                                                                |
+|          | [pepper](../_ingredients/pepper.md)                                                                            |
+|          | [red pepper flakes](../_ingredients/red%20pepper%20flakes.md)                                                  |
 
 ## Directions
 

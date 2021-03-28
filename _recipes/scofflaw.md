@@ -6,12 +6,12 @@ Tags: #alcoholic #beverage
 
 ## Ingredients
 
-| Quantity | Item                                           |
-| -------- | ---------------------------------------------- |
-| 3/2 oz   | [rye whiskey](../Ingredients/whiskey.md)       |
-| 1 oz     | [dry vermouth](../Ingredients/vermouth.md)     |
-| 2/3 oz   | [lemon juice](../Ingredients/lemon%20juice.md) |
-| 2/3 oz   | [grenadine](../Ingredients/grenadine.md)       |
+| Quantity | Item                                            |
+| -------- | ----------------------------------------------- |
+| 3/2 oz   | [rye whiskey](../_ingredients/whiskey.md)       |
+| 1 oz     | [dry vermouth](../_ingredients/vermouth.md)     |
+| 2/3 oz   | [lemon juice](../_ingredients/lemon%20juice.md) |
+| 2/3 oz   | [grenadine](../_ingredients/grenadine.md)       |
 
 ## Directions
 

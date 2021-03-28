@@ -12,22 +12,22 @@ Tags: #chili #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                |
-| -------- | ----------------------------------------------------------------------------------- |
-| 2 lbs    | [ground beef](../Ingredients/ground%20beef.md)                                      |
-| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                          |
-| 3        | [onions](../Ingredients/onions.md), diced                                           |
-| 3 stalks | [celery](../Ingredients/celery.md), diced                                           |
-| 1        | green [bell pepper](../Ingredients/bell%20pepper.md)                                |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                          |
-| 19 oz    | [dark red kidney beans](../Ingredients/dark%20red kidney beans.md), rinsed, drained |
-| 20 oz    | [tomato soup](../Ingredients/tomato-soup.md), undiluted                             |
-| 28 oz    | [diced tomatoes](../Ingredients/diced%20tomatoes.md)                                |
-| 1 Tbsp   | [chili powder](../Ingredients/chili%20powder.md), divided                           |
-| 1 tsp    | [oregano](../Ingredients/oregano.md)                                                |
-| 1 tsp    | [salt](../Ingredients/salt.md)                                                      |
-| 1/2 tsp  | [pepper](../Ingredients/pepper.md)                                                  |
-| 1 tsp    | [sugar](../Ingredients/sugar.md)                                                    |
+| Quantity | Item                                                                                 |
+| -------- | ------------------------------------------------------------------------------------ |
+| 2 lbs    | [ground beef](../_ingredients/ground%20beef.md)                                      |
+| 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                                          |
+| 3        | [onions](../_ingredients/onions.md), diced                                           |
+| 3 stalks | [celery](../_ingredients/celery.md), diced                                           |
+| 1        | green [bell pepper](../_ingredients/bell%20pepper.md)                                |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced                                          |
+| 19 oz    | [dark red kidney beans](../_ingredients/dark%20red kidney beans.md), rinsed, drained |
+| 20 oz    | [tomato soup](../_ingredients/tomato-soup.md), undiluted                             |
+| 28 oz    | [diced tomatoes](../_ingredients/diced%20tomatoes.md)                                |
+| 1 Tbsp   | [chili powder](../_ingredients/chili%20powder.md), divided                           |
+| 1 tsp    | [oregano](../_ingredients/oregano.md)                                                |
+| 1 tsp    | [salt](../_ingredients/salt.md)                                                      |
+| 1/2 tsp  | [pepper](../_ingredients/pepper.md)                                                  |
+| 1 tsp    | [sugar](../_ingredients/sugar.md)                                                    |
 
 ## Directions
 

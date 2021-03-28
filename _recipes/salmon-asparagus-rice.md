@@ -12,16 +12,16 @@ Tags: #fish #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                                                                              |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4 filets | [salmon](../Ingredients/salmon.md)                                                                                                                |
-| 1 lb     | [asparagus](../Ingredients/asparagus.md)                                                                                                          |
-| 3 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                                                                                        |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                                                                                        |
-| 1        | [lemon](../Ingredients/lemon.md), thinly sliced                                                                                                   |
-|          | [salt](../Ingredients/salt.md)                                                                                                                    |
-|          | [pepper](../Ingredients/pepper.md)                                                                                                                |
-|          | [dill](../Ingredients/dill.md), [thyme](../Ingredients/thyme.md), [rosemary](../Ingredients/rosemary.md), or [parsley](../Ingredients/parsley.md) |
+| Quantity | Item                                                                                                                                                  |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4 filets | [salmon](../_ingredients/salmon.md)                                                                                                                   |
+| 1 lb     | [asparagus](../_ingredients/asparagus.md)                                                                                                             |
+| 3 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                                                                                                           |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced                                                                                                           |
+| 1        | [lemon](../_ingredients/lemon.md), thinly sliced                                                                                                      |
+|          | [salt](../_ingredients/salt.md)                                                                                                                       |
+|          | [pepper](../_ingredients/pepper.md)                                                                                                                   |
+|          | [dill](../_ingredients/dill.md), [thyme](../_ingredients/thyme.md), [rosemary](../_ingredients/rosemary.md), or [parsley](../_ingredients/parsley.md) |
 
 ## Directions
 

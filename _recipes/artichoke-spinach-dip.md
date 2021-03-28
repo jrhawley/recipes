@@ -12,20 +12,20 @@ Tags: #sauce #condiment
 
 ## Ingredients
 
-| Quantity | Item                                                                      |
-| -------- | ------------------------------------------------------------------------- |
-| 8 oz     | [cream cheese](../Ingredients/cream%20cheese.md) (single package)         |
-| 1/4 cup  | [sour cream](../Ingredients/sour%20cream.md)                              |
-| 1/4 cup  | [parmesan](../Ingredients/parmesan.md), grated                            |
-| 1/4 cup  | [Romano cheese](../Ingredients/romano.md), grated                         |
-| 1 clove  | [garlic](../Ingredients/garlic.md), minced                                |
-| 1/2 tsp  | dried [basil](../Ingredients/basil.md)                                    |
-| 1/4 tsp  | [garlic salt](../Ingredients/garlic%20salt.md)                            |
-|          | [salt](../Ingredients/salt.md)                                            |
-|          | [pepper](../Ingredients/pepper.md)                                        |
-| 14 oz    | [artichoke hearts](../Ingredients/artichoke%20hearts.md)                  |
-| 1/2 cup  | frozen [spinach](../Ingredients/spinach.md), chopped, thawed, and drained |
-| 1/4 cup  | [mozzarella](../Ingredients/mozzarella.md), grated                        |
+| Quantity | Item                                                                       |
+| -------- | -------------------------------------------------------------------------- |
+| 8 oz     | [cream cheese](../_ingredients/cream%20cheese.md) (single package)         |
+| 1/4 cup  | [sour cream](../_ingredients/sour%20cream.md)                              |
+| 1/4 cup  | [parmesan](../_ingredients/parmesan.md), grated                            |
+| 1/4 cup  | [Romano cheese](../_ingredients/romano.md), grated                         |
+| 1 clove  | [garlic](../_ingredients/garlic.md), minced                                |
+| 1/2 tsp  | dried [basil](../_ingredients/basil.md)                                    |
+| 1/4 tsp  | [garlic salt](../_ingredients/garlic%20salt.md)                            |
+|          | [salt](../_ingredients/salt.md)                                            |
+|          | [pepper](../_ingredients/pepper.md)                                        |
+| 14 oz    | [artichoke hearts](../_ingredients/artichoke%20hearts.md)                  |
+| 1/2 cup  | frozen [spinach](../_ingredients/spinach.md), chopped, thawed, and drained |
+| 1/4 cup  | [mozzarella](../_ingredients/mozzarella.md), grated                        |
 
 ## Directions
 

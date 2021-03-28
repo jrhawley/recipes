@@ -14,31 +14,31 @@ Tags: #chicken #dinner
 
 ### Sauce
 
-| Quantity | Item                                                                                                         |
-| -------- | ------------------------------------------------------------------------------------------------------------ |
-| 2 Tbsp   | [honey](../Ingredients/honey.md)                                                                             |
-| 1/4 tsp  | [salt](../Ingredients/salt.md)                                                                               |
-| 2 Tbsp   | [soy sauce](../Ingredients/soy%20sauce.md)                                                                   |
-| 1 Tbsp   | [ketchup](../Ingredients/ketchup.md)                                                                         |
-| 1 tsp    | [vinegar](../Ingredients/vinegar.md)                                                                         |
-| 1 Tbsp   | [Sriracha sauce](../Ingredients/sriracha.md)                                                                 |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                                                   |
-| 1 Tbsp   | [Hoisin sauce](../Ingredients/Hoisin-sauce.md)                                                               |
-| 1 Tbsp   | [oyster sauce](../Ingredients/oyster-sauce.md)                                                               |
-| 1/4 cup  | [chicken broth](../Ingredients/chicken%20broth.md) or [vegetable broth](../Ingredients/vegetable%20broth.md) |
+| Quantity | Item                                                                                                           |
+| -------- | -------------------------------------------------------------------------------------------------------------- |
+| 2 Tbsp   | [honey](../_ingredients/honey.md)                                                                              |
+| 1/4 tsp  | [salt](../_ingredients/salt.md)                                                                                |
+| 2 Tbsp   | [soy sauce](../_ingredients/soy%20sauce.md)                                                                    |
+| 1 Tbsp   | [ketchup](../_ingredients/ketchup.md)                                                                          |
+| 1 tsp    | [vinegar](../_ingredients/vinegar.md)                                                                          |
+| 1 Tbsp   | [Sriracha sauce](../_ingredients/sriracha.md)                                                                  |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced                                                                    |
+| 1 Tbsp   | [Hoisin sauce](../_ingredients/Hoisin-sauce.md)                                                                |
+| 1 Tbsp   | [oyster sauce](../_ingredients/oyster-sauce.md)                                                                |
+| 1/4 cup  | [chicken broth](../_ingredients/chicken%20broth.md) or [vegetable broth](../_ingredients/vegetable%20broth.md) |
 
 ### Chicken
 
-| Quantity | Item                                                         |
-| -------- | ------------------------------------------------------------ |
-| 1 cup    | [chicken](../Ingredients/chicken.md), minced                 |
-| 1        | small [onion](../Ingredients/onion.md), diced                |
-| 1 Tbsp   | [ginger](../Ingredients/ginger.md), grated                   |
-| 4 cloves | [garlic](../Ingredients/garlic.md), minced                   |
-| 2 Tbsp   | [vegetable oil](../Ingredients/vegetable%20oil.md)           |
-| 1 pinch  | [red pepper flakes](../Ingredients/red%20pepper%20flakes.md) |
-| 1 stalk  | [green onion](../Ingredients/green%20onion.md)               |
-|          | [sesame seeds](../Ingredients/sesame%20seeds.md), garnish    |
+| Quantity | Item                                                          |
+| -------- | ------------------------------------------------------------- |
+| 1 cup    | [chicken](../_ingredients/chicken.md), minced                 |
+| 1        | small [onion](../_ingredients/onion.md), diced                |
+| 1 Tbsp   | [ginger](../_ingredients/ginger.md), grated                   |
+| 4 cloves | [garlic](../_ingredients/garlic.md), minced                   |
+| 2 Tbsp   | [vegetable oil](../_ingredients/vegetable%20oil.md)           |
+| 1 pinch  | [red pepper flakes](../_ingredients/red%20pepper%20flakes.md) |
+| 1 stalk  | [green onion](../_ingredients/green%20onion.md)               |
+|          | [sesame seeds](../_ingredients/sesame%20seeds.md), garnish    |
 
 ## Directions
 

@@ -12,16 +12,16 @@ Tags: #smoothie #fruit
 
 ## Ingredients
 
-| Quantity | Item                                                         |
-| -------- | ------------------------------------------------------------ |
-| 2        | [bananas](../Ingredients/banana.md) (or 3/2 cups of berries) |
-| 1 cup    | vanilla [yogurt](../Ingredients/yogurt.md)                   |
-| 3/2 cup  | [milk](../Ingredients/milk.md)                               |
-| 1/2 Tbsp | ground [cinnamon](../Ingredients/cinnamon.md)                |
-| 1/2 Tbsp | ground [nutmeg](../Ingredients/nutmeg.md)                    |
-| 4 Tbsp   | [honey](../Ingredients/honey.md)                             |
-| 1 cup    | [ice cubes](../Ingredients/ice.md)                           |
-| 1 tsp    | [vanilla extract](../Ingredients/vanilla%20extract.md)       |
+| Quantity | Item                                                          |
+| -------- | ------------------------------------------------------------- |
+| 2        | [bananas](../_ingredients/banana.md) (or 3/2 cups of berries) |
+| 1 cup    | vanilla [yogurt](../_ingredients/yogurt.md)                   |
+| 3/2 cup  | [milk](../_ingredients/milk.md)                               |
+| 1/2 Tbsp | ground [cinnamon](../_ingredients/cinnamon.md)                |
+| 1/2 Tbsp | ground [nutmeg](../_ingredients/nutmeg.md)                    |
+| 4 Tbsp   | [honey](../_ingredients/honey.md)                             |
+| 1 cup    | [ice cubes](../_ingredients/ice.md)                           |
+| 1 tsp    | [vanilla extract](../_ingredients/vanilla%20extract.md)       |
 
 ## Directions
 

@@ -16,29 +16,29 @@ Tags: #vegetarian #vegan #dinner
 
 ### Thai peanut sauce
 
-| Quantity | Item                                               |
-| -------- | -------------------------------------------------- |
-| 1 clove  | [garlic](../Ingredients/garlic.md), minced         |
-| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)         |
-| 3 Tbsp   | [peanut butter](../Ingredients/peanut%20butter.md) |
-| 2 tsp    | [ginger](../Ingredients/ginger.md), grated         |
-| 3 Tbsp   | [lime juice](../Ingredients/lime%20juice.md)       |
-| 3 Tbsp   | [soy sauce](../Ingredients/soy%20sauce.md)         |
-| 1 tsp    | [sugar](../Ingredients/sugar.md)                   |
+| Quantity | Item                                                |
+| -------- | --------------------------------------------------- |
+| 1 clove  | [garlic](../_ingredients/garlic.md), minced         |
+| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)         |
+| 3 Tbsp   | [peanut butter](../_ingredients/peanut%20butter.md) |
+| 2 tsp    | [ginger](../_ingredients/ginger.md), grated         |
+| 3 Tbsp   | [lime juice](../_ingredients/lime%20juice.md)       |
+| 3 Tbsp   | [soy sauce](../_ingredients/soy%20sauce.md)         |
+| 1 tsp    | [sugar](../_ingredients/sugar.md)                   |
 
 ### Salad
 
-| Quantity | Item                                                      |
-| -------- | --------------------------------------------------------- |
-| 1 cup    | [rice](../Ingredients/rice.md)                            |
-| 16 oz    | [edamame beans](../Ingredients/edamame.md)                |
-| 1        | red [bell pepper](../Ingredients/bell%20pepper.md), diced |
-| 1/2      | [cucumber](../Ingredients/cucumber.md), diced             |
-| 1        | [carrot](../Ingredients/carrot.md), juilienned            |
-| 4        | [green onions](../Ingredients/green%20onion.md)           |
-| 1/4 cup  | [parsley](../Ingredients/parsley.md), chopped             |
-|          | [olive oil](../Ingredients/olive%20oil.md)                |
-|          | [sesame seeds](../Ingredients/sesame%20seeds.md)          |
+| Quantity | Item                                                       |
+| -------- | ---------------------------------------------------------- |
+| 1 cup    | [rice](../_ingredients/rice.md)                            |
+| 16 oz    | [edamame beans](../_ingredients/edamame.md)                |
+| 1        | red [bell pepper](../_ingredients/bell%20pepper.md), diced |
+| 1/2      | [cucumber](../_ingredients/cucumber.md), diced             |
+| 1        | [carrot](../_ingredients/carrot.md), juilienned            |
+| 4        | [green onions](../_ingredients/green%20onion.md)           |
+| 1/4 cup  | [parsley](../_ingredients/parsley.md), chopped             |
+|          | [olive oil](../_ingredients/olive%20oil.md)                |
+|          | [sesame seeds](../_ingredients/sesame%20seeds.md)          |
 
 ## Directions
 

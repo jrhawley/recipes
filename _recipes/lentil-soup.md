@@ -12,25 +12,25 @@ Tags: #dinner #soup #slow-cooker
 
 ## Ingredients
 
-| Quantity | Item                                                              |
-| -------- | ----------------------------------------------------------------- |
-| 4 cup    | [vegetable broth](../Ingredients/vegetable%20broth.md)            |
-| 14 oz    | [diced tomatoes](../Ingredients/diced%20tomatoes.md), with juices |
-| 1        | [onion](../Ingredients/onion.md)                                  |
-| 1        | [carrot](../Ingredients/carrot.md), diced                         |
-| 1 stalk  | [celery](../Ingredients/celery.md)                                |
-| 1 cup    | [lentils](../Ingredients/lentils.md)                              |
-| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                        |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                        |
-| 1 tsp    | [salt](../Ingredients/salt.md)                                    |
-| 1 tsp    | [tomato paste](../Ingredients/tomato%20paste.md)                  |
-| 1        | [bay leaf](../Ingredients/bay%20leaf.md)                          |
-| 1/2 tsp  | [cumin](../Ingredients/cumin.md)                                  |
-| 1/2 tsp  | [coriander](../Ingredients/coriander.md)                          |
-| 1/4 tsp  | [paprika](../Ingredients/paprika.md)                              |
-| 2 tsp    | [red wine vinegar](../Ingredients/red%20wine%20vinegar.md)        |
-|          | [Greek yogurt](../Ingredients/greek%20yogurt.md)                  |
-|          | [parsley](../Ingredients/parsley.md)                              |
+| Quantity | Item                                                               |
+| -------- | ------------------------------------------------------------------ |
+| 4 cup    | [vegetable broth](../_ingredients/vegetable%20broth.md)            |
+| 14 oz    | [diced tomatoes](../_ingredients/diced%20tomatoes.md), with juices |
+| 1        | [onion](../_ingredients/onion.md)                                  |
+| 1        | [carrot](../_ingredients/carrot.md), diced                         |
+| 1 stalk  | [celery](../_ingredients/celery.md)                                |
+| 1 cup    | [lentils](../_ingredients/lentils.md)                              |
+| 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                        |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced                        |
+| 1 tsp    | [salt](../_ingredients/salt.md)                                    |
+| 1 tsp    | [tomato paste](../_ingredients/tomato%20paste.md)                  |
+| 1        | [bay leaf](../_ingredients/bay%20leaf.md)                          |
+| 1/2 tsp  | [cumin](../_ingredients/cumin.md)                                  |
+| 1/2 tsp  | [coriander](../_ingredients/coriander.md)                          |
+| 1/4 tsp  | [paprika](../_ingredients/paprika.md)                              |
+| 2 tsp    | [red wine vinegar](../_ingredients/red%20wine%20vinegar.md)        |
+|          | [Greek yogurt](../_ingredients/greek%20yogurt.md)                  |
+|          | [parsley](../_ingredients/parsley.md)                              |
 
 ## Directions
 

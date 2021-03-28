@@ -12,21 +12,21 @@ Tags: #gluten-free #vegetarian #lunch #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                     |
-| -------- | ------------------------------------------------------------------------ |
-| 1 cup    | [quinoa](../Ingredients/quinoa.md) or [barley](../Ingredients/barley.md) |
-| 10 oz    | [kale](../Ingredients/kale.md) or [parsley](../Ingredients/parsley.md)   |
-| 1/2      | [red onion](../Ingredients/red%20onion.md)                                 |
-| 6 stalks | [green onion](../Ingredients/green%20onion.md)                             |
-| 15 oz    | [black beans](../Ingredients/black%20beans.md)                             |
-| 15 oz    | [chickpeas](../Ingredients/chickpeas.md)                                 |
-| 100 g    | [feta](../Ingredients/feta.md)                                           |
-|          | [salt](../Ingredients/salt.md)                                           |
-|          | [pepper](../Ingredients/pepper.md)                                       |
-|          | [cumin](../Ingredients/cumin.md)                                         |
-|          | [lemon](../Ingredients/lemon.md)                                         |
-|          | [cayenne pepper](../Ingredients/cayenne%20pepper.md)                       |
-|          | [chili pepper](../Ingredients/chili%20pepper.md)                           |
+| Quantity | Item                                                                       |
+| -------- | -------------------------------------------------------------------------- |
+| 1 cup    | [quinoa](../_ingredients/quinoa.md) or [barley](../_ingredients/barley.md) |
+| 10 oz    | [kale](../_ingredients/kale.md) or [parsley](../_ingredients/parsley.md)   |
+| 1/2      | [red onion](../_ingredients/red%20onion.md)                                |
+| 6 stalks | [green onion](../_ingredients/green%20onion.md)                            |
+| 15 oz    | [black beans](../_ingredients/black%20beans.md)                            |
+| 15 oz    | [chickpeas](../_ingredients/chickpeas.md)                                  |
+| 100 g    | [feta](../_ingredients/feta.md)                                            |
+|          | [salt](../_ingredients/salt.md)                                            |
+|          | [pepper](../_ingredients/pepper.md)                                        |
+|          | [cumin](../_ingredients/cumin.md)                                          |
+|          | [lemon](../_ingredients/lemon.md)                                          |
+|          | [cayenne pepper](../_ingredients/cayenne%20pepper.md)                      |
+|          | [chili pepper](../_ingredients/chili%20pepper.md)                          |
 
 ## Directions
 

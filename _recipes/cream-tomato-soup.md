@@ -16,38 +16,38 @@ Tags: #soup #vegetarian #vegan
 
 ### Chickpea croutons
 
-| Quantity | Item                                                      |
-| -------- | --------------------------------------------------------- |
-| 15 oz    | [chickpeas](../Ingredients/chickpeas.md), drained, rinsed |
-| 1 tsp    | [olive oil](../Ingredients/olive%20oil.md)                |
-| 1/2 tsp  | dried [oregano](../Ingredients/oregano.md)                |
-| 1/8 tsp  | [cayenne pepper](../Ingredients/cayenne%20pepper.md)      |
-| 1 tsp    | [garlic powder](../Ingredients/garlic-powder.md)          |
-| 1/4 tsp  | [onion powder](../Ingredients/onion-powder.md)            |
-| 1 tsp    | fine grain sea [salt](../Ingredients/salt.md)             |
+| Quantity | Item                                                       |
+| -------- | ---------------------------------------------------------- |
+| 15 oz    | [chickpeas](../_ingredients/chickpeas.md), drained, rinsed |
+| 1 tsp    | [olive oil](../_ingredients/olive%20oil.md)                |
+| 1/2 tsp  | dried [oregano](../_ingredients/oregano.md)                |
+| 1/8 tsp  | [cayenne pepper](../_ingredients/cayenne%20pepper.md)      |
+| 1 tsp    | [garlic powder](../_ingredients/garlic-powder.md)          |
+| 1/4 tsp  | [onion powder](../_ingredients/onion-powder.md)            |
+| 1 tsp    | fine grain sea [salt](../_ingredients/salt.md)             |
 
 ### Tomato soup
 
-| Quantity | Item                                                                             |
-| -------- | -------------------------------------------------------------------------------- |
-| 1 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)                                       |
-| 1        | [yellow onion](../Ingredients/yellow-onion.md), diced                            |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                                       |
-| 1/2 cup  | [cashews](../Ingredients/cashews.md), soaked                                     |
-| 2 cups   | [vegetable broth](../Ingredients/vegetable%20broth.md)                           |
-| 28 oz    | [whole peeled tomatoes](../Ingredients/whole%20peeled%20tomatoes.md) with juices |
-| 1/4 cup  | oil-packed [sundried tomatoes](../Ingredients/sundried-tomatoes.md)              |
-| 2 oz     | [tomato paste](../Ingredients/tomato%20paste.md)                                 |
-| 1 tsp    | dried [oregano](../Ingredients/oregano.md)                                       |
-| 1 tsp    | fine grain sea [salt](../Ingredients/salt.md)                                    |
-| 1 tsp    | [pepper](../Ingredients/pepper.md)                                               |
-| 1/2 tsp  | dried [thyme](../Ingredients/thyme.md)                                           |
+| Quantity | Item                                                                              |
+| -------- | --------------------------------------------------------------------------------- |
+| 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                                       |
+| 1        | [yellow onion](../_ingredients/yellow-onion.md), diced                            |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced                                       |
+| 1/2 cup  | [cashews](../_ingredients/cashews.md), soaked                                     |
+| 2 cups   | [vegetable broth](../_ingredients/vegetable%20broth.md)                           |
+| 28 oz    | [whole peeled tomatoes](../_ingredients/whole%20peeled%20tomatoes.md) with juices |
+| 1/4 cup  | oil-packed [sundried tomatoes](../_ingredients/sundried-tomatoes.md)              |
+| 2 oz     | [tomato paste](../_ingredients/tomato%20paste.md)                                 |
+| 1 tsp    | dried [oregano](../_ingredients/oregano.md)                                       |
+| 1 tsp    | fine grain sea [salt](../_ingredients/salt.md)                                    |
+| 1 tsp    | [pepper](../_ingredients/pepper.md)                                               |
+| 1/2 tsp  | dried [thyme](../_ingredients/thyme.md)                                           |
 
 ### Garnish
 
-* fresh [basil](../Ingredients/basil.md)
-* [olive oil](../Ingredients/olive%20oil.md)
-* [pepper](../Ingredients/pepper.md)
+* fresh [basil](../_ingredients/basil.md)
+* [olive oil](../_ingredients/olive%20oil.md)
+* [pepper](../_ingredients/pepper.md)
 
 ## Directions
 

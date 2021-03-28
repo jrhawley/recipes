@@ -12,15 +12,15 @@ Tags: #breakfast
 
 ## Ingredients
 
-| Quantity | Item                                             |
-| -------- | ------------------------------------------------ |
-| 1 cup    | [flour](../Ingredients/flour.md)                 |
-| 1 tsp    | [baking powder](../Ingredients/baking%20powder.md) |
-| 1/2 tsp  | [baking soda](../Ingredients/baking%20soda.md)     |
-| 1/4 tsp  | [salt](../Ingredients/salt.md)                   |
-| 1 cup    | [milk](../Ingredients/milk.md)                   |
-| 1        | [egg](../Ingredients/egg.md)                     |
-| 1.5 tbp  | [butter](../Ingredients/butter.md), melted       |
+| Quantity | Item                                                |
+| -------- | --------------------------------------------------- |
+| 1 cup    | [flour](../_ingredients/flour.md)                   |
+| 1 tsp    | [baking powder](../_ingredients/baking%20powder.md) |
+| 1/2 tsp  | [baking soda](../_ingredients/baking%20soda.md)     |
+| 1/4 tsp  | [salt](../_ingredients/salt.md)                     |
+| 1 cup    | [milk](../_ingredients/milk.md)                     |
+| 1        | [egg](../_ingredients/egg.md)                       |
+| 1.5 tbp  | [butter](../_ingredients/butter.md), melted         |
 
 ## Directions
 

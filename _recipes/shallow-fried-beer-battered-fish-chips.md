@@ -12,24 +12,24 @@ Tags: #fish #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                       |
-| -------- | -------------------------------------------------------------------------- |
-| 2 filets | [cod](../Ingredients/cod.md) or [haddock](../Ingredients/haddock.md)       |
-| 1        | [egg](../Ingredients/egg.md)                                               |
-| 1 cup    | [flour](../Ingredients/flour.md), separated                                |
-| 1 tsp    | [baking powder](../Ingredients/baking%20powder.md)                           |
-| 3/2 tsp  | [curry powder](../Ingredients/curry%20powder.md), optional                   |
-| 150 mL   | [beer](../Ingredients/beer.md)                                             |
-| 2        | yukon gold [potatoes](../Ingredients/potato.md)                            |
-| 1/2 cup  | [sunflower oil](../Ingredients/sunflower%20oil.md)                           |
-| 2        | [shallots](../Ingredients/shallots.md)                                     |
-| 1        | [lemon](../Ingredients/lemon.md)                                           |
-|          | [salt](../Ingredients/salt.md)                                             |
-|          | [creme fraiche](../Ingredients/creme%20fraiche.md)                           |
-|          | [mayonnaise](../Ingredients/mayonnaise.md)                                 |
-|          | [gherkin pickles](../Ingredients/gherkin%20pickles.md)                       |
-|          | [capers](../Ingredients/capers.md) or [parsley](../Ingredients/parsley.md) |
-|          | [tabasco sauce](../Ingredients/tabasco.md), optional                 |
+| Quantity | Item                                                                         |
+| -------- | ---------------------------------------------------------------------------- |
+| 2 filets | [cod](../_ingredients/cod.md) or [haddock](../_ingredients/haddock.md)       |
+| 1        | [egg](../_ingredients/egg.md)                                                |
+| 1 cup    | [flour](../_ingredients/flour.md), separated                                 |
+| 1 tsp    | [baking powder](../_ingredients/baking%20powder.md)                          |
+| 3/2 tsp  | [curry powder](../_ingredients/curry%20powder.md), optional                  |
+| 150 mL   | [beer](../_ingredients/beer.md)                                              |
+| 2        | yukon gold [potatoes](../_ingredients/potato.md)                             |
+| 1/2 cup  | [sunflower oil](../_ingredients/sunflower%20oil.md)                          |
+| 2        | [shallots](../_ingredients/shallots.md)                                      |
+| 1        | [lemon](../_ingredients/lemon.md)                                            |
+|          | [salt](../_ingredients/salt.md)                                              |
+|          | [creme fraiche](../_ingredients/creme%20fraiche.md)                          |
+|          | [mayonnaise](../_ingredients/mayonnaise.md)                                  |
+|          | [gherkin pickles](../_ingredients/gherkin%20pickles.md)                      |
+|          | [capers](../_ingredients/capers.md) or [parsley](../_ingredients/parsley.md) |
+|          | [tabasco sauce](../_ingredients/tabasco.md), optional                        |
 
 ## Directions
 

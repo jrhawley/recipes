@@ -16,26 +16,26 @@ Tags: #slow-cooker #diner
 
 ### Main
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 4        | [chicken breasts](../Ingredients/chicken%20breast.md)       |
-| 16 oz    | baby [red potatoes](../Ingredients/red-potatoes.md), halved |
-| 16 oz    | baby [carrots](../Ingredients/carrot.md)                    |
-| 16 oz    | [green beans](../Ingredients/green%20beans.md), trimmed     |
-| 2 Tbsp   | [parsley](../Ingredients/parsley.md), chopped               |
+| Quantity | Item                                                         |
+| -------- | ------------------------------------------------------------ |
+| 4        | [chicken breasts](../_ingredients/chicken%20breast.md)       |
+| 16 oz    | baby [red potatoes](../_ingredients/red-potatoes.md), halved |
+| 16 oz    | baby [carrots](../_ingredients/carrot.md)                    |
+| 16 oz    | [green beans](../_ingredients/green%20beans.md), trimmed     |
+| 2 Tbsp   | [parsley](../_ingredients/parsley.md), chopped               |
 
 ### Sauce
 
-| Quantity | Item                                                         |
-| -------- | ------------------------------------------------------------ |
-| 1/2 cup  | [soy sauce](../Ingredients/soy%20sauce.md)                   |
-| 1/2 cup  | [honey](../Ingredients/honey.md)                             |
-| 1/4 cup  | [ketchup](../Ingredients/ketchup.md)                         |
-| 2 cloves | [garlic](../Ingredients/garlic.md), minced                   |
-| 1 tsp    | [basil](../Ingredients/basil.md)                             |
-| 1/2 tsp  | [oregano](../Ingredients/oregano.md)                         |
-| 1/4 tsp  | [red pepper flakes](../Ingredients/red%20pepper%20flakes.md) |
-| 1/4 tsp  | [pepper](../Ingredients/pepper.md)                           |
+| Quantity | Item                                                          |
+| -------- | ------------------------------------------------------------- |
+| 1/2 cup  | [soy sauce](../_ingredients/soy%20sauce.md)                   |
+| 1/2 cup  | [honey](../_ingredients/honey.md)                             |
+| 1/4 cup  | [ketchup](../_ingredients/ketchup.md)                         |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced                   |
+| 1 tsp    | [basil](../_ingredients/basil.md)                             |
+| 1/2 tsp  | [oregano](../_ingredients/oregano.md)                         |
+| 1/4 tsp  | [red pepper flakes](../_ingredients/red%20pepper%20flakes.md) |
+| 1/4 tsp  | [pepper](../_ingredients/pepper.md)                           |
 
 ## Directions
 

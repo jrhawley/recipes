@@ -14,26 +14,26 @@ Tags: #fish #dinner
 
 ### Cod
 
-| Quantity | Item                                 |
-| -------- | ------------------------------------ |
-| 1/4 cup  | [flour](../Ingredients/flour.md)     |
-| 1 tsp    | [salt](../Ingredients/salt.md)       |
-| 1/2 tsp  | [pepper](../Ingredients/pepper.md)   |
-| 1/4 tsp  | [paprika](../Ingredients/paprika.md) |
-| 4        | [cod](../Ingredients/cod.md) filets  |
+| Quantity | Item                                  |
+| -------- | ------------------------------------- |
+| 1/4 cup  | [flour](../_ingredients/flour.md)     |
+| 1 tsp    | [salt](../_ingredients/salt.md)       |
+| 1/2 tsp  | [pepper](../_ingredients/pepper.md)   |
+| 1/4 tsp  | [paprika](../_ingredients/paprika.md) |
+| 4        | [cod](../_ingredients/cod.md) filets  |
 
 ### Tartar sauce
 
-| Quantity | Item                                             |
-| -------- | ------------------------------------------------ |
-| 1/3 cup  | [sour cream](../Ingredients/sour%20cream.md)     |
-| 1/4 cup  | [mayonnaise](../Ingredients/mayonnaise.md)       |
-| 2 Tbsp   | [relish](../Ingredients/relish.md)               |
-| 1 tsp    | [parsley](../Ingredients/parsley.md), chopped    |
-| 1 tsp    | [capers](../Ingredients/capers.md), drained      |
-| 1/2 tsp  | [lemon zest](../Ingredients/lemon.md)            |
-| 1 tsp    | [lemon juice](../Ingredients/lemon%20juice.md)   |
-| 1/4 tsp  | [garlic powder](../Ingredients/garlic-powder.md) |
+| Quantity | Item                                              |
+| -------- | ------------------------------------------------- |
+| 1/3 cup  | [sour cream](../_ingredients/sour%20cream.md)     |
+| 1/4 cup  | [mayonnaise](../_ingredients/mayonnaise.md)       |
+| 2 Tbsp   | [relish](../_ingredients/relish.md)               |
+| 1 tsp    | [parsley](../_ingredients/parsley.md), chopped    |
+| 1 tsp    | [capers](../_ingredients/capers.md), drained      |
+| 1/2 tsp  | [lemon zest](../_ingredients/lemon.md)            |
+| 1 tsp    | [lemon juice](../_ingredients/lemon%20juice.md)   |
+| 1/4 tsp  | [garlic powder](../_ingredients/garlic-powder.md) |
 
 ## Directions
 

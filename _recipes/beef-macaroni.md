@@ -12,19 +12,19 @@ Tags: #beef #pasta #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                          |
-| -------- | ------------------------------------------------------------- |
-| 3/2 cups | [macaroni](../Ingredients/macaroni.md)                        |
-| 2 Tbsp   | [vegetable oil](../Ingredients/vegetable%20oil.md)              |
-| 1        | [onion](onion.md), sliced                                     |
-| 1        | small [green pepper](../Ingredients/bell%20pepper.md), slivered |
-| 1 clove  | [garlic](../Ingredients/garlic.md), minced                    |
-| 1 lb     | [ground beef](../Ingredients/ground%20beef.md)                  |
-| 1 tsp    | [oregano](../Ingredients/oregano.md)                          |
-| 1 tsp    | [salt](../Ingredients/salt.md)                                |
-| 1/4 tsp  | [pepper](../Ingredients/pepper.md)                            |
-| 800 mL   | [canned tomatoes](../Ingredients/tomato.md)                   |
-| 150 mL   | [tomato paste](../Ingredients/tomato%20paste.md)                |
+| Quantity | Item                                                             |
+| -------- | ---------------------------------------------------------------- |
+| 3/2 cups | [macaroni](../_ingredients/macaroni.md)                          |
+| 2 Tbsp   | [vegetable oil](../_ingredients/vegetable%20oil.md)              |
+| 1        | [onion](onion.md), sliced                                        |
+| 1        | small [green pepper](../_ingredients/bell%20pepper.md), slivered |
+| 1 clove  | [garlic](../_ingredients/garlic.md), minced                      |
+| 1 lb     | [ground beef](../_ingredients/ground%20beef.md)                  |
+| 1 tsp    | [oregano](../_ingredients/oregano.md)                            |
+| 1 tsp    | [salt](../_ingredients/salt.md)                                  |
+| 1/4 tsp  | [pepper](../_ingredients/pepper.md)                              |
+| 800 mL   | [canned tomatoes](../_ingredients/tomato.md)                     |
+| 150 mL   | [tomato paste](../_ingredients/tomato%20paste.md)                |
 
 ## Directions
 

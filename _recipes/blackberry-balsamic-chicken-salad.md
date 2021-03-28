@@ -16,37 +16,37 @@ Tags: #salad #chicken #lunch #dinner
 
 ### Vinaigrette
 
-| Quantity | Item                                                     |
-| -------- | -------------------------------------------------------- |
-| 1/2 cup  | [blackberries](../Ingredients/blackberry.md)             |
-| 2 Tbsp   | [balsamic vinegar](../Ingredients/balsamic%20vinegar.md) |
-| 2 Tbsp   | [olive oil](../Ingredients/olive%20oil.md)               |
-| 2 Tbsp   | [honey](../Ingredients/honey.md)                         |
-| 2 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)       |
-| 1 tsp    | [soy sauce](../Ingredients/soy%20sauce.md)               |
-| 1 clove  | [garlic](../Ingredients/garlic.md), minced               |
-|          | [salt](../Ingredients/salt.md)                           |
-|          | [pepper](../Ingredients/pepper.md)                       |
+| Quantity | Item                                                      |
+| -------- | --------------------------------------------------------- |
+| 1/2 cup  | [blackberries](../_ingredients/blackberry.md)             |
+| 2 Tbsp   | [balsamic vinegar](../_ingredients/balsamic%20vinegar.md) |
+| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)               |
+| 2 Tbsp   | [honey](../_ingredients/honey.md)                         |
+| 2 tsp    | [dijon mustard](../_ingredients/dijon%20mustard.md)       |
+| 1 tsp    | [soy sauce](../_ingredients/soy%20sauce.md)               |
+| 1 clove  | [garlic](../_ingredients/garlic.md), minced               |
+|          | [salt](../_ingredients/salt.md)                           |
+|          | [pepper](../_ingredients/pepper.md)                       |
 
 ### Cheese
 
-| Quantity | Item                                                                   |
-| -------- | ---------------------------------------------------------------------- |
-| 8 oz     | [goat cheese](../Ingredients/goat%20cheese.md), sliced into 1/4" discs |
-| 1/4 cup  | [flour](../Ingredients/flour.md)                                       |
-| 1        | [egg](../Ingredients/egg.md), lightly beaten                           |
-| 1 cup    | [breadcrumbs](../Ingredients/breadcrumbs.md)                           |
+| Quantity | Item                                                                    |
+| -------- | ----------------------------------------------------------------------- |
+| 8 oz     | [goat cheese](../_ingredients/goat%20cheese.md), sliced into 1/4" discs |
+| 1/4 cup  | [flour](../_ingredients/flour.md)                                       |
+| 1        | [egg](../_ingredients/egg.md), lightly beaten                           |
+| 1 cup    | [breadcrumbs](../_ingredients/breadcrumbs.md)                           |
 
 ### Salad
 
-| Quantity | Item                                                                                                                      |
-| -------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1/2 lbs  | [chicken breasts](../Ingredients/chicken%20breast.md)                                                                     |
-| 6 cups   | [lettuce](../Ingredients/lettuce.md) or [spinach](../Ingredients/spinach.md)                                              |
-| 1 cup    | [blackberries](../Ingredients/blackberry.md)                                                                              |
-| 1 cup    | [avocado](../Ingredients/avocado.md)                                                                                      |
-| 1/4 cup  | [red onion](../Ingredients/red%20onion.md), sliced                                                                        |
-| 1/4 cup  | [walnuts](../Ingredients/walnuts.md), [pistachios](../Ingredients/pistachios.md), or [almonds](../Ingredients/almonds.md) |
+| Quantity | Item                                                                                                                         |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1/2 lbs  | [chicken breasts](../_ingredients/chicken%20breast.md)                                                                       |
+| 6 cups   | [lettuce](../_ingredients/lettuce.md) or [spinach](../_ingredients/spinach.md)                                               |
+| 1 cup    | [blackberries](../_ingredients/blackberry.md)                                                                                |
+| 1 cup    | [avocado](../_ingredients/avocado.md)                                                                                        |
+| 1/4 cup  | [red onion](../_ingredients/red%20onion.md), sliced                                                                          |
+| 1/4 cup  | [walnuts](../_ingredients/walnuts.md), [pistachios](../_ingredients/pistachios.md), or [almonds](../_ingredients/almonds.md) |
 
 ## Directions
 

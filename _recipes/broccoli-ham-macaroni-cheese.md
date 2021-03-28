@@ -12,22 +12,22 @@ Tags: #ham #pasta #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                 |
-| -------- | ---------------------------------------------------- |
-| 2 Tbsp   | [butter](../Ingredients/butter.md), divided          |
-| 1        | small [onion](../Ingredients/onion.md), minced       |
-| 1/4 cup  | [flour](../Ingredients/flour.md)                     |
-| 4/3 cup  | [milk](../Ingredients/milk.md)                       |
-| 370 mL   | [evaporated milk](../Ingredients/evaporated-milk.md) |
-| 1 cup    | [cheddar](../Ingredients/cheddar.md), shredded       |
-| 1/3 cup  | [parmesan](../Ingredients/parmesan.md)               |
-| 1 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)     |
-| 1/2 tsp  | [salt](../Ingredients/salt.md)                       |
-| 1/2 tsp  | [pepper](../Ingredients/pepper.md)                   |
-| 2 cup    | [macaroni](../Ingredients/macaroni.md)               |
-| 3 cup    | [broccoli florets](../Ingredients/broccoli.md)       |
-| 1 cup    | [ham](../Ingredients/ham.md), diced                  |
-| 1 cup    | [breadcrumbs](../Ingredients/breadcrumbs.md)         |
+| Quantity | Item                                                  |
+| -------- | ----------------------------------------------------- |
+| 2 Tbsp   | [butter](../_ingredients/butter.md), divided          |
+| 1        | small [onion](../_ingredients/onion.md), minced       |
+| 1/4 cup  | [flour](../_ingredients/flour.md)                     |
+| 4/3 cup  | [milk](../_ingredients/milk.md)                       |
+| 370 mL   | [evaporated milk](../_ingredients/evaporated-milk.md) |
+| 1 cup    | [cheddar](../_ingredients/cheddar.md), shredded       |
+| 1/3 cup  | [parmesan](../_ingredients/parmesan.md)               |
+| 1 tsp    | [dijon mustard](../_ingredients/dijon%20mustard.md)   |
+| 1/2 tsp  | [salt](../_ingredients/salt.md)                       |
+| 1/2 tsp  | [pepper](../_ingredients/pepper.md)                   |
+| 2 cup    | [macaroni](../_ingredients/macaroni.md)               |
+| 3 cup    | [broccoli florets](../_ingredients/broccoli.md)       |
+| 1 cup    | [ham](../_ingredients/ham.md), diced                  |
+| 1 cup    | [breadcrumbs](../_ingredients/breadcrumbs.md)         |
 
 ## Directions
 

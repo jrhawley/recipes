@@ -14,19 +14,19 @@ Tags: #appetizer #potato #fries
 
 ## Ingredients
 
-| Quantity  | Item                                                 |
-| --------- | ---------------------------------------------------- |
-| 6 Tbsp    | [olive oil](../Ingredients/olive%20oil.md), divided  |
-| 3         | large [Russet potatoes](../Ingredients/potato.md)    |
-| 3 cloves  | [garlic](../Ingredients/garlic.md), minced           |
-|           | [salt](../Ingredients/salt.md)                       |
-|           | [pepper](../Ingredients/pepper.md)                   |
-|           | [thyme](../Ingredients/thyme.md)                     |
-|           | [oregano](../Ingredients/oregano.md)                 |
-|           | [cayenne pepper](../Ingredients/cayenne%20pepper.md) |
-|           | [feta](../Ingredients/feta.md), crumbled             |
-| 1 handful | [parsley](../Ingredients/parsley.md)                 |
-|           | [Tzatziki sauce](../tzatziki%20sauce.md)             |
+| Quantity  | Item                                                  |
+| --------- | ----------------------------------------------------- |
+| 6 Tbsp    | [olive oil](../_ingredients/olive%20oil.md), divided  |
+| 3         | large [Russet potatoes](../_ingredients/potato.md)    |
+| 3 cloves  | [garlic](../_ingredients/garlic.md), minced           |
+|           | [salt](../_ingredients/salt.md)                       |
+|           | [pepper](../_ingredients/pepper.md)                   |
+|           | [thyme](../_ingredients/thyme.md)                     |
+|           | [oregano](../_ingredients/oregano.md)                 |
+|           | [cayenne pepper](../_ingredients/cayenne%20pepper.md) |
+|           | [feta](../_ingredients/feta.md), crumbled             |
+| 1 handful | [parsley](../_ingredients/parsley.md)                 |
+|           | [Tzatziki sauce](../tzatziki%20sauce.md)              |
 
 ## Directions
 

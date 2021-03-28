@@ -12,19 +12,19 @@ Tags: #chicken #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                  |
-| -------- | ----------------------------------------------------- |
-| 2 tsp    | [fish sauce](../Ingredients/fish-sauce.md)            |
-| 2 Tbsp   | [oyster sauce](../Ingredients/oyster-sauce.md)        |
-| 2 Tbsp   | [vegetable oil](../Ingredients/vegetable%20oil.md)    |
-| 1 tsp    | [sugar](../Ingredients/sugar.md)                      |
-| 1 lb     | [chicken breasts](../Ingredients/chicken%20breast.md) |
-| 1 pkg    | [rice noodles](../Ingredients/rice-noodles.md)        |
-| 1        | [lime](../Ingredients/lime.md)                        |
-| 1/2 cup  | [peanuts](../Ingredients/peanuts.md), chopped         |
-| 1/2 cup  | [bean sprouts](../Ingredients/bean-sprouts.md)        |
-| 1/4 cup  | [carrots](../Ingredients/carrot.md), shredded         |
-| 2        | [eggs](../Ingredients/cherry%20tomato.md)             |
+| Quantity | Item                                                   |
+| -------- | ------------------------------------------------------ |
+| 2 tsp    | [fish sauce](../_ingredients/fish-sauce.md)            |
+| 2 Tbsp   | [oyster sauce](../_ingredients/oyster-sauce.md)        |
+| 2 Tbsp   | [vegetable oil](../_ingredients/vegetable%20oil.md)    |
+| 1 tsp    | [sugar](../_ingredients/sugar.md)                      |
+| 1 lb     | [chicken breasts](../_ingredients/chicken%20breast.md) |
+| 1 pkg    | [rice noodles](../_ingredients/rice-noodles.md)        |
+| 1        | [lime](../_ingredients/lime.md)                        |
+| 1/2 cup  | [peanuts](../_ingredients/peanuts.md), chopped         |
+| 1/2 cup  | [bean sprouts](../_ingredients/bean-sprouts.md)        |
+| 1/4 cup  | [carrots](../_ingredients/carrot.md), shredded         |
+| 2        | [eggs](../_ingredients/cherry%20tomato.md)             |
 
 ## Directions
 

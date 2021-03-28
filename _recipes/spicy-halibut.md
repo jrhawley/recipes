@@ -12,15 +12,15 @@ Tags: #fish #dinner
 
 ## Ingredients
 
-| Quantity | Item                                              |
-| -------- | ------------------------------------------------- |
-| 1 slice  | applewood smoked [bacon](../Ingredients/bacon.md) |
-| 1/2 tsp  | [salt](../Ingredients/salt.md)                    |
-| 1/2 tsp  | [paprika](../Ingredients/paprika.md)              |
-| 1/4 tsp  | [pepper](../Ingredients/pepper.md)                |
-| 2 tsp    | [garlic](../Ingredients/garlic.md), minced        |
-| 4 filets | [halibut](../Ingredients/halibut.md)              |
-| 4 oz     | baby [spinach](../Ingredients/spinach.md)         |
+| Quantity | Item                                               |
+| -------- | -------------------------------------------------- |
+| 1 slice  | applewood smoked [bacon](../_ingredients/bacon.md) |
+| 1/2 tsp  | [salt](../_ingredients/salt.md)                    |
+| 1/2 tsp  | [paprika](../_ingredients/paprika.md)              |
+| 1/4 tsp  | [pepper](../_ingredients/pepper.md)                |
+| 2 tsp    | [garlic](../_ingredients/garlic.md), minced        |
+| 4 filets | [halibut](../_ingredients/halibut.md)              |
+| 4 oz     | baby [spinach](../_ingredients/spinach.md)         |
 
 ## Directions
 

@@ -12,21 +12,21 @@ Tags: #pasta #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                         |
-| -------- | -------------------------------------------------------------------------------------------- |
-| 6 oz     | [farfalle](../Ingredients/farfalle.md), uncooked                                             |
-| 2 cups   | [tomato grapes](../Ingredients/tomato%20grapes.md), halved                                   |
-| 1 cup    | seedless green [grapes](../Ingredients/grapes.md), halved                                    |
-| 1/3 cup  | fresh [basil](../Ingredients/basil.md), thinly sliced                                        |
-| 2 Tbsp   | [balsamic vinegar](../Ingredients/balsamic%20vinegar.md)                                     |
-| 2 Tbsp   | [shallots](../Ingredients/shallot.md) or [red onion](../Ingredients/red%20onion.md), chopped |
-| 2 tsp    | [capers](../Ingredients/capers.md)                                                           |
-| 1 tsp    | [dijon mustard](../Ingredients/dijon%20mustard.md)                                           |
-| 1 clove  | [garlic](../Ingredients/garlic.md). minced                                                   |
-| 4 oz     | [feta](../Ingredients/feta.md), crumbled                                                     |
-|          | [salt](../Ingredients/salt.md)                                                               |
-|          | [pepper](../Ingredients/pepper.md)                                                           |
-|          | [olive oil](../Ingredients/olive%20oil.md)                                                   |
+| Quantity | Item                                                                                           |
+| -------- | ---------------------------------------------------------------------------------------------- |
+| 6 oz     | [farfalle](../_ingredients/farfalle.md), uncooked                                              |
+| 2 cups   | [tomato grapes](../_ingredients/tomato%20grapes.md), halved                                    |
+| 1 cup    | seedless green [grapes](../_ingredients/grapes.md), halved                                     |
+| 1/3 cup  | fresh [basil](../_ingredients/basil.md), thinly sliced                                         |
+| 2 Tbsp   | [balsamic vinegar](../_ingredients/balsamic%20vinegar.md)                                      |
+| 2 Tbsp   | [shallots](../_ingredients/shallot.md) or [red onion](../_ingredients/red%20onion.md), chopped |
+| 2 tsp    | [capers](../_ingredients/capers.md)                                                            |
+| 1 tsp    | [dijon mustard](../_ingredients/dijon%20mustard.md)                                            |
+| 1 clove  | [garlic](../_ingredients/garlic.md). minced                                                    |
+| 4 oz     | [feta](../_ingredients/feta.md), crumbled                                                      |
+|          | [salt](../_ingredients/salt.md)                                                                |
+|          | [pepper](../_ingredients/pepper.md)                                                            |
+|          | [olive oil](../_ingredients/olive%20oil.md)                                                    |
 
 ## Directions
 

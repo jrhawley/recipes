@@ -12,15 +12,15 @@ Tags: #steak #basics #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                       |
-| -------- | ---------------------------------------------------------- |
-| 1/4 cup  | [olive oil](../Ingredients/olive%20oil.md)                 |
-| 2 Tbsp   | [balsamic vinegar](../Ingredients/balsamic%20vinegar.md)   |
-| 2 cloves | [garlic](../Ingredients/garlic.md), peeled, crushed        |
-| 1 tsp    | [Italian seasoning](../Ingredients/italian%20seasoning.md) |
-|          | [salt](../Ingredients/salt.md)                             |
-|          | [pepper](../Ingredients/pepper.md)                         |
-| 2        | [steaks](../Ingredients/steak.md)                          |
+| Quantity | Item                                                        |
+| -------- | ----------------------------------------------------------- |
+| 1/4 cup  | [olive oil](../_ingredients/olive%20oil.md)                 |
+| 2 Tbsp   | [balsamic vinegar](../_ingredients/balsamic%20vinegar.md)   |
+| 2 cloves | [garlic](../_ingredients/garlic.md), peeled, crushed        |
+| 1 tsp    | [Italian seasoning](../_ingredients/italian%20seasoning.md) |
+|          | [salt](../_ingredients/salt.md)                             |
+|          | [pepper](../_ingredients/pepper.md)                         |
+| 2        | [steaks](../_ingredients/steak.md)                          |
 
 ## Directions
 

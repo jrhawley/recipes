@@ -12,15 +12,15 @@ Tags: #dinner #vegetarian
 
 ## Ingredients
 
-| Quantity | Item                                                      |
-| -------- | --------------------------------------------------------- |
-| 4        | medium [sweet potatoes](../Ingredients/sweet-potatoes.md) |
-| 3 Tbsp   | [butter](../Ingredients/butter.md), melted                |
-| 4 cloves | [garlic](../Ingredients/garlic.md)                        |
-| 1 Tbsp   | fresh [parsley](../Ingredients/parsley.md), chopped       |
-| 2 Tbsp   | [parmesan](../Ingredients/parmesan.md)                    |
-|          | [salt](../Ingredients/salt.md), to taste                  |
-|          | [pepper](../Ingredients/pepper.md), to taste              |
+| Quantity | Item                                                       |
+| -------- | ---------------------------------------------------------- |
+| 4        | medium [sweet potatoes](../_ingredients/sweet-potatoes.md) |
+| 3 Tbsp   | [butter](../_ingredients/butter.md), melted                |
+| 4 cloves | [garlic](../_ingredients/garlic.md)                        |
+| 1 Tbsp   | fresh [parsley](../_ingredients/parsley.md), chopped       |
+| 2 Tbsp   | [parmesan](../_ingredients/parmesan.md)                    |
+|          | [salt](../_ingredients/salt.md), to taste                  |
+|          | [pepper](../_ingredients/pepper.md), to taste              |
 
 ## Directions
 
