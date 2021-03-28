@@ -49,7 +49,7 @@ Tags: #chicken #dinner
 
 ## References
 
-1. Original source: Wendy McNeil
+1. Original recipe:  Wendy McNeil
 
 ## Notes
 

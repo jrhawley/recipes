@@ -33,4 +33,4 @@ Tags: #vegetarian #dinner
 
 ## References & Notes
 
-1. Original source: Wendy McNeil
+1. Original recipe:  Wendy McNeil
