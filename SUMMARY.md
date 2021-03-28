@@ -103,6 +103,7 @@
 # Baked goods
 
 - [Breads]()
+  - [No-knead bread](_recipes/no-knead-bread.md)
   - [Banana bread](_recipes/banana-bread.md)
   - [Pumpkin bread](_recipes/pumpkin-bread.md)
 - [Sweets]()
