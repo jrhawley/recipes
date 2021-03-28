@@ -108,7 +108,7 @@
   - [Pumpkin bread](_recipes/pumpkin-bread.md)
 - [Sweets]()
   - [Reese's peanut butter bars](_recipes/reeses-peanut-butter-bars.md)
-  - [Gingersnaps](Recipes/gingersnaps.md)
+  - [Gingersnaps](_recipes/gingersnaps.md)
 - [Muffins]()
   - [Pumpkin muffins](_recipes/pumpkin-muffins.md)
 - [Pies]()
