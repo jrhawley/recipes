@@ -6,7 +6,7 @@
 | Cook Time | 45 min     |
 | Yields    | 12 falafel |
 
-![black bean quinoa falafel](../assets/black-bean-quinoa-falafel.jpg)
+![black bean quinoa falafel](../_assets/black-bean-quinoa-falafel.jpg)
 
 Added: 2020-09-24
 

@@ -6,7 +6,7 @@
 | Cook Time | 15 min     |
 | Yields    | 4 servings |
 
-![Cream of tomato soup](../assets/cream-tomato.jpg)
+![Cream of tomato soup](../_assets/cream-tomato.jpg)
 
 Added: 2018-04-07
 

@@ -6,7 +6,7 @@
 | Cook Time | 4 h        |
 | Yields    | 8 servings |
 
-![Lasagna](../assets/lasagna.jpg)
+![Lasagna](../_assets/lasagna.jpg)
 
 Added: 2019-03-23
 

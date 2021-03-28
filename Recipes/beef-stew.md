@@ -6,7 +6,7 @@
 | Cook Time | 7 h        |
 | Yields    | 4 servings |
 
-![Beef stew](../assets/beef-stew.jpg)
+![Beef stew](../_assets/beef-stew.jpg)
 
 Added: 2018-02-03
 

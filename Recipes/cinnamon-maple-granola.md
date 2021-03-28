@@ -6,7 +6,7 @@
 | Cook Time | 35 mins |
 | Yields    | 4 cups  |
 
-![Cinnamon maple granola](../assets/cinnamon-maple-granola.jpg)
+![Cinnamon maple granola](../_assets/cinnamon-maple-granola.jpg)
 
 Added: 2019-05-21 09:41
 

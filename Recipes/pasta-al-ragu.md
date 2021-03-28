@@ -8,7 +8,7 @@ Pasta in bolognese sauce
 | Cook Time | 6 h        |
 | Yields    | 6 servings |
 
-![Pasta al ragu](../assets/pasta-al-ragu.jpg)
+![Pasta al ragu](../_assets/pasta-al-ragu.jpg)
 
 Added: 2020-11-01
 

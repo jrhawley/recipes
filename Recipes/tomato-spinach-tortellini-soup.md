@@ -6,7 +6,7 @@
 | Cook Time | 20 min     |
 | Yields    | 4 servings |
 
-![Tomato spinach tortellini soup](../assets/tomato-spinach-tortellini-soup.jpg)
+![Tomato spinach tortellini soup](../_assets/tomato-spinach-tortellini-soup.jpg)
 
 Added: 2020-10-20
 

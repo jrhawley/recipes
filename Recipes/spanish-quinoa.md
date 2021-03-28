@@ -6,7 +6,7 @@
 | Cook Time | 20 min     |
 | Yields    | 4 servings |
 
-![Spanish quinoa](../assets/spanish-quinoa.jpg)
+![Spanish quinoa](../_assets/spanish-quinoa.jpg)
 
 Added: 2020-05-21
 

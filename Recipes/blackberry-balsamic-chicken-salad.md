@@ -6,7 +6,7 @@
 | Cook Time | 10 min     |
 | Yields    | 4 servings |
 
-![Blackberry balsamic chicken salad](../assets/blackberry-balsamic-salad.jpg)
+![Blackberry balsamic chicken salad](../_assets/blackberry-balsamic-salad.jpg)
 
 Added: 2019-08-12
 

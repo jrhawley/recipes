@@ -6,7 +6,7 @@
 | Cook Time | 5 h        |
 | Yields    | 8 servings |
 
-![Pulled pork](../assets/pulled-pork.jpg)
+![Pulled pork](../_assets/pulled-pork.jpg)
 
 Added: 2017-12-03
 

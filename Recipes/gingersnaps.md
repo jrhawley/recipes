@@ -6,7 +6,7 @@
 | Cook Time | 10 min     |
 | Yields    | 36 cookies |
 
-![Gingersnaps](../assets/gingersnaps.jpg)
+![Gingersnaps](../_assets/gingersnaps.jpg)
 
 Added: 2018-12-18 09:16
 
@@ -21,7 +21,7 @@ Tags: #cookies #dessert
 | 1/4 cup  | Crosby's fancy [molasses](../Ingredients/molasses.md) |
 | 1        | [egg](../Ingredients/egg.md)                          |
 | 2 cup    | [flour](../Ingredients/flour.md)                      |
-| 2 tsp    | [baking soda](../Ingredients/baking%20soda.md)          |
+| 2 tsp    | [baking soda](../Ingredients/baking%20soda.md)        |
 | 1/2 tsp  | [salt](../Ingredients/salt.md)                        |
 | 1/2 tsp  | [cinnamon](../Ingredients/cinnamon.md)                |
 | 1/4 tsp  | ground [cloves](../Ingredients/cloves.md)             |

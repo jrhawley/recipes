@@ -6,7 +6,7 @@
 | Cook Time | 30 min     |
 | Yields    | 4 servings |
 
-![Carrot ginger soup](../assets/carrot-ginger.jpg)
+![Carrot ginger soup](../_assets/carrot-ginger.jpg)
 
 Added: 2018-03-26
 

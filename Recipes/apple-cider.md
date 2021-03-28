@@ -7,9 +7,9 @@
 | Serves    | 8      |
 | Cost      | $7     |
 
-![Apple cider](../assets/slow-cooker-apple-cider.jpg)
+![Apple cider](../_assets/slow-cooker-apple-cider.jpg)
 
-Added: 2017-10-15 15:48
+Added: 2017-10-15
 
 Tags: #beverage #cider #slow-cooker
 

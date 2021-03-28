@@ -1,6 +1,6 @@
 # Cinnamon maple whiskey sour
 
-![Cinnamon maple whiskey sour](../assets/cinnamon-maple-whiskey-sour.jpg)
+![Cinnamon maple whiskey sour](../_assets/cinnamon-maple-whiskey-sour.jpg)
 
 Added: 2020-10-09
 

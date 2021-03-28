@@ -6,7 +6,7 @@
 | Cook Time | 20 min     |
 | Yields    | 2 servings |
 
-![Roasted chickpeas stuff avocado](../assets/roasted-chickpeas-stuff-avocado.jpg)
+![Roasted chickpeas stuff avocado](../_assets/roasted-chickpeas-stuff-avocado.jpg)
 
 Added: 2017-08-22
 

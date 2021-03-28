@@ -6,7 +6,7 @@
 | Cook Time | 4 h        |
 | Yields    | 4 servings |
 
-![Honey garlic chicken and veggies](../assets/honey-garlic-chicken-veggies.jpg)
+![Honey garlic chicken and veggies](../_assets/honey-garlic-chicken-veggies.jpg)
 
 Added: 2019-12-07
 

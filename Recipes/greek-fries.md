@@ -6,7 +6,7 @@
 | Cook Time | 40 min     |
 | Yields    | 3 servings |
 
-![Greek fries](../assets/greek-fries.jpg)
+![Greek fries](../_assets/greek-fries.jpg)
 
 Added: 2021-02-26
 

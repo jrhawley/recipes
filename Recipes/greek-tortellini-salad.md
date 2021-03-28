@@ -6,7 +6,7 @@
 | Cook Time | 0 min      |
 | Yields    | 4 servings |
 
-![Greek tortellini salad](../assets/greek-tortellini.jpg)
+![Greek tortellini salad](../_assets/greek-tortellini.jpg)
 
 Added: 2017-01-21
 

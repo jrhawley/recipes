@@ -6,7 +6,7 @@
 | Cook Time | 25 min     |
 | Yields    | 4 servings |
 
-![Chicken chickpea traybake](../assets/chicken-chickpea-traybake.jpg)
+![Chicken chickpea traybake](../_assets/chicken-chickpea-traybake.jpg)
 
 Added: 2017-02-10
 

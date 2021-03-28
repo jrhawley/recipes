@@ -6,7 +6,7 @@
 | Cook Time | 40 min     |
 | Yields    | 4 servings |
 
-![Chicken fried rice](../assets/chicken-fried-rice.jpg)
+![Chicken fried rice](../_assets/chicken-fried-rice.jpg)
 
 Added: 2020-07-12
 

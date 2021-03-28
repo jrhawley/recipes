@@ -6,7 +6,7 @@
 | Cook Time | 10 min     |
 | Yields    | 4 servings |
 
-![Thai veggie bowl](../assets/thai-veggie-bowl.jpg)
+![Thai veggie bowl](../_assets/thai-veggie-bowl.jpg)
 
 Added: 2020-03-13
 
