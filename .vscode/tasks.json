@@ -29,10 +29,7 @@
         {
             "label": "Build",
             "type": "shell",
-            "command": "mdbook",
-            "args": [
-                "build",
-            ],
+            "command": "Remove-Item -Recurse -Force docs; mdbook build",
             "problemMatcher": [],
             "group": {
                 "kind": "build",
