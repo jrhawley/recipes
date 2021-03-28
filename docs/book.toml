@@ -1,0 +1,35 @@
+[book]
+authors = ["James Hawley"]
+language = "en"
+multilingual = false
+src = "."
+title = "Recipe Book - James Hawley"
+
+[preprocessor.links]
+renderers = ["html"]
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+mathjax-support = false
+git-repository-url = "https://github.com/jrhawley/recipes"
+
+[output.html.print]
+enable = true
+
+[output.html.fold]
+enable = false
+level = 0
+
+[output.html.playground]
+editable = false
+copy-js = true
+line-numbers = false
+
+[output.html.search]
+enable = true
+limit-results = 30
+
+[build]
+build-dir = "docs"
+
