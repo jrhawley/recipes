@@ -51,4 +51,4 @@ Tags: #vegetarian #vegan #dinner
 
 ## References & Notes
 
-1. Oh She Glows
+1. Original recipe: Oh She Glows
