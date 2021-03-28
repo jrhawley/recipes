@@ -7,7 +7,7 @@
 | Yields    | 4 servings |
 | Cost      |            |
 
-Added: 2017-01-22 15:25
+Added: 2017-01-22
 
 Tags: #waffles #breakfast
 
@@ -15,14 +15,14 @@ Tags: #waffles #breakfast
 
 | Quantity | Item                                                        |
 | -------- | ----------------------------------------------------------- |
-| 2        | [eggs](../Ingredients/cherry%20tomato.md), large              |
+| 2        | [eggs](../Ingredients/cherry%20tomato.md), large            |
 | 2 cup    | [flour](../Ingredients/flour.md)                            |
-| 2 tsp    | [baking powder](../Ingredients/baking%20powder.md)            |
-| 1/3 cup  | [brown sugar](../Ingredients/brown%20sugar.md)                |
+| 2 tsp    | [baking powder](../Ingredients/baking%20powder.md)          |
+| 1/3 cup  | [brown sugar](../Ingredients/brown%20sugar.md)              |
 | 1/3 cup  | [cocoa powder](../Ingredients/cocoa-powder.md), unsweetened |
 | 1/2 tsp  | [salt](../Ingredients/salt.md)                              |
-| 1/4 cup  | [chocolate chips](../Ingredients/chocolate%20chips.md)        |
-| 1/3 cup  | [olive oil](../Ingredients/olive%20oil.md)                    |
+| 1/4 cup  | [chocolate chips](../Ingredients/chocolate%20chips.md)      |
+| 1/3 cup  | [olive oil](../Ingredients/olive%20oil.md)                  |
 | 7/4 cup  | [milk](../Ingredients/milk.md)                              |
 
 ## Directions

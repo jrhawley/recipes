@@ -6,7 +6,7 @@
 | Cook Time | 1 h    |
 | Yields    | 1 loaf |
 
-Added: 2013-09-21 13:39
+Added: 2013-09-21
 
 Tags: #baking #bread
 

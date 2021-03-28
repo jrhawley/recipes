@@ -6,7 +6,7 @@
 | Cook Time |        |
 | Yields    |        |
 
-Added: 2014-04-24 20:46
+Added: 2014-04-24
 
 Tags: #fudge #dinner
 
@@ -18,10 +18,10 @@ Tags: #fudge #dinner
 | 1/2 tsp  | [nutmeg](../Ingredients/nutmeg.md)                                           |
 | 1 lb     | light [muscovado sugar](../Ingredients/muscovado-sugar.md) (soft dark brown) |
 | 1/2 cup  | [milk](../Ingredients/milk.md)                                               |
-| 1 Tbsp   | [vanilla extract](../Ingredients/vanilla%20extract.md)                         |
-| 1 cup    | extra crunchy [peanut butter](../Ingredients/peanut%20butter.md)               |
+| 1 Tbsp   | [vanilla extract](../Ingredients/vanilla%20extract.md)                       |
+| 1 cup    | extra crunchy [peanut butter](../Ingredients/peanut%20butter.md)             |
 | 5/2 cup  | [powdered sugar](../Ingredients/powdered-sugar.md)                           |
-| 1/2 cup  | semi-sweet [chocolate chips](../Ingredients/chocolate%20chips.md) (optional)   |
+| 1/2 cup  | semi-sweet [chocolate chips](../Ingredients/chocolate%20chips.md) (optional) |
 
 ## Directions
 

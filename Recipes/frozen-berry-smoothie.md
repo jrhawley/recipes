@@ -5,7 +5,7 @@
 | Prep Time | 5 min      |
 | Yields    | 2 servings |
 
-Added: 2015-07-12 19:43
+Added: 2015-07-12
 
 Tags: #beverage #smoothie #fruit
 

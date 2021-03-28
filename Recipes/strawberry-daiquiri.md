@@ -1,6 +1,6 @@
 # Strawberry daiquiri
 
-Added: 2020-05-18 10:40
+Added: 2020-05-18
 
 Tags: #alcoholic #beverage
 

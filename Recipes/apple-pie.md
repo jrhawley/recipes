@@ -8,7 +8,7 @@
 
 ![Apple pie](../_assets/apple-pie.jpg)
 
-Added: 2018-12-18 09:15
+Added: 2018-12-18
 
 Tags: #dessert #pie #baking
 

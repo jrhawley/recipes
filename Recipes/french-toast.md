@@ -6,7 +6,7 @@
 | Cook Time | 5-10 min   |
 | Yields    | 4 servings |
 
-Added: 2013-09-14 00:19
+Added: 2013-09-14
 
 Tags: #breakfast
 
@@ -14,7 +14,7 @@ Tags: #breakfast
 
 | Quantity | Item                                          |
 | -------- | --------------------------------------------- |
-| 2        | [eggs](../Ingredients/cherry%20tomato.md)       |
+| 2        | [eggs](../Ingredients/cherry%20tomato.md)     |
 | 2/3 cup  | [milk](../Ingredients/milk.md)                |
 | 2 tsp    | ground [cinnamon](../Ingredients/cinnamon.md) |
 | 8 slices | [bread](../Ingredients/bread.md)              |

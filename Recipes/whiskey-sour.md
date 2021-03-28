@@ -1,6 +1,6 @@
 # Whiskey sour
 
-Added: 2020-05-18 10:46
+Added: 2020-05-18
 
 Tags: #alcoholic #beverage
 

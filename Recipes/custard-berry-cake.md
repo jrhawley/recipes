@@ -6,7 +6,7 @@
 | Cook Time | 40 min |
 | Yields    |        |
 
-Added: 2013-09-22 00:09
+Added: 2013-09-22
 
 Tags: #custard #dessert
 
@@ -15,14 +15,14 @@ Tags: #custard #dessert
 | Quantity | Item                                                          |
 | -------- | ------------------------------------------------------------- |
 | 2 cup    | frozen [raspberries](../Ingredients/raspberries.md)           |
-| 2        | [eggs](../Ingredients/cherry%20tomato.md)                       |
+| 2        | [eggs](../Ingredients/cherry%20tomato.md)                     |
 | 1 cup    | [milk](../Ingredients/milk.md)                                |
 | 1 cup    | [flour](../Ingredients/flour.md)                              |
 | 3/4 cup  | [sugar](../Ingredients/sugar.md)                              |
 | 3 tbsp   | [butter](../Ingredients/butter.md), melted                    |
 | 1/2 tsp  | [salt](../Ingredients/salt.md)                                |
-| 1 tbsp   | [vanilla extract](../Ingredients/vanilla%20extract.md)          |
-|          | [icing sugar](../Ingredients/icing%20sugar.md) (optional)       |
+| 1 tbsp   | [vanilla extract](../Ingredients/vanilla%20extract.md)        |
+|          | [icing sugar](../Ingredients/icing%20sugar.md) (optional)     |
 |          | low fat vanilla [yogurt](../Ingredients/yogurt.md) (optional) |
 
 ## Directions

@@ -8,7 +8,7 @@
 
 ![Gingersnaps](../_assets/gingersnaps.jpg)
 
-Added: 2018-12-18 09:16
+Added: 2018-12-18
 
 Tags: #cookies #dessert
 

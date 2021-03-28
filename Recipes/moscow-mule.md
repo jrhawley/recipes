@@ -1,6 +1,6 @@
 # Moscow mule
 
-Added: 2020-05-18 10:45
+Added: 2020-05-18
 
 Tags: #alcoholic #beverage
 

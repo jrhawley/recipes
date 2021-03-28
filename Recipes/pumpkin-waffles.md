@@ -6,26 +6,26 @@
 | Cook Time | 1 h      |
 | Yield     | 2 loaves |
 
-Added: 2013-09-12 20:32
+Added: 2013-09-12
 
 Tags: #breakfast
 
 ## Ingredients
 
-| Quantity  | Item                                                   |
-| --------- | ------------------------------------------------------ |
-| 3 cup     | [flour](../Ingredients/flour.md)                       |
-| 1 tsp     | [ground cloves](../Ingredients/cloves.md)              |
-| 2 tsp     | [ground cinnamon](../Ingredients/cinnamon.md)          |
-| 1 tsp     | [ground nutmeg](../Ingredients/nutmeg.md)              |
-| 1/2 tsp   | [salt](../Ingredients/salt.md)                         |
+| Quantity  | Item                                                     |
+| --------- | -------------------------------------------------------- |
+| 3 cup     | [flour](../Ingredients/flour.md)                         |
+| 1 tsp     | [ground cloves](../Ingredients/cloves.md)                |
+| 2 tsp     | [ground cinnamon](../Ingredients/cinnamon.md)            |
+| 1 tsp     | [ground nutmeg](../Ingredients/nutmeg.md)                |
+| 1/2 tsp   | [salt](../Ingredients/salt.md)                           |
 | 1 tsp     | [baking soda](../Ingredients/baking%20soda.md)           |
 | 1/2 tsp   | [baking powder](../Ingredients/baking%20powder.md)       |
 | 3 cup     | [granulated sugar](../Ingredients/granulated%20sugar.md) |
-| 1 cup     | soft [butter](../Ingredients/butter.md)                |
-| 3         | large [eggs](../Ingredients/egg.md)                    |
+| 1 cup     | soft [butter](../Ingredients/butter.md)                  |
+| 3         | large [eggs](../Ingredients/egg.md)                      |
 | 16 oz can | [pumpkin puree](../Ingredients/pumpkin%20puree.md)       |
-| 1/2 cup   | chopped [pecans](../Ingredients/pecan.md) (optional)   |
+| 1/2 cup   | chopped [pecans](../Ingredients/pecan.md) (optional)     |
 
 ## Directions
 

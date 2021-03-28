@@ -1,6 +1,6 @@
 # Simple syrup
 
-Added: 2020-06-03 21:18
+Added: 2020-06-03
 
 Tags: #beverage
 

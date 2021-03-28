@@ -8,7 +8,7 @@
 
 ![Cinnamon maple granola](../_assets/cinnamon-maple-granola.jpg)
 
-Added: 2019-05-21 09:41
+Added: 2019-05-21
 
 Tags: #cereal #granola #baking
 

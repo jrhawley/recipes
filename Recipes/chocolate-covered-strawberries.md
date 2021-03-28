@@ -8,17 +8,17 @@
 
 ![Chocolate covered strawberries](Media/chocolate-covered-strawberries.jpg)
 
-Added: 2018-06-27 02:07
+Added: 2018-06-27
 
 Tags: #dessert #fruit #chocolate
 
 ## Ingredients
 
-| Quantity | Item                                                  |
-| -------- | ----------------------------------------------------- |
-| 16 oz    | [chocolate chips](../Ingredients/chocolate%20chips.md)  |
-| 2 Tbsp   | [shortening](../Ingredients/shortening.md)            |
-| 1 lb     | [strawberries](../Ingredients/strawberries.md), fresh |
+| Quantity | Item                                                   |
+| -------- | ------------------------------------------------------ |
+| 16 oz    | [chocolate chips](../Ingredients/chocolate%20chips.md) |
+| 2 Tbsp   | [shortening](../Ingredients/shortening.md)             |
+| 1 lb     | [strawberries](../Ingredients/strawberries.md), fresh  |
 
 ## Directions
 
