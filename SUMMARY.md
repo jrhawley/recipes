@@ -92,6 +92,8 @@
   - [Chicken lettuce wraps](Recipes/chicken-lettuce-wraps.md)
   - [Lemon garlic chicken](Recipes/lemon-garlic-chicken.md)
   - [Maple cranberry chicken](Recipes/maple-cranberry-chicken.md)
+- [Pork]()
+  - [Pork tenderloin, potatoes, and green beans](Recipes/pork-tenderloin-potatoes-beans.md)
 
 # Sauces & Dips
 
