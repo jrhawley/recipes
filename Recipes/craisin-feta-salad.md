@@ -38,4 +38,5 @@ Tags: #salad #vegetarian #dinner
 1. Place pine nuts in frying pan on low and stir until golden brown
 2. Mix all salad ingredients in a bowl
 3. Mix all dressing ingredients in a small container with a lid
-4. Pour dressing over salad before serving, keeping leftover dressingin the fridge
+4. Pour dressing over salad before serving, keeping leftover dressing in the fridge
+

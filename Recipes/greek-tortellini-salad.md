@@ -25,6 +25,8 @@ Tags: #vegetarian #salad #dinner
 | 1/2      | [red onion](../Ingredients/red%20onion.md)                                    |
 | 3/4 cup  | [feta](../Ingredients/feta.md)                                                |
 
+### Dressing
+
 | Quantity | Item                                                       |
 | -------- | ---------------------------------------------------------- |
 | 1/4 cup  | [olive oil](../Ingredients/olive%20oil.md)                 |
