@@ -4,11 +4,11 @@
 
 # Breakfasts
 
-- [Waffles, pancakes]()
+- [Waffles, pancakes, French toast]()
   - [Buttermilk pancakes or waffles](Recipes/buttermilk-pancakes-waffles.md)
   - [Dark chocolate waffles](Recipes/dark-chocolate-waffles.md)
   - [Pumpkin waffles](Recipes/pumpkin-waffles.md)
-- [French toast](Recipes/french-toast.md)
+  - [French toast](Recipes/french-toast.md)
 - [Cinnamon maple granola](Recipes/cinnamon-maple-granola.md)
 
 # Sides
@@ -29,6 +29,11 @@
   - [Spicy rice](Recipes/spicy-rice.md)
   - [Spanish rice](Recipes/spanish-rice.md)
   - [Spanakorizo rice](Recipes/spanakorizo-rice.md)
+- [Sauces & Dips]()
+  - [Alfredo](Recipes/alfredo-sauce.md)
+  - [Artichoke and spinach dip](Recipes/artichoke-spinach-dip.md)
+  - [Hummus](Recipes/hummus.md)
+  - [Spicy mayo](Recipes/spicy-mayo.md)
 
 # Entrees
 
@@ -94,13 +99,6 @@
   - [Maple cranberry chicken](Recipes/maple-cranberry-chicken.md)
 - [Pork]()
   - [Pork tenderloin, potatoes, and green beans](Recipes/pork-tenderloin-potatoes-beans.md)
-
-# Sauces & Dips
-
-- [Alfredo](Recipes/alfredo-sauce.md)
-- [Artichoke and spinach dip](Recipes/artichoke-spinach-dip.md)
-- [Hummus](Recipes/hummus.md)
-- [Spicy mayo](Recipes/spicy-mayo.md)
 
 # Baked goods
 
