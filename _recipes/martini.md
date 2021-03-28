@@ -21,4 +21,4 @@ Tags: #alcoholic #beverage
 
 ## References & Notes
 
-1. The Periodic Table of Cocktails
+1. Original recipe: The Periodic Table of Cocktails

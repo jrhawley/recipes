@@ -21,5 +21,5 @@ Tags: #alcoholic #beverage
 
 ## References & Notes
 
-1. The Periodic Table of Cocktails
+1. Original recipe: The Periodic Table of Cocktails
 2. The Roby Roy is the made the same way as a Manhattan, just with scotch whiskey instead of bourbon or rye

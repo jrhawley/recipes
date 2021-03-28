@@ -37,5 +37,3 @@ Tags: #soup #sausage #dinner
 3. Add spinach, heavy cream, and tortellini
    1. Cook for 5 min, until tortellini is soft
 4. Garnish with shavings of parmesan cheese and sourdough slices
-
-## References & Notes
