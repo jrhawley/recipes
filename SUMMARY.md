@@ -99,6 +99,7 @@
   - [Maple cranberry chicken](_recipes/maple-cranberry-chicken.md)
 - [Pork]()
   - [Pork tenderloin, potatoes, and green beans](_recipes/pork-tenderloin-potatoes-beans.md)
+  - [Mustard-glazed pork tenderloin](_recipes/mustard-glazed-pork-tenderloin.md)
 
 # Baked goods
 
