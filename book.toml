@@ -32,3 +32,4 @@ limit-results = 30
 
 [build]
 build-dir = "docs"
+
