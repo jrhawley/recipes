@@ -14,7 +14,7 @@ Tags: #dinner #pork
 
 | Quantity | Item                                                              |
 | -------- | ----------------------------------------------------------------- |
-| 400 g    | [pork tenderloin](../_ingredients/pork-tenderloin.md)]            |
+| 400 g    | [pork tenderloin](../_ingredients/pork-tenderloin.md)             |
 | 3 Tbsp   | [brown sugar](../_ingredients/brown%20sugar.md)                   |
 | 2 Tbsp   | [grainy mustard](../_ingredients/mustard.md)                      |
 | 2 tsp    | [rosemary](../_ingredients/rosemary.md)                           |
