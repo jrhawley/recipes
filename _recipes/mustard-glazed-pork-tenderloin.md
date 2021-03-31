@@ -23,7 +23,11 @@ Tags: #dinner #pork
 ## Directions
 
 1. Combine all ingredients in a waterproof bag, let marinate for 15 min, or overnight
-2. 
+2. Heat a large cast iron skillet or grill pan over medium-high heat
+   1. Brush pan with olive oil and add tenderloins
+   2. Reduce heat to medium-low
+   3. Cook, turning tenderloins every 3 to 4 minutes, until deeply caramelized on all sides, about 20 to 25 minutes
+3. Remove and lightly tent with foil; let rest about 10 minutes before cutting into 1/4- to 1/2-inch slices
 
 ## References & Notes
 
