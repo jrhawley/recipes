@@ -1,5 +1,5 @@
 
-Added: 2021-02-17
+Added: 
 
 Tags: #alcoholic #beverage
 
