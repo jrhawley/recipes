@@ -29,7 +29,7 @@ Tags: #soup #vegetarian #dinner
 ## Directions
 
 1. Peel and slice the onions into thin slices
-    1. In a medium skillet on medium-high heat, add the butter, sliced onions, and brown sugar to saute until transluscent and caramelized
+    1. In a medium skillet on medium-high heat, add the butter, sliced onions, and brown sugar to saute until translucent and caramelized
 2. Transfer cooked onions into a slow cooker and add broth, garlic, bay leaf, and thyme
     1. Cover and cook on low for 4-5 h
 3. Serve soup in oven-proof bowls and top with a slice of French bread

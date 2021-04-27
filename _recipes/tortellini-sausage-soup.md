@@ -31,7 +31,7 @@ Tags: #soup #sausage #dinner
 ## Directions
 
 1. Brown sausage until cooked half way through
-   1. Add onions and garlic, cook until transluscent
+   1. Add onions and garlic, cook until translucent
 2. Add chicken stock, crushed tomatoes, and tomato paste
    1. Season with salt and simmer for 5 min
 3. Add spinach, heavy cream, and tortellini

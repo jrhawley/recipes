@@ -35,7 +35,7 @@ Tags: #vegetarian #sandwich #lunch #dinner
 2. Place tomato slices on baking sheet
    1. Drizzle with olive oil, season with salt, pepper, and oregano
    2. Place in oven for 15-20 min
-3. Comine mayo, lemon juice, and garlic, with a dash of salt and pepper in a small bowl
+3. Combine mayo, lemon juice, and garlic, with a dash of salt and pepper in a small bowl
 4. Butter each slice of bread, heat a pan over medium heat and toast for a few minutes
 5. Assemble into a sandwich, slice diagonally, and serve
 

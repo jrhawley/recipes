@@ -34,7 +34,7 @@ Tags: #chili #dinner
 1. Brown the ground beef in the olive oil in a large frying pan over medium heat until no longer pink
      1. Place in a large pot or slow cooker
      2. Do not drain
-2. Sauté onion, celery and green pepper in the drippings, in the same frying pan used for the ground beef, for about 5 min until onion is translucent.
+2. Saute onion, celery and green pepper in the drippings, in the same frying pan used for the ground beef, for about 5 min until onion is translucent.
       1. Add a little of the chili powder.
       2. Add sautéed veggies to the ground beef.
       3. Add kidney beans, tomato soup and tomatoes with the liquid.

@@ -32,19 +32,19 @@ Tags: #dinner #pork #slow-cooker
 ## Directions
 
 1. Mix salt, rosemary, black pepper, and minced garlic in a small bowl
-	1. Rub pork all over with the olive oil and then coat it well with the spice mixture on all sides
+    1. Rub pork all over with the olive oil and then coat it well with the spice mixture on all sides
 2. Heat a pan to medium-high heat
-	2. Sear all sides of the park tenderloin until brown, but don't cook through
-	3. Place onion on the bottom of the slow cooker on one side, and then place the pork on top of the onion
-	4. Gently drizzle the soy sauce and Worcestershire sauce over the pork
+    2. Sear all sides of the park tenderloin until brown, but don't cook through
+    3. Place onion on the bottom of the slow cooker on one side, and then place the pork on top of the onion
+    4. Gently drizzle the soy sauce and Worcestershire sauce over the pork
 3. Use a large piece of foil to make a pocket for the potatoes next to the pork
-	5. Make it large enough so the pork juice doesn’t get into the foil
-	6. Fill the foil with the cubed potatoes and add 1 Tbsp of butter
+    5. Make it large enough so the pork juice doesn’t get into the foil
+    6. Fill the foil with the cubed potatoes and add 1 Tbsp of butter
 4. Cook for 4 h on LOW or until the pork registers 145 F
-	7. Let the pork rest for 3 min
+    7. Let the pork rest for 3 min
 5. While the pork is resting, place the potatoes in a large bowl and add the remaining butter, chopped parsley and salt to taste
-	8. Stir to combine
-	9. Slice the pork and place it on a serving platter
+    8. Stir to combine
+    9. Slice the pork and place it on a serving platter
 
 ## References & Notes
 

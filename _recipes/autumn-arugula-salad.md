@@ -42,14 +42,14 @@ Tags: #salad #vegetarian #summer #dinner
 
 ## Directions
 
-1. Preheat overn to 425 F
- 1. Slice acorn squash into 1 cm chunks, removing seeds
- 2. Place on a baking sheet, cover with olive oil, salt, pepper, and brown sugar
- 3. Place in over, roast for 10 min, flip, and bake for another 10 min
+1. Preheat oven to 425 F
+    1. Slice acorn squash into 1 cm chunks, removing seeds
+    2. Place on a baking sheet, cover with olive oil, salt, pepper, and brown sugar
+    3. Place in over, roast for 10 min, flip, and bake for another 10 min
 2. In a small saucepan over low heat, toss pecans
- 1. Toast until golden and fragment, adding a bit of brown sugar and pumpkin pie spice
+    1. Toast until golden and fragment, adding a bit of brown sugar and pumpkin pie spice
 3. Slice avocado and cucumber, add remaining ingredients into a large bowl
- 1. When the squash is done, cut into smaller pieces and add to salad
+    1. When the squash is done, cut into smaller pieces and add to salad
 4. Combine all vinaigrette ingredients in a small bowl, drizzle over salad as desired
 
 ## References & Notes

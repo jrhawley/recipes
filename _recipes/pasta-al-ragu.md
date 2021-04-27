@@ -71,6 +71,6 @@ Tags: #pasta #dinner
     > The same sauce can be used to prepare lasagna as well.
 2. > Prepare what we [Giacomo] call _soffritto_: very finely diced onion, celery, carrot, and garlic
 3. Not an expensive wine!
-4. Be carefule when cooking the soffritto.
+4. Be careful when cooking the soffritto.
 Soffritto is the base of the sauce, if it burns the entire sauce will be ruined.
 5. Tortiglioni is Francesca's favourite, but tradition would say to serve with tagliatelle

@@ -42,4 +42,4 @@ Tags: #fish #dinner
 2. Heat a large non-stick skillet to medium-high heat
    1. Add a drizzle of olive oil to the pan
    2. Cook fish for 10 min until flaky, flipping halfway through
-3. Combine all tartar sauce incredients in a small bowl and set aside
+3. Combine all tartar sauce ingredients in a small bowl and set aside

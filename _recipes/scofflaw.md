@@ -15,7 +15,7 @@ Tags: #alcoholic #beverage
 
 ## Directions
 
-1. Addingredients to cocktail shaker and shake well
+1. Add ingredients to cocktail shaker and shake well
 2. Add ice and shake well
 3. Double strain into a chilled cocktail glass
 4. Garnish with a twist of lemon peel

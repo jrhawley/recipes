@@ -1,4 +1,4 @@
-# Chicken tetrazini
+# Chicken tetrazzini
 
 | Info      | Amount         |
 | --------- | -------------- |

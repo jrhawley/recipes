@@ -44,7 +44,7 @@ Tags: #dinner #pasta #chicken
     2. Add veggies (minus the garlic) and red pepper flakes to the pan and stir to coat
     3. Cook until the veggies are tender, about 5 min
 4. Add the garlic, salt, and pepper, cook for 1 min
-    1. Deglaze the pan with the white wine
+    1. De-glaze the pan with the white wine
     2. Continue to cook until the wine has reduced by half, ~ 3 min
 5. Stir in the milk and reserved pasta water
     1. Bring the mixture to a gentle boil and allow to simmer and reduce for 2-3 min

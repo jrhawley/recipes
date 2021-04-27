@@ -36,7 +36,7 @@ Tags: #soup #vegetarian #vegan
 | 1/2 cup  | [cashews](../_ingredients/cashews.md), soaked                                     |
 | 2 cups   | [vegetable broth](../_ingredients/vegetable%20broth.md)                           |
 | 28 oz    | [whole peeled tomatoes](../_ingredients/whole%20peeled%20tomatoes.md) with juices |
-| 1/4 cup  | oil-packed [sundried tomatoes](../_ingredients/sundried-tomatoes.md)              |
+| 1/4 cup  | oil-packed [sun-dried tomatoes](../_ingredients/sun-dried%20tomatoes.md)          |
 | 2 oz     | [tomato paste](../_ingredients/tomato%20paste.md)                                 |
 | 1 tsp    | dried [oregano](../_ingredients/oregano.md)                                       |
 | 1 tsp    | fine grain sea [salt](../_ingredients/salt.md)                                    |

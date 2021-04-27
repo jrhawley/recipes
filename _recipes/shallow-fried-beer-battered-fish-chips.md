@@ -52,7 +52,7 @@ Tags: #fish #dinner
    3. Reduce heat, baste top of fish using a metal spoon, cooking for 2 min
 6. While fish is frying, square top and bottom of potatoes
    1. Thinly slice into fries
-   2. Dry with paper towl to remove starch and moisture
+   2. Dry with paper towel to remove starch and moisture
    3. Season with salt and pepper, set aside
 7. Lift fish to edge of the pan to gently flip over
    1. Baste again, let cook for another 2 min

@@ -32,14 +32,14 @@ Tags: #ham #pasta #dinner
 ## Directions
 
 1. In a large saucepan, melt butter over medium heat.
-    1. Cook onion until transluscent
+    1. Cook onion until translucent
 2. Add flour to milk and evaporated milk in a small bowl, and mix together
     1. Mix into saucepan with the onion and stir until thickened
     2. Stir in cheddar, 1/4 cup of parmesan, mustard, salt, and pepper
 3. Preheat oven to 375 F
 4. Meanwhile, in a large pot of boiling water, cook macaroni according to instructions
     1. Add broccoli and cook for 1 min
-    2. Drain and add to sace pan with ham
+    2. Drain and add to saucepan with ham
     3. Stir the entire mixture together to coat
 5. Scrape into greased 8" square baking dish
 6. In a small bowl, combine bread crumbs, remaining parmesan, and melted butter

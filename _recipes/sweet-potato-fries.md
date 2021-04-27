@@ -31,5 +31,5 @@ Tags: #basics #potato #dinner
 
 ## Notes
 
-1. Cut the frist into similar shapes to ensure even cooking
+1. Cut the potatoes into similar shapes to ensure even cooking
 2. Pairs well with [spicy mayo](spicy-mayo.md)

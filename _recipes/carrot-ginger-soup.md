@@ -29,7 +29,7 @@ Tags: #soup #vegan #vegetarian #dinner
 ## Directions
 
 1. Melt butter in a soup pot over medium eat
-   1. Sautee onions and carrots, stirring occasionally
+   1. Saute onions and carrots, stirring occasionally
    2. Do not let them brown
    3. Sprinkle tsp of salt as they cook
 2. Add stock, water, ginger, and orange zest

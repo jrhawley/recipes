@@ -36,11 +36,11 @@ Tags: #rice #vegetarian #bowl #dinner
 
 1. In a large skillet, heat olive oil over medium heat
    1. Add onion, garlic, cumin, oregano, cayenne, and salt
-   2. Sauté until onion is translucent
+   2. Saute until onion is translucent
 2. Add quinoa, diced tomatoes with juices, chickpeas, and vegetable broth
    1. Bring to a low boil
    2. Cover with lid and simmer for 20-30 min, stirring intermittently
-3. Stir in artichoke hearts unteal heated through
+3. Stir in artichoke hearts until heated through
 4. Garnish with juice from one lemon and fresh parsley
 
 ## References & Notes

@@ -22,8 +22,7 @@ Tags: #vegetarian #potatoes dinner
 ## Directions
 
 1. Get a large pot of water to boil.
-	1. Boil potato(s) for 45 min, or until soft throughout
+   1. Boil potato(s) for 45 min, or until soft throughout
 2. Drain water, add butter to the pot and minced garlic.
-	1. Mash with a potato masher, slowly adding milk until smooth and creamy
-1. Serve with salt and pepper
-
+   1. Mash with a potato masher, slowly adding milk until smooth and creamy
+3. Serve with salt and pepper

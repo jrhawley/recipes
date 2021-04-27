@@ -16,14 +16,14 @@ Tags: #vegetarian #salad #dinner
 
 ### Salad
 
-| Quantity | Item                                                                           |
-| -------- | ------------------------------------------------------------------------------ |
-| 20 oz    | [tortellini](../_ingredients/tortellini.md)                                    |
-| 3/2 cups | [cherry tomatoes](../_ingredients/cherry%20tomato.md), cut in half             |
-| 1        | large [cucumber](../_ingredients/cucumber.md), diced                           |
-| 1 cup    | [kalamata olives](../_ingredients/kalamata-olives.md), pit removed and chopped |
-| 1/2      | [red onion](../_ingredients/red%20onion.md)                                    |
-| 3/4 cup  | [feta](../_ingredients/feta.md)                                                |
+| Quantity | Item                                                                             |
+| -------- | -------------------------------------------------------------------------------- |
+| 20 oz    | [tortellini](../_ingredients/tortellini.md)                                      |
+| 3/2 cups | [cherry tomatoes](../_ingredients/cherry%20tomato.md), cut in half               |
+| 1        | large [cucumber](../_ingredients/cucumber.md), diced                             |
+| 1 cup    | [kalamata olives](../_ingredients/kalamata%20olives.md), pit removed and chopped |
+| 1/2      | [red onion](../_ingredients/red%20onion.md)                                      |
+| 3/4 cup  | [feta](../_ingredients/feta.md)                                                  |
 
 ### Dressing
 

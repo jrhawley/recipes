@@ -46,7 +46,7 @@ Tags: #chicken #dinner
    2. Add the rice and peas and stir to combine
    3. Add the cooked chicken, soy sauce, sesame oil and mirin, stir and cook another 2 min
 5. Season to taste with kosher salt and freshly ground black pepper
-6. Push the chicken rice mixture to the sides of the skillet and add 1 tspoil to the middle of the skillet
+6. Push the chicken rice mixture to the sides of the skillet and add 1 tsp of oil to the middle of the skillet
    1. Add the lightly beaten eggs and season with salt & pepper
    2. Scramble the eggs and stir to combine with the chicken/rice mixture.
 7. Cook, stirring continuously, 3-4 minutes, to give time for the flavors to meld

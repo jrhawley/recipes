@@ -27,11 +27,11 @@ Tags: #custard #dessert
 
 ## Directions
 
-1. Pregeat oven to 350 F
-1. Scatter raspberries in greased 11" shallow baking dish
-1. Combine eggs, milk, flour, sugar, butter, vanilla, and salt in a blender
+1. Preheat oven to 350 F
+2. Scatter raspberries in greased 11" shallow baking dish
+3. Combine eggs, milk, flour, sugar, butter, vanilla, and salt in a blender
     1. Blend on medium until smooth
-    1. Could also combine in bowl and whisk
-1. Pour batter evenly over raspberries
-1. Bake for 40 min or until set
-1. Dust with icing sugar and serve warm with a dollop of yogurt
+    2. Could also combine in bowl and whisk
+4. Pour batter evenly over raspberries
+5. Bake for 40 min or until set
+6. Dust with icing sugar and serve warm with a dollop of yogurt

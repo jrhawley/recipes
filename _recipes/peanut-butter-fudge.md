@@ -39,4 +39,4 @@ Tags: #fudge #dinner
 6. Take out fudge onto parchment, cut into 36 pieces
 7. Melt chocolate, add thin layer to the top of each piece
     1. Allow chocolate to set, sprinkle with a few grains of salt
-8. Store in airtight containter
+8. Store in airtight container

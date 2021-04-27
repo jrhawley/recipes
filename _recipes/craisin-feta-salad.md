@@ -39,4 +39,3 @@ Tags: #salad #vegetarian #dinner
 2. Mix all salad ingredients in a bowl
 3. Mix all dressing ingredients in a small container with a lid
 4. Pour dressing over salad before serving, keeping leftover dressing in the fridge
-
