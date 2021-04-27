@@ -1,7 +1,7 @@
 
-Added: 2021-02-17
+Added: {{date}}
 
-Tags: #alcoholic #beverage
+Tags: #beverage
 
 ## Ingredients
 

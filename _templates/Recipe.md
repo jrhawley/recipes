@@ -1,3 +1,4 @@
+# {{title}}
 
 | Info      | Amount |
 | --------- | ------ |
@@ -13,7 +14,7 @@ Tags:
 
 | Quantity | Item |
 | -------- | ---- |
-|          | []() |
+|          |      |
 
 ## Directions
 
