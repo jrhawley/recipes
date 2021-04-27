@@ -40,7 +40,7 @@ Tags: #vegan #lentils #dinner
    2. Saute for 5 - 6 min
 3. Stir in chili powder and cumin
    1. Cook for a minute
-4. Add tomato sauce, raoted red peppers, sun-dried tomatoes, lentils, Worcestershire sauce, brown sugar, salt, and black pepper
+4. Add tomato sauce, roasted red peppers, sun-dried tomatoes, lentils, Worcestershire sauce, brown sugar, salt, and black pepper
    1. Stir to combine
    2. Raise to medium-high heat, bring to a rapid simmer
    3. Reduce the heat to medium, simmer uncovered, stirring occasionally for 5 - 8 min
