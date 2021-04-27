@@ -130,6 +130,7 @@
   - [Cinnamon maple whiskey sour](_recipes/cinnamon-maple-whiskey-sour.md)
   - [El Presidente](_recipes/el-presidente.md)
   - [Gin fizz](_recipes/gin-fizz.md)
+  - [Kahlua hot chocolate](_recipes\kahlua-hot-chocolate.md)
   - [Manhattan](_recipes/manhattan.md)
   - [Martini](_recipes/martini.md)
   - [Moscow mule](_recipes/moscow-mule.md)
