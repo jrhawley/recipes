@@ -14,7 +14,7 @@ Tags: #dessert #pie #baking
 
 ## Ingredients
 
-## Pastry
+### Pastry
 
 | Quantity | Item                                        |
 | -------- | ------------------------------------------- |
@@ -22,7 +22,7 @@ Tags: #dessert #pie #baking
 | 8 cup    | [flour](../_ingredients/flour.md)           |
 | 4 tsp    | [salt](../_ingredients/salt.md)             |
 
-## Filling
+### Filling
 
 | Quantity | Item                                       |
 | -------- | ------------------------------------------ |
@@ -38,7 +38,7 @@ Tags: #dessert #pie #baking
 
 ## Directions
 
-## Crust
+### Crust
 
 1. Sift flour and salt
     1. Cut shortening into small chunks, blend into mixture
@@ -51,7 +51,7 @@ Tags: #dessert #pie #baking
      1. Generously flour the pie plate to stop the dough from binding while baking
      2. Press first pie crust into the plate, slowly
 
-## Pie Filling
+### Pie Filling
 
 1. Pare apples and thinly slice
 1. Combine sugar, flour, spices, and salt

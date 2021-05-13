@@ -12,7 +12,7 @@ Tags: #muffins #pumpkin #baking
 
 ## Ingredients
 
-## Muffins
+### Muffins
 
 | Quantity  | Item                                                                                                     |
 | --------- | -------------------------------------------------------------------------------------------------------- |
@@ -28,7 +28,7 @@ Tags: #muffins #pumpkin #baking
 | 1 tsp     | [baking soda](../_ingredients/baking%20soda.md)                                                          |
 | 1/2 tsp   | [salt](../_ingredients/salt.md)                                                                          |
 
-## Cream Cheese
+### Cream Cheese
 
 | Quantity | Item                                                        |
 | -------- | ----------------------------------------------------------- |

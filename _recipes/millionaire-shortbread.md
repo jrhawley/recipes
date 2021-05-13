@@ -12,7 +12,7 @@ Tags: #shortbread #dessert #chocolate
 
 ## Ingredients
 
-## Shortbread
+### Shortbread
 
 | Quantity | Item                                      |
 | -------- | ----------------------------------------- |
@@ -20,7 +20,7 @@ Tags: #shortbread #dessert #chocolate
 | 2 oz     | [sugar](../_ingredients/sugar.md)         |
 | 6 oz     | [flour](../_ingredients/flour.md)         |
 
-## Caramel
+### Caramel
 
 | Quantity | Item                                                                |
 | -------- | ------------------------------------------------------------------- |
