@@ -14,17 +14,17 @@ Tags: #soup #vegan #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                                                                                |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3 Tbsp   | unsalted [butter](../_ingredients/butter.md)                                                                                                        |
-| 3 lbs    | [carrots](../_ingredients/carrot.md), peeled and thinly sliced                                                                                      |
-| 2 cups   | [onion](../_ingredients/onion.md), diced                                                                                                            |
-|          | [salt](../_ingredients/salt.md)                                                                                                                     |
-| 1 tsp    | [ginger](../_ingredients/ginger.md), minced                                                                                                         |
-| 2 cups   | [chicken broth](../_ingredients/chicken%20broth.md) or [vegetable broth](../_ingredients/vegetable%20broth.md)                                      |
-| 2 cups   | [water](../_ingredients/water.md)                                                                                                                   |
-| 3        | large [orange zest](../_ingredients/orange.md) strips                                                                                               |
-|          | [chives](../_ingredients/chives.md), [dill](../_ingredients/dill.md), [fennel](../_ingredients/fennel.md), or [parsley](../_ingredients/parsley.md) |
+| Quantity | Item                                                           |
+| -------- | -------------------------------------------------------------- |
+| 3 Tbsp   | unsalted [butter](../_ingredients/butter.md)                   |
+| 3 lbs    | [carrots](../_ingredients/carrot.md), peeled and thinly sliced |
+| 2 cups   | [onion](../_ingredients/onion.md), diced                       |
+|          | [salt](../_ingredients/salt.md)                                |
+| 1 tsp    | [ginger](../_ingredients/ginger.md), minced                    |
+| 2 cups   | [chicken broth](../_ingredients/chicken%20broth.md)            |
+| 2 cups   | [water](../_ingredients/water.md)                              |
+| 3        | large [orange zest](../_ingredients/orange.md) strips          |
+|          | [parsley](../_ingredients/parsley.md)                          |
 
 ## Directions
 

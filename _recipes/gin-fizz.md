@@ -11,13 +11,13 @@ Tags: #alcoholic #beverage
 
 ## Ingredients
 
-| Quantity | Item                                                                                             |
-| -------- | ------------------------------------------------------------------------------------------------ |
-| 1.5 oz   | [gin](../_ingredients/gin.md)                                                                    |
-| 1 oz     | [simple syrup](simple-syrup.md)                                                                  |
-| 1 oz     | [lime juice](../_ingredients/lime%20juice.md) or [lemon juice](../_ingredients/lemon%20juice.md) |
-|          | [ice cubes](../_ingredients/ice.md)                                                              |
-| 4 oz     | [club soda](../_ingredients/club-soda.md)                                                        |
+| Quantity | Item                                          |
+| -------- | --------------------------------------------- |
+| 1.5 oz   | [gin](../_ingredients/gin.md)                 |
+| 1 oz     | [simple syrup](simple-syrup.md)               |
+| 1 oz     | [lime juice](../_ingredients/lime%20juice.md) |
+|          | [ice cubes](../_ingredients/ice.md)           |
+| 4 oz     | [club soda](../_ingredients/club-soda.md)     |
 
 ## Directions
 

@@ -38,7 +38,7 @@ Tags: #dinner #pork #slow-cooker
     3. Place onion on the bottom of the slow cooker on one side, and then place the pork on top of the onion
     4. Gently drizzle the soy sauce and Worcestershire sauce over the pork
 3. Use a large piece of foil to make a pocket for the potatoes next to the pork
-    5. Make it large enough so the pork juice doesn’t get into the foil
+    5. Make it large enough so the pork juice doesn't get into the foil
     6. Fill the foil with the cubed potatoes and add 1 Tbsp of butter
 4. Cook for 4 h on LOW or until the pork registers 145 F
     7. Let the pork rest for 3 min

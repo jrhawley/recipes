@@ -21,7 +21,7 @@ Tags: #vegetarian #dinner
 | 12 oz    | diced [pineapple](../_ingredients/pineapple.md)                  |
 | 1 tsp    | [paprika](../_ingredients/paprika.md)                            |
 | 1 Tbsp   | [lime juice](../_ingredients/lime%20juice.md)                    |
-|          | [lettuce](../_ingredients/lettuce.md) or flour wraps             |
+| 4        | [tortillas](../_ingredients/tortilla.md)                         |
 
 ## Directions
 

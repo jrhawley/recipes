@@ -1,10 +1,10 @@
-# Spanish Rice
+# Spanish rice
 
-| Info       | Amount     |
-| ---------- | ---------- |
-| Prep Time: | 5 min      |
-| Cook Time: | 20 min     |
-| Yields:    | 5 servings |
+| Info      | Amount     |
+| --------- | ---------- |
+| Prep Time | 5 min      |
+| Cook Time | 20 min     |
+| Yields    | 5 servings |
 
 Added: 2013-09-14
 

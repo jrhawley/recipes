@@ -12,16 +12,16 @@ Tags: #beef #slow-cooker #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                                       |
-| -------- | ---------------------------------------------------------------------------------------------------------- |
-| 2 lbs    | [ground beef](../_ingredients/ground%20beef.md)                                                            |
-| 2        | [onions](../_ingredients/onion.md), diced                                                                  |
-| 2 cloves | [garlic](../_ingredients/garlic.md), minced                                                                |
-| 1 cup    | [beef consomme](../_ingredients/beef%20consomme.md) or [beef bouillon](../_ingredients/beef%20bouillon.md) |
-| 3 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)                                                          |
-| 2 Tbsp   | [flour](../_ingredients/flour.md)                                                                          |
-|          | [salt](../_ingredients/salt.md)                                                                            |
-|          | [pepper](../_ingredients/pepper.md)                                                                        |
+| Quantity | Item                                                |
+| -------- | --------------------------------------------------- |
+| 2 lbs    | [ground beef](../_ingredients/ground%20beef.md)     |
+| 2        | [onions](../_ingredients/onion.md), diced           |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced         |
+| 1 cup    | [beef consomme](../_ingredients/beef%20consomme.md) |
+| 3 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)   |
+| 2 Tbsp   | [flour](../_ingredients/flour.md)                   |
+|          | [salt](../_ingredients/salt.md)                     |
+|          | [pepper](../_ingredients/pepper.md)                 |
 
 ## Directions
 

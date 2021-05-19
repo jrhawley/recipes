@@ -12,17 +12,17 @@ Tags: #sandwich #vegetarian #lunch #dinner
 
 ## Ingredients
 
-| Quantity  | Item                                                                           |
-| --------- | ------------------------------------------------------------------------------ |
-| 15 oz     | [chickpeas](../_ingredients/chickpeas.md), drained, rinsed                     |
-| 1         | large ripe [avocado](../_ingredients/avocado.md)                               |
-| 2 tsp     | [lemon juice](../_ingredients/lemon%20juice.md)                                |
-| 1/4 cup   | [dried cranberries](../_ingredients/cranberry.md)                              |
-| 1 handful | [spinach](../_ingredients/spinach.md) or [arugula](../_ingredients/arugula.md) |
-| 1/8       | [red onion](../_ingredients/red%20onion.md), sliced                            |
-| 4 slices  | [French bread](../_ingredients/french%20bread.md)                              |
-|           | [salt](../_ingredients/salt.md)                                                |
-|           | [pepper](../_ingredients/pepper.md)                                            |
+| Quantity  | Item                                                       |
+| --------- | ---------------------------------------------------------- |
+| 15 oz     | [chickpeas](../_ingredients/chickpeas.md), drained, rinsed |
+| 1         | large ripe [avocado](../_ingredients/avocado.md)           |
+| 2 tsp     | [lemon juice](../_ingredients/lemon%20juice.md)            |
+| 1/4 cup   | [dried cranberries](../_ingredients/cranberry.md)          |
+| 1 handful | [arugula](../_ingredients/arugula.md)                      |
+| 1/8       | [red onion](../_ingredients/red%20onion.md), sliced        |
+| 4 slices  | [French bread](../_ingredients/french%20bread.md)          |
+|           | [salt](../_ingredients/salt.md)                            |
+|           | [pepper](../_ingredients/pepper.md)                        |
 
 ## Directions
 

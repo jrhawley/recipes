@@ -12,17 +12,17 @@ Tags: #chicken #maple #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                 |
-| 6        | [chicken breasts](../_ingredients/chicken%20breast.md)      |
-|          | [salt](../_ingredients/salt.md)                             |
-|          | [pepper](../_ingredients/pepper.md)                         |
-| 1/4 cup  | [white wine](../_ingredients/white%20wine.md)               |
-| 1/2 cup  | [maple syrup](../_ingredients/maple%20syrup.md)             |
-| 1/4 cup  | [dijon mustard](../_ingredients/dijon%20mustard.md)         |
-| 1 cup    | fresh or frozen [cranberries](../_ingredients/cranberry.md) |
-| 4 sprigs | fresh [rosemary](../_ingredients/rosemary.md)               |
+| Quantity | Item                                                   |
+| -------- | ------------------------------------------------------ |
+| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)            |
+| 6        | [chicken breasts](../_ingredients/chicken%20breast.md) |
+|          | [salt](../_ingredients/salt.md)                        |
+|          | [pepper](../_ingredients/pepper.md)                    |
+| 1/4 cup  | [white wine](../_ingredients/white%20wine.md)          |
+| 1/2 cup  | [maple syrup](../_ingredients/maple%20syrup.md)        |
+| 1/4 cup  | [dijon mustard](../_ingredients/dijon%20mustard.md)    |
+| 1 cup    | [cranberries](../_ingredients/cranberry.md)            |
+| 4 sprigs | fresh [rosemary](../_ingredients/rosemary.md)          |
 
 ## Directions
 

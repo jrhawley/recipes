@@ -64,7 +64,7 @@ Tags: #soup #vegetarian #vegan
 5. Let cool on the baking sheet for at least 5 minutes. They will crisp up as they cool
 6. While chickpeas are baking, brown minced garlic and onion
    1. In a large saucepan, heat the olive oil over medium heat
-   2. Add the onion and garlic and sauté for 5 to 6 minutes, or until the onion is translucent
+   2. Add the onion and garlic and saute for 5 to 6 minutes, or until the onion is translucent
 7. In a blender, combine the soaked cashews and the broth and blend on high speed until creamy and smooth
    1. Add the garlic-onion mixture, the tomatoes and their juices, sun-dried tomatoes, and tomato paste and blend on high until smooth
 8. Pour the tomato mixture into the saucepan in which you cooked the onions and set the pan over med-high heat

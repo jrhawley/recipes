@@ -39,14 +39,14 @@ Tags: #salad #chicken #lunch #dinner
 
 ### Salad
 
-| Quantity | Item                                                                                                                         |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1/2 lbs  | [chicken breasts](../_ingredients/chicken%20breast.md)                                                                       |
-| 6 cups   | [lettuce](../_ingredients/lettuce.md) or [spinach](../_ingredients/spinach.md)                                               |
-| 1 cup    | [blackberries](../_ingredients/blackberry.md)                                                                                |
-| 1 cup    | [avocado](../_ingredients/avocado.md)                                                                                        |
-| 1/4 cup  | [red onion](../_ingredients/red%20onion.md), sliced                                                                          |
-| 1/4 cup  | [walnuts](../_ingredients/walnuts.md), [pistachios](../_ingredients/pistachios.md), or [almonds](../_ingredients/almonds.md) |
+| Quantity | Item                                                   |
+| -------- | ------------------------------------------------------ |
+| 1/2 lbs  | [chicken breasts](../_ingredients/chicken%20breast.md) |
+| 6 cups   | [spinach](../_ingredients/spinach.md)                  |
+| 1 cup    | [blackberries](../_ingredients/blackberry.md)          |
+| 1 cup    | [avocado](../_ingredients/avocado.md)                  |
+| 1/4 cup  | [red onion](../_ingredients/red%20onion.md), sliced    |
+| 1/4 cup  | [walnuts](../_ingredients/walnuts.md)                  |
 
 ## Directions
 
