@@ -17,7 +17,7 @@ Tags: #side #rice #spicy #dinner
 | 1 Tbsp    | [butter](../_ingredients/butter.md)                                         |
 | 1/2 cup   | [onion](../_ingredients/onion.md), chopped finely                           |
 | 1/2 stalk | [celery](../_ingredients/celery.md), chopped finely                         |
-| 1  clove  | [garlic](../_ingredients/garlic.md)                                         |
+| 1 clove   | [garlic](../_ingredients/garlic.md)                                         |
 | 1         | [Thai chili](../_ingredients/thai%20chili.md), seeded and minced (optional) |
 | 1/2       | [carrot](../_ingredients/carrot.md), peeled and chopped finely              |
 | 3/4 cup   | long grain [rice](../_ingredients/rice.md)                                  |

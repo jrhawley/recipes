@@ -14,7 +14,7 @@ Tags: #chicken #basics
 
 | Quantity | Item                                                                      |
 | -------- | ------------------------------------------------------------------------- |
-| 1-4      | [chicken breasts](../_ingredients/chicken%20breast.md), fresh, not frozen |
+| 4        | [chicken breasts](../_ingredients/chicken%20breast.md), fresh, not frozen |
 | 1/4 cup  | [flour](../_ingredients/flour.md)                                         |
 | 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                               |
 | 1 tsp    | [butter](../_ingredients/butter.md)                                       |
