@@ -1,4 +1,4 @@
-# spaghetti-squash
+# Spaghetti squash
 
 | Info      | Amount   |
 | --------- | -------- |
