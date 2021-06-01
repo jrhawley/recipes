@@ -23,7 +23,7 @@ Tags: #vegetarian #avocado #dinner
 | 2 tsp    | smoked [paprika](../_ingredients/paprika.md)               |
 | 1 tsp    | [pepper](../_ingredients/pepper.md)                        |
 | 1/2 tsp  | [cayenne pepper](../_ingredients/cayenne%20pepper.md)      |
-| 1/2 tsp  | [salt](../_ingredients/salt.md)                            |
+| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)              |
 | 4        | ripe [avocadoes](../_ingredients/avocado.md)               |
 | 1/2      | [tomato], diced                                            |
 | 1        | [lemon](../_ingredients/lemon.md)                          |

@@ -20,7 +20,7 @@ Tags: #baking #bread
 | 2        | [bananas](../_ingredients/banana.md), crushed   |
 | 3/2 cup  | [flour](../_ingredients/flour.md)               |
 | 1 tsp    | [baking soda](../_ingredients/baking%20soda.md) |
-| 1/2 tsp  | [salt](../_ingredients/salt.md)                 |
+| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)   |
 | 1/2 tsp  | [vanilla](../_ingredients/vanilla%20extract.md) |
 
 ## Directions

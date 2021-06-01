@@ -33,7 +33,7 @@ Tags: #vegetarian #salad #dinner
 | 3 Tbsp   | [red wine vinegar](../_ingredients/red%20wine%20vinegar.md) |
 | 1 clove  | [garlic](../_ingredients/garlic.md), minced                 |
 | 1/2 tsp  | dried [oregano](../_ingredients/oregano.md)                 |
-|          | [salt](../_ingredients/salt.md)                             |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
 |          | [pepper](../_ingredients/pepper.md)                         |
 
 ## Directions

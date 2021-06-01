@@ -22,7 +22,7 @@ Tags: #dinner #soup #slow-cooker
 | 1 cup    | [lentils](../_ingredients/lentils.md)                              |
 | 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                        |
 | 2 cloves | [garlic](../_ingredients/garlic.md), minced                        |
-| 1 tsp    | [salt](../_ingredients/salt.md)                                    |
+| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                      |
 | 1 tsp    | [tomato paste](../_ingredients/tomato%20paste.md)                  |
 | 1        | [bay leaf](../_ingredients/bay%20leaf.md)                          |
 | 1/2 tsp  | [cumin](../_ingredients/cumin.md)                                  |

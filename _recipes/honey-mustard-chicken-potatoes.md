@@ -25,7 +25,7 @@ Tags: #chicken #potatoes #dinner
 | 1 lbs    | baby [red potatoes](../_ingredients/red-potatoes.md), quartered   |
 | 8 oz     | [green beans](../_ingredients/green%20beans.md), halved           |
 | 2 sprigs | [rosemary](../_ingredients/rosemary.md)                           |
-|          | [salt](../_ingredients/salt.md)                                   |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)                   |
 |          | [pepper](../_ingredients/pepper.md)                               |
 
 ## Directions

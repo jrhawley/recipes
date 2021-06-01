@@ -24,7 +24,7 @@ Tags: #soup #vegetarian #vegan
 | 1/8 tsp  | [cayenne pepper](../_ingredients/cayenne%20pepper.md)      |
 | 1 tsp    | [garlic powder](../_ingredients/garlic-powder.md)          |
 | 1/4 tsp  | [onion powder](../_ingredients/onion-powder.md)            |
-| 1 tsp    | fine grain sea [salt](../_ingredients/salt.md)             |
+| 1 tsp    | [table salt](../_ingredients/table%20salt.md)              |
 
 ### Tomato soup
 
@@ -39,7 +39,7 @@ Tags: #soup #vegetarian #vegan
 | 1/4 cup  | oil-packed [sun-dried tomatoes](../_ingredients/sun-dried%20tomatoes.md)          |
 | 2 oz     | [tomato paste](../_ingredients/tomato%20paste.md)                                 |
 | 1 tsp    | dried [oregano](../_ingredients/oregano.md)                                       |
-| 1 tsp    | fine grain sea [salt](../_ingredients/salt.md)                                    |
+| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                                     |
 | 1 tsp    | [pepper](../_ingredients/pepper.md)                                               |
 | 1/2 tsp  | dried [thyme](../_ingredients/thyme.md)                                           |
 

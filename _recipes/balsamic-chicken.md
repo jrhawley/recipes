@@ -24,7 +24,7 @@ Tags: #slow-cooker #dinner
 | 1 tsp    | [rosemary](../_ingredients/rosemary.md)                   |
 | 1/2 tsp  | [thyme](../_ingredients/thyme.md)                         |
 | 1/2 cup  | [balsamic vinegar](../_ingredients/balsamic%20vinegar.md) |
-|          | [salt](../_ingredients/salt.md)                           |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)           |
 |          | [pepper](../_ingredients/pepper.md)                       |
 
 ## Directions

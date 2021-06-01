@@ -26,7 +26,7 @@ Tags: #side #rice #spicy #dinner
 | 1/3 cup   | frozen [peas](../_ingredients/peas.md)                                      |
 | 2 tbsp    | [parsley](../_ingredients/parsley.md), chopped                              |
 | 2 tsp     | [thyme](../_ingredients/thyme.md), chopped                                  |
-|           | [salt](../_ingredients/salt.md)                                             |
+|           | [kosher salt](../_ingredients/kosher%20salt.md)                             |
 |           | [pepper](../_ingredients/pepper.md)                                         | to taste |
 
 ## Directions

@@ -18,7 +18,7 @@ Tags: #chicken #dinner
 | 2 Tbsp   | [lemon juice](../_ingredients/lemon%20juice.md)               |
 | 3 cloves | [garlic](../_ingredients/garlic.md), minced                   |
 | 3/2 tsp  | fresh [thyme](../_ingredients/thyme.md), minced               |
-| 1 tsp    | [salt](../_ingredients/salt.md)                               |
+| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                 |
 | 1/2 tsp  | fresh [rosemary](../_ingredients/rosemary.md), minced         |
 | 1/4 tsp  | [pepper](../_ingredients/pepper.md)                           |
 | 6        | bone-in [chicken thighs](../_ingredients/chicken%20thighs.md) |

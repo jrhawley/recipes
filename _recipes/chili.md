@@ -25,7 +25,7 @@ Tags: #chili #dinner
 | 28 oz    | [diced tomatoes](../_ingredients/diced%20tomatoes.md)                                |
 | 1 Tbsp   | [chili powder](../_ingredients/chili%20powder.md), divided                           |
 | 1 tsp    | [oregano](../_ingredients/oregano.md)                                                |
-| 1 tsp    | [salt](../_ingredients/salt.md)                                                      |
+| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                                        |
 | 1/2 tsp  | [pepper](../_ingredients/pepper.md)                                                  |
 | 1 tsp    | [sugar](../_ingredients/sugar.md)                                                    |
 
@@ -36,7 +36,7 @@ Tags: #chili #dinner
      2. Do not drain
 2. Saute onion, celery and green pepper in the drippings, in the same frying pan used for the ground beef, for about 5 min until onion is translucent.
       1. Add a little of the chili powder.
-      2. Add sautéed veggies to the ground beef.
+      2. Add sauteed veggies to the ground beef.
       3. Add kidney beans, tomato soup and tomatoes with the liquid.
       4. Add the rest of the chili powder, oregano, salt, pepper, sugar, and garlic.
       5. Stir ingredients together well.

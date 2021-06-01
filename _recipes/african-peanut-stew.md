@@ -25,7 +25,7 @@ Tags: #soup #vegan #vegetarian #dinner
 | 3/2 tsp    | [chili powder](../_ingredients/chili%20powder.md)                  |
 | 15 oz      | [chickpeas](../_ingredients/chickpeas.md), drained and rinsed      |
 | 2 handfuls | [baby spinach](../_ingredients/baby%20spinach.md)                  |
-|            | [salt](../_ingredients/salt.md)                                    |
+|            | [kosher salt](../_ingredients/kosher%20salt.md)                    |
 |            | [pepper](../_ingredients/pepper.md)                                |
 |            | freshly [parsley](../_ingredients/parsley.md)                      |
 |            | [peanuts](../_ingredients/peanuts.md)                              |
@@ -33,7 +33,7 @@ Tags: #soup #vegan #vegetarian #dinner
 ## Directions
 
 1. In a large saucepan, heat olive oil over medium heat
-   1. Add onion and garlic, sauté until translucent
+   1. Add onion and garlic, saute until translucent
 2. Add bell pepper, sweet potato, tomatoes, and juices
    1. Raise to medium-high heat, simmer for 5 minutes
    2. Season with salt and pepper

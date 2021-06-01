@@ -19,7 +19,7 @@ Tags: #chicken #basics
 | 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                               |
 | 1 tsp    | [butter](../_ingredients/butter.md)                                       |
 | 1 tsp    | [herbs](../_ingredients/herbs.md), freshly chopped (optional)             |
-|          | [salt](../_ingredients/salt.md)                                           |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)                           |
 |          | [pepper](../_ingredients/pepper.md)                                       |
 
 ## Directions

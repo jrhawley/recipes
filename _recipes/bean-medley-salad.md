@@ -21,7 +21,7 @@ Tags: #gluten-free #vegetarian #lunch #dinner
 | 15 oz    | [black beans](../_ingredients/black%20beans.md)       |
 | 15 oz    | [chickpeas](../_ingredients/chickpeas.md)             |
 | 100 g    | [feta](../_ingredients/feta.md)                       |
-|          | [salt](../_ingredients/salt.md)                       |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)       |
 |          | [pepper](../_ingredients/pepper.md)                   |
 |          | [cumin](../_ingredients/cumin.md)                     |
 |          | [lemon](../_ingredients/lemon.md)                     |

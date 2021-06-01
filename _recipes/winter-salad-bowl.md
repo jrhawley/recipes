@@ -25,7 +25,7 @@ Tags: #vegetarian #vegan #dinner
 | 3        | [green onions](../_ingredients/green%20onion.md), sliced             |
 | 1/4 cup  | toasted [pumpkin seeds](../_ingredients/pumpkin%20seeds.md)          |
 | 1        | large ripe [avocado](../_ingredients/avocado.md)                     |
-|          | [salt](../_ingredients/salt.md)                                      |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)                      |
 |          | [pepper](../_ingredients/pepper.md)                                  |
 
 ### Dressing
@@ -36,7 +36,7 @@ Tags: #vegetarian #vegan #dinner
 | 1/4 cup  | [olive oil](../_ingredients/olive%20oil.md)                 |
 | 2 tsp    | [dijon mustard](../_ingredients/dijon%20mustard.md)         |
 | 1 Tbsp   | [maple syrup](../_ingredients/maple%20syrup.md)             |
-|          | [salt](../_ingredients/salt.md)                             |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
 |          | [pepper](../_ingredients/pepper.md)                         |
 
 ## Directions

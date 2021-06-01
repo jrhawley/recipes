@@ -23,7 +23,7 @@ Tags: #slow-cooker #dinner
 | 1/2 tsp  | [garlic powder](../_ingredients/garlic-powder.md)           |
 | 1/2 tsp  | [onion powder](../_ingredients/onion-powder.md)             |
 | 1/2 tsp  | [Italian seasoning](../_ingredients/italian%20seasoning.md) |
-|          | [salt](../_ingredients/salt.md)                             |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
 |          | [pepper](../_ingredients/pepper.md)                         |
 
 ## Directions

@@ -21,7 +21,7 @@ Tags: #sandwich #vegetarian #lunch #dinner
 | 1 handful | [arugula](../_ingredients/arugula.md)                      |
 | 1/8       | [red onion](../_ingredients/red%20onion.md), sliced        |
 | 4 slices  | [French bread](../_ingredients/french%20bread.md)          |
-|           | [salt](../_ingredients/salt.md)                            |
+|           | [kosher salt](../_ingredients/kosher%20salt.md)            |
 |           | [pepper](../_ingredients/pepper.md)                        |
 
 ## Directions

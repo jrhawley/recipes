@@ -19,7 +19,7 @@ Tags: #fish #dinner
 | 3 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)      |
 | 2 cloves | [garlic](../_ingredients/garlic.md), minced      |
 | 1        | [lemon](../_ingredients/lemon.md), thinly sliced |
-|          | [salt](../_ingredients/salt.md)                  |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)  |
 |          | [pepper](../_ingredients/pepper.md)              |
 |          | [dill](../_ingredients/dill.md)                  |
 |          | [thyme](../_ingredients/thyme.md)                |

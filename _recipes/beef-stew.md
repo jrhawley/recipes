@@ -28,10 +28,10 @@ Tags: #stew #soup #beef #dinner
 | 3 sprigs | [thyme](../_ingredients/thyme.md)                                    |
 | 2 Tbsp   | [molasses](../_ingredients/molasses.md)                              |
 | 1 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)                    |
-| 1 tsp    | [salt](../_ingredients/salt.md)                                      |
+| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                        |
 | 1/2 cup  | [frozen peas](../_ingredients/frozen-peas.md)                        |
 | 1/2 cup  | fresh [parsley](../_ingredients/parsley.md), chopped                 |
-|          | [salt](../_ingredients/salt.md)                                      |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)                      |
 |          | [pepper](../_ingredients/pepper.md)                                  |
 
 ## Directions

@@ -18,7 +18,7 @@ Tags: #salad #vegetarian #summer #dinner
 | -------- | ------------------------------------------------------------- |
 | 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                   |
 | 1        | [acorn squash](../_ingredients/acorn%20squash.md)             |
-| 1/4 tsp  | [salt](../_ingredients/salt.md)                               |
+| 1/4 tsp  | [table salt](../_ingredients/table%20salt.md)                 |
 | 1/4 tsp  | [pepper](../_ingredients/pepper.md)                           |
 | 2 tsp    | [brown sugar](../_ingredients/brown%20sugar.md)               |
 | 1/2 cup  | [pecans](../_ingredients/pecan.md), chopped                   |
@@ -36,7 +36,7 @@ Tags: #salad #vegetarian #summer #dinner
 | 1/4 cup  | [apple cider vinegar](apple%20cider%20vinegar)              |
 | 1/2 tsp  | [ginger](../_ingredients/ginger.md), freshly grated         |
 | 1 clove  | [garlic](../_ingredients/garlic.md), grated                 |
-| 1/4 tsp  | [salt](../_ingredients/salt.md)                             |
+| 1/4 tsp  | [table salt](../_ingredients/table%20salt.md)               |
 | 1/4 tsp  | [pepper](../_ingredients/pepper.md)                         |
 | 1/4 cup  | [olive oil](../_ingredients/olive%20oil.md)                 |
 

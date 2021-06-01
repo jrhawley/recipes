@@ -30,7 +30,7 @@ Tags: #salad #vegetarian #dinner
 | 2 Tbsp   | [maple syrup](../_ingredients/maple%20syrup.md)             |
 | 1 tsp    | [dijon mustard](../_ingredients/dijon%20mustard.md)         |
 | 1/2 tsp  | [oregano](../_ingredients/oregano.md)                       |
-|          | [salt](../_ingredients/salt.md)                             |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
 |          | [pepper](../_ingredients/pepper.md)                         |
 
 ## Directions

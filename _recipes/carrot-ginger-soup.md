@@ -19,7 +19,7 @@ Tags: #soup #vegan #vegetarian #dinner
 | 3 Tbsp   | unsalted [butter](../_ingredients/butter.md)                   |
 | 3 lbs    | [carrots](../_ingredients/carrot.md), peeled and thinly sliced |
 | 2 cups   | [onion](../_ingredients/onion.md), diced                       |
-|          | [salt](../_ingredients/salt.md)                                |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)                |
 | 1 tsp    | [ginger](../_ingredients/ginger.md), minced                    |
 | 2 cups   | [chicken broth](../_ingredients/chicken%20broth.md)            |
 | 2 cups   | [water](../_ingredients/water.md)                              |

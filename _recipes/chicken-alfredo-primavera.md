@@ -27,7 +27,7 @@ Tags: #dinner #pasta #chicken
 | 1 cup    | [milk](../_ingredients/milk.md)                             |
 | 1 cup    | [parmesan](../_ingredients/parmesan.md), grated             |
 | 16 oz    | [farfalle](../_ingredients/farfalle.md)                     |
-|          | [salt](../_ingredients/salt.md)                             |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
 |          | [pepper](../_ingredients/pepper.md)                         |
 |          | [parsley](../_ingredients/parsley.md)                       |
 

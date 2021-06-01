@@ -23,7 +23,7 @@ Tags: #rice #vegetarian #bowl #dinner
 | 1 tsp    | [cumin](../_ingredients/cumin.md)                                             |
 | 1 tsp    | [oregano](../_ingredients/oregano.md)                                         |
 | 1/4 tsp  | [cayenne pepper](../_ingredients/cayenne%20pepper.md)                         |
-| 1/2 tsp  | [salt](../_ingredients/salt.md)                                               |
+| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)                                 |
 | 1 cup    | [quinoa](../_ingredients/quinoa.md), uncooked                                 |
 | 15 oz    | [diced tomatoes](../_ingredients/diced%20tomatoes.md)                         |
 | 15 oz    | [chickpeas](../_ingredients/chickpeas.md), drained, rinsed                    |

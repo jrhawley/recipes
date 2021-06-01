@@ -21,7 +21,7 @@ Tags: #vegetarian #sandwich #lunch #dinner
 | 4 slices | [sourdough](../_ingredients/sourdough.md), thick slices |
 | 1        | [avocado](../_ingredients/avocado.md)                   |
 |          | [olive oil](../_ingredients/olive%20oil.md)             |
-|          | [salt](../_ingredients/salt.md)                         |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)         |
 |          | [pepper](../_ingredients/pepper.md)                     |
 |          | [oregano](../_ingredients/oregano.md)                   |
 |          | [butter](../_ingredients/butter.md)                     |

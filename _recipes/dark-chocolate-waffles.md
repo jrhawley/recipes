@@ -20,7 +20,7 @@ Tags: #waffles #breakfast
 | 2 tsp    | [baking powder](../_ingredients/baking%20powder.md)          |
 | 1/3 cup  | [brown sugar](../_ingredients/brown%20sugar.md)              |
 | 1/3 cup  | [cocoa powder](../_ingredients/cocoa-powder.md), unsweetened |
-| 1/2 tsp  | [salt](../_ingredients/salt.md)                              |
+| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)                |
 | 1/4 cup  | [chocolate chips](../_ingredients/chocolate%20chips.md)      |
 | 1/3 cup  | [olive oil](../_ingredients/olive%20oil.md)                  |
 | 7/4 cup  | [milk](../_ingredients/milk.md)                              |

@@ -19,7 +19,7 @@ Tags: #soup #vegetarian #dinner
 | 3 cloves | [garlic](../_ingredients/garlic.md), minced                    |
 | 1 cup    | [carrots](../_ingredients/carrot.md), grated                   |
 | 2 oz     | reduced fat [cream cheese](../_ingredients/cream%20cheese.md)  |
-| 1 tsp    | [salt](../_ingredients/salt.md)                                |
+| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                  |
 | 1 tsp    | [pepper](../_ingredients/pepper.md)                            |
 | 1/4 tsp  | [nutmeg](../_ingredients/nutmeg.md)                            |
 | 4 cups   | [vegetable broth](../_ingredients/vegetable%20broth.md)        |

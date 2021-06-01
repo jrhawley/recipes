@@ -22,7 +22,7 @@ Tags: #cookies #dessert
 | 1        | [egg](../_ingredients/egg.md)                          |
 | 2 cup    | [flour](../_ingredients/flour.md)                      |
 | 2 tsp    | [baking soda](../_ingredients/baking%20soda.md)        |
-| 1/2 tsp  | [salt](../_ingredients/salt.md)                        |
+| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)          |
 | 1/2 tsp  | [cinnamon](../_ingredients/cinnamon.md)                |
 | 1/4 tsp  | ground [cloves](../_ingredients/cloves.md)             |
 | 1/4 tsp  | ground [ginger](../_ingredients/ginger.md)             |

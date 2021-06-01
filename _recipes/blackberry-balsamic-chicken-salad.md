@@ -25,7 +25,7 @@ Tags: #salad #chicken #lunch #dinner
 | 2 tsp    | [dijon mustard](../_ingredients/dijon%20mustard.md)       |
 | 1 tsp    | [soy sauce](../_ingredients/soy%20sauce.md)               |
 | 1 clove  | [garlic](../_ingredients/garlic.md), minced               |
-|          | [salt](../_ingredients/salt.md)                           |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)           |
 |          | [pepper](../_ingredients/pepper.md)                       |
 
 ### Cheese

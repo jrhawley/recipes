@@ -27,7 +27,7 @@ Tags: #chicken #dinner
 | 2 tsp    | [sesame oil](../_ingredients/sesame%20oil.md)                  |
 | 1 cup    | frozen [peas](../_ingredients/peas.md)                         |
 | 2        | [eggs](../_ingredients/cherry%20tomato.md), lightly beaten     |
-|          | [salt](../_ingredients/salt.md)                                |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)                |
 |          | [pepper](../_ingredients/pepper.md)                            |
 
 ## Directions

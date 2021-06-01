@@ -18,7 +18,7 @@ Tags: #basics #vegetarian #dinner
 | 1 tsp    | minced [red pepper](../_ingredients/red%20pepper.md)      |
 | 1 clove  | [garlic](../_ingredients/garlic.md)                       |
 | 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)               |
-|          | [salt](../_ingredients/salt.md)                           |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)           |
 |          | [pepper](../_ingredients/pepper.md)                       |
 
 ## Directions

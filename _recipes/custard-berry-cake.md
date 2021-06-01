@@ -20,7 +20,7 @@ Tags: #custard #dessert
 | 1 cup    | [flour](../_ingredients/flour.md)                              |
 | 3/4 cup  | [sugar](../_ingredients/sugar.md)                              |
 | 3 tbsp   | [butter](../_ingredients/butter.md), melted                    |
-| 1/2 tsp  | [salt](../_ingredients/salt.md)                                |
+| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)                  |
 | 1 tbsp   | [vanilla extract](../_ingredients/vanilla%20extract.md)        |
 |          | [icing sugar](../_ingredients/icing%20sugar.md) (optional)     |
 |          | low fat vanilla [yogurt](../_ingredients/yogurt.md) (optional) |

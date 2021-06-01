@@ -15,7 +15,7 @@ Tags: #fish #dinner
 | Quantity | Item                                                |
 | -------- | --------------------------------------------------- |
 | 1 slice  | apple wood smoked [bacon](../_ingredients/bacon.md) |
-| 1/2 tsp  | [salt](../_ingredients/salt.md)                     |
+| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)       |
 | 1/2 tsp  | [paprika](../_ingredients/paprika.md)               |
 | 1/4 tsp  | [pepper](../_ingredients/pepper.md)                 |
 | 2 tsp    | [garlic](../_ingredients/garlic.md), minced         |

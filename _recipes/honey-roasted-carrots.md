@@ -17,7 +17,7 @@ Tags: #vegetarian #side #dinner
 | 2 lbs    | [rainbow carrots](../_ingredients/rainbow-carrots.md), peeled and sliced into 1/4 inch rounds |
 | 2 Tbsp   | [butter](../_ingredients/butter.md), melted                                                   |
 | 2 tsp    | [honey](../_ingredients/honey.md)                                                             |
-| 1 tsp    | [salt](../_ingredients/salt.md)                                                               |
+| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                                                 |
 | 1/2 tsp  | fresh [thyme](../_ingredients/thyme.md), chopped                                              |
 | 1/8      | [cayenne pepper](../_ingredients/cayenne%20pepper.md)                                         |
 | 1/8      | [cumin](../_ingredients/cumin.md)                                                             |

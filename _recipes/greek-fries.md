@@ -19,7 +19,7 @@ Tags: #appetizer #potato #fries
 | 6 Tbsp    | [olive oil](../_ingredients/olive%20oil.md), divided  |
 | 3         | large [Russet potatoes](../_ingredients/potato.md)    |
 | 3 cloves  | [garlic](../_ingredients/garlic.md), minced           |
-|           | [salt](../_ingredients/salt.md)                       |
+|           | [kosher salt](../_ingredients/kosher%20salt.md)       |
 |           | [pepper](../_ingredients/pepper.md)                   |
 |           | [thyme](../_ingredients/thyme.md)                     |
 |           | [oregano](../_ingredients/oregano.md)                 |

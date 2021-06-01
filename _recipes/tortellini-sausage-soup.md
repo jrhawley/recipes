@@ -23,7 +23,7 @@ Tags: #soup #sausage #dinner
 | 300 mL   | [tortellini](../_ingredients/tortellini.md)             |
 | 250 mL   | [heavy cream](../_ingredients/heavy%20cream.md)         |
 |          | [spinach](../_ingredients/spinach.md)                   |
-|          | [salt](../_ingredients/salt.md)                         |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)         |
 |          | [pepper](../_ingredients/pepper.md)                     |
 |          | [parmesan](../_ingredients/parmesan.md)                 |
 |          | [sourdough](../_ingredients/sourdough.md)               |

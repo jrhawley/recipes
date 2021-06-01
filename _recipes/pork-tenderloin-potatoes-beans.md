@@ -17,7 +17,7 @@ Tags: #dinner #pork #slow-cooker
 | Quantity | Item                                                                |
 | -------- | ------------------------------------------------------------------- |
 | 400 g    | [pork tenderloin](../_ingredients/pork%20tenderloin.md)             |
-| 2 tsp    | [salt](../_ingredients/salt.md)                                     |
+| 2 tsp    | [table salt](../_ingredients/table%20salt.md)                       |
 | 1 tsp    | [rosemary](../_ingredients/rosemary.md)                             |
 | 1/2 tsp  | [pepper](../_ingredients/pepper.md)                                 |
 | 2 cloves | [garlic](../_ingredients/garlic.md)                                 |

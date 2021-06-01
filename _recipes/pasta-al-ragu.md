@@ -1,4 +1,4 @@
-# Pasta al ragù
+# Pasta al ragu
 
 Pasta in bolognese sauce
 
@@ -30,7 +30,7 @@ Tags: #pasta #dinner
 | 3 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                                |
 | 500 g    | [tagliatelle](../_ingredients/tagliatelle.md)                              |
 |          | [parmesan](../_ingredients/parmesan.md)                                    |
-|          | [salt](../_ingredients/salt.md)                                            |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)                            |
 |          | [pepper](../_ingredients/pepper.md)                                        |
 |          | [thyme](../_ingredients/thyme.md)                                          |
 

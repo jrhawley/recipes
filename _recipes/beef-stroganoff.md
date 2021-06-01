@@ -20,14 +20,14 @@ Tags: #beef #slow-cooker #dinner
 | 1 cup    | [beef consomme](../_ingredients/beef%20consomme.md) |
 | 3 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)   |
 | 2 Tbsp   | [flour](../_ingredients/flour.md)                   |
-|          | [salt](../_ingredients/salt.md)                     |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)     |
 |          | [pepper](../_ingredients/pepper.md)                 |
 
 ## Directions
 
 1. Brown ground beef in a large skillet
    1. Add onions, garlic, and mushrooms
-   2. Sauté until onions are golden brown
+   2. Saute until onions are golden brown
 2. Place into slow cooker with remaining ingredients except sour cream and flour
     1. Stir thoroughly
     2. Cover and cook on high for 3h, or low for 7-9h

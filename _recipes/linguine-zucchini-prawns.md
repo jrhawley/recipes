@@ -23,7 +23,7 @@ Tags: #pasta #dinner
 | 500 g    | [linguine](../_ingredients/linguine.md)                             |
 | 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                         |
 |          | [thyme](../_ingredients/thyme.md)                                   |
-|          | [salt](../_ingredients/salt.md)                                     |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)                     |
 |          | [pepper](../_ingredients/pepper.md)                                 |
 
 ## Directions

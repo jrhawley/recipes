@@ -24,14 +24,14 @@ Tags: #pepper #beef #dinner
 | 1 tsp    | [oregano](../_ingredients/oregano.md)                              |
 | 6        | [bell peppers](../_ingredients/bell%20pepper.md), topped and cored |
 | 1 cup    | [cheddar](../_ingredients/cheddar.md), grated                      |
-|          | [salt](../_ingredients/salt.md)                                    |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)                    |
 |          | [parsley](../_ingredients/parsley.md), freshly cut                 |
 
 ## Directions
 
 1. Preheat oven to 400 F
 2. In a small saucepan, prepare rice according to instructions
-3. In a large skillet over medium heat, add oil, sauté onion
+3. In a large skillet over medium heat, add oil, saute onion
    1. Add tomato paste and garlic, cook until fragrant
 4. Add ground beef to skillet, cook
    1. Once cooked through, drain

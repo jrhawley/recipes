@@ -26,7 +26,7 @@ Tags: #vegetarian #vegan #bowl #dinner
 | 2 tsp     | [apple cider vinegar](../_ingredients/apple%20cider%20vinegar.md) |
 | 2 tsp     | [maple syrup](../_ingredients/maple%20syrup.md)                   |
 |           | [olive oil](../_ingredients/olive%20oil.md)                       |
-|           | [salt](../_ingredients/salt.md)                                   |
+|           | [kosher salt](../_ingredients/kosher%20salt.md)                   |
 |           | [pepper](../_ingredients/pepper.md)                               |
 
 ## Directions

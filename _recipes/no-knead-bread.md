@@ -12,12 +12,12 @@ Tags: #bread #baking
 
 ## Ingredients
 
-| Quantity | Item                                        |
-| -------- | ------------------------------------------- |
-| 3 cup    | [flour](../_ingredients/flour.md)           |
-| 2 tsp    | [salt](../_ingredients/salt.md)             |
-| 1/2 tsp  | [yeast](../_ingredients/yeast.md)           |
-| 3/2 cup  | [water](../_ingredients/water.md), lukewarm |
+| Quantity | Item                                          |
+| -------- | --------------------------------------------- |
+| 3 cup    | [flour](../_ingredients/flour.md)             |
+| 2 tsp    | [table salt](../_ingredients/table%20salt.md) |
+| 1/2 tsp  | [yeast](../_ingredients/yeast.md)             |
+| 3/2 cup  | [water](../_ingredients/water.md), lukewarm   |
 
 ## Directions
 

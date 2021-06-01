@@ -35,7 +35,7 @@ Tags: #chicken #dinner
    1. When sealed (aka whole outside is white) add eggs into the pan and immediately mix around
    2. Cook eggs until yellow
 3. Mix fish sauce, oyster sauce, vegetable oil, and sugar, and mix it all in the pan
-4. Add noodles to the pan
+4. Add noodles to the pan
 5. Add sprouts and carrots and mix a bit
    1. Take pan off heat 1-2 mins after you've added the veggies (they should still be somewhat crunchy)
 6. Garnish with chopped peanuts and lime juice

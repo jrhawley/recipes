@@ -21,7 +21,7 @@ Tags: #sauce #condiment
 | 1 clove  | [garlic](../_ingredients/garlic.md), minced                                |
 | 1/2 tsp  | dried [basil](../_ingredients/basil.md)                                    |
 | 1/4 tsp  | [garlic salt](../_ingredients/garlic%20salt.md)                            |
-|          | [salt](../_ingredients/salt.md)                                            |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)                            |
 |          | [pepper](../_ingredients/pepper.md)                                        |
 | 14 oz    | [artichoke hearts](../_ingredients/artichoke%20hearts.md)                  |
 | 1/2 cup  | frozen [spinach](../_ingredients/spinach.md), chopped, thawed, and drained |

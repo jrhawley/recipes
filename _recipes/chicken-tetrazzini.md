@@ -19,7 +19,7 @@ Tags: #chicken #dinner
 | 1 stalk  | [celery](../_ingredients/celery.md)                                 |
 | 3 Tbsp   | [flour](../_ingredients/flour.md)                                   |
 | 7/2 cup  | [milk](../_ingredients/milk.md)                                     |
-| 3/2 tsp  | [salt](../_ingredients/salt.md)                                     |
+| 3/2 tsp  | [table salt](../_ingredients/table%20salt.md)                       |
 | 1/4 tsp  | [pepper](../_ingredients/pepper.md)                                 |
 | 1 Tbsp   | [Worchestershire sauce](../_ingredients/worchestershire%20sauce.md) |
 | 1/2 cup  | [cream cheese](../_ingredients/cream%20cheese.md)                   |

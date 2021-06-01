@@ -19,7 +19,7 @@ Tags: #beef #potatoes #dinner
 | 1 lbs    | extra lean [ground beef](../_ingredients/ground%20beef.md)                |
 | 1/2 cup  | [onion](../_ingredients/onion.md), chopped                                |
 | 1/3 cup  | [celery](../_ingredients/celery.md), chopped                              |
-| 1/4 tsp  | [salt](../_ingredients/salt.md)                                           |
+| 1/4 tsp  | [table salt](../_ingredients/table%20salt.md)                             |
 | 1/4 tsp  | [pepper](../_ingredients/pepper.md)                                       |
 | 10 oz    | [cream of mushroom soup](../_ingredients/cream%20of%20mushroom%20soup.md) |
 | 10 oz    | [peas](../_ingredients/peas.md)                                           |
@@ -30,7 +30,7 @@ Tags: #beef #potatoes #dinner
 | Quantity | Item                                            |
 | -------- | ----------------------------------------------- |
 | 2        | [potatoes](../_ingredients/potato.md), mashed   |
-| 1/2 tsp  | [salt](../_ingredients/salt.md)                 |
+| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)   |
 | 1        | [egg](../_ingredients/egg.md), beaten           |
 | 1/4 cup  | [parmesan](../_ingredients/parmesan.md), grated |
 |          | [cheddar](../_ingredients/cheddar.md), grated   |

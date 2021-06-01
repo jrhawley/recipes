@@ -18,7 +18,7 @@ Tags: #pasta #lasagna #vegetarian #dinner
 | ---------- | ----------------------------------------------------------------------- |
 | 500 g      | [ground beef](../_ingredients/ground%20beef.md) (exclude if vegetarian) |
 | 3 handfuls | [spinach](../_ingredients/spinach.md) (exclude if carnivorous)          |
-| 2 tsp      | [salt](../_ingredients/salt.md)                                         |
+| 2 tsp      | [table salt](../_ingredients/table%20salt.md)                           |
 | 1 tsp      | [pepper](../_ingredients/pepper.md)                                     |
 | 1          | large [onion](../_ingredients/onion.md), chopped                        |
 | 1 tsp      | [italian seasoning](../_ingredients/italian%20seasoning.md)             |

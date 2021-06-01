@@ -20,7 +20,7 @@ Tags: #vegetarian #prep #dinner
 | 15 oz    | [black beans](../_ingredients/black%20beans.md), rinsed, drained, dried |
 | 1/4 cup  | [pumpkin seeds](../_ingredients/pumpkin%20seeds.md)                     |
 | 5 cloves | [garlic](../_ingredients/garlic.md), minced                             |
-| 1/2 tsp  | [salt](../_ingredients/salt.md)                                         |
+| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)                           |
 | 1 tsp    | ground [cumin](../_ingredients/cumin.md)                                |
 | 1/2 tsp  | [coriander](../_ingredients/coriander.md)                               |
 | 2 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)                       |

@@ -26,7 +26,7 @@ Tags: #muffins #pumpkin #baking
 | 1/2 tsp   | [nutmeg](../_ingredients/nutmeg.md)                           |
 | 2 tsp     | [baking powder](../_ingredients/baking%20powder.md)           |
 | 1 tsp     | [baking soda](../_ingredients/baking%20soda.md)               |
-| 1/2 tsp   | [salt](../_ingredients/salt.md)                               |
+| 1/2 tsp   | [table salt](../_ingredients/table%20salt.md)                 |
 
 ### Cream Cheese
 

@@ -25,7 +25,7 @@ Tags: #dinner #potato #vegan
 | 14 oz    | [black beans](../_ingredients/black%20beans.md)         |
 | 1 cup    | cooked [corn](../_ingredients/corn.md)                  |
 | 1        | [avocado](../_ingredients/avocado.md)                   |
-|          | [salt](../_ingredients/salt.md)                         |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)         |
 |          | [pepper](../_ingredients/pepper.md)                     |
 
 ## Directions

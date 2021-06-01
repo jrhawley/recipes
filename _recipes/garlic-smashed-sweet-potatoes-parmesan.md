@@ -19,7 +19,7 @@ Tags: #dinner #vegetarian
 | 4 cloves | [garlic](../_ingredients/garlic.md)                        |
 | 1 Tbsp   | fresh [parsley](../_ingredients/parsley.md), chopped       |
 | 2 Tbsp   | [parmesan](../_ingredients/parmesan.md)                    |
-|          | [salt](../_ingredients/salt.md), to taste                  |
+|          | [kosher salt](../_ingredients/kosher%20salt.md), to taste  |
 |          | [pepper](../_ingredients/pepper.md), to taste              |
 
 ## Directions

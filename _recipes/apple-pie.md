@@ -16,25 +16,25 @@ Tags: #dessert #pie #baking
 
 ### Pastry
 
-| Quantity | Item                                        |
-| -------- | ------------------------------------------- |
-| 2 cup    | [shortening](../_ingredients/shortening.md) |
-| 8 cup    | [flour](../_ingredients/flour.md)           |
-| 4 tsp    | [salt](../_ingredients/salt.md)             |
+| Quantity | Item                                          |
+| -------- | --------------------------------------------- |
+| 2 cup    | [shortening](../_ingredients/shortening.md)   |
+| 8 cup    | [flour](../_ingredients/flour.md)             |
+| 4 tsp    | [table salt](../_ingredients/table%20salt.md) |
 
 ### Filling
 
-| Quantity | Item                                       |
-| -------- | ------------------------------------------ |
-| 5-7      | granny smith [apples](apple)               |
-| 1 cup    | [sugar](../_ingredients/sugar.md)          |
-| 2 Tbsp   | [flour](../_ingredients/flour.md)          |
-| 1 tsp    | [cinnamon](../_ingredients/cinnamon.md)    |
-| 1/4 tsp  | [nutmeg](../_ingredients/nutmeg.md)        |
-| 1/4 tsp  | [allspice](../_ingredients/allspice.md)    |
-| 1/4 tsp  | ground [cloves](../_ingredients/cloves.md) |
-| Dash     | [salt](../_ingredients/salt.md)            |
-| 2 Tbsp   | [butter](../_ingredients/butter.md)        |
+| Quantity | Item                                          |
+| -------- | --------------------------------------------- |
+| 5-7      | granny smith [apples](apple)                  |
+| 1 cup    | [sugar](../_ingredients/sugar.md)             |
+| 2 Tbsp   | [flour](../_ingredients/flour.md)             |
+| 1 tsp    | [cinnamon](../_ingredients/cinnamon.md)       |
+| 1/4 tsp  | [nutmeg](../_ingredients/nutmeg.md)           |
+| 1/4 tsp  | [allspice](../_ingredients/allspice.md)       |
+| 1/4 tsp  | ground [cloves](../_ingredients/cloves.md)    |
+| dash     | [table salt](../_ingredients/table%20salt.md) |
+| 2 Tbsp   | [butter](../_ingredients/butter.md)           |
 
 ## Directions
 

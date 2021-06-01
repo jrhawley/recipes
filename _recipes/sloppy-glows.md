@@ -27,7 +27,7 @@ Tags: #vegan #lentils #dinner
 | 2 Tbsp   | [Worcestershire sauce](../_ingredients/worchestershire%20sauce.md) |
 | 2 Tbsp   | [brown sugar](../_ingredients/brown%20sugar.md)                    |
 | 1 tsp    | [apple cider vinegar](../_ingredients/apple%20cider%20vinegar.md)  |
-|          | [salt](../_ingredients/salt.md)                                    |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)                    |
 |          | [pepper](../_ingredients/pepper.md)                                |
 
 ## Directions

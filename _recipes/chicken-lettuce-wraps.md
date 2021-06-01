@@ -17,7 +17,7 @@ Tags: #chicken #dinner
 | Quantity | Item                                                |
 | -------- | --------------------------------------------------- |
 | 2 Tbsp   | [honey](../_ingredients/honey.md)                   |
-| 1/4 tsp  | [salt](../_ingredients/salt.md)                     |
+| 1/4 tsp  | [table salt](../_ingredients/table%20salt.md)       |
 | 2 Tbsp   | [soy sauce](../_ingredients/soy%20sauce.md)         |
 | 1 Tbsp   | [ketchup](../_ingredients/ketchup.md)               |
 | 1 tsp    | [vinegar](../_ingredients/vinegar.md)               |

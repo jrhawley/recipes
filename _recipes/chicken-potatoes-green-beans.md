@@ -22,7 +22,7 @@ Tags: #slow-cooker #chicken #dinner
 | 1 tsp    | [oregano](../_ingredients/oregano.md)                  |
 | 1/4 tsp  | [onion powder](../_ingredients/onion-powder.md)        |
 | 2 cloves | [garlic](../_ingredients/garlic.md), minced            |
-|          | [salt](../_ingredients/salt.md)                        |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)        |
 |          | [pepper](../_ingredients/pepper.md)                    |
 
 ## Directions

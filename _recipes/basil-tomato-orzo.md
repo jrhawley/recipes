@@ -26,7 +26,7 @@ Tags: #pasta #vegetarian #lunch #dinner
 | 1 cup    | [parmesan](../_ingredients/parmesan.md), grated               |
 | 5        | [mint](../_ingredients/mint.md) leaves, chopped               |
 | 1        | [lemon](../_ingredients/lemon.md), zested and juiced          |
-|          | [salt](../_ingredients/salt.md)                               |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)               |
 
 ## Directions
 

@@ -24,7 +24,7 @@ Tags: #fish #dinner
 | 1/2 cup  | [sunflower oil](../_ingredients/sunflower%20oil.md)         |
 | 2        | [shallots](../_ingredients/shallots.md)                     |
 | 1        | [lemon](../_ingredients/lemon.md)                           |
-|          | [salt](../_ingredients/salt.md)                             |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
 |          | [creme fraiche](../_ingredients/creme%20fraiche.md)         |
 |          | [mayonnaise](../_ingredients/mayonnaise.md)                 |
 |          | [gherkin pickles](../_ingredients/gherkin%20pickles.md)     |

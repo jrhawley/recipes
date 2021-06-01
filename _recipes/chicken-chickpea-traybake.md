@@ -23,7 +23,7 @@ Tags: #chicken #dinner
 | 1 tsp    | [paprika](../_ingredients/paprika.md)                         |
 | 1 tsp    | [cumin](../_ingredients/cumin.md)                             |
 | 1 pinch  | [red pepper flakes](../_ingredients/red%20pepper%20flakes.md) |
-|          | [salt](../_ingredients/salt.md)                               |
+|          | [kosher salt](../_ingredients/kosher%20salt.md)               |
 |          | [pepper](../_ingredients/pepper.md)                           |
 
 ### Chicken

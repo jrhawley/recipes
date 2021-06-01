@@ -14,13 +14,13 @@ Tags: #fish #dinner
 
 ### Cod
 
-| Quantity | Item                                  |
-| -------- | ------------------------------------- |
-| 1/4 cup  | [flour](../_ingredients/flour.md)     |
-| 1 tsp    | [salt](../_ingredients/salt.md)       |
-| 1/2 tsp  | [pepper](../_ingredients/pepper.md)   |
-| 1/4 tsp  | [paprika](../_ingredients/paprika.md) |
-| 4        | [cod](../_ingredients/cod.md) filets  |
+| Quantity | Item                                          |
+| -------- | --------------------------------------------- |
+| 1/4 cup  | [flour](../_ingredients/flour.md)             |
+| 1 tsp    | [table salt](../_ingredients/table%20salt.md) |
+| 1/2 tsp  | [pepper](../_ingredients/pepper.md)           |
+| 1/4 tsp  | [paprika](../_ingredients/paprika.md)         |
+| 4        | [cod](../_ingredients/cod.md) filets          |
 
 ### Tartar sauce
 
