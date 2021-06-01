@@ -127,6 +127,7 @@
   - [Frozen berry fruit smoothie](_recipes/frozen-berry-smoothie.md)
 
 - [Alcoholic]()
+  - [Bacardi cocktail](_recipes/bacardi-cocktail.md)
   - [Cinnamon maple whiskey sour](_recipes/cinnamon-maple-whiskey-sour.md)
   - [El Presidente](_recipes/el-presidente.md)
   - [Gin fizz](_recipes/gin-fizz.md)
