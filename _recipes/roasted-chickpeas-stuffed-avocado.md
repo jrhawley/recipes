@@ -25,7 +25,7 @@ Tags: #vegetarian #avocado #dinner
 | 1/2 tsp  | [cayenne pepper](../_ingredients/cayenne%20pepper.md)      |
 | 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)              |
 | 4        | ripe [avocadoes](../_ingredients/avocado.md)               |
-| 1/2      | [tomato], diced                                            |
+| 1/2      | [tomato](../_ingredients/tomato.md), diced                 |
 | 1        | [lemon](../_ingredients/lemon.md)                          |
 
 ### Yogurt sauce
