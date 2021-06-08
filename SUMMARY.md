@@ -100,6 +100,7 @@
 - [Pork]()
   - [Pork tenderloin, potatoes, and green beans](_recipes/pork-tenderloin-potatoes-beans.md)
   - [Mustard-glazed pork tenderloin](_recipes/mustard-glazed-pork-tenderloin.md)
+  - [Balsamic and brown sugar pork tenderloin](_recipes/balsamic-pork.md)
 
 # Baked goods
 
