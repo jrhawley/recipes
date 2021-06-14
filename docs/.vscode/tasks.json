@@ -6,10 +6,7 @@
         {
             "label": "Serve",
             "type": "shell",
-            "command": "mdbook",
-            "args": [
-                "serve",
-            ],
+            "command": "Remove-Item -Recurse -Force docs; mdbook serve",
             "problemMatcher": []
         },
         {
