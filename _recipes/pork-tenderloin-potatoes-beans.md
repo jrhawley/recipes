@@ -14,20 +14,20 @@ Tags: #dinner #pork #slow-cooker
 
 ## Ingredients
 
-| Quantity | Item                                                                |
-| -------- | ------------------------------------------------------------------- |
-| 400 g    | [pork tenderloin](../_ingredients/pork%20tenderloin.md)             |
-| 2 tsp    | [table salt](../_ingredients/table%20salt.md)                       |
-| 1 tsp    | [rosemary](../_ingredients/rosemary.md)                             |
-| 1/2 tsp  | [pepper](../_ingredients/pepper.md)                                 |
-| 2 cloves | [garlic](../_ingredients/garlic.md)                                 |
-| 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                         |
-| 1        | [onion](../_ingredients/onion.md), diced                            |
-| 3 Tbsp   | [soy sauce](../_ingredients/soy%20sauce.md)                         |
-| 2 Tbsp   | [Worchestershire sauce](../_ingredients/worchestershire%20sauce.md) |
-| 1 kg     | [potatoes](../_ingredients/potato.md), cubed                        |
-| 200 g    | [green beans](../_ingredients/green%20beans.md)                     |
-| 3 Tbsp   | [butter](../_ingredients/butter.md)                                 |
+| Quantity | Item                                                              |
+| -------- | ----------------------------------------------------------------- |
+| 400 g    | [pork tenderloin](../_ingredients/pork%20tenderloin.md)           |
+| 2 tsp    | [table salt](../_ingredients/table%20salt.md)                     |
+| 1 tsp    | [rosemary](../_ingredients/rosemary.md)                           |
+| 1/2 tsp  | [pepper](../_ingredients/pepper.md)                               |
+| 2 cloves | [garlic](../_ingredients/garlic.md)                               |
+| 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                       |
+| 1        | [onion](../_ingredients/onion.md), diced                          |
+| 3 Tbsp   | [soy sauce](../_ingredients/soy%20sauce.md)                       |
+| 2 Tbsp   | [worcestershire sauce](../_ingredients/worcestershire%20sauce.md) |
+| 1 kg     | [potatoes](../_ingredients/potato.md), cubed                      |
+| 200 g    | [green beans](../_ingredients/green%20beans.md)                   |
+| 3 Tbsp   | [butter](../_ingredients/butter.md)                               |
 
 ## Directions
 
