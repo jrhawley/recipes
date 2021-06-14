@@ -6,6 +6,8 @@
 | Cook Time | 15 min     |
 | Yields    | 4 servings |
 
+![Sloppy glows](../_assets/sloppy-glows.png)
+
 Added: 2021-02-08
 
 Tags: #vegan #lentils #dinner
