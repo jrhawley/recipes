@@ -6,7 +6,7 @@
 | Cook Time | 35 min     |
 | Yields    | 6 servings |
 
-![Spanakorizo rice](../_assets/spanakorizo-rice.jpg)
+![Spanakorizo rice](../_assets/spanakorizo-rice.png)
 
 Added: 2020-04-16
 
