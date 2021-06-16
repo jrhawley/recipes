@@ -110,6 +110,7 @@
 - [Sweets]()
   - [Reese's peanut butter bars](_recipes/reeses-peanut-butter-bars.md)
   - [Gingersnaps](_recipes/gingersnaps.md)
+  - [Birthday doughnuts](_recipes/birthday-doughnuts.md)
 - [Muffins]()
   - [Pumpkin muffins](_recipes/pumpkin-muffins.md)
 - [Pies]()

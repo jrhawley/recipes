@@ -2,7 +2,7 @@
 authors = ["James Hawley"]
 language = "en"
 multilingual = false
-src = "."
+src = "book"
 title = "Recipe Book - James Hawley"
 
 [preprocessor.links]
