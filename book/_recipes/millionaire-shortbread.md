@@ -44,4 +44,4 @@ Tags: #shortbread #dessert #chocolate
 
 ## References
 
-1. Julie Milner
+[^1]: Original recipe: Julie Milner

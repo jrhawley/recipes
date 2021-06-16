@@ -38,8 +38,6 @@ Tags: #dessert #pie #baking
 
 ## Directions
 
-### Crust
-
 1. Sift flour and salt
     1. Cut shortening into small chunks, blend into mixture
     2. Can store in covered container in fridge for months
@@ -50,20 +48,20 @@ Tags: #dessert #pie #baking
 3. Make into 2 even balls, roll out on floured surface to the size of your pie plate
      1. Generously flour the pie plate to stop the dough from binding while baking
      2. Press first pie crust into the plate, slowly
-
-### Pie Filling
-
-1. Pare apples and thinly slice
-1. Combine sugar, flour, spices, and salt
+4. Pare apples and thinly slice
+5. Combine sugar, flour, spices, and salt
     1. Mix with sliced apples and pour into pie plate
-    1. Dot with butter
-1. Place top pie crust on and crimp edges with fingers
+    2. Dot with butter
+6. Place top pie crust on and crimp edges with fingers
     1. Place small slits into the top and sprinkle with sugar
-1. Bake at 400 F for 50 min, or until nicely browned
+7. Bake at 400 F for 50 min, or until nicely browned
 
 ## Notes
 
-1. Be sure to make pie crust first, so apple mixture doesn't become runny before you place it in the pie
-2. You can make a weave top instead of a pull top by slicing the top crust into strips, then weaving and crimping around the edges
-3. Takes around 1h prep time if starting from scratch, 10-20 min less if pastry mix is already made
-4. Don't butter pan, put flour around to make it non-stick
+[^1]: Be sure to make pie crust first, so apple mixture doesn't become runny before you place it in the pie
+
+[^2]: You can make a weave top instead of a pull top by slicing the top crust into strips, then weaving and crimping around the edges
+
+[^3]: Takes around 1h prep time if starting from scratch, 10-20 min less if pastry mix is already made
+
+[^4]: Don't butter pan, put flour around to make it non-stick

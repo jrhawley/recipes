@@ -35,4 +35,4 @@ Tags: #vegetarian #side #dinner
 
 ## References
 
-1. [Original recipe](https://www.thevintagemixer.com/honey-roasted-carrots-with-goat-cheese-and-pomegranate-seeds/)
+[^1]: [Original recipe](https://www.thevintagemixer.com/honey-roasted-carrots-with-goat-cheese-and-pomegranate-seeds/)

@@ -47,4 +47,4 @@ Tags: #chicken #potatoes #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://cafedelites.com/honey-mustard-chicken-potatoes/)
+[^1]: [Original recipe](https://cafedelites.com/honey-mustard-chicken-potatoes/)

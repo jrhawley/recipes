@@ -39,5 +39,6 @@ Tags: #chicken #maple #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://thebusybaker.ca/maple-cranberry-roast-chicken/#wprm-recipe-container-12798)
-2. Pair with other late fall or winter vegetables like [sweet potatoes](../_ingredients/sweet%20potato.md) and/or [green beans](../_ingredients/green%20beans.md)
+[^1]: [Original recipe](https://thebusybaker.ca/maple-cranberry-roast-chicken/#wprm-recipe-container-12798)
+
+[^2]: Pair with other late fall or winter vegetables like [sweet potatoes](../_ingredients/sweet%20potato.md) and/or [green beans](../_ingredients/green%20beans.md)

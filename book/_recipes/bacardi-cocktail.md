@@ -19,4 +19,4 @@ Tags: #beverage #alcoholic
 
 ## References & Notes
 
-1. [Original recipe](https://www.thespruceeats.com/bacardi-cocktail-recipe-759282)
+[^1]: [Original recipe](https://www.thespruceeats.com/bacardi-cocktail-recipe-759282)

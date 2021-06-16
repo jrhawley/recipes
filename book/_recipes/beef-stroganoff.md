@@ -37,5 +37,6 @@ Tags: #beef #slow-cooker #dinner
 
 ## References & Notes
 
-1. Original recipe:  Nana
-2. Nana's note: "use good noodles"
+[^1]: Original recipe:  Nana
+
+[^2]: Nana's note: "use good noodles"

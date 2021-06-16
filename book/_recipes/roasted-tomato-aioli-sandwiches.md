@@ -41,5 +41,6 @@ Tags: #vegetarian #sandwich #lunch #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://www.thissavoryvegan.com/roasted-tomato-sandwiches-vegan-lemon-garlic-aioli/)
-2. Any leftover aioli can be stored in the fridge for a week
+[^1]: [Original recipe](https://www.thissavoryvegan.com/roasted-tomato-sandwiches-vegan-lemon-garlic-aioli/)
+
+[^2]: Any leftover aioli can be stored in the fridge for a week

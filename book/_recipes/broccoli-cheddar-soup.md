@@ -42,4 +42,4 @@ Tags: #soup #vegetarian #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://skinnyms.com/slow-cooker-broccoli-and-cheddar-soup/)
+[^1]: [Original recipe](https://skinnyms.com/slow-cooker-broccoli-and-cheddar-soup/)

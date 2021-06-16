@@ -47,5 +47,6 @@ Tags: #pasta #lasagna #vegetarian #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://tastesbetterfromscratch.com/slow-cooker-lasagna/)
-2. Substitute ground beef with 3 handfuls of spinach, if making vegetarian
+[^1]: [Original recipe](https://tastesbetterfromscratch.com/slow-cooker-lasagna/)
+
+[^2]: Substitute ground beef with 3 handfuls of spinach, if making vegetarian

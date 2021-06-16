@@ -56,4 +56,4 @@ Tags: #vegetarian #vegan #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://ohsheglows.com/2015/01/21/warm-roasted-winter-salad-bowl/)
+[^1]: [Original recipe](https://ohsheglows.com/2015/01/21/warm-roasted-winter-salad-bowl/)

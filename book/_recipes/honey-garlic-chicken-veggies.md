@@ -49,4 +49,4 @@ Tags: #slow-cooker #diner
 
 ## References & Notes
 
-1. [Original recipe](https://damndelicious.net/2015/06/05/slow-cooker-honey-garlic-chicken-and-veggies/)
+[^1]: [Original recipe](https://damndelicious.net/2015/06/05/slow-cooker-honey-garlic-chicken-and-veggies/)

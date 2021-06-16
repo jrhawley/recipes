@@ -38,4 +38,4 @@ Tags: #soup #vegetarian #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://crockpotladies.com/wp-content/plugins/wp-ultimate-recipe-premium/core/templates/print.php)
+[^1]: [Original recipe](https://crockpotladies.com/wp-content/plugins/wp-ultimate-recipe-premium/core/templates/print.php)

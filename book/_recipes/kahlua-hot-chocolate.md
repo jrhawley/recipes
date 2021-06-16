@@ -23,5 +23,6 @@ Tags: #alcoholic #beverage
 
 ## References & Notes
 
-1. [Original recipe](https://damndelicious.net/2013/12/03/kahlua-hot-chocolate/)
-2. Don't let the milk boil, just steam and heat up
+[^1]: [Original recipe](https://damndelicious.net/2013/12/03/kahlua-hot-chocolate/)
+
+[^2]: Don't let the milk boil, just steam and heat up

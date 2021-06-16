@@ -46,4 +46,4 @@ Tags: #vegetarian #vegan #bowl #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://www.eatingbirdfood.com/roasted-broccoli-kale-quinoa-salad/)
+[^1]: [Original recipe](https://www.eatingbirdfood.com/roasted-broccoli-kale-quinoa-salad/)

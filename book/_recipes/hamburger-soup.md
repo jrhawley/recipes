@@ -37,4 +37,4 @@ Tags: #soup #beef
 
 ## References
 
-1. Original recipe: Nana
+[^1]: Original recipe: Nana

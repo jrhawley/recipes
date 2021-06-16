@@ -49,6 +49,8 @@ Tags: #appetizer #potato #fries
 
 ## References & Notes
 
-1. [Original recipe](https://www.themediterraneandish.com/greek-style-oven-fries/)
-2. Do not skip soaking the potato wedges in hot water, this helps get rid of the starch so that they potatoes don't stick to the pan.
-3. Leftovers can be stored in the fridge in a container for 3 - 4 days.
+[^1]: [Original recipe](https://www.themediterraneandish.com/greek-style-oven-fries/)
+
+[^2]: Do not skip soaking the potato wedges in hot water, this helps get rid of the starch so that they potatoes don't stick to the pan.
+
+[^3]: Leftovers can be stored in the fridge in a container for 3 - 4 days.

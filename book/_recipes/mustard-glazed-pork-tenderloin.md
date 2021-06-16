@@ -31,4 +31,4 @@ Tags: #dinner #pork
 
 ## References & Notes
 
-1. [Original recipe](https://cooking.nytimes.com/recipes/10080-mustard-glazed-pork-tenderloin)
+[^1]: [Original recipe](https://cooking.nytimes.com/recipes/10080-mustard-glazed-pork-tenderloin)

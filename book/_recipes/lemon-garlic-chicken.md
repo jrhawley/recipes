@@ -46,4 +46,4 @@ Tags: #chicken #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://www.tasteofhome.com/recipes/sheet-pan-lemon-garlic-chicken/)
+[^1]: [Original recipe](https://www.tasteofhome.com/recipes/sheet-pan-lemon-garlic-chicken/)

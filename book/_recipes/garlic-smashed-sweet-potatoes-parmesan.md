@@ -31,4 +31,4 @@ Tags: #dinner #vegetarian
 
 ## References & Notes
 
-1. [Original recipe](https://cafedelites.com/wprm_print/40378)
+[^1]: [Original recipe](https://cafedelites.com/wprm_print/40378)

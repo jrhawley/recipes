@@ -61,4 +61,4 @@ Tags: #salad #chicken #lunch #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://www.closetcooking.com/blackberry-balsamic-grilled-chicken/)
+[^1]: [Original recipe](https://www.closetcooking.com/blackberry-balsamic-grilled-chicken/)

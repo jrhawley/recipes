@@ -45,4 +45,4 @@ Tags: #soup #vegan #vegetarian #dinner
 
 ## References & Notes
 
-1. Original recipe: Oh She Glows
+[^1]: [Original recipe](https://ohsheglows.com/book/)

@@ -46,4 +46,4 @@ Tags: #pepper #beef #dinner
 
 References
 
-1. [Original recipe](https://www.delish.com/cooking/recipe-ideas/a23014857/classic-stuffed-peppers-recipe/)
+[^1]: [Original recipe](https://www.delish.com/cooking/recipe-ideas/a23014857/classic-stuffed-peppers-recipe/)

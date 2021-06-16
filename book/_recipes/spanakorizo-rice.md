@@ -44,4 +44,4 @@ Tags: #vegetarian #rice #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://cooktoria.com/spanakorizo-greek-spinach-rice/#wprm-recipe-container-5934)
+[^1]: [Original recipe](https://cooktoria.com/spanakorizo-greek-spinach-rice/#wprm-recipe-container-5934)

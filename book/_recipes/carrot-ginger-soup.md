@@ -42,5 +42,4 @@ Tags: #soup #vegan #vegetarian #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://www.simplyrecipes.com/recipes/carrot_ginger_soup/
-)
+[^1]: [Original recipe](https://www.simplyrecipes.com/recipes/carrot_ginger_soup/)

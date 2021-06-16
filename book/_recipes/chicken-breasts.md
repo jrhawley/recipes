@@ -37,4 +37,4 @@ Tags: #chicken #basics
 
 ## References & Notes
 
-1. See [this alternative method](https://twitter.com/ade__n/status/1347395092953313286)
+[^1]: See [this alternative method](https://twitter.com/ade__n/status/1347395092953313286)

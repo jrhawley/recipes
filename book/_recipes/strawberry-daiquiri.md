@@ -24,4 +24,4 @@ Tags: #alcoholic #beverage
 
 ## References
 
-1. [Original recipe](https://whitneybond.com/wprm_print/31641)
+[^1]: [Original recipe](https://whitneybond.com/wprm_print/31641)

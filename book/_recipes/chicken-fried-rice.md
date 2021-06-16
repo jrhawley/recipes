@@ -53,4 +53,4 @@ Tags: #chicken #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://easychickenrecipes.com/wprm_print/973)
+[^1]: [Original recipe](https://easychickenrecipes.com/wprm_print/973)

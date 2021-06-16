@@ -45,4 +45,4 @@ Tags: #rice #vegetarian #bowl #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://www.makingthymeforhealth.com/one-pot-spanish-quinoa/print/)
+[^1]: [Original recipe](https://www.makingthymeforhealth.com/one-pot-spanish-quinoa/print/)

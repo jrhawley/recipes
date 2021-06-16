@@ -54,4 +54,4 @@ Tags: #stew #soup #beef #dinner
 
 ## References & Notes
 
-1. [Original recipe](http://www.foodnetwork.ca/recipe/slow-cooker-canadian-stout-and-alberta-beef-stew/20790/)
+[^1]: [Original recipe](http://www.foodnetwork.ca/recipe/slow-cooker-canadian-stout-and-alberta-beef-stew/20790/)

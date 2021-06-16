@@ -47,11 +47,8 @@ Tags: #chicken #dinner
 7. Place entire dish on a baking sheet to catch any spills
    * Cook in oven for 30 min
 
-## References
+## References & Notes
 
-1. Original recipe: Wendy McNeil
+[^1]: Original recipe: Wendy McNeil
 
-## Notes
-
-* be sure not to brown the vegetables after adding flour
-
+[^2]: Be sure not to brown the vegetables after adding flour

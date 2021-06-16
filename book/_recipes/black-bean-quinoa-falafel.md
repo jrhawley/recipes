@@ -44,4 +44,4 @@ Tags: #vegetarian #prep #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://minimalistbaker.com/baked-quinoa-black-bean-falafel/)
+[^1]: [Original recipe](https://minimalistbaker.com/baked-quinoa-black-bean-falafel/)

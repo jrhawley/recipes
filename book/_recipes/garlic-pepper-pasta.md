@@ -37,12 +37,15 @@ Tags: #pasta #dinner
 
 ## References & Notes
 
-1. Originally from Giacomo Grillo.
-    > This recipe is the favorite of my dad.
-    > After a long and hard day at work, this pasta dish is all he needs to be in peace and happy.
-    > It is super-easy and straightforward but incredibly delicious.
-2. The sauce takes minutes to prepare so bring the water to the boil.
+[^1]: Original recipe: Giacomo Grillo
+> This recipe is the favorite of my dad.
+> After a long and hard day at work, this pasta dish is all he needs to be in peace and happy.
+> It is super-easy and straightforward but incredibly delicious.
+
+[^2]: The sauce takes minutes to prepare so bring the water to the boil.
 Do not add a lot of salt to the water since the sauce is a little strong on seasoning.
-3. **The reaction after adding the anchovies is pretty violent, so add them and with a wooden spoon and melt them with the heat off**
-4. You can prepare a little fancy garnish by toasting some breadcrumbs and fresh parsley in a non-stick pan until breadcrumbs are golden brown.
+
+[^3]: **The reaction after adding the anchovies is pretty violent, so add them and with a wooden spoon and melt them with the heat off**
+
+[^4]: You can prepare a little fancy garnish by toasting some breadcrumbs and fresh parsley in a non-stick pan until breadcrumbs are golden brown.
 Once you serve the pasta sprinkle some breadcrumbs on the pasta.

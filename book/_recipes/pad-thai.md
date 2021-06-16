@@ -42,8 +42,12 @@ Tags: #chicken #dinner
 
 ## References & Notes
 
-1. Original recipe:  Heather McNeil
-2. Taste the noodles to ensure they're like al dente pasta before you put them in the pan. They won't cook that much in the pan
-3. Don't worry if it doesn't seem that saucy
-4. You don't want it saucy like pasta; the taste is too strong
-5. You want it all covered in sauce but a bit dry
+[^1]: Original recipe:  Heather McNeil
+
+[^2]: Taste the noodles to ensure they're like al dente pasta before you put them in the pan. They won't cook that much in the pan
+
+[^3]: Don't worry if it doesn't seem that saucy
+
+[^4]: You don't want it saucy like pasta; the taste is too strong
+
+[^5]: You want it all covered in sauce but a bit dry

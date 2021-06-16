@@ -20,4 +20,4 @@ Tags: #alcoholic #beverage
 
 ## Notes
 
-1. Ginger beer can be substituted with ginger ale, although it is not as sharp
+[^1]: Ginger beer can be substituted with ginger ale, although it is not as sharp

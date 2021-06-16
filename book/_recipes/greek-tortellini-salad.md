@@ -49,4 +49,4 @@ Tags: #vegetarian #salad #dinner
 
 ## Notes
 
-1. This salad will keep in the fridge for up to 3 days
+[^1]: This salad will keep in the fridge for up to 3 days

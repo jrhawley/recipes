@@ -43,4 +43,4 @@ Tags: #dinner #potato #vegan
 
 ## References & Notes
 
-1. [Original recipe](https://eatwithclarity.com/wprm_print/7645)
+[^1]: [Original recipe](https://eatwithclarity.com/wprm_print/7645)

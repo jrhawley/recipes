@@ -54,4 +54,4 @@ Tags: #salad #vegetarian #summer #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://howsweeteats.com/wprm_print/59460)
+[^1]: [Original recipe](https://howsweeteats.com/wprm_print/59460)

@@ -29,4 +29,4 @@ Tags: #dessert #fruit #chocolate
 
 ## References
 
-1. [Original recipe](https://www.allrecipes.com/recipe/21712/chocolate-covered-strawberries/)
+[^1]: [Original recipe](https://www.allrecipes.com/recipe/21712/chocolate-covered-strawberries/)

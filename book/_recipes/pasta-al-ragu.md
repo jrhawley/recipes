@@ -61,16 +61,20 @@ Tags: #pasta #dinner
 
 ## References & Notes
 
-1. Originally from Giacomo Grillo.
-    > I am very proud and in love with this sauce.
-    > I played soccer since I was 7 years-old until I was 23 and every Sunday it was game-day.
-    > I used to eat this pasta (with variations that my dad threw in) every Sunday, so I can tell that I know this sauce very well!
-    > When I left Italy and started cooking for me and my friends I found my recipe and flavors.
-    > The longer you cook this sauce, the better.
-    > I normally cook it for the next day, leaving it on the stove for 6-8 hours, turning and mixing every 30 minutes.
-    > The same sauce can be used to prepare lasagna as well.
-2. > Prepare what we [Giacomo] call _soffritto_: very finely diced onion, celery, carrot, and garlic
-3. Not an expensive wine!
-4. Be careful when cooking the soffritto.
+[^1]: Original recipe: Giacomo Grillo
+> I am very proud and in love with this sauce.
+> I played soccer since I was 7 years-old until I was 23 and every Sunday it was game-day.
+> I used to eat this pasta (with variations that my dad threw in) every Sunday, so I can tell that I know this sauce very well!
+> When I left Italy and started cooking for me and my friends I found my recipe and flavors.
+> The longer you cook this sauce, the better.
+> I normally cook it for the next day, leaving it on the stove for 6-8 hours, turning and mixing every 30 minutes.
+> The same sauce can be used to prepare lasagna as well.
+
+[^2]: Prepare it as a _soffritto_: very finely diced onion, celery, carrot, and garlic
+
+[^3]: Not an expensive wine!
+
+[^4]: Be careful when cooking the soffritto.
 Soffritto is the base of the sauce, if it burns the entire sauce will be ruined.
-5. Tortiglioni is Francesca's favourite, but tradition would say to serve with tagliatelle
+
+[^5]: Tortiglioni is acceptable, but tradition would say to serve with tagliatelle

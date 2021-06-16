@@ -38,4 +38,4 @@ Tags: #slow-cooker #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://www.mynaturalfamily.com/paleo-pot-roast-crock-pot/)
+[^1]: [Original recipe](https://www.mynaturalfamily.com/paleo-pot-roast-crock-pot/)

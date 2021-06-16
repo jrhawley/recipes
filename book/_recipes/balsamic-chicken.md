@@ -36,4 +36,4 @@ Tags: #slow-cooker #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://www.allrecipes.com/recipe/234664/slow-cooker-balsamic-chicken/)
+[^1]: [Original recipe](https://www.allrecipes.com/recipe/234664/slow-cooker-balsamic-chicken/)

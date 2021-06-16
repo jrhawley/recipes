@@ -47,5 +47,6 @@ Tags: #dinner #pork #slow-cooker
 
 ## References & Notes
 
-1. [Original recipe](https://www.blessthismessplease.com/slow-cooker-pork-tenderloin-and-potatoes/)
-2. Can easily substitute carrots with another vegetable, like [green beans](../_ingredients/green%20beans.md)
+[^1]: [Original recipe](https://www.blessthismessplease.com/slow-cooker-pork-tenderloin-and-potatoes/)
+
+[^2]: Can easily substitute carrots with another vegetable, like [green beans](../_ingredients/green%20beans.md)

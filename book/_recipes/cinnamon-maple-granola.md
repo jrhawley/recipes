@@ -36,4 +36,4 @@ Tags: #cereal #granola #baking
 
 ## References
 
-1. [Original recipe](https://www.bakedbyrachel.com/cinnamon-maple-granola/)
+[^1]: [Original recipe](https://www.bakedbyrachel.com/cinnamon-maple-granola/)

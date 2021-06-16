@@ -34,4 +34,4 @@ Tags: #sandwich #vegetarian #lunch #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://www.ambitiouskitchen.com/smashed-chickpea-avocado-salad-sandwich-with-cranberries-lemon/)
+[^1]: [Original recipe](https://www.ambitiouskitchen.com/smashed-chickpea-avocado-salad-sandwich-with-cranberries-lemon/)

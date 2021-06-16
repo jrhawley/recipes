@@ -24,4 +24,4 @@ Tags: #sauce #condiment
 
 ## References & Notes
 
-1. Pairs well with [sweet potato fries](sweet-potato-fries.md)
+[^1]: Pairs well with [sweet potato fries](sweet-potato-fries.md)

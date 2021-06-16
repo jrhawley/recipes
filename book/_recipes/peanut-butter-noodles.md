@@ -37,4 +37,4 @@ Tags: #noodle #vegetarian #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://eatwithclarity.com/spicy-peanut-butter-noodles/print/9682/)
+[^1]: [Original recipe](https://eatwithclarity.com/spicy-peanut-butter-noodles/print/9682/)

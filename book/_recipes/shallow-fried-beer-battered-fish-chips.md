@@ -70,5 +70,6 @@ Tags: #fish #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://www.youtube.com/watch?v=HrNLvCO2tE4)
-1. If oil gets too hot, add a splash of room temperature oil, then remove from heat
+[^1]: [Original recipe](https://www.youtube.com/watch?v=HrNLvCO2tE4)
+
+[^2]: If oil gets too hot, add a splash of room temperature oil, then remove from heat

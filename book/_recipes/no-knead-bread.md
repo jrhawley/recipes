@@ -37,5 +37,6 @@ Tags: #bread #baking
 
 ## References & Notes
 
-1. [Original recipe](https://www.thekitchn.com/how-to-make-noknead-bread-home-109343)
-2. Do shallow cuts in the surface as a design, if wanted
+[^1]: [Original recipe](https://www.thekitchn.com/how-to-make-noknead-bread-home-109343)
+
+[^2]: Do shallow cuts in the surface as a design, if wanted

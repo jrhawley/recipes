@@ -52,4 +52,4 @@ Tags: #vegan #lentils #dinner
 
 ## References & Notes
 
-1. Oh She Glows For Dinner
+[^1]: [Original recipe](https://ohsheglows.com/book/)

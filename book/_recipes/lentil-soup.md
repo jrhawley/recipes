@@ -41,5 +41,6 @@ Tags: #dinner #soup #slow-cooker
 
 ## References & Notes
 
-1. [Original recipe](https://www.thekitchn.com/recipe-slow-cooker-easy-lentil-soup-253472)
-2. Leftovers last in the fridge for up to 1 week, or 3 months in the freezer
+[^1]: [Original recipe](https://www.thekitchn.com/recipe-slow-cooker-easy-lentil-soup-253472)
+
+[^2]: Leftovers last in the fridge for up to 1 week, or 3 months in the freezer

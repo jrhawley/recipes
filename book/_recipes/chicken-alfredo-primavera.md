@@ -54,4 +54,4 @@ Tags: #dinner #pasta #chicken
 
 ## References & Notes
 
-1. [Original recipe](https://www.youtube.com/watch?v=qCIbq8HywpQ)
+[^1]: [Original recipe](https://www.youtube.com/watch?v=qCIbq8HywpQ)

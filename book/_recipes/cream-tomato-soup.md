@@ -75,4 +75,4 @@ Tags: #soup #vegetarian #vegan
 
 ## References & Notes
 
-1. [Original recipe](http://www.styleathome.com/food-and-drink/recipes/article/recipe-cream-of-tomato-soup-with-roasted-italian-chickpea-croutons)
+[^1]: [Original recipe](http://www.styleathome.com/food-and-drink/recipes/article/recipe-cream-of-tomato-soup-with-roasted-italian-chickpea-croutons)

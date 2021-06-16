@@ -40,4 +40,4 @@ Tags: #slow-cooker #dinner
 
 ## References
 
-1. [Original recipe](https://www.eatingonadime.com/wprm_print/23335)
+[^1]: [Original recipe](https://www.eatingonadime.com/wprm_print/23335)

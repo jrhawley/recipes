@@ -47,4 +47,4 @@ Tags: #soup #pasta #vegetarian #dinner
 
 ## References & Notes
 
-1. [Original recipe](https://www.closetcooking.com/creamy-parmesan-tomato-and-spinach/)
+[^1]: [Original recipe](https://www.closetcooking.com/creamy-parmesan-tomato-and-spinach/)

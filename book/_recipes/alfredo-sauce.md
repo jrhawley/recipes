@@ -25,11 +25,12 @@ Tags: #sauce #condiment
 ## Directions
 
 1. Melt butter in pan over medium heat
-2. Mix milk and flour in similar proportions until all used
+2. Mix milk and flour in similar proportions until all used [^1]
 3. Reduce heat, add remaining ingredients, stirring constantly
-4. Once all ingredients are added, heat until boiling, then remove from heat and serve
+4. Once all ingredients are added, heat until boiling, then remove from heat and serve [^2]
 
 ## References & Notes
 
-1. Try to keep a play-doh-like consistency to let the flour absorb the milk
-2. In the end, the flour should be evenly distributed through the milk
+[^1]: Try to keep a play-doh-like consistency to let the flour absorb the milk
+
+[^2]: In the end, the flour should be evenly distributed through the milk

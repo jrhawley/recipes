@@ -23,4 +23,4 @@ Tags: #alcoholic #beverage
 
 ## References & Notes
 
-1. [Original recipe](https://cookieandkate.com/cinnamon-maple-whiskey-sour-recipe/print/24019/)
+[^1]: [Original recipe](https://cookieandkate.com/cinnamon-maple-whiskey-sour-recipe/print/24019/)

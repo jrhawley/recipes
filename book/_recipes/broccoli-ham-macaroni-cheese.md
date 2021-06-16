@@ -48,4 +48,4 @@ Tags: #ham #pasta #dinner
 
 ## References & Notes
 
-1. Original recipe: Nana
+[^1]: Original recipe: Nana
