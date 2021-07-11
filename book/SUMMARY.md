@@ -131,6 +131,7 @@
   - [Bacardi cocktail](_recipes/bacardi-cocktail.md)
   - [Cinnamon maple whiskey sour](_recipes/cinnamon-maple-whiskey-sour.md)
   - [El Presidente](_recipes/el-presidente.md)
+  - [Floradora](_recipes/floradora.md)
   - [Gin fizz](_recipes/gin-fizz.md)
   - [Kahlua hot chocolate](_recipes\kahlua-hot-chocolate.md)
   - [Manhattan](_recipes/manhattan.md)
