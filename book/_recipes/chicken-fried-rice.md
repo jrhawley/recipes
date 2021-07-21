@@ -16,7 +16,7 @@ Tags: #chicken #dinner
 
 | Quantity | Item                                                           |
 | -------- | -------------------------------------------------------------- |
-| 2 cups   | [basmati rice](../_ingredients/rice.md), uncooked              |
+| 5/4 cup  | [basmati rice](../_ingredients/rice.md), uncooked              |
 | 3 Tbsp   | [vegetable oil](../_ingredients/vegetable%20oil.md)            |
 | 2        | [chicken breasts](../_ingredients/chicken%20breast.md)         |
 | 1        | [onion](../_ingredients/onion.md), diced                       |
@@ -54,3 +54,4 @@ Tags: #chicken #dinner
 ## References & Notes
 
 [^1]: [Original recipe](https://easychickenrecipes.com/wprm_print/973)
+
