@@ -20,4 +20,4 @@ Tags: #beverage #alcoholic
 
 ## References
 
-1. [Original recipe](https://thespruceeats.com/floradora-cocktail-recipe-760079)
+[^1]: [Original recipe](https://thespruceeats.com/floradora-cocktail-recipe-760079)
