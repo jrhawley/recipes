@@ -18,11 +18,11 @@ Tags: #breakfast
 | 2/3 cup  | [milk](../_ingredients/milk.md)                |
 | 2 tsp    | ground [cinnamon](../_ingredients/cinnamon.md) |
 | 8 slices | [bread](../_ingredients/bread.md)              |
-| 1-2 tsp  | [butter](../_ingredients/butter.md), melted    |
+| 1 tsp    | [butter](../_ingredients/butter.md), melted    |
 
 ## Directions
 
 1. Either melt butter in frying pan/griddle or melt and mix with other ingredients
-1. Beat to make the mixture light
-1. Dip bread and fry
-1. Top with berries, jam, icing sugar, etc
+2. Beat to make the mixture light
+3. Dip bread and fry
+4. Top with berries, jam, icing sugar, etc

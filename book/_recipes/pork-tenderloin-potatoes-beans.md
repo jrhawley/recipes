@@ -1,4 +1,4 @@
-# # Brown sugar pork tenderloin, potatoes, and carrots
+# Brown sugar pork tenderloin, potatoes, and carrots
 
 | Info      | Amount     |
 | --------- | ---------- |

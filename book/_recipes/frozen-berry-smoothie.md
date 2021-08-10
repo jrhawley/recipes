@@ -18,7 +18,7 @@ Tags: #beverage #smoothie #fruit
 | 1 cup    | [milk](../_ingredients/milk.md)                               |
 | 1/2 cup  | [yogurt](../_ingredients/yogurt.md)                           |
 | 1/2 cup  | [orange juice](../_ingredients/orange-juice.md)               |
-| 2-3 Tbsp | [honey](../_ingredients/honey.md), to taste                   |
+| 2 Tbsp   | [honey](../_ingredients/honey.md), to taste                   |
 
 ## Directions
 
