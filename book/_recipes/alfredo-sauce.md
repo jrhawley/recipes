@@ -17,7 +17,7 @@ Tags: #sauce #condiment
 | 1 Tbsp   | [butter](../_ingredients/butter.md)           |
 | 1/4 cup  | [flour](../_ingredients/flour.md)             |
 | 1 tsp    | [table salt](../_ingredients/table%20salt.md) |
-| 3/4 cup  | [parmesan](../_ingredients/parmesan.md)       |
+| 3/4 cup  | [Parmesan](../_ingredients/parmesan.md)       |
 | 3 cups   | [milk](../_ingredients/milk.md)               |
 | 1/2 tsp  | [pepper](../_ingredients/pepper.md)           |
 | pinch    | [nutmeg](../_ingredients/nutmeg.md)           |
@@ -34,3 +34,4 @@ Tags: #sauce #condiment
 [^1]: Try to keep a play-doh-like consistency to let the flour absorb the milk
 
 [^2]: In the end, the flour should be evenly distributed through the milk
+
