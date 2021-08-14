@@ -40,4 +40,10 @@ Tags: #gluten-free #vegetarian #lunch #dinner
    1. Add black beans and quinoa, heat for a few minutes
    2. Add chopped onions
    3. Add spices and stir, lowering heat
-5. Add feta, lemon, and extra olive oil if desired, and serve
+5. Add feta, lemon, and extra olive oil if desired, and serve [^1]
+
+## Footnotes
+
+[^1]: Don't cook the quinoa, feta, and other vegetables for too long.
+	The salad will clump together if overcooked.
+
