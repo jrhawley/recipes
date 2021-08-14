@@ -126,6 +126,7 @@
   - [Apple cider](_recipes/apple-cider.md)
   - [Peanut butter fruit smoothie](_recipes/peanut-butter-fruit-smoothie.md)
   - [Frozen berry fruit smoothie](_recipes/frozen-berry-smoothie.md)
+  - [London fog](_recipes/london-fog.md)
 
 - [Alcoholic]()
   - [Bacardi cocktail](_recipes/bacardi-cocktail.md)
