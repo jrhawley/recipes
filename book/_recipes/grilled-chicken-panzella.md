@@ -34,7 +34,7 @@ Tags: #barbecue #chicken #dinner
 	2. Cook for 5-6 min each side
 2. Halve the baguette and drizzle olive oil on both sides
 	1. Toast on the barbecue for the last few minutes that the chicken is cooking
-3. Halve tomatoes and olives, dice cucumbers, and grate the garlic into a fine zest
+3. Halve tomatoes and olives, dice cucumbers, and mince garlic into a fine zest
 	1. In a medium mixing bowl, combine with Parmesan, mayo, vinegar, Italian seasoning, salt, and pepper
 
 ## References & Notes
