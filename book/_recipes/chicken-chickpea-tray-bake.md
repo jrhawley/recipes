@@ -1,4 +1,4 @@
-# Chicken and chickpea traybake
+# Chicken and chickpea tray bake
 
 | Info      | Amount     |
 | --------- | ---------- |
@@ -6,7 +6,7 @@
 | Cook Time | 25 min     |
 | Yields    | 4 servings |
 
-![Chicken chickpea traybake](../_assets/chicken-chickpea-traybake.jpg)
+![Chicken chickpea tray bake](../_assets/chicken-chickpea-traybake.jpg)
 
 Added: 2017-02-10
 
@@ -45,3 +45,4 @@ Tags: #chicken #dinner
 3. Arrange into a single layer on a baking sheet
 4. Bake for 20-25 min
 5. Serve with a dollop of the spiced yogurt
+
