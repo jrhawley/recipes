@@ -16,9 +16,9 @@ Tags: #soup #beef
 | -------- | ----------------------------------------------------- |
 | 3/2 lbs  | [ground beef](../_ingredients/ground-beef.md)         |
 | 1        | medium [onion](../_ingredients/onion.md), chopped     |
-| 28 oz    | [canned tomatoes](../_ingredients/canned-tomatoes.md) |
+| 28 oz    | [whole peeled tomatoes](../_ingredients/whole-peeled-tomatoes.md) |
 | 2 cup    | [water](../_ingredients/water.md)                     |
-| 852 mL   | [consomme soup](../_ingredients/consomme-soup.md)     |
+| 852 mL   | [consomme soup](../_ingredients/consomme.md)     |
 | 284 mL   | [tomato soup](../_ingredients/tomato-soup.md)         |
 | 4        | [carrots](../_ingredients/carrot.md), chopped         |
 | 1        | [bay leaf](../_ingredients/bay-leaf.md)               |

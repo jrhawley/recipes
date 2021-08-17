@@ -23,7 +23,7 @@ Tags: #pasta #dinner
 | 2 stalks | [celery](../_ingredients/celery.md), finely diced                        |
 | 1 clove  | [garlic](../_ingredients/garlic.md), finely diced                        |
 | 400 g    | medium [ground beef](../_ingredients/ground-beef.md)                     |
-| 250 g    | [ground pork](../_ingredients/ground-pork.md)                            |
+| 250 g    | [ground pork](../_ingredients/pork.md)                            |
 | 750 mL   | [red wine](../_ingredients/red-wine.md)                                  |
 | 2 Tbsp   | [tomato paste](../_ingredients/tomato-paste.md)                          |
 | 800 g    | finely [diced tomatoes](../_ingredients/diced-tomatoes.md) (Mutti Polpa) |

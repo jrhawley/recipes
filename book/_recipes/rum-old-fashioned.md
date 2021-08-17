@@ -8,7 +8,7 @@ Tags: #alcoholic #beverage
 
 | Quantity | Item                                                      |
 | -------- | --------------------------------------------------------- |
-| 1/3 oz   | [simple syrup](../_ingredients/simple-syrup.md)           |
+| 1/3 oz   | [simple syrup](./simple-syrup.md)           |
 | 3 dashes | [Agnostura bitters](../_ingredients/agnostura-bitters.md) |
 | 5/3 oz   | golden or dark [rum](../_ingredients/rum.md)              |
 | 1 disk   | [orange peel](../_ingredients/orange.md)                  |

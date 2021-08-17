@@ -18,7 +18,7 @@ Tags: #dessert #fruit #chocolate
 | -------- | ------------------------------------------------------ |
 | 16 oz    | [chocolate chips](../_ingredients/chocolate-chips.md)  |
 | 2 Tbsp   | [shortening](../_ingredients/shortening.md)            |
-| 1 lb     | [strawberries](../_ingredients/strawberries.md), fresh |
+| 1 lb     | [strawberries](../_ingredients/strawberry.md), fresh |
 
 ## Directions
 

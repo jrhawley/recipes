@@ -26,7 +26,7 @@ Tags: #appetizer #potato #fries
 |           | [cayenne pepper](../_ingredients/cayenne-pepper.md) |
 |           | [feta](../_ingredients/feta.md), crumbled           |
 | 1 handful | [parsley](../_ingredients/parsley.md)               |
-|           | [Tzatziki sauce](../tzatziki-sauce.md)              |
+|           | [Tzatziki](../_ingredients/tzatziki.md)              |
 
 ## Directions
 

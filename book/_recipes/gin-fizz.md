@@ -14,7 +14,7 @@ Tags: #alcoholic #beverage
 | Quantity | Item                                            |
 | -------- | ----------------------------------------------- |
 | 1.5 oz   | [gin](../_ingredients/gin.md)                   |
-| 1 oz     | [simple syrup](../_ingredients/simple-syrup.md) |
+| 1 oz     | [simple syrup](./simple-syrup.md) |
 | 1 oz     | [lime juice](../_ingredients/lime-juice.md)     |
 |          | [ice cubes](../_ingredients/ice.md)             |
 | 4 oz     | [club soda](../_ingredients/club-soda.md)       |

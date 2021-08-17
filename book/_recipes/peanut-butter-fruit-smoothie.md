@@ -14,13 +14,13 @@ Tags: #beverage #smoothie #fruit
 
 | Quantity | Item                                                   |
 | -------- | ------------------------------------------------------ |
-| 1/4 cup  | frozen [blueberries](../_ingredients/blueberries.md)   |
-| 1/4 cup  | frozen [blackberries](../_ingredients/blackberries.md) |
-| 1/4 cup  | frozen [raspberries](../_ingredients/raspberries.md)   |
-| 1/3 cup  | greek [yogurt](../_ingredients/yogurt.md)              |
+| 1/4 cup  | frozen [blueberries](../_ingredients/blueberry.md)   |
+| 1/4 cup  | frozen [blackberries](../_ingredients/blackberry.md) |
+| 1/4 cup  | frozen [raspberry](../_ingredients/raspberry.md)   |
+| 1/3 cup  | [Greek yogurt](../_ingredients/greek-yogurt.md)              |
 | 1 Tbsp   | [peanut butter](../_ingredients/peanut-butter.md)      |
 | 3/4 cup  | almond [milk](../_ingredients/milk.md)                 |
-| 1        | [date](../_ingredients/date.md)                        |
+| 1        | [dates](../_ingredients/dates.md)                        |
 
 ## Directions
 

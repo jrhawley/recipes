@@ -31,7 +31,7 @@ Tags: #soup #vegetarian #vegan
 | Quantity | Item                                                                          |
 | -------- | ----------------------------------------------------------------------------- |
 | 1 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                                     |
-| 1        | [yellow onion](../_ingredients/yellow-onion.md), diced                        |
+| 1        | [yellow onion](../_ingredients/sweet-onion.md), diced                        |
 | 2 cloves | [garlic](../_ingredients/garlic.md), minced                                   |
 | 1/2 cup  | [cashews](../_ingredients/cashews.md), soaked                                 |
 | 2 cups   | [vegetable broth](../_ingredients/vegetable-broth.md)                         |

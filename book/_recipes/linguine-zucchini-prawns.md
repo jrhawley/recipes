@@ -17,7 +17,7 @@ Tags: #pasta #dinner
 | Quantity | Item                                                                |
 | -------- | ------------------------------------------------------------------- |
 | 1 clove  | [garlic](../_ingredients/garlic.md), finely diced                   |
-| 2        | [shallots](../_ingredients/shallots.md), finely diced               |
+| 2        | [shallots](../_ingredients/shallot.md), finely diced               |
 | 1        | small [zucchini](../_ingredients/zucchini.md), sliced in half moons |
 | 300 g    | [prawns](../_ingredients/prawns.md), thawed                         |
 | 500 g    | [linguine](../_ingredients/linguine.md)                             |

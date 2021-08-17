@@ -14,7 +14,7 @@ Tags: #noodle #vegetarian #dinner
 
 | Quantity | Item                                                        |
 | -------- | ----------------------------------------------------------- |
-| 16 oz    | [brown rice noodles](../_ingredients/brown-rice-noodles.md) |
+| 16 oz    | [brown rice noodles](../_ingredients/rice-noodles.md) |
 | 2 cloves | [garlic](../_ingredients/garlic.md), minced                 |
 | 1 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                   |
 | 2/3 cup  | [peanut butter](../_ingredients/peanut-butter.md)           |

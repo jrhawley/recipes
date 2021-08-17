@@ -16,7 +16,7 @@ Tags: #shortbread #dessert #chocolate
 
 | Quantity | Item                                      |
 | -------- | ----------------------------------------- |
-| 4 oz     | [margarine](../_ingredients/margarine.md) |
+| 4 oz     | [butter](../_ingredients/butter.md) |
 | 2 oz     | [sugar](../_ingredients/sugar.md)         |
 | 6 oz     | [flour](../_ingredients/flour.md)         |
 
@@ -24,8 +24,8 @@ Tags: #shortbread #dessert #chocolate
 
 | Quantity | Item                                                                |
 | -------- | ------------------------------------------------------------------- |
-| 8 oz     | [margarine](../_ingredients/margarine.md)                           |
-| 4 Tbsp   | [syrup](../_ingredients/syrup.md)                                   |
+| 8 oz     | [butter](../_ingredients/butter.md)                           |
+| 4 Tbsp   | [maple syrup](../_ingredients/maple-syrup.md)                                   |
 | 4 oz     | [sugar](../_ingredients/sugar.md)                                   |
 | 400 oz   | [condensed milk](../_ingredients/condensed-milk.md)                 |
 |          | drops of [vanilla extract](../_ingredients/vanilla-extract.md)      |

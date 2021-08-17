@@ -16,7 +16,7 @@ Tags: #vegan #lentils #dinner
 
 | Quantity | Item                                                             |
 | -------- | ---------------------------------------------------------------- |
-| 4        | [hamburger buns](../_ingredients/hamburger-buns.md)              |
+| 4        | [hamburger buns](../_ingredients/buns.md)              |
 | 1        | [red onion](../_ingredients/onion.md)                            |
 | 2 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                        |
 | 4 cloves | [garlic](../_ingredients/garlic.md)                              |
@@ -26,7 +26,7 @@ Tags: #vegan #lentils #dinner
 | 2/3 cup  | [roasted red peppers](../_ingredients/roasted-red-pepper.md)     |
 | 1/3 cup  | [sun-dried-tomatoes](../_ingredients/sun-dried-tomatoes.md)      |
 | 400 mL   | [lentils](../_ingredients/lentils.md)                            |
-| 2 Tbsp   | [Worcestershire sauce](../_ingredients/worchestershire-sauce.md) |
+| 2 Tbsp   | [Worcestershire sauce](../_ingredients/worcestershire-sauce.md) |
 | 2 Tbsp   | [brown sugar](../_ingredients/brown-sugar.md)                    |
 | 1 tsp    | [apple cider vinegar](../_ingredients/apple-cider-vinegar.md)    |
 |          | [kosher salt](../_ingredients/kosher-salt.md)                    |

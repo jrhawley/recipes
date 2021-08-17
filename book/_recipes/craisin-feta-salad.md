@@ -16,7 +16,7 @@ Tags: #salad #vegetarian #dinner
 
 | Quantity | Item                                                            |
 | -------- | --------------------------------------------------------------- |
-| 1 box    | [baby romaine lettuce](../_ingredients/baby-romaine-lettuce.md) |
+| 1 box    | [baby romaine lettuce](../_ingredients/romaine-lettuce.md) |
 | 1 cup    | [craisins](../_ingredients/craisins.md)                         |
 | 1/3 cup  | toasted [pine nuts](../_ingredients/pine-nuts.md)               |
 | 1/2 cup  | goat [feta](../_ingredients/feta.md)                            |

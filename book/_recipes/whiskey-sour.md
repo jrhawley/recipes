@@ -8,8 +8,8 @@ Tags: #alcoholic #beverage
 
 | Quantity | Item                                            |
 | -------- | ----------------------------------------------- |
-| 1.5 oz   | [whisky](../_ingredients/whiskey.md)            |
-| 1.5 oz   | [Simple syrup](../_ingredients/simple-syrup.md) |
+| 1.5 oz   | [whiskey](../_ingredients/whiskey.md)            |
+| 1.5 oz   | [Simple syrup](./simple-syrup.md) |
 | 1 oz     | [lime juice](../_ingredients/lime-juice.md)     |
 |          | [ice cubes](../_ingredients/ice.md)             |
 

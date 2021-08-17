@@ -14,7 +14,7 @@ Tags: #custard #dessert
 
 | Quantity | Item                                                           |
 | -------- | -------------------------------------------------------------- |
-| 2 cup    | frozen [raspberries](../_ingredients/raspberries.md)           |
+| 2 cup    | frozen [raspberry](../_ingredients/raspberry.md)           |
 | 2        | [eggs](../_ingredients/cherry-tomato.md)                       |
 | 1 cup    | [milk](../_ingredients/milk.md)                                |
 | 1 cup    | [flour](../_ingredients/flour.md)                              |

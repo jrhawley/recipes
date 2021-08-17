@@ -22,7 +22,7 @@ Tags: #fish #dinner
 | 150 mL   | [beer](../_ingredients/beer.md)                           |
 | 2        | yukon gold [potatoes](../_ingredients/potato.md)          |
 | 1/2 cup  | [sunflower oil](../_ingredients/sunflower-oil.md)         |
-| 2        | [shallots](../_ingredients/shallots.md)                   |
+| 2        | [shallots](../_ingredients/shallot.md)                   |
 | 1        | [lemon](../_ingredients/lemon.md)                         |
 |          | [kosher salt](../_ingredients/kosher-salt.md)             |
 |          | [creme fraiche](../_ingredients/creme-fraiche.md)         |
