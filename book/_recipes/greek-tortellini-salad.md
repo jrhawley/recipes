@@ -16,25 +16,25 @@ Tags: #vegetarian #salad #dinner
 
 ### Salad
 
-| Quantity | Item                                                                             |
-| -------- | -------------------------------------------------------------------------------- |
-| 20 oz    | [tortellini](../_ingredients/tortellini.md)                                      |
-| 3/2 cups | [cherry tomatoes](../_ingredients/cherry%20tomato.md), cut in half               |
-| 1        | large [cucumber](../_ingredients/cucumber.md), diced                             |
-| 1 cup    | [kalamata olives](../_ingredients/kalamata%20olives.md), pit removed and chopped |
-| 1/2      | [red onion](../_ingredients/red%20onion.md)                                      |
-| 3/4 cup  | [feta](../_ingredients/feta.md)                                                  |
+| Quantity | Item                                                                           |
+| -------- | ------------------------------------------------------------------------------ |
+| 20 oz    | [tortellini](../_ingredients/tortellini.md)                                    |
+| 3/2 cups | [cherry tomatoes](../_ingredients/cherry-tomato.md), cut in half               |
+| 1        | large [cucumber](../_ingredients/cucumber.md), diced                           |
+| 1 cup    | [kalamata olives](../_ingredients/kalamata-olives.md), pit removed and chopped |
+| 1/2      | [red onion](../_ingredients/red-onion.md)                                      |
+| 3/4 cup  | [feta](../_ingredients/feta.md)                                                |
 
 ### Dressing
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 1/4 cup  | [olive oil](../_ingredients/olive%20oil.md)                 |
-| 3 Tbsp   | [red wine vinegar](../_ingredients/red%20wine%20vinegar.md) |
-| 1 clove  | [garlic](../_ingredients/garlic.md), minced                 |
-| 1/2 tsp  | dried [oregano](../_ingredients/oregano.md)                 |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
-|          | [pepper](../_ingredients/pepper.md)                         |
+| Quantity | Item                                                    |
+| -------- | ------------------------------------------------------- |
+| 1/4 cup  | [olive oil](../_ingredients/olive-oil.md)               |
+| 3 Tbsp   | [red-wine-vinegar](../_ingredients/red-wine-vinegar.md) |
+| 1 clove  | [garlic](../_ingredients/garlic.md), minced             |
+| 1/2 tsp  | dried [oregano](../_ingredients/oregano.md)             |
+|          | [kosher salt](../_ingredients/kosher-salt.md)           |
+|          | [pepper](../_ingredients/pepper.md)                     |
 
 ## Directions
 

@@ -6,11 +6,11 @@ Tags: #beverage #alcoholic
 
 ## Ingredients
 
-| Quantity | Item                                          |
-| -------- | --------------------------------------------- |
-| 2 oz     | [white rum](../_ingredients/white%20rum.md)   |
-| 1/2 oz   | [lime juice](../_ingredients/lime%20juice.md) |
-| 1/2 oz   | [grenadine](../_ingredients/grenadine.md)     |
+| Quantity | Item                                        |
+| -------- | ------------------------------------------- |
+| 2 oz     | [white rum](../_ingredients/rum.md)   |
+| 1/2 oz   | [lime juice](../_ingredients/lime-juice.md) |
+| 1/2 oz   | [grenadine](../_ingredients/grenadine.md)   |
 
 ## Directions
 

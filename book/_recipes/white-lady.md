@@ -6,12 +6,12 @@ Tags: #alcoholic #beverage
 
 ## Ingredients
 
-| Quantity | Item                                            |
-| -------- | ----------------------------------------------- |
-| 5/3 oz   | [gin](../_ingredients/gin.md)                   |
-| 2/3 oz   | [lemon juice](../_ingredients/lemon%20juice.md) |
-| 2/3 oz   | [Triple Sec](../_ingredients/triple-sec.md)     |
-| 1        | [egg white](../_ingredients/egg.md) (optional)  |
+| Quantity | Item                                           |
+| -------- | ---------------------------------------------- |
+| 5/3 oz   | [gin](../_ingredients/gin.md)                  |
+| 2/3 oz   | [lemon juice](../_ingredients/lemon-juice.md)  |
+| 2/3 oz   | [Triple Sec](../_ingredients/triple-sec.md)    |
+| 1        | [egg white](../_ingredients/egg.md) (optional) |
 
 ## Directions
 

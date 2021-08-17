@@ -12,21 +12,21 @@ Tags: #pasta #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 6 oz     | [farfalle](../_ingredients/farfalle.md), uncooked           |
-| 2 cups   | [tomato grapes](../_ingredients/tomato%20grapes.md), halved |
-| 1 cup    | seedless green [grapes](../_ingredients/grapes.md), halved  |
-| 1/3 cup  | fresh [basil](../_ingredients/basil.md), thinly sliced      |
-| 2 Tbsp   | [balsamic vinegar](../_ingredients/balsamic%20vinegar.md)   |
-| 2 Tbsp   | [shallots](../_ingredients/shallot.md), chopped             |
-| 2 tsp    | [capers](../_ingredients/capers.md)                         |
-| 1 tsp    | [dijon mustard](../_ingredients/dijon%20mustard.md)         |
-| 1 clove  | [garlic](../_ingredients/garlic.md). minced                 |
-| 4 oz     | [feta](../_ingredients/feta.md), crumbled                   |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
-|          | [pepper](../_ingredients/pepper.md)                         |
-|          | [olive oil](../_ingredients/olive%20oil.md)                 |
+| Quantity | Item                                                       |
+| -------- | ---------------------------------------------------------- |
+| 6 oz     | [farfalle](../_ingredients/farfalle.md), uncooked          |
+| 2 cups   | [cherry tomato](../_ingredients/cherry-tomato.md), halved  |
+| 1 cup    | seedless green [grapes](../_ingredients/grapes.md), halved |
+| 1/3 cup  | fresh [basil](../_ingredients/basil.md), thinly sliced     |
+| 2 Tbsp   | [balsamic vinegar](../_ingredients/balsamic-vinegar.md)    |
+| 2 Tbsp   | [shallots](../_ingredients/shallot.md), chopped            |
+| 2 tsp    | [capers](../_ingredients/capers.md)                        |
+| 1 tsp    | [dijon mustard](../_ingredients/dijon-mustard.md)          |
+| 1 clove  | [garlic](../_ingredients/garlic.md). minced                |
+| 4 oz     | [feta](../_ingredients/feta.md), crumbled                  |
+|          | [kosher salt](../_ingredients/kosher-salt.md)              |
+|          | [pepper](../_ingredients/pepper.md)                        |
+|          | [olive oil](../_ingredients/olive-oil.md)                  |
 
 ## Directions
 

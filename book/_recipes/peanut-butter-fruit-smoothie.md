@@ -18,7 +18,7 @@ Tags: #beverage #smoothie #fruit
 | 1/4 cup  | frozen [blackberries](../_ingredients/blackberries.md) |
 | 1/4 cup  | frozen [raspberries](../_ingredients/raspberries.md)   |
 | 1/3 cup  | greek [yogurt](../_ingredients/yogurt.md)              |
-| 1 Tbsp   | [peanut butter](../_ingredients/peanut%20butter.md)    |
+| 1 Tbsp   | [peanut butter](../_ingredients/peanut-butter.md)      |
 | 3/4 cup  | almond [milk](../_ingredients/milk.md)                 |
 | 1        | [date](../_ingredients/date.md)                        |
 

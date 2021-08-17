@@ -14,21 +14,21 @@ Tags: #dinner #pork #slow-cooker
 
 ## Ingredients
 
-| Quantity | Item                                                              |
-| -------- | ----------------------------------------------------------------- |
-| 400 g    | [pork tenderloin](../_ingredients/pork%20tenderloin.md)           |
-| 2 tsp    | [table salt](../_ingredients/table%20salt.md)                     |
-| 1 tsp    | [thyme](../_ingredients/thyme.md)                                 |
-| 1/2 tsp  | [salt](../_ingredients/table%20salt.md)                           |
-| 1/2 tsp  | [pepper](../_ingredients/pepper.md)                               |
-| 1 cup    | [vegetable broth](../_ingredients/vegetable%20broth.md)           |
-| 1/4 cup  | [brown sugar](../_ingredients/brown%20sugar.md)                   |
-| 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                       |
-| 2 Tbsp   | [Worcestershire sauce](../_ingredients/worcestershire%20sauce.md) |
-| 1 Tbsp   | [soy sauce](../_ingredients/soy%20sauce.md)                       |
-| 680 g    | [baby potatoes](../_ingredients/potato.md)                        |
-| 340 g    | [baby carrots](../_ingredients/carrot.md)                         |
-| 2 cloves | [garlic](../_ingredients/garlic.md), crushed                      |
+| Quantity | Item                                                            |
+| -------- | --------------------------------------------------------------- |
+| 400 g    | [pork tenderloin](../_ingredients/pork-tenderloin.md)           |
+| 2 tsp    | [table salt](../_ingredients/table-salt.md)                     |
+| 1 tsp    | [thyme](../_ingredients/thyme.md)                               |
+| 1/2 tsp  | [salt](../_ingredients/table-salt.md)                           |
+| 1/2 tsp  | [pepper](../_ingredients/pepper.md)                             |
+| 1 cup    | [vegetable broth](../_ingredients/vegetable-broth.md)           |
+| 1/4 cup  | [brown sugar](../_ingredients/brown-sugar.md)                   |
+| 1 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                       |
+| 2 Tbsp   | [Worcestershire sauce](../_ingredients/worcestershire-sauce.md) |
+| 1 Tbsp   | [soy sauce](../_ingredients/soy-sauce.md)                       |
+| 680 g    | [baby potatoes](../_ingredients/potato.md)                      |
+| 340 g    | [baby carrots](../_ingredients/carrot.md)                       |
+| 2 cloves | [garlic](../_ingredients/garlic.md), crushed                    |
 
 ## Directions
 
@@ -49,4 +49,4 @@ Tags: #dinner #pork #slow-cooker
 
 [^1]: [Original recipe](https://www.blessthismessplease.com/slow-cooker-pork-tenderloin-and-potatoes/)
 
-[^2]: Can easily substitute carrots with another vegetable, like [green beans](../_ingredients/green%20beans.md)
+[^2]: Can easily substitute carrots with another vegetable, like [green beans](../_ingredients/green-beans.md)

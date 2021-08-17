@@ -14,31 +14,31 @@ Tags: #salad #vegetarian #summer #dinner
 
 ### Salad
 
-| Quantity | Item                                                          |
-| -------- | ------------------------------------------------------------- |
-| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                   |
-| 1        | [acorn squash](../_ingredients/acorn%20squash.md)             |
-| 1/4 tsp  | [table salt](../_ingredients/table%20salt.md)                 |
-| 1/4 tsp  | [pepper](../_ingredients/pepper.md)                           |
-| 2 tsp    | [brown sugar](../_ingredients/brown%20sugar.md)               |
-| 1/2 cup  | [pecans](../_ingredients/pecan.md), chopped                   |
-| 1/4 tsp  | [pumpkin pie spice](../_ingredients/pumpkin%20pie%20spice.md) |
-| 6 cup    | [arugula](../_ingredients/arugula.md)                         |
-| 1        | [avocado](../_ingredients/avocado.md)                         |
-| 1/2 cup  | [pomegranate seeds](../_ingredients/pomegranate%20seeds.md)   |
-| 1        | [cucumber](../_ingredients/cucumber.md), sliced               |
+| Quantity | Item                                                      |
+| -------- | --------------------------------------------------------- |
+| 2 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                 |
+| 1        | [acorn squash](../_ingredients/acorn-squash.md)           |
+| 1/4 tsp  | [table salt](../_ingredients/table-salt.md)               |
+| 1/4 tsp  | [pepper](../_ingredients/pepper.md)                       |
+| 2 tsp    | [brown sugar](../_ingredients/brown-sugar.md)             |
+| 1/2 cup  | [pecans](../_ingredients/pecan.md), chopped               |
+| 1/4 tsp  | [pumpkin-pie-spice](../_ingredients/pumpkin-pie-spice.md) |
+| 6 cup    | [arugula](../_ingredients/arugula.md)                     |
+| 1        | [avocado](../_ingredients/avocado.md)                     |
+| 1/2 cup  | [pomegranate seeds](../_ingredients/pomegranate-seeds.md) |
+| 1        | [cucumber](../_ingredients/cucumber.md), sliced           |
 
 ### Vinaigrette
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 1/3 cup  | [pomegranate juice](../_ingredients/pomegranate%20juice.md) |
-| 1/4 cup  | [apple cider vinegar](apple%20cider%20vinegar)              |
-| 1/2 tsp  | [ginger](../_ingredients/ginger.md), freshly grated         |
-| 1 clove  | [garlic](../_ingredients/garlic.md), grated                 |
-| 1/4 tsp  | [table salt](../_ingredients/table%20salt.md)               |
-| 1/4 tsp  | [pepper](../_ingredients/pepper.md)                         |
-| 1/4 cup  | [olive oil](../_ingredients/olive%20oil.md)                 |
+| Quantity | Item                                                          |
+| -------- | ------------------------------------------------------------- |
+| 1/3 cup  | [pomegranate juice](../_ingredients/pomegranate-juice.md)     |
+| 1/4 cup  | [apple cider vinegar](../_ingredients/apple-cider-vinegar.md) |
+| 1/2 tsp  | [ginger](../_ingredients/ginger.md), freshly grated           |
+| 1 clove  | [garlic](../_ingredients/garlic.md), grated                   |
+| 1/4 tsp  | [table salt](../_ingredients/table-salt.md)                   |
+| 1/4 tsp  | [pepper](../_ingredients/pepper.md)                           |
+| 1/4 cup  | [olive oil](../_ingredients/olive-oil.md)                     |
 
 ## Directions
 

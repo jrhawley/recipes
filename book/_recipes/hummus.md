@@ -10,15 +10,15 @@ Tags: #condiment
 
 ## Ingredients
 
-| Quantity  | Item                                   |
-| --------- | -------------------------------------- |
-| 1 clove   | [garlic](garlic.md)                    |
-| 2 tsp     | [tahini](tahini.md)                    |
-| 15 oz can | [chickpeas](chickpeas.md)              |
-| 1         | [lemon](lemon.md), juiced              |
-| 1 Tbsp    | [olive oil](olive%20oil.md)            |
-| 1 tsp     | [salt](salt.md)                        |
-| 2 Tbsp    | [parsley](parsley.md), roughly chopped |
+| Quantity  | Item                                                   |
+| --------- | ------------------------------------------------------ |
+| 1 clove   | [garlic](../_ingredients/garlic.md)                    |
+| 2 tsp     | [tahini](../_ingredients/tahini.md)                    |
+| 15 oz can | [chickpeas](../_ingredients/chickpeas.md)              |
+| 1         | [lemon](../_ingredients/lemon.md), juiced              |
+| 1 Tbsp    | [olive oil](../_ingredients/olive-oil.md)              |
+| 1 tsp     | [salt](../_ingredients/kosher-salt.md)                 |
+| 2 Tbsp    | [parsley](../_ingredients/parsley.md), roughly chopped |
 
 ## Directions
 

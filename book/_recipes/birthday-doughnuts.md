@@ -14,30 +14,30 @@ Tags: #doughnuts #dessert
 
 ### Dough
 
-| Quantity | Item                                                    |
-| -------- | ------------------------------------------------------- |
-| 1 cup    | [flour](../_ingredients/flour.md)                       |
-| 1 tsp    | [baking powder](../_ingredients/baking%20powder.md)     |
-| 1/4 tsp  | [baking soda](../_ingredients/baking%20soda.md)         |
-| 1/4 tsp  | [table salt](../_ingredients/table%20salt.md)           |
-| 1/4 tsp  | [nutmeg](../_ingredients/nutmeg.md)                     |
-| 1/4 cup  | [sugar](../_ingredients/sugar.md)                       |
-| 1 Tbsp   | [brown sugar](../_ingredients/brown%20sugar.md)         |
-| 1/4 cup  | [milk](../_ingredients/milk.md)                         |
-| 1/4 cup  | [Greek yogurt](../_ingredients/greek%20yogurt.md)       |
-| 1        | [egg](../_ingredients/egg.md)                           |
-| 2 Tbsp   | [unsalted butter](../_ingredients/butter.md), melted    |
-| 3/2 tsp  | [vanilla extract](../_ingredients/vanilla%20extract.md) |
-| 1/2 cup  | [rainbow sprinkles](../_ingredients/sprinkles.md)       |
+| Quantity | Item                                                  |
+| -------- | ----------------------------------------------------- |
+| 1 cup    | [flour](../_ingredients/flour.md)                     |
+| 1 tsp    | [baking powder](../_ingredients/baking-powder.md)     |
+| 1/4 tsp  | [baking soda](../_ingredients/baking-soda.md)         |
+| 1/4 tsp  | [table salt](../_ingredients/table-salt.md)           |
+| 1/4 tsp  | [nutmeg](../_ingredients/nutmeg.md)                   |
+| 1/4 cup  | [sugar](../_ingredients/sugar.md)                     |
+| 1 Tbsp   | [brown sugar](../_ingredients/brown-sugar.md)         |
+| 1/4 cup  | [milk](../_ingredients/milk.md)                       |
+| 1/4 cup  | [Greek yogurt](../_ingredients/greek-yogurt.md)       |
+| 1        | [egg](../_ingredients/egg.md)                         |
+| 2 Tbsp   | [unsalted butter](../_ingredients/butter.md), melted  |
+| 3/2 tsp  | [vanilla extract](../_ingredients/vanilla-extract.md) |
+| 1/2 cup  | [rainbow sprinkles](../_ingredients/sprinkles.md)     |
 
 ### Glaze
 
-| Quantity | Item                                                    |
-| -------- | ------------------------------------------------------- |
-| 1/4 cup  | [milk](../_ingredients/milk.md)                         |
-| 2 cup    | [powdered sugar](../_ingredients/powdered%20sugar.md)   |
-| 1 tsp    | [vanilla extract](../_ingredients/vanilla%20extract.md) |
-|          | [rainbow sprinkles](../_ingredients/sprinkles.md)       |
+| Quantity | Item                                                  |
+| -------- | ----------------------------------------------------- |
+| 1/4 cup  | [milk](../_ingredients/milk.md)                       |
+| 2 cup    | [icing sugar](../_ingredients/icing-sugar.md)         |
+| 1 tsp    | [vanilla extract](../_ingredients/vanilla-extract.md) |
+|          | [rainbow sprinkles](../_ingredients/sprinkles.md)     |
 
 ## Directions
 

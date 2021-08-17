@@ -18,13 +18,13 @@ Tags: #bread #pumpkin #baking
 | 1 tsp    | ground [cloves](../_ingredients/cloves.md)            |
 | 2 tsp    | ground [cinnamon](../_ingredients/cinnamon.md)        |
 | 1 tsp    | ground [nutmeg](../_ingredients/nutmeg.md)            |
-| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)         |
-| 1 tsp    | [baking soda](../_ingredients/baking%20soda.md)       |
-| 1/2 tsp  | [baking powder](../_ingredients/baking%20powder.md)   |
+| 1/2 tsp  | [table salt](../_ingredients/table-salt.md)           |
+| 1 tsp    | [baking soda](../_ingredients/baking-soda.md)         |
+| 1/2 tsp  | [baking powder](../_ingredients/baking-powder.md)     |
 | 3 cup    | granulated [sugar](../_ingredients/sugar.md)          |
 | 1 cup    | soft [butter](../_ingredients/butter.md)              |
 | 3        | large [eggs](../_ingredients/egg.md)                  |
-| 16 oz    | [pumpkin puree](../_ingredients/pumpkin%20puree.md)   |
+| 16 oz    | [pumpkin puree](../_ingredients/pumpkin-puree.md)     |
 | 1/2 cup  | chopped [pecans](../_ingredients/pecan.md) (optional) |
 
 ## Directions

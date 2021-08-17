@@ -14,7 +14,7 @@ Tags: #beverage #smoothie #fruit
 | Quantity | Item                                                          |
 | -------- | ------------------------------------------------------------- |
 | 1        | frozen [banana](../_ingredients/banana.md), peeled and sliced |
-| 2 cups   | frozen [strawberries](../_ingredients/strawberries.md)        |
+| 2 cups   | frozen [strawberries](../_ingredients/strawberry.md)          |
 | 1 cup    | [milk](../_ingredients/milk.md)                               |
 | 1/2 cup  | [yogurt](../_ingredients/yogurt.md)                           |
 | 1/2 cup  | [orange juice](../_ingredients/orange-juice.md)               |

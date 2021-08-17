@@ -16,11 +16,11 @@ Tags: #dessert #pie #baking
 
 ### Pastry
 
-| Quantity | Item                                          |
-| -------- | --------------------------------------------- |
-| 2 cup    | [shortening](../_ingredients/shortening.md)   |
-| 8 cup    | [flour](../_ingredients/flour.md)             |
-| 4 tsp    | [table salt](../_ingredients/table%20salt.md) |
+| Quantity | Item                                        |
+| -------- | ------------------------------------------- |
+| 2 cup    | [shortening](../_ingredients/shortening.md) |
+| 8 cup    | [flour](../_ingredients/flour.md)           |
+| 4 tsp    | [table salt](../_ingredients/table-salt.md) |
 
 ### Filling
 
@@ -33,7 +33,7 @@ Tags: #dessert #pie #baking
 | 1/4 tsp  | [nutmeg](../_ingredients/nutmeg.md)             |
 | 1/4 tsp  | [allspice](../_ingredients/allspice.md)         |
 | 1/4 tsp  | ground [cloves](../_ingredients/cloves.md)      |
-| dash     | [table salt](../_ingredients/table%20salt.md)   |
+| dash     | [table salt](../_ingredients/table-salt.md)     |
 | 2 Tbsp   | [butter](../_ingredients/butter.md)             |
 
 ## Directions

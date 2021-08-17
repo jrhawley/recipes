@@ -12,20 +12,20 @@ Tags: #chicken #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                          |
-| -------- | ------------------------------------------------------------- |
-| 1/4 cup  | [olive oil](../_ingredients/olive%20oil.md)                   |
-| 2 Tbsp   | [lemon juice](../_ingredients/lemon%20juice.md)               |
-| 3 cloves | [garlic](../_ingredients/garlic.md), minced                   |
-| 3/2 tsp  | fresh [thyme](../_ingredients/thyme.md), minced               |
-| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                 |
-| 1/2 tsp  | fresh [rosemary](../_ingredients/rosemary.md), minced         |
-| 1/4 tsp  | [pepper](../_ingredients/pepper.md)                           |
-| 6        | bone-in [chicken thighs](../_ingredients/chicken%20thighs.md) |
-| 6        | [chicken drumsticks](../_ingredients/chicken-drumsticks.md)   |
-| 1 lb     | baby [red potatoes](../_ingredients/red-potatoes.md), halved  |
-| 1        | [lemon](../_ingredients/lemon.md), sliced                     |
-| 2 Tbsp   | [parsley](../_ingredients/parsley.md), minced                 |
+| Quantity | Item                                                        |
+| -------- | ----------------------------------------------------------- |
+| 1/4 cup  | [olive oil](../_ingredients/olive-oil.md)                   |
+| 2 Tbsp   | [lemon juice](../_ingredients/lemon-juice.md)               |
+| 3 cloves | [garlic](../_ingredients/garlic.md), minced                 |
+| 3/2 tsp  | fresh [thyme](../_ingredients/thyme.md), minced             |
+| 1 tsp    | [table salt](../_ingredients/table-salt.md)                 |
+| 1/2 tsp  | fresh [rosemary](../_ingredients/rosemary.md), minced       |
+| 1/4 tsp  | [pepper](../_ingredients/pepper.md)                         |
+| 6        | bone-in [chicken thighs](../_ingredients/chicken-thighs.md) |
+| 6        | [chicken drumsticks](../_ingredients/chicken-drumsticks.md) |
+| 1 lb     | baby [red potatoes](../_ingredients/potato.md), halved      |
+| 1        | [lemon](../_ingredients/lemon.md), sliced                   |
+| 2 Tbsp   | [parsley](../_ingredients/parsley.md), minced               |
 
 ## Directions
 

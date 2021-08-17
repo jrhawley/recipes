@@ -21,7 +21,7 @@ Tags: #smoothie #fruit
 | 1/2 Tbsp | ground [nutmeg](../_ingredients/nutmeg.md)                    |
 | 4 Tbsp   | [honey](../_ingredients/honey.md)                             |
 | 1 cup    | [ice cubes](../_ingredients/ice.md)                           |
-| 1 tsp    | [vanilla extract](../_ingredients/vanilla%20extract.md)       |
+| 1 tsp    | [vanilla extract](../_ingredients/vanilla-extract.md)         |
 
 ## Directions
 

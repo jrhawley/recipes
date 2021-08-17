@@ -14,28 +14,28 @@ Tags: #muffins #pumpkin #baking
 
 ### Muffins
 
-| Quantity  | Item                                                          |
-| --------- | ------------------------------------------------------------- |
-| 14 oz can | [pumpkin puree](../_ingredients/pumpkin%20puree.md)           |
-| 1 cup     | [sugar](../_ingredients/sugar.md)                             |
-| 1 cup     | [canola oil](../_ingredients/canola%20oil.md)                 |
-| 1         | [egg](../_ingredients/egg.md)                                 |
-| 2 tsp     | [vanilla extract](../_ingredients/vanilla%20extract.md)       |
-| 3 cup     | [flour](../_ingredients/flour.md)                             |
-| 1 Tbsp    | [pumpkin pie spice](../_ingredients/pumpkin%20pie%20spice.md) |
-| 1/2 tsp   | [nutmeg](../_ingredients/nutmeg.md)                           |
-| 2 tsp     | [baking powder](../_ingredients/baking%20powder.md)           |
-| 1 tsp     | [baking soda](../_ingredients/baking%20soda.md)               |
-| 1/2 tsp   | [table salt](../_ingredients/table%20salt.md)                 |
+| Quantity  | Item                                                      |
+| --------- | --------------------------------------------------------- |
+| 14 oz can | [pumpkin puree](../_ingredients/pumpkin-puree.md)         |
+| 1 cup     | [sugar](../_ingredients/sugar.md)                         |
+| 1 cup     | [canola oil](../_ingredients/canola-oil.md)               |
+| 1         | [egg](../_ingredients/egg.md)                             |
+| 2 tsp     | [vanilla extract](../_ingredients/vanilla-extract.md)     |
+| 3 cup     | [flour](../_ingredients/flour.md)                         |
+| 1 Tbsp    | [pumpkin-pie-spice](../_ingredients/pumpkin-pie-spice.md) |
+| 1/2 tsp   | [nutmeg](../_ingredients/nutmeg.md)                       |
+| 2 tsp     | [baking powder](../_ingredients/baking-powder.md)         |
+| 1 tsp     | [baking soda](../_ingredients/baking-soda.md)             |
+| 1/2 tsp   | [table salt](../_ingredients/table-salt.md)               |
 
 ### Cream Cheese
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 6 oz     | [cream cheese](../_ingredients/cream%20cheese.md), softened |
-| 1/4 cup  | [sugar](../_ingredients/sugar.md)                           |
-| 1        | [egg](../_ingredients/egg.md)                               |
-| 2 Tbsp   | [flour](../_ingredients/flour.md)                           |
+| Quantity | Item                                                      |
+| -------- | --------------------------------------------------------- |
+| 6 oz     | [cream cheese](../_ingredients/cream-cheese.md), softened |
+| 1/4 cup  | [sugar](../_ingredients/sugar.md)                         |
+| 1        | [egg](../_ingredients/egg.md)                             |
+| 2 Tbsp   | [flour](../_ingredients/flour.md)                         |
 
 ## Directions
 

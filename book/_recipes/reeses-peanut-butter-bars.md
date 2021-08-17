@@ -12,13 +12,13 @@ Tags: #dessert
 
 ## Ingredients
 
-| Quantity | Item                                                              |
-| -------- | ----------------------------------------------------------------- |
-| 1 cup    | [butter](../_ingredients/butter.md), melted                       |
-| 2 cup    | [graham cracker](../_ingredients/graham%20cracker.md) crumbs      |
-| 2 cup    | [icing sugar](../_ingredients/icing%20sugar.md)                   |
-| 5/4 cup  | [peanut butter](../_ingredients/peanut%20butter.md)               |
-| 3/2 cup  | semisweet [chocolate chips](../_ingredients/chocolate%20chips.md) |
+| Quantity | Item                                                            |
+| -------- | --------------------------------------------------------------- |
+| 1 cup    | [butter](../_ingredients/butter.md), melted                     |
+| 2 cup    | [graham cracker](../_ingredients/graham-cracker.md) crumbs      |
+| 2 cup    | [icing sugar](../_ingredients/icing-sugar.md)                   |
+| 5/4 cup  | [peanut butter](../_ingredients/peanut-butter.md)               |
+| 3/2 cup  | semisweet [chocolate chips](../_ingredients/chocolate-chips.md) |
 
 ## Directions
 

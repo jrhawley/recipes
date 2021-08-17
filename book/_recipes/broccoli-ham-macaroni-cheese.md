@@ -21,8 +21,8 @@ Tags: #ham #pasta #dinner
 | 370 mL   | [evaporated milk](../_ingredients/evaporated-milk.md) |
 | 1 cup    | [cheddar](../_ingredients/cheddar.md), shredded       |
 | 1/3 cup  | [parmesan](../_ingredients/parmesan.md)               |
-| 1 tsp    | [dijon mustard](../_ingredients/dijon%20mustard.md)   |
-| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)         |
+| 1 tsp    | [dijon mustard](../_ingredients/dijon-mustard.md)     |
+| 1/2 tsp  | [table salt](../_ingredients/table-salt.md)           |
 | 1/2 tsp  | [pepper](../_ingredients/pepper.md)                   |
 | 2 cup    | [macaroni](../_ingredients/macaroni.md)               |
 | 3 cup    | [broccoli florets](../_ingredients/broccoli.md)       |

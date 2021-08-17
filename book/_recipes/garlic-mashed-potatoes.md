@@ -12,12 +12,12 @@ Tags: #vegetarian #potatoes dinner
 
 ## Ingredients
 
-| Quantity | Item                                                          |
-| -------- | ------------------------------------------------------------- |
-| 1        | [Yukon gold potato](../_ingredients/yukon%20gold%20potato.md) |
-| 1 Tbsp   | [butter](../_ingredients/butter.md)                           |
-| 1 clove  | [garlic](../_ingredients/garlic.md), minced                   |
-|          | [milk](../_ingredients/milk.md)                               |
+| Quantity | Item                                           |
+| -------- | ---------------------------------------------- |
+| 1        | [Yukon gold potato](../_ingredients/potato.md) |
+| 1 Tbsp   | [butter](../_ingredients/butter.md)            |
+| 1 clove  | [garlic](../_ingredients/garlic.md), minced    |
+|          | [milk](../_ingredients/milk.md)                |
 
 ## Directions
 

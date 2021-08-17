@@ -10,8 +10,8 @@ Tags: #alcoholic #beverage
 | -------- | --------------------------------------------- |
 | 1.5 oz   | [vodka](../_ingredients/vodka.md)             |
 | 4.5 oz   | [ginger beer](../_ingredients/ginger-beer.md) |
-| 1 oz     | [lime juice](../_ingredients/lime%20juice.md) |
-|          | [ice cubes](../_ingredients/ice-cubes.md)     |
+| 1 oz     | [lime juice](../_ingredients/lime-juice.md)   |
+|          | [ice cubes](../_ingredients/ice.md)           |
 
 ## Directions
 

@@ -12,20 +12,20 @@ Tags: #pepper #beef #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                               |
-| -------- | ------------------------------------------------------------------ |
-| 1/2 cup  | [rice](../_ingredients/rice.md), uncooked                          |
-| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                        |
-| 1        | medium [onion](../_ingredients/onion.md), diced                    |
-| 1 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)                  |
-| 1 clove  | [garlic](../_ingredients/garlic.md), minced                        |
-| 1 lbs    | [ground beef](../_ingredients/ground%20beef.md)                    |
-| 14 oz    | [diced tomatoes](../_ingredients/diced%20tomatoes.md)              |
-| 1 tsp    | [oregano](../_ingredients/oregano.md)                              |
-| 6        | [bell peppers](../_ingredients/bell%20pepper.md), topped and cored |
-| 1 cup    | [cheddar](../_ingredients/cheddar.md), grated                      |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)                    |
-|          | [parsley](../_ingredients/parsley.md), freshly cut                 |
+| Quantity | Item                                                             |
+| -------- | ---------------------------------------------------------------- |
+| 1/2 cup  | [rice](../_ingredients/rice.md), uncooked                        |
+| 2 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                        |
+| 1        | medium [onion](../_ingredients/onion.md), diced                  |
+| 1 Tbsp   | [tomato paste](../_ingredients/tomato-paste.md)                  |
+| 1 clove  | [garlic](../_ingredients/garlic.md), minced                      |
+| 1 lbs    | [ground beef](../_ingredients/ground-beef.md)                    |
+| 14 oz    | [diced tomatoes](../_ingredients/diced-tomatoes.md)              |
+| 1 tsp    | [oregano](../_ingredients/oregano.md)                            |
+| 6        | [bell peppers](../_ingredients/bell-pepper.md), topped and cored |
+| 1 cup    | [cheddar](../_ingredients/cheddar.md), grated                    |
+|          | [kosher salt](../_ingredients/kosher-salt.md)                    |
+|          | [parsley](../_ingredients/parsley.md), freshly cut               |
 
 ## Directions
 

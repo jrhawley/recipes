@@ -18,15 +18,15 @@ Tags: #soup #vegetarian #dinner
 | 1        | medium [yellow onion](../_ingredients/onion.md), diced         |
 | 3 cloves | [garlic](../_ingredients/garlic.md), minced                    |
 | 1 cup    | [carrots](../_ingredients/carrot.md), grated                   |
-| 2 oz     | reduced fat [cream cheese](../_ingredients/cream%20cheese.md)  |
-| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                  |
+| 2 oz     | reduced fat [cream cheese](../_ingredients/cream-cheese.md)    |
+| 1 tsp    | [table salt](../_ingredients/table-salt.md)                    |
 | 1 tsp    | [pepper](../_ingredients/pepper.md)                            |
 | 1/4 tsp  | [nutmeg](../_ingredients/nutmeg.md)                            |
-| 4 cups   | [vegetable broth](../_ingredients/vegetable%20broth.md)        |
+| 4 cups   | [vegetable broth](../_ingredients/vegetable-broth.md)          |
 | 1 Tbsp   | [water](../_ingredients/water.md)                              |
 | 1/4 cup  | warm [water](../_ingredients/water.md)                         |
-| 1 Tbsp   | [cornstarch](../_ingredients/cornstarch.md)                    |
-| 1/4 cup  | plain [Greek yogurt](../_ingredients/greek%20yogurt.md)        |
+| 1 Tbsp   | [corn starch](../_ingredients/corn-starch.md)                  |
+| 1/4 cup  | plain [Greek yogurt](../_ingredients/greek-yogurt.md)          |
 | 1 cup    | [cheddar](../_ingredients/cheddar.md), grated                  |
 
 ## Directions

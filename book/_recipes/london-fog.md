@@ -6,13 +6,13 @@ Tags: #beverage
 
 ## Ingredients
 
-| Quantity | Item                                                    |
-|----------|---------------------------------------------------------|
-| 1/2 cup  | [water](../_ingredients/water.md)                       |
-| 1/2 cup  | [milk](../_ingredients/milk.md)                         |
-| 1/4 tsp  | [vanilla extract](../_ingredients/vanilla%20extract.md) |
-| 1 tsp    | [sugar](../_ingredients/sugar.md)                       |
-| 1 sachet | [Earl Grey tea](../_ingredients/Earl%20Grey%20tea.md)   |
+| Quantity | Item                                                  |
+| -------- | ----------------------------------------------------- |
+| 1/2 cup  | [water](../_ingredients/water.md)                     |
+| 1/2 cup  | [milk](../_ingredients/milk.md)                       |
+| 1/4 tsp  | [vanilla extract](../_ingredients/vanilla-extract.md) |
+| 1 tsp    | [sugar](../_ingredients/sugar.md)                     |
+| 1 sachet | [earl-grey-tea](../_ingredients/earl-grey-tea.md)     |
 
 ## Directions
 

@@ -6,14 +6,14 @@ Tags: #alcoholic #beverage
 
 ## Ingredients
 
-| Quantity | Item                                              |
-| -------- | ------------------------------------------------- |
-| 2 cups   | [milk](../_ingredients/milk.md)                   |
-| 1 Tbsp   | [sugar](../_ingredients/sugar.md)                 |
-| 3/2 Tbsp | [cocoa powder](../_ingredients/cocoa%20powder.md) |
-| 1/4 tsp  | [cinnamon](../_ingredients/cinnamon.md)           |
-| pinch    | [nutmeg](../_ingredients/nutmeg.md)               |
-| 1 oz     | [Kahlua](../_ingredients/khalua.md)               |
+| Quantity | Item                                            |
+| -------- | ----------------------------------------------- |
+| 2 cups   | [milk](../_ingredients/milk.md)                 |
+| 1 Tbsp   | [sugar](../_ingredients/sugar.md)               |
+| 3/2 Tbsp | [cocoa powder](../_ingredients/cocoa-powder.md) |
+| 1/4 tsp  | [cinnamon](../_ingredients/cinnamon.md)         |
+| pinch    | [nutmeg](../_ingredients/nutmeg.md)             |
+| 1 oz     | [Kahlua](../_ingredients/khalua.md)             |
 
 ## Directions
 

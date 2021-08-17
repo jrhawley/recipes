@@ -12,13 +12,13 @@ Tags: #side #rice #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                |
-| -------- | --------------------------------------------------- |
-| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)         |
-| 2 Tbsp   | [onion](../_ingredients/onion.md), chopped          |
-| 3/2 cups | [rice](../_ingredients/rice.md), uncooked           |
-| 2 cups   | [chicken broth](../_ingredients/chicken%20broth.md) |
-| 1 cup    | [salsa](../_ingredients/salsa.md), chunky           |
+| Quantity | Item                                              |
+| -------- | ------------------------------------------------- |
+| 2 Tbsp   | [olive oil](../_ingredients/olive-oil.md)         |
+| 2 Tbsp   | [onion](../_ingredients/onion.md), chopped        |
+| 3/2 cups | [rice](../_ingredients/rice.md), uncooked         |
+| 2 cups   | [chicken broth](../_ingredients/chicken-broth.md) |
+| 1 cup    | [salsa](../_ingredients/salsa.md), chunky         |
 
 ## Directions
 

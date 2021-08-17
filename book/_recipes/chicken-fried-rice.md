@@ -14,20 +14,20 @@ Tags: #chicken #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                           |
-| -------- | -------------------------------------------------------------- |
-| 5/4 cup  | [basmati rice](../_ingredients/rice.md), uncooked              |
-| 3 Tbsp   | [vegetable oil](../_ingredients/vegetable%20oil.md)            |
-| 2        | [chicken breasts](../_ingredients/chicken%20breast.md)         |
-| 1        | [onion](../_ingredients/onion.md), diced                       |
-| 1        | [carrot](../_ingredients/carrot.md), peeled, diced             |
-| 3 stalks | [green onion](../_ingredients/green%20onion.md), thinly sliced |
-| 2 cloves | [garlic](../_ingredients/garlic.md), minced                    |
-| 1 Tbsp   | [soy sauce](../_ingredients/soy%20sauce.md)                    |
-| 2 tsp    | [sesame oil](../_ingredients/sesame%20oil.md)                  |
-| 2        | [eggs](../_ingredients/cherry%20tomato.md), lightly beaten     |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)                |
-|          | [pepper](../_ingredients/pepper.md)                            |
+| Quantity | Item                                                         |
+| -------- | ------------------------------------------------------------ |
+| 5/4 cup  | [basmati rice](../_ingredients/rice.md), uncooked            |
+| 3 Tbsp   | [vegetable oil](../_ingredients/vegetable-oil.md)            |
+| 2        | [chicken breasts](../_ingredients/chicken-breast.md)         |
+| 1        | [onion](../_ingredients/onion.md), diced                     |
+| 1        | [carrot](../_ingredients/carrot.md), peeled, diced           |
+| 3 stalks | [green onion](../_ingredients/green-onion.md), thinly sliced |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced                  |
+| 1 Tbsp   | [soy sauce](../_ingredients/soy-sauce.md)                    |
+| 2 tsp    | [olive oil](../_ingredients/olive-oil.md)                    |
+| 2        | [eggs](../_ingredients/cherry-tomato.md), lightly beaten     |
+|          | [kosher salt](../_ingredients/kosher-salt.md)                |
+|          | [pepper](../_ingredients/pepper.md)                          |
 
 ## Directions
 

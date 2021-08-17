@@ -12,18 +12,18 @@ Tags: #vegetarian #side #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                                          |
-| -------- | --------------------------------------------------------------------------------------------- |
-| 2 lbs    | [rainbow carrots](../_ingredients/rainbow-carrots.md), peeled and sliced into 1/4 inch rounds |
-| 2 Tbsp   | [butter](../_ingredients/butter.md), melted                                                   |
-| 2 tsp    | [honey](../_ingredients/honey.md)                                                             |
-| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                                                 |
-| 1/2 tsp  | fresh [thyme](../_ingredients/thyme.md), chopped                                              |
-| 1/8      | [cayenne pepper](../_ingredients/cayenne%20pepper.md)                                         |
-| 1/8      | [cumin](../_ingredients/cumin.md)                                                             |
-| 2 oz     | [goat cheese](../_ingredients/goat%20cheese.md), crumbled                                     |
-| 1/3 cup  | [pomegranate seeds](../_ingredients/pomegranate-seeds.md), about 1/2 pomegranate              |
-| 2 Tbsp   | [sunflower](../_ingredients/sunflower.md) seeds                                               |
+| Quantity | Item                                                                                 |
+| -------- | ------------------------------------------------------------------------------------ |
+| 2 lbs    | [rainbow carrots](../_ingredients/carrot.md), peeled and sliced into 1/4 inch rounds |
+| 2 Tbsp   | [butter](../_ingredients/butter.md), melted                                          |
+| 2 tsp    | [honey](../_ingredients/honey.md)                                                    |
+| 1 tsp    | [table salt](../_ingredients/table-salt.md)                                          |
+| 1/2 tsp  | fresh [thyme](../_ingredients/thyme.md), chopped                                     |
+| 1/8      | [cayenne pepper](../_ingredients/cayenne-pepper.md)                                  |
+| 1/8      | [cumin](../_ingredients/cumin.md)                                                    |
+| 2 oz     | [goat cheese](../_ingredients/goat-cheese.md), crumbled                              |
+| 1/3 cup  | [pomegranate seeds](../_ingredients/pomegranate-seeds.md), about 1/2 pomegranate     |
+| 2 Tbsp   | [sunflower seeds](../_ingredients/sunflower-seeds.md)                                |
 
 ## Instructions
 

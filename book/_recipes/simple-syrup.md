@@ -6,10 +6,10 @@ Tags: #beverage
 
 ## Ingredients
 
-| Quantity | Item                                                      |
-| -------- | --------------------------------------------------------- |
-| 1 cup    | [water](../_ingredients/water.md)                         |
-| 1 cup    | [granulated sugar](../_ingredients/granulated%20sugar.md) |
+| Quantity | Item                              |
+| -------- | --------------------------------- |
+| 1 cup    | [water](../_ingredients/water.md) |
+| 1 cup    | [sugar](../_ingredients/sugar.md) |
 
 ## Directions
 

@@ -14,16 +14,16 @@ Tags: #vegetarian #prep #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                    |
-| -------- | ----------------------------------------------------------------------- |
-| 1 cup    | cooked [quinoa](../_ingredients/quinoa.md), cooled                      |
-| 15 oz    | [black beans](../_ingredients/black%20beans.md), rinsed, drained, dried |
-| 1/4 cup  | [pumpkin seeds](../_ingredients/pumpkin%20seeds.md)                     |
-| 5 cloves | [garlic](../_ingredients/garlic.md), minced                             |
-| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)                           |
-| 1 tsp    | ground [cumin](../_ingredients/cumin.md)                                |
-| 1/2 tsp  | [coriander](../_ingredients/coriander.md)                               |
-| 2 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)                       |
+| Quantity | Item                                                                  |
+| -------- | --------------------------------------------------------------------- |
+| 1 cup    | cooked [quinoa](../_ingredients/quinoa.md), cooled                    |
+| 15 oz    | [black beans](../_ingredients/black-beans.md), rinsed, drained, dried |
+| 1/4 cup  | [pumpkin seeds](../_ingredients/pumpkin-seeds.md)                     |
+| 5 cloves | [garlic](../_ingredients/garlic.md), minced                           |
+| 1/2 tsp  | [table salt](../_ingredients/table-salt.md)                           |
+| 1 tsp    | ground [cumin](../_ingredients/cumin.md)                              |
+| 1/2 tsp  | [cilantro](../_ingredients/cilantro.md)                               |
+| 2 Tbsp   | [tomato paste](../_ingredients/tomato-paste.md)                       |
 
 ## Directions
 

@@ -12,25 +12,25 @@ Tags: #fish #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 2 filets | [cod](../_ingredients/cod.md)                               |
-| 1        | [egg](../_ingredients/egg.md)                               |
-| 1 cup    | [flour](../_ingredients/flour.md), separated                |
-| 1 tsp    | [baking powder](../_ingredients/baking%20powder.md)         |
-| 3/2 tsp  | [curry powder](../_ingredients/curry%20powder.md), optional |
-| 150 mL   | [beer](../_ingredients/beer.md)                             |
-| 2        | yukon gold [potatoes](../_ingredients/potato.md)            |
-| 1/2 cup  | [sunflower oil](../_ingredients/sunflower%20oil.md)         |
-| 2        | [shallots](../_ingredients/shallots.md)                     |
-| 1        | [lemon](../_ingredients/lemon.md)                           |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
-|          | [creme fraiche](../_ingredients/creme%20fraiche.md)         |
-|          | [mayonnaise](../_ingredients/mayonnaise.md)                 |
-|          | [gherkin pickles](../_ingredients/gherkin%20pickles.md)     |
-|          | [capers](../_ingredients/capers.md)                         |
-|          | [parsley](../_ingredients/parsley.md)                       |
-|          | [tabasco sauce](../_ingredients/tabasco.md), optional       |
+| Quantity | Item                                                      |
+| -------- | --------------------------------------------------------- |
+| 2 filets | [cod](../_ingredients/cod.md)                             |
+| 1        | [egg](../_ingredients/egg.md)                             |
+| 1 cup    | [flour](../_ingredients/flour.md), separated              |
+| 1 tsp    | [baking powder](../_ingredients/baking-powder.md)         |
+| 3/2 tsp  | [curry powder](../_ingredients/curry-powder.md), optional |
+| 150 mL   | [beer](../_ingredients/beer.md)                           |
+| 2        | yukon gold [potatoes](../_ingredients/potato.md)          |
+| 1/2 cup  | [sunflower oil](../_ingredients/sunflower-oil.md)         |
+| 2        | [shallots](../_ingredients/shallots.md)                   |
+| 1        | [lemon](../_ingredients/lemon.md)                         |
+|          | [kosher salt](../_ingredients/kosher-salt.md)             |
+|          | [creme fraiche](../_ingredients/creme-fraiche.md)         |
+|          | [mayonnaise](../_ingredients/mayonnaise.md)               |
+|          | [gherkin pickles](../_ingredients/gherkin-pickles.md)     |
+|          | [capers](../_ingredients/capers.md)                       |
+|          | [parsley](../_ingredients/parsley.md)                     |
+|          | [tabasco sauce](../_ingredients/tabasco.md), optional     |
 
 ## Directions
 

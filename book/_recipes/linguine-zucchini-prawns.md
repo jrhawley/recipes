@@ -21,9 +21,9 @@ Tags: #pasta #dinner
 | 1        | small [zucchini](../_ingredients/zucchini.md), sliced in half moons |
 | 300 g    | [prawns](../_ingredients/prawns.md), thawed                         |
 | 500 g    | [linguine](../_ingredients/linguine.md)                             |
-| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                         |
+| 2 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                           |
 |          | [thyme](../_ingredients/thyme.md)                                   |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)                     |
+|          | [kosher salt](../_ingredients/kosher-salt.md)                       |
 |          | [pepper](../_ingredients/pepper.md)                                 |
 
 ## Directions

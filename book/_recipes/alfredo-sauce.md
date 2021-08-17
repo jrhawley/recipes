@@ -12,15 +12,15 @@ Tags: #sauce #condiment
 
 ## Ingredients
 
-| Quantity | Item                                          |
-| -------- | --------------------------------------------- |
-| 1 Tbsp   | [butter](../_ingredients/butter.md)           |
-| 1/4 cup  | [flour](../_ingredients/flour.md)             |
-| 1 tsp    | [table salt](../_ingredients/table%20salt.md) |
-| 3/4 cup  | [Parmesan](../_ingredients/parmesan.md)       |
-| 3 cups   | [milk](../_ingredients/milk.md)               |
-| 1/2 tsp  | [pepper](../_ingredients/pepper.md)           |
-| pinch    | [nutmeg](../_ingredients/nutmeg.md)           |
+| Quantity | Item                                        |
+| -------- | ------------------------------------------- |
+| 1 Tbsp   | [butter](../_ingredients/butter.md)         |
+| 1/4 cup  | [flour](../_ingredients/flour.md)           |
+| 1 tsp    | [table salt](../_ingredients/table-salt.md) |
+| 3/4 cup  | [Parmesan](../_ingredients/parmesan.md)     |
+| 3 cups   | [milk](../_ingredients/milk.md)             |
+| 1/2 tsp  | [pepper](../_ingredients/pepper.md)         |
+| pinch    | [nutmeg](../_ingredients/nutmeg.md)         |
 
 ## Directions
 

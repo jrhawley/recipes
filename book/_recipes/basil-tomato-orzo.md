@@ -12,21 +12,21 @@ Tags: #pasta #vegetarian #lunch #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                          |
-| -------- | ------------------------------------------------------------- |
-| 2 cups   | [orzo](../_ingredients/orzo.md), uncooked                     |
-| 25       | fresh [basil](../_ingredients/basil.md) leaves                |
-| 1 Tbsp   | [oregano](../_ingredients/oregano.md) leaves                  |
-| 1        | [shallot](../_ingredients/shallot.md)                         |
-| 1 clove  | [garlic](../_ingredients/garlic.md), minced                   |
-| 1/3 cup  | [olive oil](../_ingredients/olive%20oil.md)                   |
-| 1 tsp    | [honey](../_ingredients/honey.md)                             |
-| 1 Tbsp   | [water](../_ingredients/water.md)                             |
-| 1 cup    | [cherry tomatoes](../_ingredients/cherry%20tomato.md), halved |
-| 1 cup    | [parmesan](../_ingredients/parmesan.md), grated               |
-| 5        | [mint](../_ingredients/mint.md) leaves, chopped               |
-| 1        | [lemon](../_ingredients/lemon.md), zested and juiced          |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)               |
+| Quantity | Item                                                        |
+| -------- | ----------------------------------------------------------- |
+| 2 cups   | [orzo](../_ingredients/orzo.md), uncooked                   |
+| 25       | fresh [basil](../_ingredients/basil.md) leaves              |
+| 1 Tbsp   | [oregano](../_ingredients/oregano.md) leaves                |
+| 1        | [shallot](../_ingredients/shallot.md)                       |
+| 1 clove  | [garlic](../_ingredients/garlic.md), minced                 |
+| 1/3 cup  | [olive oil](../_ingredients/olive-oil.md)                   |
+| 1 tsp    | [honey](../_ingredients/honey.md)                           |
+| 1 Tbsp   | [water](../_ingredients/water.md)                           |
+| 1 cup    | [cherry tomatoes](../_ingredients/cherry-tomato.md), halved |
+| 1 cup    | [parmesan](../_ingredients/parmesan.md), grated             |
+| 5        | [mint](../_ingredients/mint.md) leaves, chopped             |
+| 1        | [lemon](../_ingredients/lemon.md), zested and juiced        |
+|          | [kosher salt](../_ingredients/kosher-salt.md)               |
 
 ## Directions
 

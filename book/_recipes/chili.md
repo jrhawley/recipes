@@ -12,22 +12,22 @@ Tags: #chili #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                               |
-| -------- | ------------------------------------------------------------------ |
-| 2 lbs    | [ground beef](../_ingredients/ground%20beef.md)                    |
-| 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                        |
-| 3        | [onions](../_ingredients/onions.md), diced                         |
-| 3 stalks | [celery](../_ingredients/celery.md), diced                         |
-| 1        | green [bell pepper](../_ingredients/bell%20pepper.md)              |
-| 2 cloves | [garlic](../_ingredients/garlic.md), minced                        |
-| 19 oz    | [kidney beans](../_ingredients/kidney%20beans.md), rinsed, drained |
-| 20 oz    | [tomato soup](../_ingredients/tomato-soup.md), undiluted           |
-| 28 oz    | [diced tomatoes](../_ingredients/diced%20tomatoes.md)              |
-| 1 Tbsp   | [chili powder](../_ingredients/chili%20powder.md), divided         |
-| 1 tsp    | [oregano](../_ingredients/oregano.md)                              |
-| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                      |
-| 1/2 tsp  | [pepper](../_ingredients/pepper.md)                                |
-| 1 tsp    | [sugar](../_ingredients/sugar.md)                                  |
+| Quantity | Item                                                             |
+| -------- | ---------------------------------------------------------------- |
+| 2 lbs    | [ground beef](../_ingredients/ground-beef.md)                    |
+| 1 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                        |
+| 3        | [onions](../_ingredients/onion.md), diced                        |
+| 3 stalks | [celery](../_ingredients/celery.md), diced                       |
+| 1        | green [bell pepper](../_ingredients/bell-pepper.md)              |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced                      |
+| 19 oz    | [kidney beans](../_ingredients/kidney-beans.md), rinsed, drained |
+| 20 oz    | [tomato soup](../_ingredients/tomato-soup.md), undiluted         |
+| 28 oz    | [diced tomatoes](../_ingredients/diced-tomatoes.md)              |
+| 1 Tbsp   | [chili powder](../_ingredients/chili-powder.md), divided         |
+| 1 tsp    | [oregano](../_ingredients/oregano.md)                            |
+| 1 tsp    | [table salt](../_ingredients/table-salt.md)                      |
+| 1/2 tsp  | [pepper](../_ingredients/pepper.md)                              |
+| 1 tsp    | [sugar](../_ingredients/sugar.md)                                |
 
 ## Directions
 

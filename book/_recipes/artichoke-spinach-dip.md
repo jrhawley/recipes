@@ -14,16 +14,16 @@ Tags: #sauce #condiment
 
 | Quantity | Item                                                                       |
 | -------- | -------------------------------------------------------------------------- |
-| 8 oz     | [cream cheese](../_ingredients/cream%20cheese.md) (single package)         |
-| 1/4 cup  | [sour cream](../_ingredients/sour%20cream.md)                              |
+| 8 oz     | [cream cheese](../_ingredients/cream-cheese.md) (single package)           |
+| 1/4 cup  | [sour cream](../_ingredients/sour-cream.md)                                |
 | 1/4 cup  | [parmesan](../_ingredients/parmesan.md), grated                            |
 | 1/4 cup  | [Romano cheese](../_ingredients/romano.md), grated                         |
 | 1 clove  | [garlic](../_ingredients/garlic.md), minced                                |
 | 1/2 tsp  | dried [basil](../_ingredients/basil.md)                                    |
-| 1/4 tsp  | [garlic salt](../_ingredients/garlic%20salt.md)                            |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)                            |
+| 1/4 tsp  | [garlic salt](../_ingredients/garlic-salt.md)                              |
+|          | [kosher salt](../_ingredients/kosher-salt.md)                              |
 |          | [pepper](../_ingredients/pepper.md)                                        |
-| 14 oz    | [artichoke hearts](../_ingredients/artichoke%20hearts.md)                  |
+| 14 oz    | [artichoke hearts](../_ingredients/artichoke-hearts.md)                    |
 | 1/2 cup  | frozen [spinach](../_ingredients/spinach.md), chopped, thawed, and drained |
 | 1/4 cup  | [mozzarella](../_ingredients/mozzarella.md), grated                        |
 

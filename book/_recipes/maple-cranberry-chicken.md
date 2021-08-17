@@ -12,17 +12,17 @@ Tags: #chicken #maple #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                   |
-| -------- | ------------------------------------------------------ |
-| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)            |
-| 6        | [chicken breasts](../_ingredients/chicken%20breast.md) |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)        |
-|          | [pepper](../_ingredients/pepper.md)                    |
-| 1/4 cup  | [white wine](../_ingredients/white%20wine.md)          |
-| 1/2 cup  | [maple syrup](../_ingredients/maple%20syrup.md)        |
-| 1/4 cup  | [dijon mustard](../_ingredients/dijon%20mustard.md)    |
-| 1 cup    | [cranberries](../_ingredients/cranberry.md)            |
-| 4 sprigs | fresh [rosemary](../_ingredients/rosemary.md)          |
+| Quantity | Item                                                 |
+| -------- | ---------------------------------------------------- |
+| 2 Tbsp   | [olive oil](../_ingredients/olive-oil.md)            |
+| 6        | [chicken breasts](../_ingredients/chicken-breast.md) |
+|          | [kosher salt](../_ingredients/kosher-salt.md)        |
+|          | [pepper](../_ingredients/pepper.md)                  |
+| 1/4 cup  | [white wine](../_ingredients/white-wine.md)          |
+| 1/2 cup  | [maple syrup](../_ingredients/maple-syrup.md)        |
+| 1/4 cup  | [dijon mustard](../_ingredients/dijon-mustard.md)    |
+| 1 cup    | [cranberries](../_ingredients/cranberry.md)          |
+| 4 sprigs | fresh [rosemary](../_ingredients/rosemary.md)        |
 
 ## Directions
 
@@ -41,4 +41,4 @@ Tags: #chicken #maple #dinner
 
 [^1]: [Original recipe](https://thebusybaker.ca/maple-cranberry-roast-chicken/#wprm-recipe-container-12798)
 
-[^2]: Pair with other late fall or winter vegetables like [sweet potatoes](../_ingredients/sweet%20potato.md) and/or [green beans](../_ingredients/green%20beans.md)
+[^2]: Pair with other late fall or winter vegetables like [sweet potatoes](../_ingredients/sweet-potato.md) and/or [green beans](../_ingredients/green-beans.md)

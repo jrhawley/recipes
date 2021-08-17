@@ -12,19 +12,19 @@ Tags: #slow-cooker #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 3 lbs    | [chuck roast](../_ingredients/chuck-roast.md)               |
-| 5        | [potatoes](../_ingredients/potatoes.md), chunked            |
-| 1        | [onion](../_ingredients/onion.md), chunked                  |
-| 4        | [carrots](../_ingredients/carrot.md), chunked               |
-| 2 cups   | [beef broth](../_ingredients/beef%20broth.md)               |
-| 2 cups   | [water](../_ingredients/water.md)                           |
-| 1/2 tsp  | [garlic powder](../_ingredients/garlic-powder.md)           |
-| 1/2 tsp  | [onion powder](../_ingredients/onion-powder.md)             |
-| 1/2 tsp  | [Italian seasoning](../_ingredients/italian%20seasoning.md) |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
-|          | [pepper](../_ingredients/pepper.md)                         |
+| Quantity | Item                                                      |
+| -------- | --------------------------------------------------------- |
+| 3 lbs    | [chuck roast](../_ingredients/chuck-roast.md)             |
+| 5        | [potatoes](../_ingredients/potato.md), chunked            |
+| 1        | [onion](../_ingredients/onion.md), chunked                |
+| 4        | [carrots](../_ingredients/carrot.md), chunked             |
+| 2 cups   | [beef broth](../_ingredients/beef-broth.md)               |
+| 2 cups   | [water](../_ingredients/water.md)                         |
+| 1/2 tsp  | [garlic powder](../_ingredients/garlic-powder.md)         |
+| 1/2 tsp  | [onion powder](../_ingredients/onion-powder.md)           |
+| 1/2 tsp  | [Italian seasoning](../_ingredients/italian-seasoning.md) |
+|          | [kosher salt](../_ingredients/kosher-salt.md)             |
+|          | [pepper](../_ingredients/pepper.md)                       |
 
 ## Directions
 

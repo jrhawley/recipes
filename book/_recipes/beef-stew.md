@@ -14,25 +14,25 @@ Tags: #stew #soup #beef #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                 |
-| -------- | -------------------------------------------------------------------- |
-| 2 lbs    | [beef chuck](../_ingredients/beef-chuck.md), cut into 1" pieces      |
-| 1/4 cup  | [flour](../_ingredients/flour.md)                                    |
-| 3 Tbsp   | [canola oil](../_ingredients/canola%20oil.md)                        |
-| 1        | [carrots](../_ingredients/carrot.md)                                 |
-| 1        | [onion](../_ingredients/onion.md)                                    |
-| 2 cloves | [garlic](../_ingredients/garlic.md), minced                          |
-| 12 oz    | [stout beer](../_ingredients/stout-beer.md), (eg. Guinness), divided |
-| 3/2 cups | [chicken stock](../_ingredients/chicken-stock.md)                    |
-| 1        | [Yukon gold potato](../_ingredients/potato.md), cut into 1" chunks   |
-| 3 sprigs | [thyme](../_ingredients/thyme.md)                                    |
-| 2 Tbsp   | [molasses](../_ingredients/molasses.md)                              |
-| 1 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)                    |
-| 1 tsp    | [table salt](../_ingredients/table%20salt.md)                        |
-| 1/2 cup  | [frozen peas](../_ingredients/frozen-peas.md)                        |
-| 1/2 cup  | fresh [parsley](../_ingredients/parsley.md), chopped                 |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)                      |
-|          | [pepper](../_ingredients/pepper.md)                                  |
+| Quantity | Item                                                               |
+| -------- | ------------------------------------------------------------------ |
+| 2 lbs    | [beef chuck](../_ingredients/beef-chuck.md), cut into 1" pieces    |
+| 1/4 cup  | [flour](../_ingredients/flour.md)                                  |
+| 3 Tbsp   | [canola oil](../_ingredients/canola-oil.md)                        |
+| 1        | [carrots](../_ingredients/carrot.md)                               |
+| 1        | [onion](../_ingredients/onion.md)                                  |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced                        |
+| 12 oz    | [stout beer](../_ingredients/beer.md), (eg. Guinness), divided     |
+| 3/2 cups | [chicken stock](../_ingredients/chicken-stock.md)                  |
+| 1        | [Yukon gold potato](../_ingredients/potato.md), cut into 1" chunks |
+| 3 sprigs | [thyme](../_ingredients/thyme.md)                                  |
+| 2 Tbsp   | [molasses](../_ingredients/molasses.md)                            |
+| 1 Tbsp   | [tomato paste](../_ingredients/tomato-paste.md)                    |
+| 1 tsp    | [table salt](../_ingredients/table-salt.md)                        |
+| 1/2 cup  | [frozen peas](../_ingredients/peas.md)                             |
+| 1/2 cup  | fresh [parsley](../_ingredients/parsley.md), chopped               |
+|          | [kosher salt](../_ingredients/kosher-salt.md)                      |
+|          | [pepper](../_ingredients/pepper.md)                                |
 
 ## Directions
 

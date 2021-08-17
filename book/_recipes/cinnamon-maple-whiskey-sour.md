@@ -8,12 +8,12 @@ Tags: #alcoholic #beverage
 
 ## Ingredients
 
-| Quantity | Item                                                  |
-| -------- | ----------------------------------------------------- |
-| 1.5 oz   | [bourbon](../_ingredients/bourbon.md)                 |
-| 1 oz     | fresh [lemon juice](../_ingredients/lemon%20juice.md) |
-| 1 Tbsp   | [maple syrup](../_ingredients/maple%20syrup.md)       |
-|          | [ice cubes](../_ingredients/ice-cubes.md)             |
+| Quantity | Item                                                |
+| -------- | --------------------------------------------------- |
+| 1.5 oz   | [bourbon](../_ingredients/bourbon.md)               |
+| 1 oz     | fresh [lemon juice](../_ingredients/lemon-juice.md) |
+| 1 Tbsp   | [maple syrup](../_ingredients/maple-syrup.md)       |
+|          | [ice cubes](../_ingredients/ice.md)                 |
 
 ## Directions
 

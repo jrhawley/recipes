@@ -6,12 +6,12 @@ Tags: #beverage #alcoholic
 
 ## Ingredients
 
-| Quantity | Item                                          |
-| -------- | --------------------------------------------- |
-| 3/2 oz   | [gin](../_ingredients/gin.md)                 |
-| 1/2 oz   | [grenadine](../_ingredients/grenadine.md)     |
-| 1/2 oz   | [lime juice](../_ingredients/lime%20juice.md) |
-| 4 oz     | [ginger ale](../_ingredients/ginger%20ale.md) |
+| Quantity | Item                                        |
+| -------- | ------------------------------------------- |
+| 3/2 oz   | [gin](../_ingredients/gin.md)               |
+| 1/2 oz   | [grenadine](../_ingredients/grenadine.md)   |
+| 1/2 oz   | [lime juice](../_ingredients/lime-juice.md) |
+| 4 oz     | [ginger ale](../_ingredients/ginger-ale.md) |
 
 ## Directions
 

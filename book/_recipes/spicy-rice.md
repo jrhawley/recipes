@@ -12,22 +12,22 @@ Tags: #side #rice #spicy #dinner
 
 ## Ingredients
 
-| Quantity  | Item                                                                        |
-| --------- | --------------------------------------------------------------------------- |
-| 1 Tbsp    | [butter](../_ingredients/butter.md)                                         |
-| 1/2 cup   | [onion](../_ingredients/onion.md), chopped finely                           |
-| 1/2 stalk | [celery](../_ingredients/celery.md), chopped finely                         |
-| 1 clove   | [garlic](../_ingredients/garlic.md)                                         |
-| 1         | [Thai chili](../_ingredients/thai%20chili.md), seeded and minced (optional) |
-| 1/2       | [carrot](../_ingredients/carrot.md), peeled and chopped finely              |
-| 3/4 cup   | long grain [rice](../_ingredients/rice.md)                                  |
-| 3/2 cup   | [chicken broth](../_ingredients/chicken%20broth.md)                         |
-| 1         | [lemon](../_ingredients/lemon.md), zested                                   |
-| 1/3 cup   | frozen [peas](../_ingredients/peas.md)                                      |
-| 2 tbsp    | [parsley](../_ingredients/parsley.md), chopped                              |
-| 2 tsp     | [thyme](../_ingredients/thyme.md), chopped                                  |
-|           | [kosher salt](../_ingredients/kosher%20salt.md)                             |
-|           | [pepper](../_ingredients/pepper.md)                                         | to taste |
+| Quantity  | Item                                                                      |
+| --------- | ------------------------------------------------------------------------- |
+| 1 Tbsp    | [butter](../_ingredients/butter.md)                                       |
+| 1/2 cup   | [onion](../_ingredients/onion.md), chopped finely                         |
+| 1/2 stalk | [celery](../_ingredients/celery.md), chopped finely                       |
+| 1 clove   | [garlic](../_ingredients/garlic.md)                                       |
+| 1         | [Thai chili](../_ingredients/thai-chili.md), seeded and minced (optional) |
+| 1/2       | [carrot](../_ingredients/carrot.md), peeled and chopped finely            |
+| 3/4 cup   | long grain [rice](../_ingredients/rice.md)                                |
+| 3/2 cup   | [chicken broth](../_ingredients/chicken-broth.md)                         |
+| 1         | [lemon](../_ingredients/lemon.md), zested                                 |
+| 1/3 cup   | frozen [peas](../_ingredients/peas.md)                                    |
+| 2 tbsp    | [parsley](../_ingredients/parsley.md), chopped                            |
+| 2 tsp     | [thyme](../_ingredients/thyme.md), chopped                                |
+|           | [kosher salt](../_ingredients/kosher-salt.md)                             |
+|           | [pepper](../_ingredients/pepper.md)                                       | to taste |
 
 ## Directions
 

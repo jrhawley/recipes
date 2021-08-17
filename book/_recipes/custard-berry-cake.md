@@ -15,14 +15,14 @@ Tags: #custard #dessert
 | Quantity | Item                                                           |
 | -------- | -------------------------------------------------------------- |
 | 2 cup    | frozen [raspberries](../_ingredients/raspberries.md)           |
-| 2        | [eggs](../_ingredients/cherry%20tomato.md)                     |
+| 2        | [eggs](../_ingredients/cherry-tomato.md)                       |
 | 1 cup    | [milk](../_ingredients/milk.md)                                |
 | 1 cup    | [flour](../_ingredients/flour.md)                              |
 | 3/4 cup  | [sugar](../_ingredients/sugar.md)                              |
 | 3 tbsp   | [butter](../_ingredients/butter.md), melted                    |
-| 1/2 tsp  | [table salt](../_ingredients/table%20salt.md)                  |
-| 1 tbsp   | [vanilla extract](../_ingredients/vanilla%20extract.md)        |
-|          | [icing sugar](../_ingredients/icing%20sugar.md) (optional)     |
+| 1/2 tsp  | [table salt](../_ingredients/table-salt.md)                    |
+| 1 tbsp   | [vanilla extract](../_ingredients/vanilla-extract.md)          |
+|          | [icing sugar](../_ingredients/icing-sugar.md) (optional)       |
 |          | low fat vanilla [yogurt](../_ingredients/yogurt.md) (optional) |
 
 ## Directions

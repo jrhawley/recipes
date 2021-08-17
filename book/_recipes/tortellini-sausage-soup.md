@@ -12,21 +12,21 @@ Tags: #soup #sausage #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                    |
-| -------- | ------------------------------------------------------- |
-| 500 g    | [Italian sausage](../_ingredients/sausage.md), ground   |
-| 1        | [onion](../_ingredients/onion.md), finely diced         |
-| 4 cloves | [garlic](../_ingredients/garlic.md), minced             |
-| 1 L      | [vegetable broth](../_ingredients/vegetable%20broth.md) |
-| 400 mL   | [crushed tomatoes](../_ingredients/crushed%20tomato.md) |
-| 2 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)       |
-| 300 mL   | [tortellini](../_ingredients/tortellini.md)             |
-| 250 mL   | [heavy cream](../_ingredients/heavy%20cream.md)         |
-|          | [spinach](../_ingredients/spinach.md)                   |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)         |
-|          | [pepper](../_ingredients/pepper.md)                     |
-|          | [parmesan](../_ingredients/parmesan.md)                 |
-|          | [sourdough](../_ingredients/sourdough.md)               |
+| Quantity | Item                                                  |
+| -------- | ----------------------------------------------------- |
+| 500 g    | [Italian sausage](../_ingredients/sausage.md), ground |
+| 1        | [onion](../_ingredients/onion.md), finely diced       |
+| 4 cloves | [garlic](../_ingredients/garlic.md), minced           |
+| 1 L      | [vegetable broth](../_ingredients/vegetable-broth.md) |
+| 400 mL   | [crushed tomatoes](../_ingredients/crushed-tomato.md) |
+| 2 Tbsp   | [tomato paste](../_ingredients/tomato-paste.md)       |
+| 300 mL   | [tortellini](../_ingredients/tortellini.md)           |
+| 250 mL   | [heavy cream](../_ingredients/heavy-cream.md)         |
+|          | [spinach](../_ingredients/spinach.md)                 |
+|          | [kosher salt](../_ingredients/kosher-salt.md)         |
+|          | [pepper](../_ingredients/pepper.md)                   |
+|          | [parmesan](../_ingredients/parmesan.md)               |
+|          | [sourdough](../_ingredients/sourdough.md)             |
 
 ## Directions
 

@@ -28,7 +28,7 @@ Tags: #shortbread #dessert #chocolate
 | 4 Tbsp   | [syrup](../_ingredients/syrup.md)                                   |
 | 4 oz     | [sugar](../_ingredients/sugar.md)                                   |
 | 400 oz   | [condensed milk](../_ingredients/condensed-milk.md)                 |
-|          | drops of [vanilla extract](../_ingredients/vanilla%20extract.md)    |
+|          | drops of [vanilla extract](../_ingredients/vanilla-extract.md)      |
 | 100 g    | [milk chocolate](../_ingredients/milk-chocolate.md) (bars or chips) |
 
 ## Directions

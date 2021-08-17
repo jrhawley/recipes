@@ -12,11 +12,11 @@ Tags: #sauce #condiment
 
 ## Ingredients
 
-| Quantity | Item                                                  |
-| -------- | ----------------------------------------------------- |
-| 1/2 cup  | [mayonnaise](../_ingredients/mayonnaise.md)           |
-| 1 tsp    | [Sriracha sauce](../_ingredients/sriracha.md)         |
-| 1/4 tsp  | [cayenne pepper](../_ingredients/cayenne%20pepper.md) |
+| Quantity | Item                                                |
+| -------- | --------------------------------------------------- |
+| 1/2 cup  | [mayonnaise](../_ingredients/mayonnaise.md)         |
+| 1 tsp    | [Sriracha sauce](../_ingredients/sriracha.md)       |
+| 1/4 tsp  | [cayenne pepper](../_ingredients/cayenne-pepper.md) |
 
 ## Directions
 

@@ -6,11 +6,11 @@ Tags: #alcoholic #beverage
 
 ## Ingredients
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 2 oz     | [whiskey](../_ingredients/whiskey.md)                       |
-| 2/3 oz   | [vermouth](../_ingredients/vermouth.md)                     |
-| 3 dashes | [Agnostura bitters](../_ingredients/agnostura%20bitters.md) |
+| Quantity | Item                                                      |
+| -------- | --------------------------------------------------------- |
+| 2 oz     | [whiskey](../_ingredients/whiskey.md)                     |
+| 2/3 oz   | [vermouth](../_ingredients/vermouth.md)                   |
+| 3 dashes | [Agnostura bitters](../_ingredients/agnostura-bitters.md) |
 
 ## Directions
 

@@ -12,23 +12,23 @@ Tags: #soup #vegan #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity   | Item                                                               |
-| ---------- | ------------------------------------------------------------------ |
-| 1 tsp      | [olive oil](../_ingredients/olive%20oil.md)                        |
-| 1          | medium [sweet onion](../_ingredients/sweet%20onion.md), diced      |
-| 2 cloves   | [garlic](../_ingredients/garlic.md), minced                        |
-| 1          | red [bell pepper](../_ingredients/bell%20pepper.md), diced         |
-| 1          | medium [sweet potato](../_ingredients/sweet%20potato.md), diced    |
-| 28 oz      | [diced tomatoes](../_ingredients/diced%20tomatoes.md), with juices |
-| 1/3 cup    | [peanut butter](../_ingredients/peanut%20butter.md)                |
-| 4 cups     | [vegetable broth](../_ingredients/vegetable%20broth.md)            |
-| 3/2 tsp    | [chili powder](../_ingredients/chili%20powder.md)                  |
-| 15 oz      | [chickpeas](../_ingredients/chickpeas.md), drained and rinsed      |
-| 2 handfuls | [baby spinach](../_ingredients/baby%20spinach.md)                  |
-|            | [kosher salt](../_ingredients/kosher%20salt.md)                    |
-|            | [pepper](../_ingredients/pepper.md)                                |
-|            | freshly [parsley](../_ingredients/parsley.md)                      |
-|            | [peanuts](../_ingredients/peanuts.md)                              |
+| Quantity   | Item                                                             |
+| ---------- | ---------------------------------------------------------------- |
+| 1 tsp      | [olive oil](../_ingredients/olive-oil.md)                        |
+| 1          | medium [sweet onion](../_ingredients/sweet-onion.md), diced      |
+| 2 cloves   | [garlic](../_ingredients/garlic.md), minced                      |
+| 1          | red [bell pepper](../_ingredients/bell-pepper.md), diced         |
+| 1          | medium [sweet potato](../_ingredients/sweet-potato.md), diced    |
+| 28 oz      | [diced tomatoes](../_ingredients/diced-tomatoes.md), with juices |
+| 1/3 cup    | [peanut butter](../_ingredients/peanut-butter.md)                |
+| 4 cups     | [vegetable broth](../_ingredients/vegetable-broth.md)            |
+| 3/2 tsp    | [chili powder](../_ingredients/chili-powder.md)                  |
+| 15 oz      | [chickpeas](../_ingredients/chickpeas.md), drained and rinsed    |
+| 2 handfuls | [spinach](../_ingredients/spinach.md)                            |
+|            | [kosher salt](../_ingredients/kosher-salt.md)                    |
+|            | [pepper](../_ingredients/pepper.md)                              |
+|            | freshly [parsley](../_ingredients/parsley.md)                    |
+|            | [peanuts](../_ingredients/peanuts.md)                            |
 
 ## Directions
 

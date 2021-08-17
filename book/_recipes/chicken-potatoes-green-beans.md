@@ -12,18 +12,18 @@ Tags: #slow-cooker #chicken #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                   |
-| -------- | ------------------------------------------------------ |
-| 2 lbs    | [chicken breasts](../_ingredients/chicken%20breast.md) |
-| 1/2 lbs  | [green beans](../_ingredients/green%20beans.md)        |
-| 3/2 lbs  | red [potatoes](../_ingredients/potatoes.md), chunked   |
-| 1/3 cup  | [lemon juice](../_ingredients/lemon%20juice.md)        |
-| 1/4 cup  | [olive oil](../_ingredients/olive%20oil.md)            |
-| 1 tsp    | [oregano](../_ingredients/oregano.md)                  |
-| 1/4 tsp  | [onion powder](../_ingredients/onion-powder.md)        |
-| 2 cloves | [garlic](../_ingredients/garlic.md), minced            |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)        |
-|          | [pepper](../_ingredients/pepper.md)                    |
+| Quantity | Item                                                 |
+| -------- | ---------------------------------------------------- |
+| 2 lbs    | [chicken breasts](../_ingredients/chicken-breast.md) |
+| 1/2 lbs  | [green beans](../_ingredients/green-beans.md)        |
+| 3/2 lbs  | red [potatoes](../_ingredients/potato.md), chunked   |
+| 1/3 cup  | [lemon juice](../_ingredients/lemon-juice.md)        |
+| 1/4 cup  | [olive oil](../_ingredients/olive-oil.md)            |
+| 1 tsp    | [oregano](../_ingredients/oregano.md)                |
+| 1/4 tsp  | [onion powder](../_ingredients/onion-powder.md)      |
+| 2 cloves | [garlic](../_ingredients/garlic.md), minced          |
+|          | [kosher salt](../_ingredients/kosher-salt.md)        |
+|          | [pepper](../_ingredients/pepper.md)                  |
 
 ## Directions
 

@@ -20,12 +20,12 @@ Tags: #beverage #cider #slow-cooker
 | 9        | [apples](../_ingredients/apple.md), assorted types        |
 | 1        | [orange](../_ingredients/orange.md)                       |
 | 2        | [pears](../_ingredients/pear.md)                          |
-| 3        | [cinnamon sticks](../_ingredients/cinnamon%20sticks.md)   |
+| 3        | [cinnamon sticks](../_ingredients/cinnamon-sticks.md)     |
 | 1        | [nutmeg](../_ingredients/nutmeg.md) (whole)               |
 | 2 tsp    | [cloves](../_ingredients/cloves.md) (whole)               |
 | 1/2 tsp  | [allspice](../_ingredients/allspice.md) (whole; optional) |
 | 3 L      | [water](../_ingredients/water.md)                         |
-| 1/4 cup  | [brown sugar](../_ingredients/brown%20sugar.md)           |
+| 1/4 cup  | [brown sugar](../_ingredients/brown-sugar.md)             |
 
 ## Directions
 

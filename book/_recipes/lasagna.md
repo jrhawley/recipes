@@ -14,23 +14,23 @@ Tags: #pasta #lasagna #vegetarian #dinner
 
 ## Ingredients
 
-| Quantity   | Item                                                                    |
-| ---------- | ----------------------------------------------------------------------- |
-| 500 g      | [ground beef](../_ingredients/ground%20beef.md) (exclude if vegetarian) |
-| 3 handfuls | [spinach](../_ingredients/spinach.md) (exclude if carnivorous)          |
-| 2 tsp      | [table salt](../_ingredients/table%20salt.md)                           |
-| 1 tsp      | [pepper](../_ingredients/pepper.md)                                     |
-| 1          | large [onion](../_ingredients/onion.md), chopped                        |
-| 1 tsp      | [italian seasoning](../_ingredients/italian%20seasoning.md)             |
-| 2 Tbsp     | dried [parsley](../_ingredients/parsley.md)                             |
-| 2 tsp      | [garlic powder](../_ingredients/garlic-powder.md)                       |
-| 6 oz       | [tomato paste](../_ingredients/tomato%20paste.md)                       |
-| 28 oz      | [tomato sauce](../_ingredients/tomato%20sauce.md)                       |
-| 5/4 cups   | [water](../_ingredients/water.md)                                       |
-| 8 oz       | [lasagna noodles](../_ingredients/lasagna-noodles.md), uncooked         |
-| 4 cups     | shredded [mozzarella](../_ingredients/mozzarella.md)                    |
-| 3/2 cups   | [ricotta](../_ingredients/ricotta.md)                                   |
-| 1/2 cup    | [parmesan](../_ingredients/parmesan.md)                                 |
+| Quantity   | Item                                                                  |
+| ---------- | --------------------------------------------------------------------- |
+| 500 g      | [ground beef](../_ingredients/ground-beef.md) (exclude if vegetarian) |
+| 3 handfuls | [spinach](../_ingredients/spinach.md) (exclude if carnivorous)        |
+| 2 tsp      | [table salt](../_ingredients/table-salt.md)                           |
+| 1 tsp      | [pepper](../_ingredients/pepper.md)                                   |
+| 1          | large [onion](../_ingredients/onion.md), chopped                      |
+| 1 tsp      | [italian seasoning](../_ingredients/italian-seasoning.md)             |
+| 2 Tbsp     | dried [parsley](../_ingredients/parsley.md)                           |
+| 2 tsp      | [garlic powder](../_ingredients/garlic-powder.md)                     |
+| 6 oz       | [tomato paste](../_ingredients/tomato-paste.md)                       |
+| 28 oz      | [tomato sauce](../_ingredients/tomato-sauce.md)                       |
+| 5/4 cups   | [water](../_ingredients/water.md)                                     |
+| 8 oz       | [lasagna noodles](../_ingredients/lasagna-noodles.md), uncooked       |
+| 4 cups     | shredded [mozzarella](../_ingredients/mozzarella.md)                  |
+| 3/2 cups   | [ricotta](../_ingredients/ricotta.md)                                 |
+| 1/2 cup    | [parmesan](../_ingredients/parmesan.md)                               |
 
 ## Directions
 

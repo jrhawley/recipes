@@ -14,23 +14,23 @@ Tags: #vegan #lentils #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                               |
-| -------- | ------------------------------------------------------------------ |
-| 4        | [hamburger buns](../_ingredients/hamburger%20buns.md)              |
-| 1        | [red onion](../_ingredients/onion.md)                              |
-| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                        |
-| 4 cloves | [garlic](../_ingredients/garlic.md)                                |
-| 2 tsp    | [chili powder](../_ingredients/chili%20powder.md)                  |
-| 2 tsp    | [cumin](../_ingredients/cumin.md)                                  |
-| 1 cup    | [tomato sauce](../_ingredients/tomato%20sauce.md)                  |
-| 2/3 cup  | [roasted red peppers](../_ingredients/roasted%20red%20pepper.md)   |
-| 1/3 cup  | [sun-dried tomatoes](../_ingredients/sun-dried%20tomatoes.md)      |
-| 400 mL   | [lentils](../_ingredients/lentils.md)                              |
-| 2 Tbsp   | [Worcestershire sauce](../_ingredients/worchestershire%20sauce.md) |
-| 2 Tbsp   | [brown sugar](../_ingredients/brown%20sugar.md)                    |
-| 1 tsp    | [apple cider vinegar](../_ingredients/apple%20cider%20vinegar.md)  |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)                    |
-|          | [pepper](../_ingredients/pepper.md)                                |
+| Quantity | Item                                                             |
+| -------- | ---------------------------------------------------------------- |
+| 4        | [hamburger buns](../_ingredients/hamburger-buns.md)              |
+| 1        | [red onion](../_ingredients/onion.md)                            |
+| 2 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                        |
+| 4 cloves | [garlic](../_ingredients/garlic.md)                              |
+| 2 tsp    | [chili powder](../_ingredients/chili-powder.md)                  |
+| 2 tsp    | [cumin](../_ingredients/cumin.md)                                |
+| 1 cup    | [tomato sauce](../_ingredients/tomato-sauce.md)                  |
+| 2/3 cup  | [roasted red peppers](../_ingredients/roasted-red-pepper.md)     |
+| 1/3 cup  | [sun-dried-tomatoes](../_ingredients/sun-dried-tomatoes.md)      |
+| 400 mL   | [lentils](../_ingredients/lentils.md)                            |
+| 2 Tbsp   | [Worcestershire sauce](../_ingredients/worchestershire-sauce.md) |
+| 2 Tbsp   | [brown sugar](../_ingredients/brown-sugar.md)                    |
+| 1 tsp    | [apple cider vinegar](../_ingredients/apple-cider-vinegar.md)    |
+|          | [kosher salt](../_ingredients/kosher-salt.md)                    |
+|          | [pepper](../_ingredients/pepper.md)                              |
 
 ## Directions
 

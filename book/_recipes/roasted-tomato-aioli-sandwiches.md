@@ -20,8 +20,8 @@ Tags: #vegetarian #sandwich #lunch #dinner
 | 2 cloves | [garlic](../_ingredients/garlic.md), minced             |
 | 4 slices | [sourdough](../_ingredients/sourdough.md), thick slices |
 | 1        | [avocado](../_ingredients/avocado.md)                   |
-|          | [olive oil](../_ingredients/olive%20oil.md)             |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)         |
+|          | [olive oil](../_ingredients/olive-oil.md)               |
+|          | [kosher salt](../_ingredients/kosher-salt.md)           |
 |          | [pepper](../_ingredients/pepper.md)                     |
 |          | [oregano](../_ingredients/oregano.md)                   |
 |          | [butter](../_ingredients/butter.md)                     |

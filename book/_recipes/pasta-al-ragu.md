@@ -16,23 +16,23 @@ Tags: #pasta #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                                       |
-| -------- | -------------------------------------------------------------------------- |
-| 1/2      | [red onion](../_ingredients/red%20onion.md), finely diced                  |
-| 1        | [carrot](../_ingredients/carrot.md), finely diced                          |
-| 2 stalks | [celery](../_ingredients/celery.md), finely diced                          |
-| 1 clove  | [garlic](../_ingredients/garlic.md), finely diced                          |
-| 400 g    | medium [ground beef](../_ingredients/ground%20beef.md)                     |
-| 250 g    | [ground pork](../_ingredients/ground-pork.md)                              |
-| 750 mL   | [red wine](../_ingredients/red-wine.md)                                    |
-| 2 Tbsp   | [tomato paste](../_ingredients/tomato%20paste.md)                          |
-| 800 g    | finely [diced tomatoes](../_ingredients/diced%20tomatoes.md) (Mutti Polpa) |
-| 3 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                                |
-| 500 g    | [tagliatelle](../_ingredients/tagliatelle.md)                              |
-|          | [parmesan](../_ingredients/parmesan.md)                                    |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)                            |
-|          | [pepper](../_ingredients/pepper.md)                                        |
-|          | [thyme](../_ingredients/thyme.md)                                          |
+| Quantity | Item                                                                     |
+| -------- | ------------------------------------------------------------------------ |
+| 1/2      | [red onion](../_ingredients/red-onion.md), finely diced                  |
+| 1        | [carrot](../_ingredients/carrot.md), finely diced                        |
+| 2 stalks | [celery](../_ingredients/celery.md), finely diced                        |
+| 1 clove  | [garlic](../_ingredients/garlic.md), finely diced                        |
+| 400 g    | medium [ground beef](../_ingredients/ground-beef.md)                     |
+| 250 g    | [ground pork](../_ingredients/ground-pork.md)                            |
+| 750 mL   | [red wine](../_ingredients/red-wine.md)                                  |
+| 2 Tbsp   | [tomato paste](../_ingredients/tomato-paste.md)                          |
+| 800 g    | finely [diced tomatoes](../_ingredients/diced-tomatoes.md) (Mutti Polpa) |
+| 3 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                                |
+| 500 g    | [tagliatelle](../_ingredients/tagliatelle.md)                            |
+|          | [parmesan](../_ingredients/parmesan.md)                                  |
+|          | [kosher salt](../_ingredients/kosher-salt.md)                            |
+|          | [pepper](../_ingredients/pepper.md)                                      |
+|          | [thyme](../_ingredients/thyme.md)                                        |
 
 ## Directions
 

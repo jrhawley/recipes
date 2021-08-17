@@ -12,13 +12,13 @@ Tags: #dinner #pork
 
 ## Ingredients
 
-| Quantity | Item                                                              |
-| -------- | ----------------------------------------------------------------- |
-| 400 g    | [pork tenderloin](../_ingredients/pork-tenderloin.md)             |
-| 3 Tbsp   | [brown sugar](../_ingredients/brown%20sugar.md)                   |
-| 2 Tbsp   | [grainy mustard](../_ingredients/mustard.md)                      |
-| 2 tsp    | [rosemary](../_ingredients/rosemary.md)                           |
-| 2 Tbsp   | [apple cider vinegar](../_ingredients/apple%20cider%20vinegar.md) |
+| Quantity | Item                                                          |
+| -------- | ------------------------------------------------------------- |
+| 400 g    | [pork tenderloin](../_ingredients/pork-tenderloin.md)         |
+| 3 Tbsp   | [brown sugar](../_ingredients/brown-sugar.md)                 |
+| 2 Tbsp   | [grainy mustard](../_ingredients/mustard.md)                  |
+| 2 tsp    | [rosemary](../_ingredients/rosemary.md)                       |
+| 2 Tbsp   | [apple cider vinegar](../_ingredients/apple-cider-vinegar.md) |
 
 ## Directions
 

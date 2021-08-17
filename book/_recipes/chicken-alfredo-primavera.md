@@ -12,24 +12,24 @@ Tags: #dinner #pasta #chicken
 
 ## Ingredients
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 2 Tbsp   | [butter](../_ingredients/butter.md)                         |
-| 3 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                 |
-| 4        | [chicken breasts](../_ingredients/chicken%20breast.md)      |
-| 1        | [squash](../_ingredients/squash.md)                         |
-| 1 crown  | [broccoli](../_ingredients/broccoli.md)                     |
-| 1        | [red bell pepper](../_ingredients/bell%20pepper.md)         |
-| 1        | [onion](../_ingredients/onion.md)                           |
-| 3 cloves | [garlic](../_ingredients/garlic.md)                         |
-| 1/2 tsp  | [red pepper flakes](../_ingredients/red%20pepper%flakes.md) |
-| 1/2 cup  | [white wine](../_ingredients/white%20wine.md)               |
-| 1 cup    | [milk](../_ingredients/milk.md)                             |
-| 1 cup    | [parmesan](../_ingredients/parmesan.md), grated             |
-| 16 oz    | [farfalle](../_ingredients/farfalle.md)                     |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
-|          | [pepper](../_ingredients/pepper.md)                         |
-|          | [parsley](../_ingredients/parsley.md)                       |
+| Quantity | Item                                                      |
+| -------- | --------------------------------------------------------- |
+| 2 Tbsp   | [butter](../_ingredients/butter.md)                       |
+| 3 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                 |
+| 4        | [chicken breasts](../_ingredients/chicken-breast.md)      |
+| 1        | [squash](../_ingredients/squash.md)                       |
+| 1 crown  | [broccoli](../_ingredients/broccoli.md)                   |
+| 1        | [red bell pepper](../_ingredients/bell-pepper.md)         |
+| 1        | [onion](../_ingredients/onion.md)                         |
+| 3 cloves | [garlic](../_ingredients/garlic.md)                       |
+| 1/2 tsp  | [red pepper flakes](../_ingredients/red-pepper-flakes.md) |
+| 1/2 cup  | [white wine](../_ingredients/white-wine.md)               |
+| 1 cup    | [milk](../_ingredients/milk.md)                           |
+| 1 cup    | [parmesan](../_ingredients/parmesan.md), grated           |
+| 16 oz    | [farfalle](../_ingredients/farfalle.md)                   |
+|          | [kosher salt](../_ingredients/kosher-salt.md)             |
+|          | [pepper](../_ingredients/pepper.md)                       |
+|          | [parsley](../_ingredients/parsley.md)                     |
 
 ## Directions
 

@@ -12,20 +12,20 @@ Tags: #slow-cooker #dinner
 
 ## Ingredients
 
-| Quantity | Item                                                      |
-| -------- | --------------------------------------------------------- |
-| 4        | [chicken breasts](../_ingredients/chicken%20breast.md)    |
-| 1        | [onion](../_ingredients/onion.md), sliced                 |
-| 4 cloves | [garlic](../_ingredients/garlic.md), minced               |
-| 28 oz    | [crushed tomatoes](../_ingredients/crushed%20tomato.md)   |
-| 2 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)               |
-| 1 tsp    | [oregano](../_ingredients/oregano.md)                     |
-| 1 tsp    | [basil](../_ingredients/basil.md)                         |
-| 1 tsp    | [rosemary](../_ingredients/rosemary.md)                   |
-| 1/2 tsp  | [thyme](../_ingredients/thyme.md)                         |
-| 1/2 cup  | [balsamic vinegar](../_ingredients/balsamic%20vinegar.md) |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)           |
-|          | [pepper](../_ingredients/pepper.md)                       |
+| Quantity | Item                                                    |
+| -------- | ------------------------------------------------------- |
+| 4        | [chicken breasts](../_ingredients/chicken-breast.md)    |
+| 1        | [onion](../_ingredients/onion.md), sliced               |
+| 4 cloves | [garlic](../_ingredients/garlic.md), minced             |
+| 28 oz    | [crushed tomatoes](../_ingredients/crushed-tomato.md)   |
+| 2 Tbsp   | [olive oil](../_ingredients/olive-oil.md)               |
+| 1 tsp    | [oregano](../_ingredients/oregano.md)                   |
+| 1 tsp    | [basil](../_ingredients/basil.md)                       |
+| 1 tsp    | [rosemary](../_ingredients/rosemary.md)                 |
+| 1/2 tsp  | [thyme](../_ingredients/thyme.md)                       |
+| 1/2 cup  | [balsamic vinegar](../_ingredients/balsamic-vinegar.md) |
+|          | [kosher salt](../_ingredients/kosher-salt.md)           |
+|          | [pepper](../_ingredients/pepper.md)                     |
 
 ## Directions
 

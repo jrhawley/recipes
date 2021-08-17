@@ -16,25 +16,25 @@ Tags: #chicken #dinner
 
 ### Dressing
 
-| Quantity | Item                                                          |
-| -------- | ------------------------------------------------------------- |
-| 5 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                   |
-| 4 cloves | [garlic](../_ingredients/garlic.md), minced                   |
-| 1 tsp    | [paprika](../_ingredients/paprika.md)                         |
-| 1 tsp    | [cumin](../_ingredients/cumin.md)                             |
-| 1 pinch  | [red pepper flakes](../_ingredients/red%20pepper%20flakes.md) |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)               |
-|          | [pepper](../_ingredients/pepper.md)                           |
+| Quantity | Item                                                      |
+| -------- | --------------------------------------------------------- |
+| 5 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                 |
+| 4 cloves | [garlic](../_ingredients/garlic.md), minced               |
+| 1 tsp    | [paprika](../_ingredients/paprika.md)                     |
+| 1 tsp    | [cumin](../_ingredients/cumin.md)                         |
+| 1 pinch  | [red pepper flakes](../_ingredients/red-pepper-flakes.md) |
+|          | [kosher salt](../_ingredients/kosher-salt.md)             |
+|          | [pepper](../_ingredients/pepper.md)                       |
 
 ### Chicken
 
 | Quantity | Item                                                       |
 | -------- | ---------------------------------------------------------- |
-| 6        | [chicken thighs](../_ingredients/chicken%20thighs.md)      |
-| 2 cups   | [cherry tomatoes](../_ingredients/cherry%20tomato.md)      |
+| 6        | [chicken thighs](../_ingredients/chicken-thighs.md)        |
+| 2 cups   | [cherry tomatoes](../_ingredients/cherry-tomato.md)        |
 | 15 oz    | [chickpeas](../_ingredients/chickpeas.md), drained, rinsed |
 | 1 cup    | [parsley](../_ingredients/parsley.md), chopped             |
-| 1/4 cup  | plain [Greek yogurt](../_ingredients/greek%20yogurt.md)    |
+| 1/4 cup  | plain [Greek yogurt](../_ingredients/greek-yogurt.md)      |
 
 ## Directions
 

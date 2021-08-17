@@ -14,30 +14,30 @@ Tags: #vegetarian #vegan #dinner
 
 ### Salad
 
-| Quantity | Item                                                                 |
-| -------- | -------------------------------------------------------------------- |
-| 2        | large Yukon gold [potatoes](../_ingredients/potato.md), diced        |
-| 12 oz    | [green beans](../_ingredients/green%20beans.md), trimmed and chopped |
-| 1 clove  | [garlic](../_ingredients/garlic.md)                                  |
-| 1 Tbsp   | [olive oil](../_ingredients/olive%20oil.md)                          |
-| 1 cup    | [quinoa](../_ingredients/quinoa.md), uncooked                        |
-| 1 cup    | [kale](../_ingredients/kale.md), stemmed, finely chopped             |
-| 3        | [green onions](../_ingredients/green%20onion.md), sliced             |
-| 1/4 cup  | toasted [pumpkin seeds](../_ingredients/pumpkin%20seeds.md)          |
-| 1        | large ripe [avocado](../_ingredients/avocado.md)                     |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)                      |
-|          | [pepper](../_ingredients/pepper.md)                                  |
+| Quantity | Item                                                               |
+| -------- | ------------------------------------------------------------------ |
+| 2        | large Yukon gold [potatoes](../_ingredients/potato.md), diced      |
+| 12 oz    | [green beans](../_ingredients/green-beans.md), trimmed and chopped |
+| 1 clove  | [garlic](../_ingredients/garlic.md)                                |
+| 1 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                          |
+| 1 cup    | [quinoa](../_ingredients/quinoa.md), uncooked                      |
+| 1 cup    | [kale](../_ingredients/kale.md), stemmed, finely chopped           |
+| 3        | [green onions](../_ingredients/green-onion.md), sliced             |
+| 1/4 cup  | toasted [pumpkin seeds](../_ingredients/pumpkin-seeds.md)          |
+| 1        | large ripe [avocado](../_ingredients/avocado.md)                   |
+|          | [kosher salt](../_ingredients/kosher-salt.md)                      |
+|          | [pepper](../_ingredients/pepper.md)                                |
 
 ### Dressing
 
-| Quantity | Item                                                        |
-| -------- | ----------------------------------------------------------- |
-| 1/4 cup  | [red wine vinegar](../_ingredients/red%20wine%20vinegar.md) |
-| 1/4 cup  | [olive oil](../_ingredients/olive%20oil.md)                 |
-| 2 tsp    | [dijon mustard](../_ingredients/dijon%20mustard.md)         |
-| 1 Tbsp   | [maple syrup](../_ingredients/maple%20syrup.md)             |
-|          | [kosher salt](../_ingredients/kosher%20salt.md)             |
-|          | [pepper](../_ingredients/pepper.md)                         |
+| Quantity | Item                                                    |
+| -------- | ------------------------------------------------------- |
+| 1/4 cup  | [red-wine-vinegar](../_ingredients/red-wine-vinegar.md) |
+| 1/4 cup  | [olive oil](../_ingredients/olive-oil.md)               |
+| 2 tsp    | [dijon mustard](../_ingredients/dijon-mustard.md)       |
+| 1 Tbsp   | [maple syrup](../_ingredients/maple-syrup.md)           |
+|          | [kosher salt](../_ingredients/kosher-salt.md)           |
+|          | [pepper](../_ingredients/pepper.md)                     |
 
 ## Directions
 

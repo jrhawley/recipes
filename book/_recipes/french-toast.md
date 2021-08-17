@@ -14,7 +14,7 @@ Tags: #breakfast
 
 | Quantity | Item                                           |
 | -------- | ---------------------------------------------- |
-| 2        | [eggs](../_ingredients/cherry%20tomato.md)     |
+| 2        | [eggs](../_ingredients/cherry-tomato.md)       |
 | 2/3 cup  | [milk](../_ingredients/milk.md)                |
 | 2 tsp    | ground [cinnamon](../_ingredients/cinnamon.md) |
 | 8 slices | [bread](../_ingredients/bread.md)              |
