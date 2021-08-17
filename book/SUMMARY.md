@@ -4,12 +4,17 @@
 
 # Breakfasts
 
-- [Waffles, pancakes, French toast]()
-  - [Buttermilk pancakes or waffles](_recipes/buttermilk-pancakes-waffles.md)
-  - [Dark chocolate waffles](_recipes/dark-chocolate-waffles.md)
-  - [Pumpkin waffles](_recipes/pumpkin-waffles.md)
-  - [French toast](_recipes/french-toast.md)
+- [Buttermilk pancakes or waffles](_recipes/buttermilk-pancakes-waffles.md)
+- [Dark chocolate waffles](_recipes/dark-chocolate-waffles.md)
+- [Pumpkin waffles](_recipes/pumpkin-waffles.md)
+- [French toast](_recipes/french-toast.md)
 - [Cinnamon maple granola](_recipes/cinnamon-maple-granola.md)
+
+# Breads
+
+- [No-knead bread](_recipes/no-knead-bread.md)
+- [Banana bread](_recipes/banana-bread.md)
+- [Pumpkin bread](_recipes/pumpkin-bread.md)
 
 # Sides
 
@@ -29,6 +34,9 @@
   - [Spicy rice](_recipes/spicy-rice.md)
   - [Spanish rice](_recipes/spanish-rice.md)
   - [Spanakorizo rice](_recipes/spanakorizo-rice.md)
+- [Vegetables]()
+  - [Garlic mashed potatoes](_recipes/garlic-mashed-potatoes.md)
+  - [Garlic smashed sweet potatoes](_recipes/garlic-smashed-sweet-potatoes.md)
 - [Sauces & Dips]()
   - [Alfredo](_recipes/alfredo-sauce.md)
   - [Artichoke and spinach dip](_recipes/artichoke-spinach-dip.md)
@@ -65,6 +73,7 @@
   - [Pasta al ragù](_recipes/pasta-al-ragu.md)
   - [Chicken tetrazzini](_recipes/chicken-tetrazzini.md)
   - [Broccoli, ham, macaroni, and cheese](_recipes/broccoli-ham-macaroni-cheese.md)
+  - [Roasted spaghetti squash](_recipes/roasted-spaghetti-squash.md)
 - [Soups]()
   - [Chili](_recipes/chili.md)
   - [African peanut stew](_recipes/african-peanut-stew.md)
@@ -76,6 +85,7 @@
   - [Tomato spinach tortellini soup](_recipes/tomato-spinach-tortellini-soup.md)
   - [Tortellini sausage soup](_recipes/tortellini-sausage-soup.md)
   - [Lentil soup](_recipes/lentil-soup.md)
+  - [French onion soup](_recipes/french-onion-soup.md)
 - [Beef]()
   - [Steak](_recipes/steak.md)
   - [Pot roast](_recipes/pot-roast.md)
@@ -98,24 +108,27 @@
   - [Lemon garlic chicken](_recipes/lemon-garlic-chicken.md)
   - [Maple cranberry chicken](_recipes/maple-cranberry-chicken.md)
   - [Grilled chicken and panzella](_recipes/grilled-chicken-panzella.md)
+  - [Chicken alfredo primavera](_recipes/chicken-alfredo-primavera.md)
 - [Pork]()
   - [Brown sugar pork tenderloin, potatoes, and green beans](_recipes/pork-tenderloin-potatoes-beans.md)
   - [Mustard-glazed pork tenderloin](_recipes/mustard-glazed-pork-tenderloin.md)
 
-# Baked goods
+# Desserts
 
-- [Breads]()
-  - [No-knead bread](_recipes/no-knead-bread.md)
-  - [Banana bread](_recipes/banana-bread.md)
-  - [Pumpkin bread](_recipes/pumpkin-bread.md)
 - [Sweets]()
   - [Reese's peanut butter bars](_recipes/reeses-peanut-butter-bars.md)
+  - [Peanut butter fudge](_recipes/peanut-butter-fudge.md)
   - [Gingersnaps](_recipes/gingersnaps.md)
   - [Birthday doughnuts](_recipes/birthday-doughnuts.md)
+  - [Millionaire shortbread](_recipes/millionaire-shortbread.md)
 - [Muffins]()
   - [Pumpkin muffins](_recipes/pumpkin-muffins.md)
 - [Pies]()
   - [Apple pie](_recipes/apple-pie.md)
+- [Cakes]()
+  - [Custard berry cake](_recipes/custard-berry-cake.md)
+- [Fruit]()
+  - [Chocolate covered starberries](_recipes/chocolate-covered-strawberries.md)
 
 # Beverages
 
@@ -140,6 +153,7 @@
   - [Martini](_recipes/martini.md)
   - [Moscow mule](_recipes/moscow-mule.md)
   - [Negroni](_recipes/negroni.md)
+  - [Paper plane](_recipes/paper-plane.md)
   - [Rum old fashioned](_recipes/rum-old-fashioned.md)
   - [Scofflaw](_recipes/scofflaw.md)
   - [Strawberry daquiri](_recipes/strawberry-daiquiri.md)
