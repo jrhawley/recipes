@@ -17,7 +17,7 @@ Tags: #barbecue #chicken #dinner
 | 4        | [chicken breasts](../_ingredients/chicken%20breast.md)      |
 | 1        | [baguette](../_ingredients/baguette.md)                     |
 | 2        | [cucumber](../_ingredients/cucumber.md)                     |
-| 1 cup    | [cherry tomatoes](../_ingredients/cherry%20tomatoes.md)     |
+| 3/2 cup  | [cherry tomatoes](../_ingredients/cherry%20tomatoes.md)     |
 | 1 Tbsp   | [kalamata olives](../_ingredients/kalamata%20olives.md)     |
 | 1 clove  | [garlic](../_ingredients/garlic.md)                         |
 | 1/4 cup  | grated [Parmesan](../_ingredients/parmesan.md)              |
