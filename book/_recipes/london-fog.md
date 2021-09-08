@@ -12,7 +12,7 @@ Tags: #beverage
 | 1/2 cup  | [milk](../_ingredients/milk.md)                       |
 | 1/4 tsp  | [vanilla extract](../_ingredients/vanilla-extract.md) |
 | 1 tsp    | [sugar](../_ingredients/sugar.md)                     |
-| 1 sachet | [earl-grey-tea](../_ingredients/earl-grey-tea.md)     |
+| 1 sachet | [Earl Grey tea](../_ingredients/earl-grey-tea.md)     |
 
 ## Directions
 
