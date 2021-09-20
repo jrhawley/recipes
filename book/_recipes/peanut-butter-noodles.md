@@ -21,7 +21,6 @@ Tags: #noodle #vegetarian #dinner
 | 3 Tbsp   | [soy sauce](../_ingredients/soy-sauce.md)                   |
 | 1/4 cup  | [vegetable broth](../_ingredients/vegetable-broth.md)       |
 | 1 Tbsp   | [rice vinegar](../_ingredients/rice-vinegar.md)             |
-| 1 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                   |
 | 1 Tbsp   | [maple syrup](../_ingredients/maple-syrup.md)               |
 | 1/4 cup  | [peanuts](../_ingredients/peanuts.md), crushed              |
 | 1/2 tsp  | [red pepper flakes](../_ingredients/red-pepper-flakes.md)   |
