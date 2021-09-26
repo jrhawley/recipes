@@ -49,6 +49,8 @@ Tags: #lamb #dinner
 
 [^1]: Check the oven occasionally to ensure the liquid hasn't fully reduced.
 	If so, add 1 cup of water and finish cooking.
+
 [^2]: If the sauce is too thin, place skillet over medium heat and reduce.
 	If too thick, add water until the desired consistency.
+
 [^3]: [Original recipe](https://www.lcbo.com/webapp/wcs/stores/servlet/en/lcbo/recipe/lamb-shoulder-chops-with-rosehip,-fig-green-olives/F202105013)
