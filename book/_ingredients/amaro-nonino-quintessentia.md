@@ -1,1 +1,0 @@
-# Amaro Nonino Quintessentia
