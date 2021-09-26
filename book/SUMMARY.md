@@ -128,7 +128,7 @@
 - [Cakes]()
   - [Custard berry cake](_recipes/custard-berry-cake.md)
 - [Fruit]()
-  - [Chocolate covered starberries](_recipes/chocolate-covered-strawberries.md)
+  - [Chocolate covered strawberries](_recipes/chocolate-covered-strawberries.md)
 
 # Beverages
 
@@ -153,9 +153,23 @@
   - [Martini](_recipes/martini.md)
   - [Moscow mule](_recipes/moscow-mule.md)
   - [Negroni](_recipes/negroni.md)
-  - [Paper plane](_recipes/paper-plane.md)
   - [Rum old fashioned](_recipes/rum-old-fashioned.md)
   - [Scofflaw](_recipes/scofflaw.md)
-  - [Strawberry daquiri](_recipes/strawberry-daiquiri.md)
+  - [Strawberry daiquiri](_recipes/strawberry-daiquiri.md)
   - [White lady](_recipes/white-lady.md)
   - [Whiskey sour](_recipes/whiskey-sour.md)
+
+# On deck
+
+- [Breads]()
+  - [Garlic bread](_recipes/garlic-bread.md)
+- [Vegetarian]()
+  - [Green curry, tofu, and cashews](_recipes/green-curry-tofu-cashews.md)
+- [Lamb]()
+  - [Lamb chops with rosehip, fig, and olives](_recipes/lamb-chops-rosehip-fig-olives.md)
+- [Alcoholic]()
+  - [Black Manhattan](_recipes/black-manhattan.md)
+  - [Crema corretto](_recipes/crema-corretto.md)
+  - [Paper plane](_recipes/paper-plane.md)
+  - [Paperino](_recipes/paperino.md)
+  - [Capo Americano](_recipes/capo-americano.md)

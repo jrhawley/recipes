@@ -6,12 +6,12 @@ Tags: #alcoholic #beverage
 
 ## Ingredients
 
-| Quantity | Item                                                                        |
-| -------- | --------------------------------------------------------------------------- |
-| 3/4 oz   | [bourbon](../_ingredients/bourbon.md)                                       |
-| 3/4 oz   | [Aperol](../_ingredients/aperol.md)                                         |
-| 3/4 oz   | [Amaro Nonino Quintessentia](../_ingredients/amaro-nonino-quintessentia.md) |
-| 3/4 oz   | [lemon juice](../_ingredients/lemon-juice.md)                               |
+| Quantity | Item                                          |
+| -------- | --------------------------------------------- |
+| 3/4 oz   | [bourbon](../_ingredients/bourbon.md)         |
+| 3/4 oz   | [Aperol](../_ingredients/aperol.md)           |
+| 3/4 oz   | [amaro](../_ingredients/amaro.md)             |
+| 3/4 oz   | [lemon juice](../_ingredients/lemon-juice.md) |
 
 ## Directions
 
