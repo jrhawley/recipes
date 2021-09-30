@@ -18,7 +18,7 @@ Tags: #chicken #dinner
 
 | Quantity | Item                                                      |
 | -------- | --------------------------------------------------------- |
-| 5 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                 |
+| 2 Tbsp   | [olive oil](../_ingredients/olive-oil.md)                 |
 | 4 cloves | [garlic](../_ingredients/garlic.md), minced               |
 | 1 tsp    | [paprika](../_ingredients/paprika.md)                     |
 | 1 tsp    | [cumin](../_ingredients/cumin.md)                         |
