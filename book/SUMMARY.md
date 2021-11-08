@@ -109,6 +109,7 @@
   - [Maple cranberry chicken](_recipes/maple-cranberry-chicken.md)
   - [Grilled chicken and panzella](_recipes/grilled-chicken-panzella.md)
   - [Chicken alfredo primavera](_recipes/chicken-alfredo-primavera.md)
+  - [Apple cider chicken](_recipes/apple-cider-chicken.md)
 - [Pork]()
   - [Brown sugar pork tenderloin, potatoes, and green beans](_recipes/pork-tenderloin-potatoes-beans.md)
   - [Mustard-glazed pork tenderloin](_recipes/mustard-glazed-pork-tenderloin.md)
