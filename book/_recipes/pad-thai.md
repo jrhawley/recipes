@@ -24,7 +24,7 @@ Tags: #chicken #dinner
 | 1/2 cup  | [peanuts](../_ingredients/peanuts.md), chopped       |
 | 1/2 cup  | [bean sprouts](../_ingredients/bean-sprouts.md)      |
 | 1/4 cup  | [carrots](../_ingredients/carrot.md), shredded       |
-| 2        | [eggs](../_ingredients/cherry-tomato.md)             |
+| 2        | [eggs](../_ingredients/egg.md)                       |
 
 ## Directions
 

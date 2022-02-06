@@ -1,5 +1,6 @@
 # {{title}}
 
+
 | Info      | Amount |
 | --------- | ------ |
 | Prep Time |        |
@@ -9,6 +10,7 @@
 Added: {{date}}
 
 Tags:
+
 
 ## Ingredients
 
