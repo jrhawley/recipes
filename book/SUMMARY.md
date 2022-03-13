@@ -63,6 +63,7 @@
   - [Spicy halibut](_recipes/spicy-halibut.md)
   - [Salmon, asparagus, and rice](_recipes/salmon-asparagus-rice.md)
   - [Shallow-fried beer-battered fish and chips](_recipes/shallow-fried-beer-battered-fish-chips.md)
+  - [Crispy salmon](_recipes/crispy-salmon.md)
 - [Pasta]()
   - [Lasagna](_recipes/lasagna.md)
   - [Farfalle, tomato, feta, and balsamic](_recipes/farfalle-tomato-feta-balsamic.md)
