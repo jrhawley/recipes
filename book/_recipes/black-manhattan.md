@@ -18,11 +18,10 @@ Tags: #alcoholic #beverage
 ## Directions
 
 1. Pour whiskey, amaro, bitters, and ground cinnamon into a mixing glass partially filled with ice.
-  1. Stir until chilled.
+   1. Stir until chilled.
 2. Pull orange peel over the glass, spritzing its oils.
 3. Rub peel around the outside rim, then garnish the drink with the peel and the cinnamon stick.
 
 ## References
 
 [^1]: [Original recipe](https://www.lcbo.com/webapp/wcs/stores/servlet/en/lcbo/recipe/cinnamon-scented-black-manhattan/F202105042)
-

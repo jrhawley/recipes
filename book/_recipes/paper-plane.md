@@ -21,4 +21,3 @@ Tags: #alcoholic #beverage
 ## References & Notes
 
 [^1]: [Original recipe](https://www.liquor.com/recipes/the-paper-plane/)
-
