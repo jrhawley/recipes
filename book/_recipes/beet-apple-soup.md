@@ -31,7 +31,7 @@ Tags: #dinner #vegetarian
 1. If using fresh beets:
    1. Preheat oven to 375 F.
    2. Wrap the beets in a double layer of aluminium foil and crimp to seal.
-   3. Roash for 1 h, or until tender.
+   3. Roast for 1 h, or until tender.
    4. Remove from the oven and let rest until beets are cool to handle.
    5. Remove the skin and chop into ~ 1 " chunks
 2. In a large soup pot over medium heat, melt the butter and add diced onions.
