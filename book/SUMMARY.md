@@ -58,6 +58,7 @@
   - [Thai veggie bowl](_recipes/thai-veggie-bowl.md)
   - [Spanish quinoa](_recipes/spanish-quinoa.md)
   - [Roasted chickpeas stuffed avocado](_recipes/roasted-chickpeas-stuffed-avocado.md)
+  - [Sweet potato, black bean, and lime rice bowl](_recipes/sweet-potato-black-bean-lime-rice-bowl.md)
 - [Fish]()
   - [Cod and tangy tartar sauce](_recipes/cod-tangy-tartar-sauce.md)
   - [Spicy halibut](_recipes/spicy-halibut.md)
