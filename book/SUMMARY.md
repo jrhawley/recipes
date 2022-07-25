@@ -149,6 +149,7 @@
   - [London fog](_recipes/london-fog.md)
 
 - [Alcoholic]()
+  - [777](_recipes/777.md)
   - [Aperol spritz](_recipes/aperol-spritz.md)
   - [Bacardi cocktail](_recipes/bacardi-cocktail.md)
   - [Black Manhattan](_recipes/black-manhattan.md)
