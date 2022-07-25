@@ -1,25 +1,26 @@
+:PROPERTIES:
+:ID:       7b7a68fa-1f89-4bec-8dba-0b788c6d44b5
+:END:
 #+TITLE: Black Manhattan
-#+DATE: [2021-09-25]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+DATE: [2021-09-25 Sat]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:48]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                                             |
-|----------+------------------------------------------------------------------|
-| 2 oz     | [[../_ingredients/whiskey.md][rye whisk]]                        |
-| 1 oz     | [[../_ingredients/amaro.md][amaro]]                              |
-| 5 dashes | [[../_ingredients/agnostura-bitters.md][Agnostura bitters]]      |
-| 1/8 tsp  | [[../_ingredients/cinnamon.md][cinnamon]]                        |
-|          | [[../_ingredients/orange.md][orange peel]] (optional)            |
+| Quantity | Item                      |
+|----------+---------------------------|
+| 2 oz     | [[../_ingredients/whiskey.md][rye whisk]]                 |
+| 1 oz     | [[../_ingredients/amaro.md][amaro]]                     |
+| 5 dashes | [[../_ingredients/agnostura-bitters.md][Agnostura bitters]]         |
+| 1/8 tsp  | [[../_ingredients/cinnamon.md][cinnamon]]                  |
+|          | [[../_ingredients/orange.md][orange peel]] (optional)    |
 | 1        | [[../_ingredients/cinnamon-stick.md][cinnamon stick]] (optional) |
 
 * Directions
 
 1. Pour whiskey, amaro, bitters, and ground cinnamon into a mixing glass partially filled with ice.
-
-   1. Stir until chilled.
-
+   - Stir until chilled.
 2. Pull orange peel over the glass, spritzing its oils.
 3. Rub peel around the outside rim, then garnish the drink with the peel and the cinnamon stick.
 

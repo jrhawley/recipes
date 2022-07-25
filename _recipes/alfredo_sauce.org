@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       9d7f4c3d-72b0-4c57-89e3-71c0e108a97e
+:END:
 #+TITLE: Alfredo sauce
 #+DATE: [2013-09-14]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:51]
-#+FILETAGS: :recipe:sauce :condiment:
+#+LAST_MODIFIED: [2022-07-25 Mon 08:44]
+#+FILETAGS: :recipe:sauce:
 
 | Info      | Amount                    |
 |-----------+---------------------------|

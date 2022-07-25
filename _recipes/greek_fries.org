@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       47adf625-e086-4004-8edf-002ed30e1411
+:END:
 #+TITLE: Greek fries
+#+DATE: [2021-02-26]
+#+LAST_MODIFIED: [2022-07-25 Mon 09:05]
+#+FILETAGS: :recipe:appetizer:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -8,48 +14,38 @@
 
 #+CAPTION: Greek fries
 [[../_assets/greek-fries.jpg]]
-#+DATE: [2021-02-26]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:appetizer :potato :fries:
 
 * Ingredients
 
-| Quantity  | Item                                                  |
-|-----------+-------------------------------------------------------|
-| 6 Tbsp    | [[../_ingredients/olive-oil.md][olive oil]], divided  |
-| 3         | large [[../_ingredients/potato.md][Russet potatoes]]  |
-| 3 cloves  | [[../_ingredients/garlic.md][garlic]], minced         |
-|           | [[../_ingredients/kosher-salt.md][kosher salt]]       |
-|           | [[../_ingredients/pepper.md][pepper]]                 |
-|           | [[../_ingredients/thyme.md][thyme]]                   |
+| Quantity  | Item                  |
+|-----------+-----------------------|
+| 6 Tbsp    | [[../_ingredients/olive-oil.md][olive oil]], divided    |
+| 3         | large [[../_ingredients/potato.md][Russet potatoes]] |
+| 3 cloves  | [[../_ingredients/garlic.md][garlic]], minced        |
+|           | [[../_ingredients/kosher-salt.md][kosher salt]]           |
+|           | [[../_ingredients/pepper.md][pepper]]                |
+|           | [[../_ingredients/thyme.md][thyme]]                 |
 |           | [[../_ingredients/oregano.md][oregano]]               |
-|           | [[../_ingredients/cayenne-pepper.md][cayenne pepper]] |
-|           | [[../_ingredients/feta.md][feta]], crumbled           |
+|           | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]        |
+|           | [[../_ingredients/feta.md][feta]], crumbled        |
 | 1 handful | [[../_ingredients/parsley.md][parsley]]               |
-|           | [[../_ingredients/tzatziki.md][Tzatziki]]             |
+|           | [[../_ingredients/tzatziki.md][Tzatziki]]              |
 
 * Directions
 
 1. Preheat oven to 400 F
 2. Slice potatoes into 6 - 8 wedges each, then place into a large bowl of hot water for 10 min
-
    1. Drain and spread wedges on a large clean towel
    2. Pat dry
-
 3. Transfer wedges to a large mixing bowl
-
    1. Season generously with salt and pepper
    2. Drizzle with half the olive oil
    3. Toss to combine
-
 4. Spread wedges on a lightly oiled bakign sheet in a single layer
-
    1. Bake in oven for 20 min
    2. Flip wedges, then return for another 15 - 25 min
    3. Transfer to serving platter
-
 5. In a small bowl, combine remaining olive oil, garlic, thyme, oregano, and cayenne
-
    1. Drizzle oil mixture over the wedges
    2. Crumble feta and sprinkle fresh parsley over top
    3. Serve with a side of tzatziki sauce

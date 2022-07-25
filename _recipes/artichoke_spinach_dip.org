@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       be00aba6-829e-4998-956d-04d34d12e5e8
+:END:
 #+TITLE: Artichoke and spinach dip
 #+DATE: [2015-01-02]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:54]
-#+FILETAGS: :recipe:sauce :condiment:
+#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
+#+FILETAGS: :recipe:sauce:
 
 | Info      | Amount      |
 |-----------+-------------|

@@ -1,19 +1,22 @@
+:PROPERTIES:
+:ID:       bbb46fb8-2b75-4704-8760-5f741edcabd3
+:END:
 #+TITLE: Crispy salmon
+#+DATE: [2022-03-12]
+#+LAST_MODIFIED: [2022-07-25 Mon 09:00]
+#+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 0 min      |
 | Cook Time | 10 min     |
 | Yields    | 2 servings |
-#+DATE: [2022-03-12]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:dinner :fish:
 
 * Ingredients
 
-| Quantity | Item                                        |
-|----------+---------------------------------------------|
-| 1 filet  | [[../_ingredients/salmon.md][salmon]]       |
+| Quantity | Item      |
+|----------+-----------|
+| 1 filet  | [[../_ingredients/salmon.md][salmon]]    |
 |          | [[../_ingredients/olive-oil.md][olive oil]] |
 
 * Directions
@@ -21,9 +24,6 @@
 1. Pat filet dry, thoroughly, and salt generously.
 2. In an oven-safe skillet at medium-high heat, add 1 - 2 Tbsp.
 3. Place flesh side down into the pan, cook for 5 min.
-
    1. Flip, cook for another 1 - 2 min.
-
 4. Transfer to oven on low broil, placing on the lowest oven rack.
-
    1. Cook for 6 min.

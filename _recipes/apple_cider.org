@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       eacc9fe4-02af-4d91-b528-170d08124181
+:END:
 #+TITLE: Apple cider
 #+DATE: [2017-10-15]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:52]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:44]
 #+FILETAGS: :recipe:beverage:slow_cooker:
 
 | Info      | Amount |

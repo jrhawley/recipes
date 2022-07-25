@@ -1,37 +1,37 @@
+:PROPERTIES:
+:ID:       31f940cb-1cd9-4f61-a1ce-64066a252325
+:END:
 #+TITLE: Banana bread
+#+DATE: [2013-09-21]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
+#+FILETAGS: :recipe:
 
 | Info      | Amount |
 |-----------+--------|
 | Prep Time | 10 min |
 | Cook Time | 1 h    |
 | Yields    | 1 loaf |
-#+DATE: [2013-09-21]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:baking :bread:
 
 * Ingredients
 
-| Quantity | Item                                            |
-|----------+-------------------------------------------------|
+| Quantity | Item             |
+|----------+------------------|
 | 1/4 cup  | [[../_ingredients/butter.md][butter]]           |
-| 1/4 cup  | [[../_ingredients/sugar.md][sugar]]             |
-| 1        | [[../_ingredients/egg.md][egg]], beaten         |
+| 1/4 cup  | [[../_ingredients/sugar.md][sugar]]            |
+| 1        | [[../_ingredients/egg.md][egg]], beaten      |
 | 2        | [[../_ingredients/banana.md][bananas]], crushed |
-| 3/2 cup  | [[../_ingredients/flour.md][flour]]             |
-| 1 tsp    | [[../_ingredients/baking-soda.md][baking soda]] |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]   |
-| 1/2 tsp  | [[../_ingredients/vanilla-extract.md][vanilla]] |
+| 3/2 cup  | [[../_ingredients/flour.md][flour]]            |
+| 1 tsp    | [[../_ingredients/baking-soda.md][baking soda]]      |
+| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]       |
+| 1/2 tsp  | [[../_ingredients/vanilla-extract.md][vanilla]]          |
 
 * Directions
 
 1. Cream together butter and sugar
-
-   1. Add eggs and crushed bananas
-
+   - Add eggs and crushed bananas
 2. Sift together flour, soda and salt
-
-   1. Add to creamed mixture
-   2. Add vanilla
-
+   - Add to creamed mixture
+   - Add vanilla
 3. Pour into greased and floured loaf pan
 4. Bake at 350 F for 1h
+

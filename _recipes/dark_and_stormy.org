@@ -1,14 +1,17 @@
+:PROPERTIES:
+:ID:       5d6316fb-e7fb-4d50-8f09-90008349c830
+:END:
 #+TITLE: Dark and stormy
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 09:00]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Ingredient                                      |
-|----------+-------------------------------------------------|
-| 5/3 oz   | [[../_ingredients/rum.md][dark rum]]            |
-| 1/2 oz   | [[../_ingredients/lime-juice.md][lime juice]]   |
+| Quantity | Ingredient  |
+|----------+-------------|
+| 5/3 oz   | [[../_ingredients/rum.md][dark rum]]    |
+| 1/2 oz   | [[../_ingredients/lime-juice.md][lime juice]]  |
 | 5 oz     | [[../_ingredients/ginger-beer.md][ginger beer]] |
 
 * Directions

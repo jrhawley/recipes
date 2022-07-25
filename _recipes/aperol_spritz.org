@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       e9b4fc06-b993-41b5-a66a-c55e771a4e1d
+:END:
 #+TITLE: Aperol spritz
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:51]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:44]
 #+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients

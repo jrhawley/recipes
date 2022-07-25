@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       9dc2193b-fc3f-41f8-81b3-64edfacaa6e6
+:END:
 #+TITLE: African peanut stew
 #+DATE: [2020-01-14]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:51]
-#+FILETAGS: :recipe:soup:vegan:vegetarian:dinner:
+#+LAST_MODIFIED: [2022-07-25 Mon 08:44]
+#+FILETAGS: :recipe:vegan:vegetarian:dinner:
 
 | Info      | Amount     |
 |-----------+------------|

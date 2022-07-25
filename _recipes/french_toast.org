@@ -1,23 +1,26 @@
+:PROPERTIES:
+:ID:       a811a78b-34f1-4522-8af7-61c8a95fec97
+:END:
 #+TITLE: French Toast
+#+DATE: [2013-09-14]
+#+LAST_MODIFIED: [2022-07-25 Mon 09:02]
+#+FILETAGS: :recipe:breakfast:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 10 min     |
 | Cook Time | 5-10 min   |
 | Yields    | 4 servings |
-#+DATE: [2013-09-14]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:breakfast:
 
 * Ingredients
 
-| Quantity | Item                                             |
-|----------+--------------------------------------------------|
-| 2        | [[../_ingredients/cherry-tomato.md][eggs]]       |
-| 2/3 cup  | [[../_ingredients/milk.md][milk]]                |
+| Quantity | Item            |
+|----------+-----------------|
+| 2        | [[../_ingredients/cherry-tomato.md][eggs]]            |
+| 2/3 cup  | [[../_ingredients/milk.md][milk]]            |
 | 2 tsp    | ground [[../_ingredients/cinnamon.md][cinnamon]] |
-| 8 slices | [[../_ingredients/bread.md][bread]]              |
-| 1 tsp    | [[../_ingredients/butter.md][butter]], melted    |
+| 8 slices | [[../_ingredients/bread.md][bread]]           |
+| 1 tsp    | [[../_ingredients/butter.md][butter]], melted  |
 
 * Directions
 

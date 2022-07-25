@@ -1,66 +1,57 @@
+:PROPERTIES:
+:ID:       a33f7782-d766-47ca-97ba-5383a737f07a
+:END:
 #+TITLE: Chicken alfredo primavera
+#+DATE: [2021-02-27]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:51]
+#+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time |            |
 | Cook Time |            |
 | Yields    | 4 servings |
-#+DATE: [2021-02-27]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:dinner :pasta :chicken:
 
 * Ingredients
 
-| Quantity | Item                                                        |
-|----------+-------------------------------------------------------------|
-| 2 Tbsp   | [[../_ingredients/butter.md][butter]]                       |
-| 3 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                 |
-| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]      |
-| 1        | [[../_ingredients/squash.md][squash]]                       |
-| 1 crown  | [[../_ingredients/broccoli.md][broccoli]]                   |
-| 1        | [[../_ingredients/bell-pepper.md][red bell pepper]]         |
-| 1        | [[../_ingredients/onion.md][onion]]                         |
-| 3 cloves | [[../_ingredients/garlic.md][garlic]]                       |
+| Quantity | Item              |
+|----------+-------------------|
+| 2 Tbsp   | [[../_ingredients/butter.md][butter]]            |
+| 3 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]         |
+| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]   |
+| 1        | [[../_ingredients/squash.md][squash]]            |
+| 1 crown  | [[../_ingredients/broccoli.md][broccoli]]          |
+| 1        | [[../_ingredients/bell-pepper.md][red bell pepper]]   |
+| 1        | [[../_ingredients/onion.md][onion]]             |
+| 3 cloves | [[../_ingredients/garlic.md][garlic]]            |
 | 1/2 tsp  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]] |
-| 1/2 cup  | [[../_ingredients/white-wine.md][white wine]]               |
-| 1 cup    | [[../_ingredients/milk.md][milk]]                           |
-| 1 cup    | [[../_ingredients/parmesan.md][parmesan]], grated           |
-| 16 oz    | [[../_ingredients/farfalle.md][farfalle]]                   |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]             |
-|          | [[../_ingredients/pepper.md][pepper]]                       |
-|          | [[../_ingredients/parsley.md][parsley]]                     |
+| 1/2 cup  | [[../_ingredients/white-wine.md][white wine]]        |
+| 1 cup    | [[../_ingredients/milk.md][milk]]              |
+| 1 cup    | [[../_ingredients/parmesan.md][parmesan]], grated  |
+| 16 oz    | [[../_ingredients/farfalle.md][farfalle]]          |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]       |
+|          | [[../_ingredients/pepper.md][pepper]]            |
+|          | [[../_ingredients/parsley.md][parsley]]           |
 
 * Directions
 
 1. Heat 1 Tbsp of butter and 2 Tbsp of olive oil in a large skillet over medium-high heat.
-
    1. Season both sides of each chicken breast with salt and pepper.
    2. Add the chicken to the skillet and cook for 5-7 minutes on each side, or until cooked through.
-
 2. While the chicken is cooking, bring a large pot of water to a boil.
-
    1. Add pasta, cook for ~ 10 min
    2. Reserve 1/2 cup of pasta water before draining the pasta.
-
 3. Remove the chicken from the pan and transfer it to a cutting board; allow it to rest.
-
    1. Turn the heat down to medium and add remaining butter and olive oil to the same pan
    2. Add veggies (minus the garlic) and red pepper flakes to the pan and stir to coat
    3. Cook until the veggies are tender, about 5 min
-
 4. Add the garlic, salt, and pepper, cook for 1 min
-
    1. De-glaze the pan with the white wine
    2. Continue to cook until the wine has reduced by half, ~ 3 min
-
 5. Stir in the milk and reserved pasta water
-
    1. Bring the mixture to a gentle boil and allow to simmer and reduce for 2-3 min
-
 6. Turn off the heat, add parmesan and cooked pasta.
-
    1. Season with salt and pepper to taste.
-
 7. Garnish with parmesan and chopped parsley, if desired.
 
 * References & Notes

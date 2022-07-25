@@ -1,26 +1,29 @@
+:PROPERTIES:
+:ID:       dbb589e8-c721-4a09-a7a9-f421124b9ef0
+:END:
 #+TITLE: Banana honey smoothie
+#+DATE: [2016-02-28]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:46]
+#+FILETAGS: :recipe:beverage:
 
 | Info      | Amount |
 |-----------+--------|
 | Prep Time | 5 min  |
 | Cook Time | 2 min  |
 | Serves    | 4      |
-#+DATE: [2016-02-28]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:smoothie :fruit:
 
 * Ingredients
 
-| Quantity | Item                                                            |
-|----------+-----------------------------------------------------------------|
+| Quantity | Item                             |
+|----------+----------------------------------|
 | 2        | [[../_ingredients/banana.md][bananas]] (or 3/2 cups of berries) |
 | 1 cup    | vanilla [[../_ingredients/yogurt.md][yogurt]]                   |
-| 3/2 cup  | [[../_ingredients/milk.md][milk]]                               |
-| 1/2 Tbsp | ground [[../_ingredients/cinnamon.md][cinnamon]]                |
+| 3/2 cup  | [[../_ingredients/milk.md][milk]]                             |
+| 1/2 Tbsp | ground [[../_ingredients/cinnamon.md][cinnamon]]                  |
 | 1/2 Tbsp | ground [[../_ingredients/nutmeg.md][nutmeg]]                    |
-| 4 Tbsp   | [[../_ingredients/honey.md][honey]]                             |
-| 1 cup    | [[../_ingredients/ice.md][ice cubes]]                           |
-| 1 tsp    | [[../_ingredients/vanilla-extract.md][vanilla extract]]         |
+| 4 Tbsp   | [[../_ingredients/honey.md][honey]]                            |
+| 1 cup    | [[../_ingredients/ice.md][ice cubes]]                        |
+| 1 tsp    | [[../_ingredients/vanilla-extract.md][vanilla extract]]                  |
 
 * Directions
 

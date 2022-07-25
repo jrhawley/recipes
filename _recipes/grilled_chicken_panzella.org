@@ -1,45 +1,43 @@
+:PROPERTIES:
+:ID:       5f4000f6-2bf0-4bba-8fa5-378a5226f954
+:END:
 #+TITLE: Grilled chicken and panzella
+#+DATE: [2021-08-15]
+#+LAST_MODIFIED: [2022-07-25 Mon 09:07]
+#+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 10 min     |
 | Cook Time | 15 min     |
 | Yields    | 4 servings |
-#+DATE: [2021-08-15]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:barbecue :chicken :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                        |
-|----------+-------------------------------------------------------------|
-| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]      |
-| 1        | [[../_ingredients/baguette.md][baguette]]                   |
-| 2        | [[../_ingredients/cucumber.md][cucumber]]                   |
-| 3/2 cup  | [[../_ingredients/cherry-tomato.md][cherry tomatoes]]       |
-| 1 Tbsp   | [[../_ingredients/kalamata-olives.md][kalamata olives]]     |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]]                       |
-| 1/4 cup  | grated [[../_ingredients/parmesan.md][Parmesan]]            |
-| 2 Tbsp   | [[../_ingredients/mayonnaise.md][mayonnaise]]               |
-| 2 Tbsp   | [[../_ingredients/red-wine-vinegar.md][red-wine-vinegar]]   |
+| Quantity | Item              |
+|----------+-------------------|
+| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]   |
+| 1        | [[../_ingredients/baguette.md][baguette]]          |
+| 2        | [[../_ingredients/cucumber.md][cucumber]]          |
+| 3/2 cup  | [[../_ingredients/cherry-tomato.md][cherry tomatoes]]   |
+| 1 Tbsp   | [[../_ingredients/kalamata-olives.md][kalamata olives]]   |
+| 1 clove  | [[../_ingredients/garlic.md][garlic]]            |
+| 1/4 cup  | grated [[../_ingredients/parmesan.md][Parmesan]]   |
+| 2 Tbsp   | [[../_ingredients/mayonnaise.md][mayonnaise]]        |
+| 2 Tbsp   | [[../_ingredients/red-wine-vinegar.md][red-wine-vinegar]]  |
 | 1 Tbsp   | [[../_ingredients/italian-seasoning.md][Italian seasoning]] |
-|          | [[../_ingredients/olive-oil.md][olive oil]]                 |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]             |
-|          | [[../_ingredients/pepper.md][pepper]]                       |
+|          | [[../_ingredients/olive-oil.md][olive oil]]         |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]       |
+|          | [[../_ingredients/pepper.md][pepper]]            |
 
 * Directions
 
 1. Heat the barbecue
-
    1. Drizzle olive oil on the chicken breasts, season with salt, pepper, and Italian seasoning
    2. Cook for 5-6 min each side
-
 2. Halve the baguette and drizzle olive oil on both sides
-
    1. Toast on the barbecue for the last few minutes that the chicken is cooking
-
 3. Halve tomatoes and olives, dice cucumbers, and mince garlic into a fine zest
-
    1. In a medium mixing bowl, combine with Parmesan, mayo, vinegar, Italian seasoning, salt, and pepper
 
 * References & Notes

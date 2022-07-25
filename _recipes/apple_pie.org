@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       c3ebe194-8f36-4ecb-be77-f4deda1a847f
+:END:
 #+TITLE: Apple pie
 #+DATE: [2018-12-18]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:53]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
 #+FILETAGS: :recipe:dessert:
 
 | Info      | Amount  |

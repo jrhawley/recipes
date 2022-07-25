@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       3b995750-b8c5-4bc4-b22b-50fc9baed2a5
+:END:
 #+TITLE: Beef stew
+#+DATE: [2018-02-03]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:47]
+#+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -8,53 +14,44 @@
 
 #+CAPTION: Beef stew
 [[../_assets/beef-stew.jpg]]
-#+DATE: [2018-02-03]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:stew :soup :beef :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                                 |
-|----------+----------------------------------------------------------------------|
-| 2 lbs    | [[../_ingredients/beef-chuck.md][beef chuck]], cut into 1" pieces    |
-| 1/4 cup  | [[../_ingredients/flour.md][flour]]                                  |
-| 3 Tbsp   | [[../_ingredients/canola-oil.md][canola oil]]                        |
+| Quantity | Item                                  |
+|----------+---------------------------------------|
+| 2 lbs    | [[../_ingredients/beef-chuck.md][beef chuck]], cut into 1" pieces        |
+| 1/4 cup  | [[../_ingredients/flour.md][flour]]                                 |
+| 3 Tbsp   | [[../_ingredients/canola-oil.md][canola oil]]                            |
 | 1        | [[../_ingredients/carrot.md][carrots]]                               |
-| 1        | [[../_ingredients/onion.md][onion]]                                  |
+| 1        | [[../_ingredients/onion.md][onion]]                                 |
 | 2 cloves | [[../_ingredients/garlic.md][garlic]], minced                        |
-| 12 oz    | [[../_ingredients/beer.md][stout beer]], (eg. Guinness), divided     |
-| 3/2 cups | [[../_ingredients/chicken-stock.md][chicken stock]]                  |
+| 12 oz    | [[../_ingredients/beer.md][stout beer]], (eg. Guinness), divided   |
+| 3/2 cups | [[../_ingredients/chicken-stock.md][chicken stock]]                         |
 | 1        | [[../_ingredients/potato.md][Yukon gold potato]], cut into 1" chunks |
-| 3 sprigs | [[../_ingredients/thyme.md][thyme]]                                  |
-| 2 Tbsp   | [[../_ingredients/molasses.md][molasses]]                            |
-| 1 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]                    |
-| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                        |
-| 1/2 cup  | [[../_ingredients/peas.md][frozen peas]]                             |
-| 1/2 cup  | fresh [[../_ingredients/parsley.md][parsley]], chopped               |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                      |
+| 3 sprigs | [[../_ingredients/thyme.md][thyme]]                                 |
+| 2 Tbsp   | [[../_ingredients/molasses.md][molasses]]                              |
+| 1 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]                          |
+| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                            |
+| 1/2 cup  | [[../_ingredients/peas.md][frozen peas]]                           |
+| 1/2 cup  | fresh [[../_ingredients/parsley.md][parsley]], chopped                |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]                           |
 |          | [[../_ingredients/pepper.md][pepper]]                                |
 
 * Directions
 
 1. Season the beef with salt and pepper then dredge in flour
 2. In a large skillet set over high, heat 1 Tbsp of the canola oil
-
    1. Sear beef in a single layer in skillet until deep brown on all sides, about 10 to 12 minutes
    2. Remove beef from pan and place in the pot of a 4-quart slow cooker
-
 3. Add the remaining oil to the skillet
-
    1. Add carrot, onion and garlic
    2. Cook until vegetables are fragrant and beginning to brown, about 3 minutes
    3. Pour half the beer over vegetables
    4. Using a wooden spoon, scrape the bottom of the pan, lifting any brown bits
-
 4. Add contents of the pan into slow cooker
-
    1. Pour in remaining beer and stock and add in potatoes, thyme, molasses, tomato paste and salt
    2. Stir to combine
    3. Cover slow cooker and cook on low for 7 hours
-
 5. During the last 10 min of cooking, stir in green peas
 6. Discard thyme sprigs. Serve, garnished with fresh parsley.
 

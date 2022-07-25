@@ -1,15 +1,18 @@
+:PROPERTIES:
+:ID:       db208014-0a94-4026-b361-d6ddeb9ae27d
+:END:
 #+TITLE: Bacardi cocktail
 #+DATE: [2021-06-01]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:beverage :alcoholic:
+#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
+#+FILETAGS: :recipe:beverage:alcoholic:
 
 * Ingredients
 
-| Quantity | Item                                          |
-|----------+-----------------------------------------------|
-| 2 oz     | [[../_ingredients/rum.md][white rum]]         |
+| Quantity | Item       |
+|----------+------------|
+| 2 oz     | [[../_ingredients/rum.md][white rum]]  |
 | 1/2 oz   | [[../_ingredients/lime-juice.md][lime juice]] |
-| 1/2 oz   | [[../_ingredients/grenadine.md][grenadine]]   |
+| 1/2 oz   | [[../_ingredients/grenadine.md][grenadine]]  |
 
 * Directions
 

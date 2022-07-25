@@ -1,34 +1,35 @@
+:PROPERTIES:
+:ID:       6d450b2d-1832-491a-b972-37b6ed30d81a
+:END:
 #+TITLE: Chicken, potatoes, green beans
+#+DATE: [2019-03-23]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:53]
+#+FILETAGS: :recipe:slow_cooker:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 15 min     |
 | Cook Time | 4 h        |
 | Yields    | 4 servings |
-#+DATE: [2019-03-23]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:slow:-cookerchicken :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                   |
-|----------+--------------------------------------------------------|
-| 2 lbs    | [[../_ingredients/chicken-breast.md][chicken breasts]] |
-| 1/2 lbs  | [[../_ingredients/green-beans.md][green beans]]        |
-| 3/2 lbs  | red [[../_ingredients/potato.md][potatoes]], chunked   |
-| 1/3 cup  | [[../_ingredients/lemon-juice.md][lemon juice]]        |
-| 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]            |
-| 1 tsp    | [[../_ingredients/oregano.md][oregano]]                |
-| 1/4 tsp  | [[../_ingredients/onion-powder.md][onion powder]]      |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced          |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]        |
-|          | [[../_ingredients/pepper.md][pepper]]                  |
+| Quantity | Item                  |
+|----------+-----------------------|
+| 2 lbs    | [[../_ingredients/chicken-breast.md][chicken breasts]]       |
+| 1/2 lbs  | [[../_ingredients/green-beans.md][green beans]]           |
+| 3/2 lbs  | red [[../_ingredients/potato.md][potatoes]], chunked |
+| 1/3 cup  | [[../_ingredients/lemon-juice.md][lemon juice]]           |
+| 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]             |
+| 1 tsp    | [[../_ingredients/oregano.md][oregano]]               |
+| 1/4 tsp  | [[../_ingredients/onion-powder.md][onion powder]]          |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced        |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]           |
+|          | [[../_ingredients/pepper.md][pepper]]                |
 
 * Directions
 
 1. Place chicken, green beans, and potatoes into the slow cooker
 2. In a separate bowl, whisk together remaining ingredients
-
    1. Pour evenly over slow cooker contents
-
 3. Cover, cook on high for 4 h

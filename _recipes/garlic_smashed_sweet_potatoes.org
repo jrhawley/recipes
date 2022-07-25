@@ -1,33 +1,34 @@
+:PROPERTIES:
+:ID:       0e36efa7-bf09-4e5e-8a5d-584898d5d788
+:END:
 #+TITLE: Garlic butter smashed sweet potatoes
+#+DATE: [2020-09-12]
+#+LAST_MODIFIED: [2022-07-25 Mon 09:04]
+#+FILETAGS: :recipe:dinner:vegetarian:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 2 min      |
 | Cook Time | 25 min     |
 | Yields    | 4 servings |
-#+DATE: [2020-09-12]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:dinner :vegetarian:
 
 * Ingredients
 
-| Quantity | Item                                                       |
-|----------+------------------------------------------------------------|
-| 4        | medium [[../_ingredients/sweet-potato.md][sweet potatoes]] |
-| 3 Tbsp   | [[../_ingredients/butter.md][butter]], melted              |
-| 4 cloves | [[../_ingredients/garlic.md][garlic]]                      |
-| 1 Tbsp   | fresh [[../_ingredients/parsley.md][parsley]], chopped     |
-| 2 Tbsp   | [[../_ingredients/parmesan.md][parmesan]]                  |
+| Quantity | Item                   |
+|----------+------------------------|
+| 4        | medium [[../_ingredients/sweet-potato.md][sweet potatoes]]  |
+| 3 Tbsp   | [[../_ingredients/butter.md][butter]], melted         |
+| 4 cloves | [[../_ingredients/garlic.md][garlic]]                 |
+| 1 Tbsp   | fresh [[../_ingredients/parsley.md][parsley]], chopped |
+| 2 Tbsp   | [[../_ingredients/parmesan.md][parmesan]]               |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]], to taste  |
-|          | [[../_ingredients/pepper.md][pepper]], to taste            |
+|          | [[../_ingredients/pepper.md][pepper]], to taste       |
 
 * Directions
 
 1. Pre-heat oven to broil
 2. Time the ends of the sweet potatoes and slice into chunks about 1" in thickness
-
    - Place on baking sheet, lightly drizzle with olive or vegetable oil, and bake for 20-25 min, until soft
-
 3. Lightly smash
 
 * References & Notes

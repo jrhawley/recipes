@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       32c741ba-0cbd-41b0-8226-e2563cde3480
+:END:
 #+TITLE: Apple cider chicken
 #+DATE: [2021-11-08]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:53]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
 #+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
