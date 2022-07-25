@@ -1,0 +1,239 @@
+#+TITLE: Summary
+#+DATE: [2021-02-27 Sat]
+#+LAST_MODIFIED: [2022-07-24 Sun 23:01]
+#+FILETAGS: 
+
+[[file:README.org][Introduction]]
+
+* Breakfasts
+
+  - [[file:_recipes/buttermilk-pancakes-waffles.md][Buttermilk pancakes or waffles]]
+  - [[file:_recipes/dark-chocolate-waffles.md][Dark chocolate waffles]]
+  - [[file:_recipes/pumpkin-waffles.md][Pumpkin waffles]]
+  - [[file:_recipes/french-toast.md][French toast]]
+  - [[file:_recipes/cinnamon-maple-granola.md][Cinnamon maple granola]]
+
+* Breads
+
+  - [[file:_recipes/no-knead-bread.md][No-knead bread]]
+  - [[file:_recipes/banana-bread.md][Banana bread]]
+  - [[file:_recipes/pumpkin-bread.md][Pumpkin bread]]
+
+* Sides
+
+  - [[][Finger food]]
+  
+    - [[file:_recipes/greek-fries.md][Greek fries]]
+    - [[file:_recipes/sweet-potato-fries.md][Sweet potato fries]]
+    - [[file:_recipes/black-bean-quinoa-falafel.md][Black bean quinoa falafel]]
+  
+  - [[][Salads]]
+  
+    - [[file:_recipes/bean-medley-salad.md][Bean medley salad]]
+    - [[file:_recipes/greek-tortellini-salad.md][Greek tortellini salad]]
+    - [[file:_recipes/craisin-feta-salad.md][Craisin and feta salad]]
+    - [[file:_recipes/mediterranean-salad.md][Mediterranean salad]]
+    - [[file:_recipes/blackberry-balsamic-chicken-salad.md][Blackberry balsamic chicken salad]]
+    - [[file:_recipes/honey-roasted-carrots.md][Honey roasted carrots]]
+    - [[file:_recipes/autumn-arugula-salad.md][Autumn arugula salad]]
+  
+  - [[][Rice]]
+  
+    - [[file:_recipes/spicy-rice.md][Spicy rice]]
+    - [[file:_recipes/spanish-rice.md][Spanish rice]]
+    - [[file:_recipes/spanakorizo-rice.md][Spanakorizo rice]]
+  
+  - [[][Vegetables]]
+  
+    - [[file:_recipes/garlic-mashed-potatoes.md][Garlic mashed potatoes]]
+    - [[file:_recipes/garlic-smashed-sweet-potatoes.md][Garlic smashed sweet potatoes]]
+  
+  - [[][Sauces & Dips]]
+  
+    - [[file:_recipes/alfredo-sauce.md][Alfredo]]
+    - [[file:_recipes/artichoke-spinach-dip.md][Artichoke and spinach dip]]
+    - [[file:_recipes/hummus.md][Hummus]]
+    - [[file:_recipes/spicy-mayo.md][Spicy mayo]]
+
+* Entrees
+
+  - [[][Sandwiches & wraps]]
+  
+    - [[file:_recipes/pulled-pork.md][Pulled pork sandwiches]]
+    - [[file:_recipes/smashed-chickpea-avocado-sandwich.md][Smashed chickpea avocado sandwich]]
+    - [[file:_recipes/roasted-tomato-aioli-sandwiches.md][Roasted tomato aioli sandwiches]]
+    - [[file:_recipes/one-pot-wraps.md][One pot wraps]]
+    - [[file:_recipes/sloppy-glows.md][Sloppy glows]]
+  
+  - [[][Salad bowls]]
+  
+    - [[file:_recipes/winter-salad-bowl.md][Winter salad bowl]]
+    - [[file:_recipes/sweet-potato-quinoa-bowl.md][Sweet potato quinoa bowl]]
+    - [[file:_recipes/sweet-potato-burrito-bowl.md][Sweet potato burrito bowl]]
+    - [[file:_recipes/thai-veggie-bowl.md][Thai veggie bowl]]
+    - [[file:_recipes/spanish-quinoa.md][Spanish quinoa]]
+    - [[file:_recipes/roasted-chickpeas-stuffed-avocado.md][Roasted chickpeas stuffed avocado]]
+    - [[file:_recipes/sweet-potato-black-bean-lime-rice-bowl.md][Sweet potato, black bean, and lime rice bowl]]
+  
+  - [[][Fish]]
+  
+    - [[file:_recipes/cod-tangy-tartar-sauce.md][Cod and tangy tartar sauce]]
+    - [[file:_recipes/spicy-halibut.md][Spicy halibut]]
+    - [[file:_recipes/salmon-asparagus-rice.md][Salmon, asparagus, and rice]]
+    - [[file:_recipes/shallow-fried-beer-battered-fish-chips.md][Shallow-fried beer-battered fish and chips]]
+    - [[file:_recipes/crispy-salmon.md][Crispy salmon]]
+  
+  - [[][Pasta]]
+  
+    - [[file:_recipes/lasagna.md][Lasagna]]
+    - [[file:_recipes/farfalle-tomato-feta-balsamic.md][Farfalle, tomato, feta, and balsamic]]
+    - [[file:_recipes/basil-tomato-orzo.md][Basil and tomato orzo]]
+    - [[file:_recipes/peanut-butter-noodles.md][Peanut butter noodles]]
+    - [[file:_recipes/garlic-pepper-pasta.md][Aglio, olio, e peperoncino]]
+    - [[file:_recipes/linguine-zucchini-prawns.md][Linguine, zucchine, e gamberetti]]
+    - [[file:_recipes/pasta-al-ragu.md][Pasta al ragù]]
+    - [[file:_recipes/chicken-tetrazzini.md][Chicken tetrazzini]]
+    - [[file:_recipes/broccoli-ham-macaroni-cheese.md][Broccoli, ham, macaroni, and cheese]]
+    - [[file:_recipes/roasted-spaghetti-squash.md][Roasted spaghetti squash]]
+  
+  - [[][Soups]]
+  
+    - [[file:_recipes/african-peanut-stew.md][African peanut stew]]
+    - [[file:_recipes/beef-stew.md][Beef stew]]
+    - [[file:_recipes/beet-apple-soup.md][Beet and apple soup]]
+    - [[file:_recipes/broccoli-cheddar-soup.md][Broccoli and cheddar soup]]
+    - [[file:_recipes/carrot-ginger-soup.md][Carrot ginger soup]]
+    - [[file:_recipes/chili.md][Chili]]
+    - [[file:_recipes/cream-tomato-soup.md][Cream of tomato soup]]
+    - [[file:_recipes/french-onion-soup.md][French onion soup]]
+    - [[file:_recipes/hamburger-soup.md][Hamburger soup]]
+    - [[file:_recipes/lentil-soup.md][Lentil soup]]
+    - [[file:_recipes/tomato-spinach-tortellini-soup.md][Tomato spinach tortellini soup]]
+    - [[file:_recipes/tortellini-sausage-soup.md][Tortellini sausage soup]]
+  
+  - [[][Beef]]
+  
+    - [[file:_recipes/steak.md][Steak]]
+    - [[file:_recipes/pot-roast.md][Pot roast]]
+    - [[file:_recipes/beef-stroganoff.md][Beef stroganoff]]
+    - [[file:_recipes/stuffed-peppers.md][Stuffed peppers]]
+    - [[file:_recipes/shepherds-pie.md][Shepherd's pie]]
+    - [[file:_recipes/beef-macaroni.md][Beef macaroni]]
+  
+  - [[][Chicken]]
+  
+    - [[file:_recipes/chicken-breasts.md][Chicken breasts]]
+    - [[file:_recipes/butter-chicken.md][Butter chicken]]
+    - [[file:_recipes/chicken-chickpea-tray-bake.md][Chicken chickpea tray bake]]
+    - [[file:_recipes/pad-thai.md][Pad Thai]]
+    - [[file:_recipes/chicken-potatoes-green-beans.md][Chicken, potatoes, green beans]]
+    - [[file:_recipes/honey-garlic-chicken-veggies.md][Honey garlic chicken and veggies]]
+    - [[file:_recipes/balsamic-chicken.md][Balsamic chicken]]
+    - [[file:_recipes/chicken-fried-rice.md][Chicken fried rice]]
+    - [[file:_recipes/honey-mustard-chicken-potatoes.md][Honey mustard chicken and potatoes]]
+    - [[file:_recipes/chicken-lo-mein.md][Chicken lo mein]]
+    - [[file:_recipes/chicken-lettuce-wraps.md][Chicken lettuce wraps]]
+    - [[file:_recipes/lemon-garlic-chicken.md][Lemon garlic chicken]]
+    - [[file:_recipes/maple-cranberry-chicken.md][Maple cranberry chicken]]
+    - [[file:_recipes/grilled-chicken-panzella.md][Grilled chicken and panzella]]
+    - [[file:_recipes/chicken-alfredo-primavera.md][Chicken alfredo primavera]]
+    - [[file:_recipes/apple-cider-chicken.md][Apple cider chicken]]
+    - [[file:_recipes/pomegranate-chicken-squash.md][Pomegranate chicken and roasted acorn squash]]
+  
+  - [[][Pork]]
+  
+    - [[file:_recipes/pork-tenderloin-potatoes-beans.md][Brown sugar pork tenderloin, potatoes, and green beans]]
+    - [[file:_recipes/mustard-glazed-pork-tenderloin.md][Mustard-glazed pork tenderloin]]
+
+* Desserts
+
+  - [[][Sweets]]
+  
+    - [[file:_recipes/reeses-peanut-butter-bars.md][Reese's peanut butter bars]]
+    - [[file:_recipes/peanut-butter-fudge.md][Peanut butter fudge]]
+    - [[file:_recipes/gingersnaps.md][Gingersnaps]]
+  
+  - [[][Doughnuts]]
+  
+    - [[file:_recipes/birthday-doughnuts.md][Birthday doughnuts]]
+    - [[file:_recipes/glazed-guinness-chocolate-doughnuts.md][Glazed Guinness Chocolate Doughnuts]]
+  
+  - [[][Muffins]]
+  
+    - [[file:_recipes/pumpkin-muffins.md][Pumpkin muffins]]
+  
+  - [[][Pies]]
+  
+    - [[file:_recipes/apple-pie.md][Apple pie]]
+  
+  - [[][Cakes]]
+  
+    - [[file:_recipes/custard-berry-cake.md][Custard berry cake]]
+  
+  - [[][Fruit]]
+  
+    - [[file:_recipes/chocolate-covered-strawberries.md][Chocolate covered strawberries]]
+
+* Beverages
+
+  - [[][Bases]]
+  
+    - [[file:_recipes/simple-syrup.md][Simple syrup]]
+  
+  - [[][Virgin]]
+  
+    - [[file:_recipes/banana-honey-smoothie.md][Banana honey smoothie]]
+    - [[file:_recipes/apple-cider.md][Apple cider]]
+    - [[file:_recipes/peanut-butter-fruit-smoothie.md][Peanut butter fruit smoothie]]
+    - [[file:_recipes/frozen-berry-smoothie.md][Frozen berry fruit smoothie]]
+    - [[file:_recipes/london-fog.md][London fog]]
+  
+  - [[][Alcoholic]]
+  
+    - [[file:_recipes/777.md][777]]
+    - [[file:_recipes/aperol-spritz.md][Aperol spritz]]
+    - [[file:_recipes/bacardi-cocktail.md][Bacardi cocktail]]
+    - [[file:_recipes/black-manhattan.md][Black Manhattan]]
+    - [[file:_recipes/bramble.md][Bramble]]
+    - [[file:_recipes/bourbon-smash.md][Bourbon smash]]
+    - [[file:_recipes/cinnamon-maple-whiskey-sour.md][Cinnamon maple whiskey sour]]
+    - [[file:_recipes/crema-corretto.md][Crema corretto]]
+    - [[file:_recipes/dark-and-stormy.md][Dark and stormy]]
+    - [[file:_recipes/el-presidente.md][El Presidente]]
+    - [[file:_recipes/floradora.md][Floradora]]
+    - [[file:_recipes/gin-fizz.md][Gin fizz]]
+    - [[file:_recipes/kahlua-hot-chocolate.md][Kahlua hot chocolate]]
+    - [[file:_recipes/lynchburg-lemonade.md][Lynchburg lemonade]]
+    - [[file:_recipes/manhattan.md][Manhattan]]
+    - [[file:_recipes/margarita.md][Margarita]]
+    - [[file:_recipes/martini.md][Martini]]
+    - [[file:_recipes/moscow-mule.md][Moscow mule]]
+    - [[file:_recipes/negroni.md][Negroni]]
+    - [[file:_recipes/paper-plane.md][Paper plane]]
+    - [[file:_recipes/rum-old-fashioned.md][Rum old fashioned]]
+    - [[file:_recipes/scofflaw.md][Scofflaw]]
+    - [[file:_recipes/strawberry-daiquiri.md][Strawberry daiquiri]]
+    - [[file:_recipes/tequila-sunrise.md][Tequila sunrise]]
+    - [[file:_recipes/tom-collins.md][Tom Collins]]
+    - [[file:_recipes/treacle.md][Treacle]]
+    - [[file:_recipes/white-lady.md][White lady]]
+    - [[file:_recipes/whiskey-sour.md][Whiskey sour]]
+
+* On deck
+
+  - [[][Breads]]
+  
+    - [[file:_recipes/garlic-bread.md][Garlic bread]]
+  
+  - [[][Vegetarian]]
+  
+    - [[file:_recipes/green-curry-tofu-cashews.md][Green curry, tofu, and cashews]]
+  
+  - [[][Lamb]]
+  
+    - [[file:_recipes/lamb-chops-rosehip-fig-olives.md][Lamb chops with rosehip, fig, and olives]]
+  
+  - [[][Alcoholic]]
+  
+    - [[file:_recipes/paperino.md][Paperino]]
+    - [[file:_recipes/capo-americano.md][Capo Americano]]
