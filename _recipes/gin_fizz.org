@@ -1,0 +1,25 @@
+#+TITLE: Gin fizz
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 2 min      |
+| Yields    | 1 cocktail |
+#+DATE: [2020-12-19]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                          |
+|----------+-----------------------------------------------|
+| 1.5 oz   | [[../_ingredients/gin.md][gin]]               |
+| 1 oz     | [[./simple-syrup.md][simple syrup]]           |
+| 1 oz     | [[../_ingredients/lime-juice.md][lime juice]] |
+|          | [[../_ingredients/ice.md][ice cubes]]         |
+| 4 oz     | [[../_ingredients/club-soda.md][club soda]]   |
+
+* Directions
+
+1. Place all ingredients but the club soda into a cocktail shaker.
+2. Cover and shake vigorously
+3. Strain into highball glasses, then add in club soda

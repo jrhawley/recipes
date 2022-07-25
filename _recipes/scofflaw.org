@@ -1,0 +1,22 @@
+#+TITLE: Scofflaw
+#+DATE: [2021-02-17]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                            |
+|----------+-------------------------------------------------|
+| 3/2 oz   | [[../_ingredients/whiskey.md][rye whiskey]]     |
+| 1 oz     | [[../_ingredients/vermouth.md][dry vermouth]]   |
+| 2/3 oz   | [[../_ingredients/lemon-juice.md][lemon juice]] |
+| 2/3 oz   | [[../_ingredients/grenadine.md][grenadine]]     |
+
+* Directions
+
+1. Add ingredients to cocktail shaker and shake well
+2. Add ice and shake well
+3. Double strain into a chilled cocktail glass
+4. Garnish with a twist of lemon peel
+
+* References & Notes

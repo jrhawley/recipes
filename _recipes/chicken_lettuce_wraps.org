@@ -1,0 +1,55 @@
+#+TITLE: Chicken lettuce wraps
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 20 min     |
+| Yields    | 4 servings |
+#+DATE: [2020-01-15]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:chicken :dinner:
+
+* Ingredients
+
+*** Sauce
+
+| Quantity | Item                                                |
+|----------+-----------------------------------------------------|
+| 2 Tbsp   | [[../_ingredients/honey.md][honey]]                 |
+| 1/4 tsp  | [[../_ingredients/table-salt.md][table salt]]       |
+| 2 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]         |
+| 1 Tbsp   | [[../_ingredients/ketchup.md][ketchup]]             |
+| 1 tsp    | [[../_ingredients/vinegar.md][vinegar]]             |
+| 1 Tbsp   | [[../_ingredients/sriracha.md][Sriracha sauce]]     |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced       |
+| 1 Tbsp   | [[../_ingredients/hoisin-sauce.md][Hoisin sauce]]   |
+| 1 Tbsp   | [[../_ingredients/oyster-sauce.md][oyster sauce]]   |
+| 1/4 cup  | [[../_ingredients/chicken-broth.md][chicken broth]] |
+
+*** Chicken
+
+| Quantity | Item                                                        |
+|----------+-------------------------------------------------------------|
+| 1 cup    | [[../_ingredients/chicken-breast.md][chicken]], minced      |
+| 1        | small [[../_ingredients/onion.md][onion]], diced            |
+| 1 Tbsp   | [[../_ingredients/ginger.md][ginger]], grated               |
+| 4 cloves | [[../_ingredients/garlic.md][garlic]], minced               |
+| 2 Tbsp   | [[../_ingredients/vegetable-oil.md][vegetable oil]]         |
+| 1 pinch  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]] |
+| 1 stalk  | [[../_ingredients/green-onion.md][green onion]]             |
+|          | [[../_ingredients/sesame-seeds.md][sesame seeds]], garnish  |
+
+* Directions
+
+1. In a bowl add the ingredients for sauce and mix well.
+2. Heat oil in a large pan or wok.
+
+   1. Saute ginger, garlic, and onion until soft
+
+3. Add minced chicken and stir to separate the chicken and cook evenly
+
+   1. Add sauce mix and mix well
+   2. Cook until chicken is cooked well and sauce is mostly dried
+
+4. Add the sesame seeds, green onion, and red pepper flakes
+5. Arrange the lettuce leaves and place two to three tablespoon of chicken on each leaf and serve

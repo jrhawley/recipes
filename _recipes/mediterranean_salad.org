@@ -1,0 +1,32 @@
+#+TITLE: Mediterranean salad
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 0 min      |
+| Yields    | 4 servings |
+#+DATE: [2017-03-18]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:salad :vegetarian :dinner:
+
+* Ingredients
+
+*** Salad
+
+| Quantity | Item                                                                      |
+|----------+---------------------------------------------------------------------------|
+| 1        | [[../_ingredients/cucumber.md][cucumber]], diced                          |
+| 1/2      | [[../_ingredients/red-onion.md][red onion]], diced                        |
+| 15 oz    | [[../_ingredients/bean-medley.md][six bean medley]]                       |
+| 1        | [[../_ingredients/tomato.md][tomato]], diced                              |
+| 1/4 cup  | [[../_ingredients/kalamata-olives.md][kalamata olives]], pitted and diced |
+| 50 g     | [[../_ingredients/feta.md][feta]]                                         |
+| 1/2      | [[../_ingredients/lemon.md][lemon]]                                       |
+| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                               |
+| 1 Tbsp   | [[../_ingredients/balsamic-vinegar.md][balsamic vinegar]]                 |
+
+* Directions
+
+1. Mix all ingredients except olive oil and vinegar in a medium sized bowl
+2. Zest and juice the lemon
+3. Dress with olive oil and vinegar before serving

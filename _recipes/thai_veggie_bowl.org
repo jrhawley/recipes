@@ -1,0 +1,54 @@
+#+TITLE: Thai veggie bowl
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 25 min     |
+| Cook Time | 10 min     |
+| Yields    | 4 servings |
+
+#+CAPTION: Thai veggie bowl
+[[../_assets/thai-veggie-bowl.jpg]]
+#+DATE: [2020-03-13]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:vegetarian :vegan :dinner:
+
+* Ingredients
+
+*** Thai peanut sauce
+
+| Quantity | Item                                                |
+|----------+-----------------------------------------------------|
+| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced       |
+| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]         |
+| 3 Tbsp   | [[../_ingredients/peanut-butter.md][peanut butter]] |
+| 2 tsp    | [[../_ingredients/ginger.md][ginger]], grated       |
+| 3 Tbsp   | [[../_ingredients/lime-juice.md][lime juice]]       |
+| 3 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]         |
+| 1 tsp    | [[../_ingredients/sugar.md][sugar]]                 |
+
+*** Salad
+
+| Quantity | Item                                                       |
+|----------+------------------------------------------------------------|
+| 1 cup    | [[../_ingredients/rice.md][rice]]                          |
+| 16 oz    | [[../_ingredients/edamame.md][edamame beans]]              |
+| 1        | red [[../_ingredients/bell-pepper.md][bell pepper]], diced |
+| 1/2      | [[../_ingredients/cucumber.md][cucumber]], diced           |
+| 1        | [[../_ingredients/carrot.md][carrot]], juilienned          |
+| 4        | [[../_ingredients/green-onion.md][green onions]]           |
+| 1/4 cup  | [[../_ingredients/parsley.md][parsley]], chopped           |
+|          | [[../_ingredients/olive-oil.md][olive oil]]                |
+|          | [[../_ingredients/sesame-seeds.md][sesame seeds]]          |
+
+* Directions
+
+1. In a food processor, combine all sauce ingredients and blend until smooth
+2. Cooke the rice/soba noodles according to instructions
+
+   1. If noodles, drain, rinse under cold water, toss with olive oil
+   2. Transfer to a large bowl
+
+3. Add remaining salad ingredients
+4. Top with sauce and sesame seeds when serving
+
+* References & Notes

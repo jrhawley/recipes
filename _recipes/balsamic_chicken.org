@@ -1,0 +1,38 @@
+#+TITLE: Balsamic chicken
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 4 h        |
+| Yields    | 4 servings |
+#+DATE: [2020-01-05]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:slow:-cookerdinner:
+
+* Ingredients
+
+| Quantity | Item                                                      |
+|----------+-----------------------------------------------------------|
+| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]    |
+| 1        | [[../_ingredients/onion.md][onion]], sliced               |
+| 4 cloves | [[../_ingredients/garlic.md][garlic]], minced             |
+| 28 oz    | [[../_ingredients/crushed-tomato.md][crushed tomatoes]]   |
+| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]               |
+| 1 tsp    | [[../_ingredients/oregano.md][oregano]]                   |
+| 1 tsp    | [[../_ingredients/basil.md][basil]]                       |
+| 1 tsp    | [[../_ingredients/rosemary.md][rosemary]]                 |
+| 1/2 tsp  | [[../_ingredients/thyme.md][thyme]]                       |
+| 1/2 cup  | [[../_ingredients/balsamic-vinegar.md][balsamic vinegar]] |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]           |
+|          | [[../_ingredients/pepper.md][pepper]]                     |
+
+* Directions
+
+1. Drizzle olive oil into slow cooker
+2. Place chicken breasts, season with salt and pepper
+
+   1. Top with remaining ingredients
+
+3. Cook on high for 4 h, until chicken breasts are fully cooked
+
+* References & Notes

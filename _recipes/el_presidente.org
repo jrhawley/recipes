@@ -1,0 +1,21 @@
+#+TITLE: El Presidente
+#+DATE: [2021-02-17]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                          |
+|----------+-----------------------------------------------|
+| 2 oz     | [[../_ingredients/rum.md][rum]]               |
+| 1 oz     | [[../_ingredients/vermouth.md][vermouth]]     |
+| 1/3 oz   | [[../_ingredients/triple-sec.md][Triple Sec]] |
+| 1 dash   | [[../_ingredients/grenadine.md][grenadine]]   |
+
+* Directions
+
+1. Fill a mixing glass with ice and add liquids
+2. Stir until chilled
+3. Strain into a chilled serving glass and garnish with orange peel
+
+* References & Notes

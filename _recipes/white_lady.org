@@ -1,0 +1,22 @@
+#+TITLE: White Lady
+#+DATE: [2021-02-17]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                             |
+|----------+--------------------------------------------------|
+| 5/3 oz   | [[../_ingredients/gin.md][gin]]                  |
+| 2/3 oz   | [[../_ingredients/lemon-juice.md][lemon juice]]  |
+| 2/3 oz   | [[../_ingredients/triple-sec.md][Triple Sec]]    |
+| 1        | [[../_ingredients/egg.md][egg white]] (optional) |
+
+* Directions
+
+1. Add all ingredients to a cocktail shaker and shake well
+2. Add a few ice cubes, then shake again
+3. Strain into a chilled cocktail glass
+4. Garnish with a strip of lemon peel
+
+* References & Notes

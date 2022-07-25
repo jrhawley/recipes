@@ -1,0 +1,20 @@
+#+TITLE: Floradora
+#+DATE: [2021-07-11]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:beverage :alcoholic:
+
+* Ingredients
+
+| Quantity | Item                                          |
+|----------+-----------------------------------------------|
+| 3/2 oz   | [[../_ingredients/gin.md][gin]]               |
+| 1/2 oz   | [[../_ingredients/grenadine.md][grenadine]]   |
+| 1/2 oz   | [[../_ingredients/lime-juice.md][lime juice]] |
+| 4 oz     | [[../_ingredients/ginger-ale.md][ginger ale]] |
+
+* Directions
+
+1. Combine all ingredients and stir in a cocktail glass
+2. Garnish with a lime wedge
+
+* References

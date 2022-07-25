@@ -1,0 +1,89 @@
+#+TITLE: Cream of tomato soup
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 30 min     |
+| Cook Time | 15 min     |
+| Yields    | 4 servings |
+
+#+CAPTION: Cream of tomato soup
+[[../_assets/cream-tomato.jpg]]
+#+DATE: [2018-04-07]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:soup :vegetarian :vegan:
+
+* Ingredients
+
+*** Chickpea croutons
+
+| Quantity | Item                                                         |
+|----------+--------------------------------------------------------------|
+| 15 oz    | [[../_ingredients/chickpeas.md][chickpeas]], drained, rinsed |
+| 1 tsp    | [[../_ingredients/olive-oil.md][olive oil]]                  |
+| 1/2 tsp  | dried [[../_ingredients/oregano.md][oregano]]                |
+| 1/8 tsp  | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]        |
+| 1 tsp    | [[../_ingredients/garlic-powder.md][garlic powder]]          |
+| 1/4 tsp  | [[../_ingredients/onion-powder.md][onion powder]]            |
+| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                |
+
+*** Tomato soup
+
+| Quantity | Item                                                                            |
+|----------+---------------------------------------------------------------------------------|
+| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                                     |
+| 1        | [[../_ingredients/sweet-onion.md][yellow onion]], diced                         |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced                                   |
+| 1/2 cup  | [[../_ingredients/cashews.md][cashews]], soaked                                 |
+| 2 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]                         |
+| 28 oz    | [[../_ingredients/whole-peeled-tomatoes.md][whole peeled tomatoes]] with juices |
+| 1/4 cup  | oil-packed [[../_ingredients/sun-dried-tomatoes.md][sun-dried-tomatoes]]        |
+| 2 oz     | [[../_ingredients/tomato-paste.md][tomato paste]]                               |
+| 1 tsp    | dried [[../_ingredients/oregano.md][oregano]]                                   |
+| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                                   |
+| 1 tsp    | [[../_ingredients/pepper.md][pepper]]                                           |
+| 1/2 tsp  | dried [[../_ingredients/thyme.md][thyme]]                                       |
+
+*** Garnish
+
+- fresh [[../_ingredients/basil.md][basil]]
+- [[../_ingredients/olive-oil.md][olive oil]]
+- [[../_ingredients/pepper.md][pepper]]
+
+* Directions
+
+1.  Preheat the oven to 425 F (220 C)
+2.  Remove skins from the chickpeas
+
+    1. Line a large rimmed baking sheet with paper towels
+    2. Place the chickpeas on the paper towels and place a couple paper towels on top
+    3. Roll them around until any liquid on them has been absorbed
+    4. Discard paper towels
+
+3.  Transfer the chickpeas to a large bowl and stir in the grapeseed oil, oregano, cayenne, garlic powder, onion powder, and salt
+
+    1. Line the baking sheet with parchment paper and then spread the chickpeas in an even layer
+
+4.  Bake for 15 minutes
+
+    1. Give the pan a shake and cook for 15 to 20 minutes more until the chickpeas are lightly charred and golden
+
+5.  Let cool on the baking sheet for at least 5 minutes. They will crisp up as they cool
+6.  While chickpeas are baking, brown minced garlic and onion
+
+    1. In a large saucepan, heat the olive oil over medium heat
+    2. Add the onion and garlic and saute for 5 to 6 minutes, or until the onion is translucent
+
+7.  In a blender, combine the soaked cashews and the broth and blend on high speed until creamy and smooth
+
+    1. Add the garlic-onion mixture, the tomatoes and their juices, sun-dried tomatoes, and tomato paste and blend on high until smooth
+
+8.  Pour the tomato mixture into the saucepan in which you cooked the onions and set the pan over med-high heat
+
+    1. Bring the mixture to a simmer, then stir in the oregano, salt, pepper to taste, and thyme
+
+9.  Gently simmer over medium heat, uncovered, for 20 to 30 minutes, until the flavors have developed
+10. Ladle the soup into bowls and top with 1/3 - 1/2 cup of the chickpea croutons
+
+    1. Garnish with minced fresh basil leaves, a drizzle of olive oil, and freshly ground black pepper
+
+* References & Notes

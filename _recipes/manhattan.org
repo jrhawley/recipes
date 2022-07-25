@@ -1,0 +1,21 @@
+#+TITLE: Manhattan
+#+DATE: [2021-02-17]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                                        |
+|----------+-------------------------------------------------------------|
+| 2 oz     | [[../_ingredients/whiskey.md][whiskey]]                     |
+| 2/3 oz   | [[../_ingredients/vermouth.md][vermouth]]                   |
+| 3 dashes | [[../_ingredients/agnostura-bitters.md][Agnostura bitters]] |
+
+* Directions
+
+1. Fill a mixing glass with ice
+2. Add all ingredients, stir until chilled
+3. Strain into a cocktail glass
+4. Garnish with a maraschino cherry (with sweet vermouth) or a strip of lemon peel (with dry vermouth)
+
+* References & Notes

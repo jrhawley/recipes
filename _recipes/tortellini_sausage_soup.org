@@ -1,0 +1,44 @@
+#+TITLE: Tortellini soup with Italian sausage
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 10 min |
+| Cook Time | 15 min |
+| Yields    | serves |
+#+DATE: [2021-01-18]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:soup :sausage :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                    |
+|----------+---------------------------------------------------------|
+| 500 g    | [[../_ingredients/sausage.md][Italian sausage]], ground |
+| 1        | [[../_ingredients/onion.md][onion]], finely diced       |
+| 4 cloves | [[../_ingredients/garlic.md][garlic]], minced           |
+| 1 L      | [[../_ingredients/vegetable-broth.md][vegetable broth]] |
+| 400 mL   | [[../_ingredients/crushed-tomato.md][crushed tomatoes]] |
+| 2 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]       |
+| 300 mL   | [[../_ingredients/tortellini.md][tortellini]]           |
+| 250 mL   | [[../_ingredients/heavy-cream.md][heavy cream]]         |
+|          | [[../_ingredients/spinach.md][spinach]]                 |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]         |
+|          | [[../_ingredients/pepper.md][pepper]]                   |
+|          | [[../_ingredients/parmesan.md][parmesan]]               |
+|          | [[../_ingredients/sourdough.md][sourdough]]             |
+
+* Directions
+
+1. Brown sausage until cooked half way through
+
+   1. Add onions and garlic, cook until translucent
+
+2. Add chicken stock, crushed tomatoes, and tomato paste
+
+   1. Season with salt and simmer for 5 min
+
+3. Add spinach, heavy cream, and tortellini
+
+   1. Cook for 5 min, until tortellini is soft
+
+4. Garnish with shavings of parmesan cheese and sourdough slices

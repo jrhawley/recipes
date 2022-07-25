@@ -1,0 +1,24 @@
+#+TITLE: Strawberry daiquiri
+#+DATE: [2020-05-18]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                            |
+|----------+-------------------------------------------------|
+| 1 oz     | [[./simple-syrup.md][Simple Syrup]]             |
+| 1 cup    | [[../_ingredients/strawberry.md][strawberries]] |
+| 3/2 oz   | [[../_ingredients/rum.md][white rum]]           |
+| 3/4 oz   | [[../_ingredients/lime-juice.md][lime juice]]   |
+| 1/2 cup  | [[../_ingredients/ice.md][ice cubes]]           |
+
+* Directions
+
+1. Add all ingredients to blender, blend until smooth
+
+* Notes
+
+1. Can easily be made virgin by omitting rum
+
+* References

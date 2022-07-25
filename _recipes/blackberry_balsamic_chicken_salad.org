@@ -1,0 +1,66 @@
+#+TITLE: Blackberry balsamic chicken salad
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 30 min     |
+| Cook Time | 10 min     |
+| Yields    | 4 servings |
+
+#+CAPTION: Blackberry balsamic chicken salad
+[[../_assets/blackberry-balsamic-salad.jpg]]
+#+DATE: [2019-08-12]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:salad :chicken :lunch :dinner:
+
+* Ingredients
+
+*** Vinaigrette
+
+| Quantity | Item                                                      |
+|----------+-----------------------------------------------------------|
+| 1/2 cup  | [[../_ingredients/blackberry.md][blackberries]]           |
+| 2 Tbsp   | [[../_ingredients/balsamic-vinegar.md][balsamic vinegar]] |
+| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]               |
+| 2 Tbsp   | [[../_ingredients/honey.md][honey]]                       |
+| 2 tsp    | [[../_ingredients/dijon-mustard.md][dijon mustard]]       |
+| 1 tsp    | [[../_ingredients/soy-sauce.md][soy sauce]]               |
+| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced             |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]           |
+|          | [[../_ingredients/pepper.md][pepper]]                     |
+
+*** Cheese
+
+| Quantity | Item                                                                    |
+|----------+-------------------------------------------------------------------------|
+| 8 oz     | [[../_ingredients/goat-cheese.md][goat cheese]], sliced into 1/4" discs |
+| 1/4 cup  | [[../_ingredients/flour.md][flour]]                                     |
+| 1        | [[../_ingredients/egg.md][egg]], lightly beaten                         |
+| 1 cup    | [[../_ingredients/breadcrumbs.md][breadcrumbs]]                         |
+
+*** Salad
+
+| Quantity | Item                                                   |
+|----------+--------------------------------------------------------|
+| 1/2 lbs  | [[../_ingredients/chicken-breast.md][chicken breasts]] |
+| 6 cups   | [[../_ingredients/spinach.md][spinach]]                |
+| 1 cup    | [[../_ingredients/blackberry.md][blackberries]]        |
+| 1 cup    | [[../_ingredients/avocado.md][avocado]]                |
+| 1/4 cup  | [[../_ingredients/red-onion.md][red onion]], sliced    |
+| 1/4 cup  | [[../_ingredients/walnuts.md][walnuts]]                |
+
+* Directions
+
+1. Puree vinaigrette ingredients in a blender, store separately
+2. Dredge goat cheese slices in the flower
+
+   1. Coat with eggs, then breadcrumbs
+   2. Fry in oil over medium heat until golden
+   3. Set aside on paper towels to drain
+
+3. Marinate chicken in half of the vinaigrette for 30 min
+
+   1. Grill over medium-high heat until slightly charred
+
+4. Assemble all ingredients and serve
+
+* References & Notes

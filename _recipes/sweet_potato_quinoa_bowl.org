@@ -1,0 +1,54 @@
+#+TITLE: Sweet potato quinoa bowl
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 35 min     |
+| Yields    | 4 servings |
+#+DATE: [2020-03-01]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:vegetarian :vegan :bowl :dinner:
+
+* Ingredients
+
+| Quantity  | Item                                                            |
+|-----------+-----------------------------------------------------------------|
+| 1 cup     | [[../_ingredients/quinoa.md][quinoa]], uncooked                 |
+| 2 cups    | [[../_ingredients/vegetable-broth.md][vegetable broth]]         |
+| 1/2 lbs   | [[../_ingredients/broccoli.md][broccoli]] florets               |
+| 1         | [[../_ingredients/sweet-potato.md][sweet potato]], chunked      |
+| 15 oz     | [[../_ingredients/chickpeas.md][chickpeas]], drained, rinsed    |
+| 1 handful | [[../_ingredients/kale.md][kale]], chopped                      |
+| 1/4 cup   | [[../_ingredients/parsley.md][parsley]], chopped                |
+| 3 Tbsp    | [[../_ingredients/feta.md][feta]]                               |
+| 1         | [[../_ingredients/lemon.md][lemon]]                             |
+| 2 tsp     | [[../_ingredients/apple-cider-vinegar.md][apple cider vinegar]] |
+| 2 tsp     | [[../_ingredients/maple-syrup.md][maple syrup]]                 |
+|           | [[../_ingredients/olive-oil.md][olive oil]]                     |
+|           | [[../_ingredients/kosher-salt.md][kosher salt]]                 |
+|           | [[../_ingredients/pepper.md][pepper]]                           |
+
+* Directions
+
+1. Preheat oven to 425 F
+2. Place quinoa and broth in a medium saucepan
+
+   1. Brin to boil, reduce to simmer, cover, and cook for 15 min
+   2. Remove from heat, stir with a fork, place in a large bowl
+
+3. Toss broccoli and sweet potato with olive oil
+
+   1. Place on a baking sheet and roast in the oven for 20 min
+
+4. Add chickpeas and kale to potatoes and broccoli
+
+   1. Roast entire sheet for another 15 min
+
+5. Combine cooked vegetables with quinoa
+
+   1. Sprinkle parsley and crumble feta
+
+6. In a small bowl, whisk together lemon, apple cider vinegar, syrup, 3 Tbsp olive oil, salt, and pepper
+7. Plate quinoa and vegetables, top with dressing
+
+* References & Notes

@@ -1,0 +1,41 @@
+#+TITLE: Lentil soup
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time |        |
+| Cook Time |        |
+| Yields    |        |
+#+DATE: [2021-02-27]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:dinner :soup :slow:-cooker
+
+* Ingredients
+
+| Quantity | Item                                                               |
+|----------+--------------------------------------------------------------------|
+| 4 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]            |
+| 14 oz    | [[../_ingredients/diced-tomatoes.md][diced tomatoes]], with juices |
+| 1        | [[../_ingredients/onion.md][onion]]                                |
+| 1        | [[../_ingredients/carrot.md][carrot]], diced                       |
+| 1 stalk  | [[../_ingredients/celery.md][celery]]                              |
+| 1 cup    | [[../_ingredients/lentils.md][lentils]]                            |
+| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                        |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced                      |
+| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                      |
+| 1 tsp    | [[../_ingredients/tomato-paste.md][tomato paste]]                  |
+| 1        | [[../_ingredients/bay-leaf.md][bay leaf]]                          |
+| 1/2 tsp  | [[../_ingredients/cumin.md][cumin]]                                |
+| 1/2 tsp  | [[../_ingredients/cilantro.md][cilantro]]                          |
+| 1/4 tsp  | [[../_ingredients/paprika.md][paprika]]                            |
+| 2 tsp    | [[../_ingredients/red-wine-vinegar.md][red-wine-vinegar]]          |
+|          | [[../_ingredients/greek-yogurt.md][Greek yogurt]]                  |
+|          | [[../_ingredients/parsley.md][parsley]]                            |
+
+* Directions
+
+1. Place all the ingredients except the vinegar into slow cooker and stir to combine
+2. Cover and cook on the LOW setting until the lentils are tender, about 8 h
+3. Remove the bay leaf and stir in the red wine vinegar
+4. Ladle into bowls and garnish with a dollop of yogurt, a drizzle of olive oil, and chopped fresh parsley
+
+* References & Notes

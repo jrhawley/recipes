@@ -1,0 +1,38 @@
+#+TITLE: Butter chicken
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 15 min     |
+| Cook Time | 4 h        |
+| Yields    | 4 servings |
+#+DATE: [2013-10-17]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:chicken :slow:-cookerdinner:
+
+* Ingredients
+
+| Quantity | Item                                                          |
+|----------+---------------------------------------------------------------|
+| 2 tsp    | ground [[../_ingredients/ginger.md][ginger]]                  |
+| 2 tsp    | ground [[../_ingredients/curry-powder.md][curry powder]]      |
+| 1 tsp    | ground [[../_ingredients/cumin.md][cumin]]                    |
+| 1 tsp    | ground [[../_ingredients/cinnamon.md][cinnamon]]              |
+| 1 tsp    | ground [[../_ingredients/cilantro.md][cilantro]]              |
+| 1        | [[../_ingredients/onion.md][onion]], finley diced             |
+| 2        | [[../_ingredients/chicken-breast.md][chicken breasts]], cubed |
+| 2 Tbsp   | [[../_ingredients/butter.md][butter]], melted                 |
+| 2 cups   | [[../_ingredients/tomato-sauce.md][tomato sauce]]             |
+| 1 Tbsp   | [[../_ingredients/lime-juice.md][lime juice]]                 |
+| 1/2 cup  | plain [[../_ingredients/greek-yogurt.md][Greek yogurt]]       |
+| 1/4 cup  | [[../_ingredients/parsley.md][parsley]], chopped to garnish   |
+
+* Directions
+
+1. Combine all spices in small bowl
+
+   1. Add chicken, sprinkle with spices and top with butter and pasta sauce
+   2. Place onion in centre of slow cooker, surrounded by chicken
+
+2. Stir, cover, and cook on high for 4 h, or low for 8 h
+3. Stir in lime and yogurt before serving
+4. Garnish with parsley

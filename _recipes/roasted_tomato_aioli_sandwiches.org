@@ -1,0 +1,45 @@
+#+TITLE: Roasted tomato aioli sandwiches
+
+| Info      | Amount       |
+|-----------+--------------|
+| Prep Time | 10 min       |
+| Cook Time | 20 min       |
+| Yields    | 2 sandwiches |
+#+DATE: [2020-05-21]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:vegetarian :sandwich :lunch :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                      |
+|----------+-----------------------------------------------------------|
+| 2        | [[../_ingredients/tomato.md][beefsteak tomatoes]], sliced |
+| 1/4 cup  | [[../_ingredients/mayonnaise.md][mayonnaise]]             |
+| 1/2      | [[../_ingredients/lemon.md][lemon]], juiced               |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced             |
+| 4 slices | [[../_ingredients/sourdough.md][sourdough]], thick slices |
+| 1        | [[../_ingredients/avocado.md][avocado]]                   |
+|          | [[../_ingredients/olive-oil.md][olive oil]]               |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]           |
+|          | [[../_ingredients/pepper.md][pepper]]                     |
+|          | [[../_ingredients/oregano.md][oregano]]                   |
+|          | [[../_ingredients/butter.md][butter]]                     |
+|          | [[../_ingredients/basil.md][basil]]                       |
+|          | [[../_ingredients/arugula.md][arugula]]                   |
+
+* Directions
+
+1. Heat oven to 350 F
+
+   1. Line baking sheet with parchment paper
+
+2. Place tomato slices on baking sheet
+
+   1. Drizzle with olive oil, season with salt, pepper, and oregano
+   2. Place in oven for 15-20 min
+
+3. Combine mayo, lemon juice, and garlic, with a dash of salt and pepper in a small bowl
+4. Butter each slice of bread, heat a pan over medium heat and toast for a few minutes
+5. Assemble into a sandwich, slice diagonally, and serve
+
+* References & Notes

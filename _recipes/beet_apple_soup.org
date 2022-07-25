@@ -1,0 +1,56 @@
+#+TITLE: Beet & apple soup
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 30 min     |
+| Yields    | 4 servings |
+#+DATE: [2022-03-25]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:dinner :vegetarian:
+
+* Ingredients
+
+| Quantity | Item                                                            |
+|----------+-----------------------------------------------------------------|
+| 2 lbs    | [[../_ingredients/beets.md][(golden) beets]]                    |
+| 2 Tbsp   | [[../_ingredients/butter.md][butter]]                           |
+| 1/2 cup  | [[../_ingredients/onion.md][onion]], diced                      |
+| 1 lb     | [[../_ingredients/apple.md][apples]], cored and quartered       |
+| 1/4 cup  | [[../_ingredients/apple-cider-vinegar.md][apple cider vinegar]] |
+| 1 Tbsp   | [[../_ingredients/sugar.md][sugar]]                             |
+| 5 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]         |
+| 1 Tbsp   | [[../_ingredients/honey.md][honey]]                             |
+| 1/2 cup  | [[../_ingredients/greek-yogurt.md][Greek yogurt]]               |
+|          | [[../_ingredients/table-salt.md][salt]]                         |
+|          | [[../_ingredients/pepper.md][pepper]]                           |
+
+* Directions
+
+1. If using fresh beets:
+
+   1. Preheat oven to 375 F.
+   2. Wrap the beets in a double layer of aluminium foil and crimp to seal.
+   3. Roast for 1 h, or until tender.
+   4. Remove from the oven and let rest until beets are cool to handle.
+   5. Remove the skin and chop into ~ 1 " chunks
+
+2. In a large soup pot over medium heat, melt the butter and add diced onions.
+
+   1. Saute for 6 - 7 min, until soft and translucent.
+   2. Add apples, vinegar, and sugar, and cook for another 1 - 2 min.
+   3. Add the beets and stock.
+   4. Bring to a boil over medium - high heat, then reduce to medium and simmer for 15 - 20 min, or until apples are soft.
+   5. Remove from heat and let cool.
+
+3. Blend until creamy and smooth.
+
+   1. Return blended soup to the pot and heat.
+   2. Season with salt and pepper to taste.
+
+4. Divide the soup into separate bowls.
+
+   1. In a separate small bowl, mix the honey and yogurt.
+   2. Place a dollop into each bowl.
+
+* References & Notes

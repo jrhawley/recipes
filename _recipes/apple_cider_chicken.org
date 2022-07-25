@@ -1,0 +1,52 @@
+#+TITLE: Apple cider chicken
+#+DATE: [2021-11-08]
+#+LAST_MODIFIED: [2022-07-24 Sun 23:53]
+#+FILETAGS: :recipe:dinner:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 20 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+| Quantity | Item                 |
+|----------+----------------------|
+| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]      |
+| 3/2 Tbsp | [[../_ingredients/olive-oil.md][olive oil]]            |
+| 3/4 cup  | [[../_recipes/apple-cider.md][apple cider]]          |
+| 2        | [[../_ingredients/apple.md][apples]], sliced       |
+| 2 tsp    | [[../_ingredients/thyme.md][thyme]]                |
+| 1        | [[../_ingredients/sweet-onion.md][sweet onion]], chopped |
+| 1 tsp    | [[../_ingredients/garlic-powder.md][garlic powder]]        |
+| 1        | [[../_ingredients/sweet-potato.md][sweet potato]]         |
+| 1 Tbsp   | [[../_ingredients/dijon-mustard.md][dijon mustard]]        |
+| 1 tsp    | [[../_ingredients/corn-starch.md][cornstarch]]           |
+
+* Directions
+
+1. In a large skillet, heat oil over medium-high heat.
+
+   1. Add chicken and brown for 5 - 7 min, each side.
+   2. Remove from skillet and place on a plate covered with foil.
+
+2. Reduce heat to medium and add the sweet potato chunks.
+
+   1. Cook for 3 min.
+
+3. Add apple slices and cook for an additional 3 min.
+4. Add onion, thyme, and garlic powder.
+
+   1. Stir to combine and cook for an additional few minutes.
+
+5. In a bowl, mix the apple cider and mustard.
+
+   1. Make a little well in the vegetables, add back the chicken.
+   2. Pour the apple cider mix into the skillet, cover, and cook for a few minutes.
+
+6. Remove chicken, then add cornstarch to thicken the apple cider sauce.
+
+   1. Mix thoroughly, then let stand for a few minutes before serving.
+
+* References

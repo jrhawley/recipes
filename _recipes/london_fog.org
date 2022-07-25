@@ -1,0 +1,19 @@
+#+TITLE: London fog
+#+DATE: [2021-08-13]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:beverage:
+
+* Ingredients
+
+| Quantity | Item                                                    |
+|----------+---------------------------------------------------------|
+| 1/2 cup  | [[../_ingredients/water.md][water]]                     |
+| 1/2 cup  | [[../_ingredients/milk.md][milk]]                       |
+| 1/4 tsp  | [[../_ingredients/vanilla-extract.md][vanilla extract]] |
+| 1 tsp    | [[../_ingredients/sugar.md][sugar]]                     |
+| 1 sachet | [[../_ingredients/earl-grey-tea.md][Earl Grey tea]]     |
+
+* Directions
+
+1. Boil the water and steep the Earl Grey tea for 5 min
+2. While steeping, foam the milk, then add sugar and vanilla extract to the tea

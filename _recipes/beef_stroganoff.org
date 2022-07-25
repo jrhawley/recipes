@@ -1,0 +1,43 @@
+#+TITLE: Beef stroganoff
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 20 min     |
+| Cook Time | 4 h        |
+| Yields    | 8 servings |
+#+DATE: [2018-08-26]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:beef :slow:-cookerdinner:
+
+* Ingredients
+
+| Quantity | Item                                                |
+|----------+-----------------------------------------------------|
+| 2 lbs    | [[../_ingredients/ground-beef.md][ground beef]]     |
+| 2        | [[../_ingredients/onion.md][onions]], diced         |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced       |
+| 1 cup    | [[../_ingredients/beef-consomme.md][beef consomme]] |
+| 3 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]   |
+| 2 Tbsp   | [[../_ingredients/flour.md][flour]]                 |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]     |
+|          | [[../_ingredients/pepper.md][pepper]]               |
+
+* Directions
+
+1. Brown ground beef in a large skillet
+
+   1. Add onions, garlic, and mushrooms
+   2. Saute until onions are golden brown
+
+2. Place into slow cooker with remaining ingredients except sour cream and flour
+
+   1. Stir thoroughly
+   2. Cover and cook on high for 3h, or low for 7-9h
+
+3. Whisk sour cream and flour together
+
+   1. Stir sour cream into mix 1h before serving
+
+4. Serve over hot butter noodles or rice
+
+* References & Notes

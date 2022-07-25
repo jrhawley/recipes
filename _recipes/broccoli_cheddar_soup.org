@@ -1,0 +1,46 @@
+#+TITLE: Broccoli and cheddar soup
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 3 h        |
+| Yields    | 6 servings |
+#+DATE: [2019-11-13]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:soup :vegetarian :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                             |
+|----------+------------------------------------------------------------------|
+| 5 cups   | [[../_ingredients/broccoli.md][broccoli]] florets, thinly sliced |
+| 1        | medium [[../_ingredients/onion.md][yellow onion]], diced         |
+| 3 cloves | [[../_ingredients/garlic.md][garlic]], minced                    |
+| 1 cup    | [[../_ingredients/carrot.md][carrots]], grated                   |
+| 2 oz     | reduced fat [[../_ingredients/cream-cheese.md][cream cheese]]    |
+| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                    |
+| 1 tsp    | [[../_ingredients/pepper.md][pepper]]                            |
+| 1/4 tsp  | [[../_ingredients/nutmeg.md][nutmeg]]                            |
+| 4 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]          |
+| 1 Tbsp   | [[../_ingredients/water.md][water]]                              |
+| 1/4 cup  | warm [[../_ingredients/water.md][water]]                         |
+| 1 Tbsp   | [[../_ingredients/corn-starch.md][corn starch]]                  |
+| 1/4 cup  | plain [[../_ingredients/greek-yogurt.md][Greek yogurt]]          |
+| 1 cup    | [[../_ingredients/cheddar.md][cheddar]], grated                  |
+
+* Directions
+
+1. Add vegetable broth, broccoli, onion, garlic, carrots, and cream cheese to slow cooker
+
+   1. Stir to combine
+   2. Cook on low for 4-5 h or high for 2-3 h
+
+2. When finished, mix 1 Tbsp of water with cornstarch in a saucepan
+
+   1. Add Greek yogurt and warm water
+   2. Simmer on low, add cheddar cheese until creamy and melted
+   3. Whisk into slow cooker
+
+3. Serve
+
+* References & Notes

@@ -1,0 +1,23 @@
+#+TITLE: Rum Old-Fashioned
+#+DATE: [2021-02-17]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                                        |
+|----------+-------------------------------------------------------------|
+| 1/3 oz   | [[./simple-syrup.md][simple syrup]]                         |
+| 3 dashes | [[../_ingredients/agnostura-bitters.md][Agnostura bitters]] |
+| 5/3 oz   | golden or dark [[../_ingredients/rum.md][rum]]              |
+| 1 disk   | [[../_ingredients/orange.md][orange peel]]                  |
+
+* Directions
+
+1. Place the orange peel at the bottom of a rocks glass
+2. Add the simple syrup, bitters, and half the rum
+3. Add 2-3 ice cubes and stir 20 - 30 times to dilute
+4. Add the remaining rum, then 2 more ice cubes and stir again
+5. Serve in the glass as is
+
+* References & Notes

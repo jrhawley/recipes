@@ -1,0 +1,26 @@
+#+TITLE: Black Manhattan
+#+DATE: [2021-09-25]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                                             |
+|----------+------------------------------------------------------------------|
+| 2 oz     | [[../_ingredients/whiskey.md][rye whisk]]                        |
+| 1 oz     | [[../_ingredients/amaro.md][amaro]]                              |
+| 5 dashes | [[../_ingredients/agnostura-bitters.md][Agnostura bitters]]      |
+| 1/8 tsp  | [[../_ingredients/cinnamon.md][cinnamon]]                        |
+|          | [[../_ingredients/orange.md][orange peel]] (optional)            |
+| 1        | [[../_ingredients/cinnamon-stick.md][cinnamon stick]] (optional) |
+
+* Directions
+
+1. Pour whiskey, amaro, bitters, and ground cinnamon into a mixing glass partially filled with ice.
+
+   1. Stir until chilled.
+
+2. Pull orange peel over the glass, spritzing its oils.
+3. Rub peel around the outside rim, then garnish the drink with the peel and the cinnamon stick.
+
+* References

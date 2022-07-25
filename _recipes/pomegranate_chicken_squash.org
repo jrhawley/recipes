@@ -1,0 +1,40 @@
+#+TITLE: Pomegranate chicken and roasted acorn squash
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 25 min     |
+| Yields    | 2 servings |
+#+DATE: [2021-12-08]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:chicken :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                                  |
+|----------+-----------------------------------------------------------------------|
+| 1/2 cup  | [[../_ingredients/rice.md][rice]]                                     |
+| 1/4 cup  | [[../_ingredients/sweet-thai-chili-sauce.md][sweet Thai chili sauce]] |
+| 1/4 cup  | [[../_ingredients/soy-sauce.md][soy sauce]]                           |
+| 1 tsp    | [[../_ingredients/ginger.md][groudn ginger]]                          |
+| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced                         |
+| 2        | [[../_ingredients/chicken-breast.md][chicken breasts]]                |
+| 1        | [[../_ingredients/acorn-squash.md][acorn squash]]                     |
+| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                           |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]                       |
+|          | [[../_ingredients/pepper.md][pepper]]                                 |
+| 1/2 cup  | [[../_ingredients/pomegranate-arils.md][pomegranate arils]]           |
+
+* Directions
+
+1. Preheat oven to 425 F.
+2. In a medium bowl, combine the sweet Thai chili sauce, pomegranate juice, soy sauce, ginger, and garlic.
+3. If using fresh chicken breasts, toss with half the sauce, then place on a large baking sheet.
+4. If starting from frozen, heat olive oil in a pan and cook the chicken on medium heat until the skin is white and the breasts are soft.
+5. Cook the rice according to instructions.
+6. Slice the acorn squash into half rounds, 1/2" thick.
+7. Place on a baking sheet, drizzle with olive oil, salt, and pepper.
+8. Place the entire baking sheet (including the chicken breasts, if fresh) for 20 min, flipping half way through.
+9. Serve chicken and squash over rice in a bowl, garnishing with arils and extra sauce.
+
+* References

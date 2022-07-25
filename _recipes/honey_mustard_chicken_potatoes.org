@@ -1,0 +1,54 @@
+#+TITLE: Honey mustard chicken and potatoes
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 1 h        |
+| Yields    | 4 servings |
+#+DATE: [2020-08-17]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:chicken :potatoes :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                        |
+|----------+-------------------------------------------------------------|
+| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]      |
+| 1 Tbsp   | [[../_ingredients/garlic-powder.md][garlic powder]]         |
+| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                 |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced               |
+| 1/4 cup  | [[../_ingredients/honey.md][honey]]                         |
+| 3 Tbsp   | [[../_ingredients/mustard.md][whole grain mustard]]         |
+| 2 Tbsp   | [[../_ingredients/dijon-mustard.md][dijon mustard]]         |
+| 2 Tbsp   | [[../_ingredients/water.md][water]]                         |
+| 1 lbs    | baby [[../_ingredients/potato.md][red potatoes]], quartered |
+| 8 oz     | [[../_ingredients/green-beans.md][green beans]], halved     |
+| 2 sprigs | [[../_ingredients/rosemary.md][rosemary]]                   |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]             |
+|          | [[../_ingredients/pepper.md][pepper]]                       |
+
+* Directions
+
+1. Preheat oven to 400 F
+2. Generously season chicken breasts with salt, pepper and garlic powder
+3. Heat olive oil in a large, oven-proof non-stick pan over medium-high heat
+
+   1. Sear chicken thighs for 3 minutes each side, until the skin becomes golden and crisp
+   2. Leave 2 tablespoons of chicken juices in the pan for added flavour, and drain any excess
+
+4. Fry the garlic in the same pan around the chicken for 1 min until fragrant
+
+   1. Add the honey, both mustards, and water to the pan, mixing well, and combine all around the chicken
+
+5. Add in the potatoes; mix them through the sauce
+
+   1. Season with salt and pepper, to your tastes
+   2. Allow the honey mustard sauce to simmer for 2 min
+   3. Transfer to the hot oven and bake for 40-45 min
+
+6. Remove from the oven after 30 minutes
+
+   1. Add in the green beans
+   2. Return to the oven to bake for a further 15 min
+
+* References & Notes

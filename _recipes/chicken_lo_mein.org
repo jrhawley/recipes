@@ -1,0 +1,45 @@
+#+TITLE: Chicken lo mein
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 30 min |
+| Cook Time | 3 h    |
+| Yields    | 6      |
+#+DATE: [2020-01-15]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:slow:-cookerdinner:
+
+* Ingredients
+
+| Quantity | Item                                                                      |
+|----------+---------------------------------------------------------------------------|
+| 2 lbs    | boneless, skinless [[../_ingredients/chicken-breast.md][chicken breasts]] |
+| 5 oz     | [[../_ingredients/snap-peas.md][snap peas]]                               |
+| 1        | large [[../_ingredients/bell-pepper.md][red bell pepper]], sliced         |
+| 5 oz     | [[../_ingredients/water-chestnuts.md][water chestnuts]], sliced           |
+| 4 stalks | [[../_ingredients/green-onion.md][green onion]], chopped                  |
+| 1 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]                   |
+| 1/4 cup  | [[../_ingredients/worcestershire-sauce.md][worcestershire sauce]]         |
+| 1/4 cup  | low sodium [[../_ingredients/soy-sauce.md][soy sauce]]                    |
+| 2 Tbsp   | [[../_ingredients/honey.md][honey]]                                       |
+| 2 tsp    | [[../_ingredients/garlic.md][garlic]], minced                             |
+| 1 tsp    | ground [[../_ingredients/ginger.md][ginger]]                              |
+| 14 oz    | [[../_ingredients/lo-mein.md][lo mein noodles]], uncooked                 |
+
+* Directions
+
+1. Slice chicken and place chicken breasts in slow cooker
+
+   1. Add snap peas, bell pepper, water chestnuts, green onion, broth
+
+2. In a small bowl, whisk together Worcestershire sauce, soy sauce, honey, garlic, and ginger
+
+   1. Pour into slow cooker to coat chicken
+
+3. Cook on low for 6 h or high for 3 h
+4. After slow cooker has finished, cook noodles according to instructions
+
+   1. Stir noodles into slow cooker, serve
+   2. Garnish with extra green onion
+
+* References

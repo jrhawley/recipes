@@ -1,0 +1,23 @@
+#+TITLE: Bramble
+#+DATE: [2021-12-05]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:beverage :alcoholic:
+
+* Ingredients
+
+| Quantity | Item                                                |
+|----------+-----------------------------------------------------|
+| 2 oz     | [[../_ingredients/gin.md][gin]]                     |
+| 1 oz     | [[../_ingredients/lemon-juice.md][lemon juice]]     |
+| 2 tsp    | [[../_recipes/simple-syrup.md][simple syrup]]       |
+| 1/2 oz   | [[../_ingredients/creme-de-mure.md][creme de mure]] |
+|          | [[../_ingredients/lemon.md][lemon wedge]]           |
+|          | [[../_ingredients/blackberry.md][blackberry]]       |
+
+* Directions
+
+1. Add gin, lemon juice, and simple syrup into a cocktail shaker with ice.
+2. Shake until well-chilled.
+3. Fill a rocks glass with ice and strain the cocktail shaker into the glass.
+4. Pour the creme de mure over top.
+5. Garnish with a lemon wedge and blackberry.

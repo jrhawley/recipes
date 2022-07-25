@@ -1,0 +1,20 @@
+#+TITLE: Paper plane
+#+DATE: [2021-08-07]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                            |
+|----------+-------------------------------------------------|
+| 3/4 oz   | [[../_ingredients/bourbon.md][bourbon]]         |
+| 3/4 oz   | [[../_ingredients/aperol.md][Aperol]]           |
+| 3/4 oz   | [[../_ingredients/amaro.md][amaro]]             |
+| 3/4 oz   | [[../_ingredients/lemon-juice.md][lemon juice]] |
+
+* Directions
+
+1. Add ice all ingredients to a cocktail shaker; shake until cool
+2. Strain into a coupe glass
+
+* References & Notes

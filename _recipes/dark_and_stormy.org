@@ -1,0 +1,20 @@
+#+TITLE: Dark and stormy
+#+DATE: [2022-03-13]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Ingredient                                      |
+|----------+-------------------------------------------------|
+| 5/3 oz   | [[../_ingredients/rum.md][dark rum]]            |
+| 1/2 oz   | [[../_ingredients/lime-juice.md][lime juice]]   |
+| 5 oz     | [[../_ingredients/ginger-beer.md][ginger beer]] |
+
+* Directions
+
+1. Fill a highball glass with ice.
+2. Pour the ginger beer, leaving a small window for the lime and rum.
+3. Squeeze in the lime juice, then slowly pour over the dark rum to float it on top.
+
+* References

@@ -1,0 +1,17 @@
+#+TITLE: Simple syrup
+#+DATE: [2020-06-03]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:beverage:
+
+* Ingredients
+
+| Quantity | Item                                |
+|----------+-------------------------------------|
+| 1 cup    | [[../_ingredients/water.md][water]] |
+| 1 cup    | [[../_ingredients/sugar.md][sugar]] |
+
+* Directions
+
+1. Heat water on the stove to just below boiling
+2. Slowly add sugar, allowing it to dissolve fully before adding more
+3. Once all the sugar is added, let cool and store in the fridge

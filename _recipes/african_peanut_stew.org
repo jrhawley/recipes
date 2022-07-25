@@ -1,0 +1,49 @@
+#+TITLE: African peanut stew
+#+DATE: [2020-01-14]
+#+LAST_MODIFIED: [2022-07-24 Sun 23:51]
+#+FILETAGS: :recipe:soup:vegan:vegetarian:dinner:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 20 min     |
+| Cook Time | 30 min     |
+| Yields    | 6 servings |
+
+* Ingredients
+
+| Quantity   | Item                          |
+|------------+-------------------------------|
+| 1 tsp      | [[../_ingredients/olive-oil.md][olive oil]]                     |
+| 1          | medium [[../_ingredients/sweet-onion.md][sweet onion]], diced     |
+| 2 cloves   | [[../_ingredients/garlic.md][garlic]], minced                |
+| 1          | red [[../_ingredients/bell-pepper.md][bell pepper]], diced        |
+| 1          | medium [[../_ingredients/sweet-potato.md][sweet potato]], diced    |
+| 28 oz      | [[../_ingredients/diced-tomatoes.md][diced tomatoes]], with juices   |
+| 1/3 cup    | [[../_ingredients/peanut-butter.md][peanut butter]]                 |
+| 4 cups     | [[../_ingredients/vegetable-broth.md][vegetable broth]]               |
+| 3/2 tsp    | [[../_ingredients/chili-powder.md][chili powder]]                  |
+| 15 oz      | [[../_ingredients/chickpeas.md][chickpeas]], drained and rinsed |
+| 2 handfuls | [[../_ingredients/spinach.md][spinach]]                       |
+|            | [[../_ingredients/kosher-salt.md][kosher salt]]                   |
+|            | [[../_ingredients/pepper.md][pepper]]                        |
+|            | freshly [[../_ingredients/parsley.md][parsley]]               |
+|            | [[../_ingredients/peanuts.md][peanuts]]                       |
+
+* Directions
+
+1. In a large saucepan, heat olive oil over medium heat
+   - Add onion and garlic, saute until translucent
+
+2. Add bell pepper, sweet potato, tomatoes, and juices
+   - Raise to medium-high heat, simmer for 5 minutes
+   - Season with salt and pepper
+
+3. In a medium bowl, whisk together peanut butter, 1 cup of vegetable broth until no clumps remain
+   - Stir into vegetables with remaining vegetable broth with chili powder
+
+4. Cover with a lid, reduce to medium-low heat, simmer for 10-20 min until sweet potato is tender
+5. Stir in chickpeas and spinach, cook until spinach is wilted
+6. Salt and pepper to taste, garnish with parsley and roasted peanuts before serving
+
+* References & Notes
+

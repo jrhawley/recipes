@@ -1,0 +1,60 @@
+#+TITLE: Autumn arugula salad
+#+DATE: [2020-12-22]
+#+LAST_MODIFIED: [2022-07-24 Sun 23:54]
+#+FILETAGS: :recipe:salad :vegetarian :summer :dinner:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 30 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+** Salad
+
+| Quantity | Item              |
+|----------+-------------------|
+| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]         |
+| 1        | [[../_ingredients/acorn-squash.md][acorn squash]]      |
+| 1/4 tsp  | [[../_ingredients/table-salt.md][table salt]]        |
+| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]            |
+| 2 tsp    | [[../_ingredients/brown-sugar.md][brown sugar]]       |
+| 1/2 cup  | [[../_ingredients/pecan.md][pecans]], chopped   |
+| 1/4 tsp  | [[../_ingredients/pumpkin-pie-spice.md][pumpkin-pie-spice]] |
+| 6 cup    | [[../_ingredients/arugula.md][arugula]]           |
+| 1        | [[../_ingredients/avocado.md][avocado]]           |
+| 1/2 cup  | [[../_ingredients/pomegranate-seeds.md][pomegranate seeds]] |
+| 1        | [[../_ingredients/cucumber.md][cucumber]], sliced  |
+
+** Vinaigrette
+
+| Quantity | Item                   |
+|----------+------------------------|
+| 1/3 cup  | [[../_ingredients/pomegranate-juice.md][pomegranate juice]]      |
+| 1/4 cup  | [[../_ingredients/apple-cider-vinegar.md][apple cider vinegar]]    |
+| 1/2 tsp  | [[../_ingredients/ginger.md][ginger]], freshly grated |
+| 1 clove  | [[../_ingredients/garlic.md][garlic]], grated         |
+| 1/4 tsp  | [[../_ingredients/table-salt.md][table salt]]             |
+| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                 |
+| 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]              |
+
+* Directions
+
+1. Preheat oven to 425 F
+
+   1. Slice acorn squash into 1 cm chunks, removing seeds
+   2. Place on a baking sheet, cover with olive oil, salt, pepper, and brown sugar
+   3. Place in over, roast for 10 min, flip, and bake for another 10 min
+
+2. In a small saucepan over low heat, toss pecans
+
+   1. Toast until golden and fragment, adding a bit of brown sugar and pumpkin pie spice
+
+3. Slice avocado and cucumber, add remaining ingredients into a large bowl
+
+   1. When the squash is done, cut into smaller pieces and add to salad
+
+4. Combine all vinaigrette ingredients in a small bowl, drizzle over salad as desired
+
+* References & Notes

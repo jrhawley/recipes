@@ -1,0 +1,39 @@
+#+TITLE: Hamburger soup
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 30 min     |
+| Cook Time | 2 h        |
+| Yields    | 8 servings |
+#+DATE: [2014-01-02]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:soup :beef:
+
+* Ingredients
+
+| Quantity | Item                                                                |
+|----------+---------------------------------------------------------------------|
+| 3/2 lbs  | [[../_ingredients/ground-beef.md][ground beef]]                     |
+| 1        | medium [[../_ingredients/onion.md][onion]], chopped                 |
+| 28 oz    | [[../_ingredients/whole-peeled-tomatoes.md][whole peeled tomatoes]] |
+| 2 cup    | [[../_ingredients/water.md][water]]                                 |
+| 852 mL   | [[../_ingredients/consomme.md][consomme soup]]                      |
+| 284 mL   | [[../_ingredients/tomato-soup.md][tomato soup]]                     |
+| 4        | [[../_ingredients/carrot.md][carrots]], chopped                     |
+| 1        | [[../_ingredients/bay-leaf.md][bay leaf]]                           |
+| 3 stalks | [[../_ingredients/celery.md][celery]]                               |
+|          | [[../_ingredients/parsley.md][parsley]]                             |
+| 1/2 tsp  | [[../_ingredients/thyme.md][thyme]]                                 |
+| 8 tbsp   | [[../_ingredients/barley.md][barley]]                               |
+|          | [[../_ingredients/pepper.md][pepper]]                               |
+
+* Directions
+
+1. Brown meat and onion
+
+   1. Drain off fat
+
+2. Add all other ingredients and simmer for 2 h
+3. Remove bay leaf before serving
+
+* References

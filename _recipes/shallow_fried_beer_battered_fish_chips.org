@@ -1,0 +1,89 @@
+#+TITLE: Shallow-fried beer-battered fish and chips
+
+| Info      | Amount   |
+|-----------+----------|
+| Prep Time | 5 min    |
+| Cook Time | 15 min   |
+| Yields    | 2 filets |
+#+DATE: [2020-04-26]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:fish :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                        |
+|----------+-------------------------------------------------------------|
+| 2 filets | [[../_ingredients/cod.md][cod]]                             |
+| 1        | [[../_ingredients/egg.md][egg]]                             |
+| 1 cup    | [[../_ingredients/flour.md][flour]], separated              |
+| 1 tsp    | [[../_ingredients/baking-powder.md][baking powder]]         |
+| 3/2 tsp  | [[../_ingredients/curry-powder.md][curry powder]], optional |
+| 150 mL   | [[../_ingredients/beer.md][beer]]                           |
+| 2        | yukon gold [[../_ingredients/potato.md][potatoes]]          |
+| 1/2 cup  | [[../_ingredients/sunflower-oil.md][sunflower oil]]         |
+| 2        | [[../_ingredients/shallot.md][shallots]]                    |
+| 1        | [[../_ingredients/lemon.md][lemon]]                         |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]             |
+|          | [[../_ingredients/creme-fraiche.md][creme fraiche]]         |
+|          | [[../_ingredients/mayonnaise.md][mayonnaise]]               |
+|          | [[../_ingredients/gherkin-pickles.md][gherkin pickles]]     |
+|          | [[../_ingredients/capers.md][capers]]                       |
+|          | [[../_ingredients/parsley.md][parsley]]                     |
+|          | [[../_ingredients/tabasco.md][tabasco sauce]], optional     |
+
+* Directions
+
+1.  Pour sunflower oil into a large saucepan
+
+    1. Heat to just below the smoking point
+    2. Preheat oven to 350 F
+
+2.  Mix 1/2 cup of flour with baking soda and 1 tsp of curry powder
+
+    1. Add beer and whish together until smooth and runny
+
+3.  Separate egg white into a small bowl
+
+    1. Whisk until peaks are stiff
+    2. Add a pinch of salt
+    3. Pour into batter, whisk together
+
+4.  Mix 1/2 cup of flour with 1/2 tsp of curry powder, whisk in a large flat saucepan or bowl
+
+    1. Salt both sides of the filets
+    2. Dredge both side of the fish in the flour
+    3. Toss back and forth to remove excess flour
+
+5.  Drop fish into the batter
+
+    1. Lift by the corners, flip from side to side to completely cover in batter
+    2. Lay into the hot pan with oil, away from you
+    3. Reduce heat, baste top of fish using a metal spoon, cooking for 2 min
+
+6.  While fish is frying, square top and bottom of potatoes
+
+    1. Thinly slice into fries
+    2. Dry with paper towel to remove starch and moisture
+    3. Season with salt and pepper, set aside
+
+7.  Lift fish to edge of the pan to gently flip over
+
+    1. Baste again, let cook for another 2 min
+
+8.  Remove fish from oil, set aside on over-safe dish covered in paper towel
+
+    1. Place on top rack in the oven while potatoes fry
+
+9.  Place first into oil, raise heat, cook for 4 min
+
+    1. Mix creme fraiche and mayo in a small bowl
+    2. Dice and add shallots, gherkins, and capers
+    3. Add a splash of tabasco sauce
+    4. Cut a slice of lemon, squeeze juice into tartar sauce
+
+10. Remove fries from oil, place onto paper towel and rub dry
+
+    1. Remove fish from oven, salt with fries, and serve
+    2. Garnish with lemon wedge
+
+* References & Notes

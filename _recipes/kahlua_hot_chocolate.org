@@ -1,0 +1,25 @@
+#+TITLE: Kahlua Hot Chocolate
+#+DATE: [2021-04-17]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                              |
+|----------+---------------------------------------------------|
+| 2 cups   | [[../_ingredients/milk.md][milk]]                 |
+| 1 Tbsp   | [[../_ingredients/sugar.md][sugar]]               |
+| 3/2 Tbsp | [[../_ingredients/cocoa-powder.md][cocoa powder]] |
+| 1/4 tsp  | [[../_ingredients/cinnamon.md][cinnamon]]         |
+| pinch    | [[../_ingredients/nutmeg.md][nutmeg]]             |
+| 1 oz     | [[../_ingredients/khalua.md][Kahlua]]             |
+
+* Directions
+
+1. Combine all ingredients except the Kahlua in a small pot
+
+   1. Heat on medium heat and stir
+
+2. Top with marshmallows, whipped cream, or a caramel syrup
+
+* References & Notes

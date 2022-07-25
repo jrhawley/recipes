@@ -1,0 +1,69 @@
+#+TITLE: Apple pie
+#+DATE: [2018-12-18]
+#+LAST_MODIFIED: [2022-07-24 Sun 23:53]
+#+FILETAGS: :recipe:dessert:
+
+| Info      | Amount  |
+|-----------+---------|
+| Prep Time | 1h      |
+| Bake Time | 50 min  |
+| Yields    | 13" pie |
+
+#+CAPTION: Apple pie
+[[../_assets/apple-pie.jpg]]
+
+* Ingredients
+
+** Pastry
+
+| Quantity | Item       |
+|----------+------------|
+| 2 cup    | [[../_ingredients/shortening.md][shortening]] |
+| 8 cup    | [[../_ingredients/flour.md][flour]]      |
+| 4 tsp    | [[../_ingredients/table-salt.md][table salt]] |
+
+** Filling
+
+| Quantity | Item                                              |
+|----------+---------------------------------------------------|
+| 6        | granny smith [[../_ingredients/apple.md][apples]] |
+| 1 cup    | [[../_ingredients/sugar.md][sugar]]               |
+| 2 Tbsp   | [[../_ingredients/flour.md][flour]]               |
+| 1 tsp    | [[../_ingredients/cinnamon.md][cinnamon]]         |
+| 1/4 tsp  | [[../_ingredients/nutmeg.md][nutmeg]]             |
+| 1/4 tsp  | [[../_ingredients/allspice.md][allspice]]         |
+| 1/4 tsp  | ground [[../_ingredients/cloves.md][cloves]]      |
+| dash     | [[../_ingredients/table-salt.md][table salt]]     |
+| 2 Tbsp   | [[../_ingredients/butter.md][butter]]             |
+
+* Directions
+
+1. Sift flour and salt
+
+   1. Cut shortening into small chunks, blend into mixture
+   2. Can store in covered container in fridge for months
+   3. Makes enough for 4 pie crusts
+
+2. Take 4 cups of pastry mix and add 5-6 Tbsp of water
+
+   1. Blend until dry spots disappear and will hold into a large ball
+   2. Knead dough
+
+3. Make into 2 even balls, roll out on floured surface to the size of your pie plate
+
+   1. Generously flour the pie plate to stop the dough from binding while baking
+   2. Press first pie crust into the plate, slowly
+
+4. Pare apples and thinly slice
+5. Combine sugar, flour, spices, and salt
+
+   1. Mix with sliced apples and pour into pie plate
+   2. Dot with butter
+
+6. Place top pie crust on and crimp edges with fingers
+
+   1. Place small slits into the top and sprinkle with sugar
+
+7. Bake at 400 F for 50 min, or until nicely browned
+
+* References & Notes

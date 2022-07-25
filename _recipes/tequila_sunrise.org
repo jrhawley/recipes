@@ -1,0 +1,21 @@
+#+TITLE: Tequila sunrise
+#+DATE: [2022-03-13]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Ingredients                                       |
+|----------+---------------------------------------------------|
+| 5/3 oz   | [[../_ingredients/tequila.md][tequila]]           |
+| 5/2 oz   | [[../_ingredients/orange-juice.md][orange juice]] |
+| 1 tsp    | [[../_ingredients/grenadine.md][grenadine]]       |
+
+* Directions
+
+1. Add the tequila and orange juice to a cocktail shaker.
+2. Fill with ice and shake.
+3. Stain into a highball glass filled with ice.
+4. Pour the grenadine into the top of the glass.
+
+* References

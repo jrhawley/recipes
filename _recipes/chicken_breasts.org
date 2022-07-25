@@ -1,0 +1,45 @@
+#+TITLE: Chicken breasts
+
+| Info      | Amount      |
+|-----------+-------------|
+| Prep Time | 5 min       |
+| Cook Time | 20 min      |
+| Yields    | 1-4 breasts |
+#+DATE: [2013-09-14]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:chicken :basics:
+
+* Ingredients
+
+| Quantity | Item                                                                      |
+|----------+---------------------------------------------------------------------------|
+| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]], fresh, not frozen |
+| 1/4 cup  | [[../_ingredients/flour.md][flour]]                                       |
+| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                               |
+| 1 tsp    | [[../_ingredients/butter.md][butter]]                                     |
+| 1 tsp    | [[../_ingredients/herbs.md][herbs]], freshly chopped (optional)           |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]                           |
+|          | [[../_ingredients/pepper.md][pepper]]                                     |
+
+* Directions
+
+1. Pound chicken breasts into an even thickness with the handle or flat of a knife
+2. Mix flour with a desired sprinkle of salt and pepper and the herbs, if available
+
+   1. Dredge the chicken breasts in the flour
+
+3. Heat frying pan over medium-high heat
+
+   1. When hot, add olive oil and butter, allow to melt and mix
+
+4. Reduce heat to medium and add dredged chicken breasts
+
+   1. Cook for 1 min until golden on one side, then flip
+
+5. Reduce heat to low, cover pan with a lid
+
+   1. Set a timer for 10 min and leave the chicken alone
+
+6. Flip chicken breasts, turn off heat, cover again with the lid and let rest for another 10 min
+
+* References & Notes

@@ -1,0 +1,48 @@
+#+TITLE: Pad Thai
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 15 min     |
+| Cook Time | 15 min     |
+| Yields    | 4 servings |
+#+DATE: [2017-11-27]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:chicken :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                   |
+|----------+--------------------------------------------------------|
+| 2 tsp    | [[../_ingredients/fish-sauce.md][fish sauce]]          |
+| 2 Tbsp   | [[../_ingredients/oyster-sauce.md][oyster sauce]]      |
+| 2 Tbsp   | [[../_ingredients/vegetable-oil.md][vegetable oil]]    |
+| 1 tsp    | [[../_ingredients/sugar.md][sugar]]                    |
+| 1 lb     | [[../_ingredients/chicken-breast.md][chicken breasts]] |
+| 1 pkg    | [[../_ingredients/rice-noodles.md][rice noodles]]      |
+| 1        | [[../_ingredients/lime.md][lime]]                      |
+| 1/2 cup  | [[../_ingredients/peanuts.md][peanuts]], chopped       |
+| 1/2 cup  | [[../_ingredients/bean-sprouts.md][bean sprouts]]      |
+| 1/4 cup  | [[../_ingredients/carrot.md][carrots]], shredded       |
+| 2        | [[../_ingredients/egg.md][eggs]]                       |
+
+* Directions
+
+1. Cook rice noodles before adding to pan
+
+   1. Boil water in a pot, remove from heat
+   2. Set the noodles in it for ~10 mins until they're soft but not mushy
+
+2. Cook chicken in oil
+
+   1. When sealed (aka whole outside is white) add eggs into the pan and immediately mix around
+   2. Cook eggs until yellow
+
+3. Mix fish sauce, oyster sauce, vegetable oil, and sugar, and mix it all in the pan
+4. Add noodles to the pan
+5. Add sprouts and carrots and mix a bit
+
+   1. Take pan off heat 1-2 mins after you've added the veggies (they should still be somewhat crunchy)
+
+6. Garnish with chopped peanuts and lime juice
+
+* References & Notes

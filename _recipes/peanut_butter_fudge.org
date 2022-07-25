@@ -1,0 +1,51 @@
+#+TITLE: Peanut Butter Fudge
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time |        |
+| Cook Time |        |
+| Yields    |        |
+#+DATE: [2014-04-24]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:fudge :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                                            |
+|----------+---------------------------------------------------------------------------------|
+| 1/2 cup  | [[../_ingredients/butter.md][butter]], unsalted                                 |
+| 1/2 tsp  | [[../_ingredients/nutmeg.md][nutmeg]]                                           |
+| 1 lb     | light [[../_ingredients/muscovado-sugar.md][muscovado sugar]] (soft dark brown) |
+| 1/2 cup  | [[../_ingredients/milk.md][milk]]                                               |
+| 1 Tbsp   | [[../_ingredients/vanilla-extract.md][vanilla extract]]                         |
+| 1 cup    | extra crunchy [[../_ingredients/peanut-butter.md][peanut butter]]               |
+| 5/2 cup  | [[../_ingredients/icing-sugar.md][icing sugar]]                                 |
+| 1/2 cup  | semi-sweet [[../_ingredients/chocolate-chips.md][chocolate chips]] (optional)   |
+
+* Directions
+
+1. Over medium heat, melt butter in large saucepan with butter
+
+   1. Stir in brown sugar and milk with large spoon
+   2. Remove any lumps, bring to boil for 2-3 min without stirring
+
+2. Remove from heat, stir in vanilla and peanut butter
+3. Place powdered sugar in large heatproof mixing bowl
+
+   1. Pour hot peanut butter mixture on top of sugar
+   2. Beat with wooden spoon until smooth
+
+4. Pour into 8" square pan, cover the top with parchment
+
+   1. Press down to smooth out top (maybe with another 8" pan)
+
+5. Set aside to cool for 10 min
+
+   1. Place fridge in to cool completely
+
+6. Take out fudge onto parchment, cut into 36 pieces
+7. Melt chocolate, add thin layer to the top of each piece
+
+   1. Allow chocolate to set, sprinkle with a few grains of salt
+
+8. Store in airtight container

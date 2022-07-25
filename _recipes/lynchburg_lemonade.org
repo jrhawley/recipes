@@ -1,0 +1,21 @@
+#+TITLE: Lynchburg lemonade
+#+DATE: [2022-03-13]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Ingredient                                              |
+|----------+---------------------------------------------------------|
+| 4 / 3 oz | [[../_ingredients/whiskey.md][whiskey]][fn:2]           |
+| 2 / 3 oz | [[../_ingredients/triple-sec.md][Triple sec]]           |
+| 5 / 6 oz | [[../_ingredients/lemon-juice.md][lemon juice]]         |
+|          | [[../_ingredients/lemon-lime-soda.md][lemon-lime soda]] |
+
+* References & Notes
+
+[fn:1] Names after Lynchburg, Tennessee, the home of Jack Daniel's.
+       Use a Jack Daniel's whiskey for an authentic Lynchburg lemonade.
+
+[fn:2] Names after Lynchburg, Tennessee, the home of Jack Daniel's.
+       Use a Jack Daniel's whiskey for an authentic Lynchburg lemonade.

@@ -1,0 +1,28 @@
+#+TITLE: Peanut butter fruit smoothie
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 2 min  |
+
+#+CAPTION: Peanut butter fruit smoothie
+[[file:Media/peanut-butter-fruit-smoothie.jpg]]
+#+DATE: [2017-05-28]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:beverage :smoothie :fruit:
+
+* Ingredients
+
+| Quantity | Item                                                   |
+|----------+--------------------------------------------------------|
+| 1/4 cup  | frozen [[../_ingredients/blueberry.md][blueberries]]   |
+| 1/4 cup  | frozen [[../_ingredients/blackberry.md][blackberries]] |
+| 1/4 cup  | frozen [[../_ingredients/raspberry.md][raspberry]]     |
+| 1/3 cup  | [[../_ingredients/greek-yogurt.md][Greek yogurt]]      |
+| 1 Tbsp   | [[../_ingredients/peanut-butter.md][peanut butter]]    |
+| 3/4 cup  | almond [[../_ingredients/milk.md][milk]]               |
+| 1        | [[../_ingredients/dates.md][dates]]                    |
+
+* Directions
+
+1. Place the date at the bottom of your blender and then all of the other ingredients
+2. Blend until you get a smooth consistency

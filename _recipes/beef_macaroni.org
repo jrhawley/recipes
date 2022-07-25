@@ -1,0 +1,42 @@
+#+TITLE: Beef macaroni
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 20 min     |
+| Yields    | 5 servings |
+#+DATE: [2020-12-19]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:beef :pasta :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                             |
+|----------+------------------------------------------------------------------|
+| 3/2 cups | [[../_ingredients/macaroni.md][macaroni]]                        |
+| 2 Tbsp   | [[../_ingredients/vegetable-oil.md][vegetable oil]]              |
+| 1        | [[../_ingredients/onion.md][onion]], sliced                      |
+| 1        | small [[../_ingredients/bell-pepper.md][green pepper]], slivered |
+| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced                    |
+| 1 lb     | [[../_ingredients/ground-beef.md][ground beef]]                  |
+| 1 tsp    | [[../_ingredients/oregano.md][oregano]]                          |
+| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                    |
+| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                            |
+| 800 mL   | [[../_ingredients/tomato.md][canned tomatoes]]                   |
+| 150 mL   | [[../_ingredients/tomato-paste.md][tomato paste]]                |
+
+* Directions
+
+1. Cook macaroni according to instructions, drain, and set aside
+2. Meanwhile, saute onion, green pepper, and garlic in oil until tender.
+
+   1. Add beef and seasonings, and brown
+   2. Drain off excess fat once cooked
+
+3. Add tomatoes and tomato paste to the pan
+
+   1. Bring to a boil, reduce heat, and simmer uncovered for 15 min
+
+4. Stir in cooked macaroni, serve, garnish with parmesan or other cheese
+
+* References & Notes

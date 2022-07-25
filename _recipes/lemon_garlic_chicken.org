@@ -1,0 +1,50 @@
+#+TITLE: Lemon garlic chicken
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 20 min     |
+| Cook Time | 40 min     |
+| Yields    | 6 servings |
+#+DATE: [2020-11-10]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:chicken :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                          |
+|----------+---------------------------------------------------------------|
+| 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]                   |
+| 2 Tbsp   | [[../_ingredients/lemon-juice.md][lemon juice]]               |
+| 3 cloves | [[../_ingredients/garlic.md][garlic]], minced                 |
+| 3/2 tsp  | fresh [[../_ingredients/thyme.md][thyme]], minced             |
+| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                 |
+| 1/2 tsp  | fresh [[../_ingredients/rosemary.md][rosemary]], minced       |
+| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                         |
+| 6        | bone-in [[../_ingredients/chicken-thighs.md][chicken thighs]] |
+| 6        | [[../_ingredients/chicken-drumsticks.md][chicken drumsticks]] |
+| 1 lb     | baby [[../_ingredients/potato.md][red potatoes]], halved      |
+| 1        | [[../_ingredients/lemon.md][lemon]], sliced                   |
+| 2 Tbsp   | [[../_ingredients/parsley.md][parsley]], minced               |
+
+* Directions
+
+1. Preheat oven to 425 F
+2. In a small bowl, whisk the first 7 ingredients until blended.
+
+   1. Pour 1/4 cup marinade into a large bowl or shallow dish
+   2. Add chicken and turn to coat
+   3. Refrigerate 30 min
+   4. Cover and refrigerate remaining marinade
+
+3. Drain chicken, discarding any remaining marinade in bowl
+4. Place chicken in a 15" x 10" x 1" baking pan
+
+   1. Add potatoes in a single layer
+   2. Drizzle reserved marinade over potatoes
+   3. Top with lemon slices
+
+5. Bake until a thermometer inserted in chicken reads 170 F - 175 F and potatoes are tender (40-45 min)
+6. If desired, broil chicken 3 - 4" from heat until deep golden brown, about 3-4 min
+7. Sprinkle with parsley before serving
+
+* References & Notes

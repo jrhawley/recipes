@@ -1,0 +1,51 @@
+#+TITLE: Carrot ginger soup
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 15 min     |
+| Cook Time | 30 min     |
+| Yields    | 4 servings |
+
+#+CAPTION: Carrot ginger soup
+[[../_assets/carrot-ginger.jpg]]
+#+DATE: [2018-03-26]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:soup :vegan :vegetarian :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                             |
+|----------+------------------------------------------------------------------|
+| 3 Tbsp   | unsalted [[../_ingredients/butter.md][butter]]                   |
+| 3 lbs    | [[../_ingredients/carrot.md][carrots]], peeled and thinly sliced |
+| 2 cups   | [[../_ingredients/onion.md][onion]], diced                       |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]                  |
+| 1 tsp    | [[../_ingredients/ginger.md][ginger]], minced                    |
+| 2 cups   | [[../_ingredients/chicken-broth.md][chicken broth]]              |
+| 2 cups   | [[../_ingredients/water.md][water]]                              |
+| 3        | large [[../_ingredients/orange.md][orange zest]] strips          |
+|          | [[../_ingredients/parsley.md][parsley]]                          |
+
+* Directions
+
+1. Melt butter in a soup pot over medium eat
+
+   1. Saute onions and carrots, stirring occasionally
+   2. Do not let them brown
+   3. Sprinkle tsp of salt as they cook
+
+2. Add stock, water, ginger, and orange zest
+
+   1. Bring to a simmer, cover, and cook until carrots are soft (~ 20 min)
+
+3. Remove orange peel
+
+   1. They're there for flavouring, but won't be good in the soup
+
+4. Puree the soup with a stick blender until completely smooth
+
+   1. Add salt to taste
+
+5. Garnish with chopped vegetables as desired
+
+* References & Notes

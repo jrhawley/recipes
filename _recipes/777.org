@@ -1,0 +1,27 @@
+#+TITLE: 777
+#+DATE: [2022-06-06]
+#+LAST_MODIFIED: [2022-07-24 Sun 23:50]
+#+FILETAGS: :recipe:alcoholic:beverage:
+
+* Ingredients
+
+  | Quantity | Item                     |
+  |----------+--------------------------|
+  | 1/2 oz   | [[../_ingredients/bourbon.md][Woodford Reserve bourbon]] |
+  | 1/2 oz   | [[../_ingredients/peach-schnapps.md][peach schnapps]]           |
+  | 1/2 oz   | [[../_ingredients/maple-syrup.md][maple syrup]]              |
+  | 2 dashes | [[../_ingredients/agnostura-bitters.md][Agnostura bitters]]        |
+  | 1/4 oz   | [[../_ingredients/lemon.md][lemon juice]]              |
+  | 1/4 oz   | [[../_ingredients/lime.md][lime juice]]               |
+  | 1 oz     | [[../_ingredients/ginger-beed.md][ginger beer]]              |
+  | 1 sprig  | [[../_ingredients/thyme.md][thyme]]                    |
+  |          | [[../_ingredients/ice.md][ice cubes]]                |
+
+* Directions
+
+  1. Place bourbon, schnapps, syrup, bitters, and citrus juices in a cocktail shaker with ice.
+  2. Shake thoroughly and strain into a rocks glass with some ice cubes.
+  3. Pour over the ginger beer and garnish with a sprig of thyme.
+
+* References & Notes
+

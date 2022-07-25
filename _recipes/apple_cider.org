@@ -1,0 +1,45 @@
+#+TITLE: Apple cider
+#+DATE: [2017-10-15]
+#+LAST_MODIFIED: [2022-07-24 Sun 23:52]
+#+FILETAGS: :recipe:beverage:slow_cooker:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 10 min |
+| Cook Time | 4 h    |
+| Serves    | 8      |
+| Cost      | $7     |
+
+#+CAPTION: Apple cider
+[[../_assets/slow-cooker-apple-cider.jpg]]
+
+* Ingredients
+
+| Quantity | Item                       |
+|----------+----------------------------|
+|        9 | [[../_ingredients/apple.md][apples]], assorted types     |
+|        1 | [[../_ingredients/orange.md][orange]]                     |
+|        2 | [[../_ingredients/pear.md][pears]]                      |
+|        3 | [[../_ingredients/cinnamon-sticks.md][cinnamon sticks]]            |
+|        1 | [[../_ingredients/nutmeg.md][nutmeg]] (whole)             |
+|    2 tsp | [[../_ingredients/cloves.md][cloves]] (whole)             |
+|  1/2 tsp | [[../_ingredients/allspice.md][allspice]] (whole; optional) |
+|      3 L | [[../_ingredients/water.md][water]]                      |
+|  1/4 cup | [[../_ingredients/brown-sugar.md][brown sugar]]                |
+
+* Directions
+
+1. Wash fruits, roughly cut into quarters
+
+   1. Don't need to worry about stems/seeds, since they'll be filtered out later
+   2. Place in slow cooker, and add spices
+   3. Cover mixture with water (leave small amount of space at the top of the slow cooker)
+
+2. Cook on high for 4 h, or low for 6-8 h
+
+   1. With 1 h left, use potato masher and mash fruits until they're soft
+   2. Let mixture cook for remaining hour
+
+3. Strain out apple cider juice into clean pitcher
+
+   1. Press through fine-mesh or strain with cheese cloth to get the most out of it

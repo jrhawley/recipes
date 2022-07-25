@@ -1,0 +1,22 @@
+#+TITLE: Paperino
+#+DATE: [2021-09-25]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                                 |
+|----------+------------------------------------------------------|
+| 3/2 oz   | [[../_ingredients/amaro.md][amaro]]                  |
+| 1/2 oz   | [[../_ingredients/brandy.md][brandy]]                |
+| 1 oz     | [[../_ingredients/lemon-juice.md][lemon juice]]      |
+| 1        | [[../_ingredients/egg.md][egg white]]                |
+| 1        | [[../_ingredients/lemon.md][lemon twist]] (optional) |
+
+* Directions
+
+1. Add all ingredients, except the lemon twist, to an ice-filled cocktail shaker and shake for ~ 1 min.
+2. Stain into a chilled coupe.
+3. Garnish with the lemon twist.
+
+* References

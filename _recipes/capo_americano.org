@@ -1,0 +1,22 @@
+#+TITLE: Capo Americano
+#+DATE: [2021-09-25]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                                |
+|----------+-----------------------------------------------------|
+| 3/2 oz   | [[../_ingredients/amaro.md][amaro]]                 |
+| 3/2 oz   | [[../_ingredients/vermouth.md][sweet red vermouth]] |
+| 3/2 oz   | [[../_ingredients/tonic-water.md][tonic water]]     |
+| 1        | [[../_ingredients/lemon.md][lemon wedge]]           |
+
+* Directions
+
+1. Fill a rocks glass with ice.
+2. Add amaro and vermouth and stir to combine.
+3. Top with tonic water and squeeze the lemon wedge to add a splash of lemon juice.
+4. Garnish with the lemon wedge.
+
+* References

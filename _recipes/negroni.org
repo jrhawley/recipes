@@ -1,0 +1,19 @@
+#+TITLE: Negroni
+#+DATE: [2021-02-17]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                            |
+|----------+-------------------------------------------------|
+| 1 oz     | [[../_ingredients/campari.md][Campari]]         |
+| 1 oz     | [[../_ingredients/gin.md][gin]]                 |
+| 1 oz     | [[../_ingredients/vermouth.md][sweet vermouth]] |
+
+* Directions
+
+1. Add all ingredients to an ice-filled rocks glass and stir
+2. Garnish with an orange wedge or twist
+
+* References & Notes

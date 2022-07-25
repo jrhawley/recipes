@@ -1,0 +1,20 @@
+#+TITLE: Crema corretto
+#+DATE: [2021-09-25]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                                      |
+|----------+-----------------------------------------------------------|
+| 2 oz     | [[../_ingredients/amaro.md][amaro]]                       |
+| 1 oz     | [[../_ingredients/whipping-cream.md][whipping cream]]     |
+| 3/4 oz   | [[../_ingredients/espresso.md][espresso]]                 |
+| 2        | [[../_ingredients/chocolate-sticks.md][chocolate sticks]] |
+
+* Directions
+
+1. Shake amaro, cream, and espresso over ice until cold.
+2. Strain into an ice-filled rocks glass and garnish with chocolate sticks.
+
+* References

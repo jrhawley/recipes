@@ -1,0 +1,24 @@
+#+TITLE: Cinnamon maple whiskey sour
+
+#+CAPTION: Cinnamon maple whiskey sour
+[[../_assets/cinnamon-maple-whiskey-sour.jpg]]
+#+DATE: [2020-10-09]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:alcoholic :beverage:
+
+* Ingredients
+
+| Quantity | Item                                                  |
+|----------+-------------------------------------------------------|
+| 1.5 oz   | [[../_ingredients/bourbon.md][bourbon]]               |
+| 1 oz     | fresh [[../_ingredients/lemon-juice.md][lemon juice]] |
+| 1 Tbsp   | [[../_ingredients/maple-syrup.md][maple syrup]]       |
+|          | [[../_ingredients/ice.md][ice cubes]]                 |
+
+* Directions
+
+1. Fill a cocktail shaker with ice cubes
+2. Add all ingredients and shake until frothy
+3. Fill cocktail glass with ice, pour drink over top and serve
+
+* References & Notes

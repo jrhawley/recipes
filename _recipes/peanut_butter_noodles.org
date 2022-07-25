@@ -1,0 +1,36 @@
+#+TITLE: Peanut butter noodles
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 10 min     |
+| Yields    | 6 servings |
+#+DATE: [2020-05-21]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:noodle :vegetarian :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                        |
+|----------+-------------------------------------------------------------|
+| 16 oz    | [[../_ingredients/rice-noodles.md][brown rice noodles]]     |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced               |
+| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                 |
+| 2/3 cup  | [[../_ingredients/peanut-butter.md][peanut butter]]         |
+| 3 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]                 |
+| 1/4 cup  | [[../_ingredients/vegetable-broth.md][vegetable broth]]     |
+| 1 Tbsp   | [[../_ingredients/rice-vinegar.md][rice vinegar]]           |
+| 1 Tbsp   | [[../_ingredients/maple-syrup.md][maple syrup]]             |
+| 1/4 cup  | [[../_ingredients/peanuts.md][peanuts]], crushed            |
+| 1/2 tsp  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]] |
+| 1 stalk  | [[../_ingredients/green-onion.md][green onion]]             |
+
+* Directions
+
+1. Cook noodles according to instructions
+2. Saute garlic on low heat until golden brown
+3. Add remaining sauce ingredients in a bowl, whisk until smooth
+4. Add sauce to noodles and mix thoroughly
+5. Garnish with crushed peanuts, green onion, and red pepper flakes
+
+* References & Notes

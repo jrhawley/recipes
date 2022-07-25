@@ -1,0 +1,74 @@
+#+TITLE: Pasta al ragu
+
+Pasta in bolognese sauce
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 20 min     |
+| Cook Time | 6 h        |
+| Yields    | 6 servings |
+
+#+CAPTION: Pasta al ragu
+[[../_assets/pasta-al-ragu.jpg]]
+#+DATE: [2020-11-01]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:pasta :dinner:
+
+* Ingredients
+
+| Quantity | Item                                                                       |
+|----------+----------------------------------------------------------------------------|
+| 1/2      | [[../_ingredients/red-onion.md][red onion]], finely diced                  |
+| 1        | [[../_ingredients/carrot.md][carrot]], finely diced                        |
+| 2 stalks | [[../_ingredients/celery.md][celery]], finely diced                        |
+| 1 clove  | [[../_ingredients/garlic.md][garlic]], finely diced                        |
+| 400 g    | medium [[../_ingredients/ground-beef.md][ground beef]]                     |
+| 250 g    | [[../_ingredients/pork.md][ground pork]]                                   |
+| 750 mL   | [[../_ingredients/red-wine.md][red wine]]                                  |
+| 2 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]                          |
+| 800 g    | finely [[../_ingredients/diced-tomatoes.md][diced tomatoes]] (Mutti Polpa) |
+| 3 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                                |
+| 500 g    | [[../_ingredients/tagliatelle.md][tagliatelle]]                            |
+|          | [[../_ingredients/parmesan.md][parmesan]]                                  |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]                            |
+|          | [[../_ingredients/pepper.md][pepper]]                                      |
+|          | [[../_ingredients/thyme.md][thyme]]                                        |
+
+* Directions
+
+1. In a large sauce pan add 3 Tbsp of olive oil and the soffritto
+
+   1. Season with salt, pepper, and thyme
+   2. Let the soffritto cook on high heat until everything is /appassito/, meaning that the colors are not bright anymore, but going towards the yellow
+
+2. Add ground pork
+
+   1. If using bangers, remove them from the casing
+   2. Keep mixing and breaking the pork with a wooden spoon
+   3. When almost half of the pork changes color, add the ground beef
+   4. Keep the gas high and keep mixing and breaking the meats as much as you can
+
+3. Once all the meats change colour add the wine and let the alcohol completely evaporate
+
+   1. You know when the alcohol is gone when the smell is only aromatic and does not "hit" your nose. Or just wait to reduce the liquid by half
+
+4. Add the tomato paste and mix
+
+   1. Cook for 2-3 min (you need to cook out the paste otherwise it will turn more sour)
+   2. Add tomato sauce
+   3. Season with salt, pepper, and thyme (stay light on the thyme, it is an aroma you want in the sauce)
+   4. Taste to the correct seasoning (liquid will reduce so the flavour will intensify)
+
+5. Bring up the sauce to a boil, then reduce to the lowest setting, maintaining a gentle boil
+
+   1. Cover and let the sauce cook for 6 h (the more the better)
+   2. Stir every 20-30 min
+
+6. If after 2-3 h the sauce is still very liquid, simmer without a covert to facilitate evaporation
+
+   1. If you do this, mix the sauce every 15 min to make sure it does not reduce too much.
+
+7. Cook tortiglioni or tagliatelle /al dente/
+8. Be generous with the sauce and serve with a freshly grated parmesan cheese
+
+* References & Notes

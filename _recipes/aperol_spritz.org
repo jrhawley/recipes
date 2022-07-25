@@ -1,0 +1,19 @@
+#+TITLE: Aperol spritz
+#+DATE: [2022-03-13]
+#+LAST_MODIFIED: [2022-07-24 Sun 23:51]
+#+FILETAGS: :recipe:alcoholic:beverage:
+
+* Ingredients
+
+| Quantity | Ingredients |
+|----------+-------------|
+| 3 oz     | [[../_ingredients/prosecco.md][Prosecco]]    |
+| 2 oz     | [[../_ingredients/aperol.md][Aperol]]      |
+| 1 oz     | [[../_ingredients/club-soda.md][soda water]]  |
+
+* Directions
+
+1. Add all ingredients to an ice-filled glass.
+2. Stir and garnish with an orange wedge or slice.
+
+* References

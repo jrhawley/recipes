@@ -1,0 +1,42 @@
+#+TITLE: Pot roast
+
+| Info      | Amount      |
+|-----------+-------------|
+| Prep Time | 15 min      |
+| Cook Time | 5 h         |
+| Yields    | 12 servings |
+#+DATE: [2019-03-23]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:slow:-cookerdinner:
+
+* Ingredients
+
+| Quantity | Item                                                        |
+|----------+-------------------------------------------------------------|
+| 3 lbs    | [[../_ingredients/chuck-roast.md][chuck roast]]             |
+| 5        | [[../_ingredients/potato.md][potatoes]], chunked            |
+| 1        | [[../_ingredients/onion.md][onion]], chunked                |
+| 4        | [[../_ingredients/carrot.md][carrots]], chunked             |
+| 2 cups   | [[../_ingredients/beef-broth.md][beef broth]]               |
+| 2 cups   | [[../_ingredients/water.md][water]]                         |
+| 1/2 tsp  | [[../_ingredients/garlic-powder.md][garlic powder]]         |
+| 1/2 tsp  | [[../_ingredients/onion-powder.md][onion powder]]           |
+| 1/2 tsp  | [[../_ingredients/italian-seasoning.md][Italian seasoning]] |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]             |
+|          | [[../_ingredients/pepper.md][pepper]]                       |
+
+* Directions
+
+1. Cut all potatoes and onions into large chunks, around 2" square
+2. Add the roast to the slow cooker, then the potatoes and onions and carrots.
+
+   1. Top with seasonings
+
+3. Add the beef broth
+
+   1. The roast should be covered in liquid so add water until it is covered.
+
+4. Cover, and set the slow cooker to 5h on high or 8h on low
+5. Use the leftover juice to make a gravy by boiling in a small pot while whisking in flour to the desired texture
+
+* References & Notes

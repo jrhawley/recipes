@@ -1,0 +1,29 @@
+#+TITLE: Hummus
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 15 min |
+| Cook Time | 5 min  |
+| Yields    | 1 cup  |
+
+#+FILETAGS: :recipe:condiment:
+
+* Ingredients
+
+| Quantity  | Item                                                     |
+|-----------+----------------------------------------------------------|
+| 1 clove   | [[../_ingredients/garlic.md][garlic]]                    |
+| 2 tsp     | [[../_ingredients/tahini.md][tahini]]                    |
+| 15 oz can | [[../_ingredients/chickpeas.md][chickpeas]]              |
+| 1         | [[../_ingredients/lemon.md][lemon]], juiced              |
+| 1 Tbsp    | [[../_ingredients/olive-oil.md][olive oil]]              |
+| 1 tsp     | [[../_ingredients/kosher-salt.md][salt]]                 |
+| 2 Tbsp    | [[../_ingredients/parsley.md][parsley]], roughly chopped |
+
+* Directions
+
+1. Put all ingredients, except for parsley, in a food processor and blend until smooth
+2. Use a spoon to fold in the chopped parsley
+3. Serve immediately
+
+* References & Notes

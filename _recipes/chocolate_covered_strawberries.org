@@ -1,0 +1,33 @@
+#+TITLE: Chocolate Covered Strawberries
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time |        |
+| Cook Time |        |
+| Yields    |        |
+
+#+CAPTION: Chocolate covered strawberries
+[[file:Media/chocolate-covered-strawberries.jpg]]
+#+DATE: [2018-06-27]
+#+LAST_MODIFIED:
+#+FILETAGS: :recipe:dessert :fruit :chocolate:
+
+* Ingredients
+
+| Quantity | Item                                                    |
+|----------+---------------------------------------------------------|
+| 16 oz    | [[../_ingredients/chocolate-chips.md][chocolate chips]] |
+| 2 Tbsp   | [[../_ingredients/shortening.md][shortening]]           |
+| 1 lb     | [[../_ingredients/strawberry.md][strawberries]], fresh  |
+
+* Directions
+
+1. In a double boiler, melt the chocolate and shortening, stirring occasionally until smooth.
+
+   1. Holding them by the toothpicks, dip the strawberries into the chocolate mixture.
+
+2. Insert toothpicks into the tops of the strawberries.
+
+   1. Turn the strawberries upside down and insert the toothpick into styrofoam for the chocolate to cool.
+
+* References
