@@ -16,11 +16,14 @@ It's not much, but it's mine and it tastes good.
   Recipes, ingredients, and more are written in [[https://orgmode.org/][org-mode]].
   The HTML is generated with [[https://github.com/rust-lang/mdBook][mdBook]].
 
-  To build the site before pushing, run:
+  To compile the documents into a website, run
 
   #+BEGIN_SRC shell
   mdbook build
   #+END_SRC
+
+  This will compile everything into the [[file:docs/][=docs/=]] folder.
+  Pushing the git repo will then update the website, which is hosted by GitHub Pages.
 
   To build and serve a live, local version of the online book, run:
 
