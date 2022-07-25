@@ -1,6 +1,6 @@
 # Summary
 
-[Introduction](Intro.md)
+[Introduction](README.org)
 
 # Breakfasts
 

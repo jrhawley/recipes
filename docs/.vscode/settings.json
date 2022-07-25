@@ -1,0 +1,28 @@
+{
+    "cSpell.words": [
+        "aglio",
+        "appassito",
+        "fraiche",
+        "gamberetti",
+        "juilienned",
+        "lowball",
+        "niblets",
+        "peperoncino",
+        "presidente",
+        "rag",
+        "ragù",
+        "reeses",
+        "soffritto",
+        "spanakorizo",
+        "traybake",
+        "zucchine"
+    ],
+    "cSpell.ignoreWords": [
+        "worchestershire"
+    ],
+    "markdownlint.config": {
+        "MD025": false,
+        "MD037": false,
+        "MD042": false
+    }
+}
