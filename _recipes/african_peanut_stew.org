@@ -3,7 +3,7 @@
 :END:
 #+TITLE: African peanut stew
 #+DATE: [2020-01-14]
-#+LAST_MODIFIED: [2022-07-25 Mon 20:28]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:44]
 #+FILETAGS: :recipe:vegan:vegetarian:dinner:
 
 | Info      | Amount     |
@@ -51,3 +51,4 @@
 * References & Notes
 
   1. [[https://ohsheglows.com/book/][Oh She Glows]]
+
