@@ -1,16 +1,19 @@
+:PROPERTIES:
+:ID:       4144a50c-5728-41a9-b199-be269936b438
+:END:
 #+TITLE: Paperino
 #+DATE: [2021-09-25]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:18]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                                 |
-|----------+------------------------------------------------------|
+| Quantity | Item                   |
+|----------+------------------------|
 | 3/2 oz   | [[../_ingredients/amaro.md][amaro]]                  |
-| 1/2 oz   | [[../_ingredients/brandy.md][brandy]]                |
-| 1 oz     | [[../_ingredients/lemon-juice.md][lemon juice]]      |
-| 1        | [[../_ingredients/egg.md][egg white]]                |
+| 1/2 oz   | [[../_ingredients/brandy.md][brandy]]                 |
+| 1 oz     | [[../_ingredients/lemon-juice.md][lemon juice]]            |
+| 1        | [[../_ingredients/egg.md][egg white]]              |
 | 1        | [[../_ingredients/lemon.md][lemon twist]] (optional) |
 
 * Directions
@@ -19,4 +22,7 @@
 2. Stain into a chilled coupe.
 3. Garnish with the lemon twist.
 
-* References
+* References & Notes
+
+1. [[https://www.lcbo.com/webapp/wcs/stores/servlet/en/lcbo/recipe/paperino/F202105051][Original recipe]]
+

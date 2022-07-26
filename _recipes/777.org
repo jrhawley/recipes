@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       01a42507-3a09-4990-8656-a9c25fc2e48c
+:END:
 #+TITLE: 777
 #+DATE: [2022-06-06]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:50]
+#+LAST_MODIFIED: [2022-07-25 Mon 20:28]
 #+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
@@ -25,3 +28,4 @@
 
 * References & Notes
 
+  1. [[https://www.vagabondo.com][Vagabondo Restaurant]]

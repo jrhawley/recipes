@@ -1,14 +1,17 @@
+:PROPERTIES:
+:ID:       a340d171-c7bb-438f-8b50-61595cdc9532
+:END:
 #+TITLE: Floradora
 #+DATE: [2021-07-11]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:beverage :alcoholic:
+#+LAST_MODIFIED: [2022-07-25 Mon 09:01]
+#+FILETAGS: :recipe:beverage:alcoholic:
 
 * Ingredients
 
-| Quantity | Item                                          |
-|----------+-----------------------------------------------|
-| 3/2 oz   | [[../_ingredients/gin.md][gin]]               |
-| 1/2 oz   | [[../_ingredients/grenadine.md][grenadine]]   |
+| Quantity | Item       |
+|----------+------------|
+| 3/2 oz   | [[../_ingredients/gin.md][gin]]        |
+| 1/2 oz   | [[../_ingredients/grenadine.md][grenadine]]  |
 | 1/2 oz   | [[../_ingredients/lime-juice.md][lime juice]] |
 | 4 oz     | [[../_ingredients/ginger-ale.md][ginger ale]] |
 
@@ -17,4 +20,7 @@
 1. Combine all ingredients and stir in a cocktail glass
 2. Garnish with a lime wedge
 
-* References
+* References & Notes
+
+1. [[https://thespruceeats.com/floradora-cocktail-recipe-760079][Original recipe]]
+

@@ -1,4 +1,10 @@
-#+TITLE: Chocolate Covered Strawberries
+:PROPERTIES:
+:ID:       d3cf4b2c-7406-418e-987e-c9e6ff60554d
+:END:
+#+TITLE: Chocolate covered strawberries
+#+DATE: [2018-06-27]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:57]
+#+FILETAGS: :recipe:dessert:
 
 | Info      | Amount |
 |-----------+--------|
@@ -7,27 +13,24 @@
 | Yields    |        |
 
 #+CAPTION: Chocolate covered strawberries
-[[file:Media/chocolate-covered-strawberries.jpg]]
-#+DATE: [2018-06-27]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:dessert :fruit :chocolate:
+[[file:c:/Users/james/Documents/Org/personal-notes/recipes/_assets/chocolate-covered-strawberries.jpg][chocolate covered strawberries]]
 
 * Ingredients
 
-| Quantity | Item                                                    |
-|----------+---------------------------------------------------------|
-| 16 oz    | [[../_ingredients/chocolate-chips.md][chocolate chips]] |
-| 2 Tbsp   | [[../_ingredients/shortening.md][shortening]]           |
-| 1 lb     | [[../_ingredients/strawberry.md][strawberries]], fresh  |
+| Quantity | Item                |
+|----------+---------------------|
+| 16 oz    | [[../_ingredients/chocolate-chips.md][chocolate chips]]     |
+| 2 Tbsp   | [[../_ingredients/shortening.md][shortening]]          |
+| 1 lb     | [[../_ingredients/strawberry.md][strawberries]], fresh |
 
 * Directions
 
 1. In a double boiler, melt the chocolate and shortening, stirring occasionally until smooth.
-
    1. Holding them by the toothpicks, dip the strawberries into the chocolate mixture.
-
 2. Insert toothpicks into the tops of the strawberries.
-
    1. Turn the strawberries upside down and insert the toothpick into styrofoam for the chocolate to cool.
 
-* References
+* References & Notes
+
+1. [[https://www.allrecipes.com/recipe/21712/chocolate-covered-strawberries/][Original recipe]]
+

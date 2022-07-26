@@ -1,25 +1,30 @@
+:PROPERTIES:
+:ID:       515451ea-9e8c-4128-98e8-785c73b576a5
+:END:
 #+TITLE: Kahlua Hot Chocolate
 #+DATE: [2021-04-17]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:10]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                              |
-|----------+---------------------------------------------------|
-| 2 cups   | [[../_ingredients/milk.md][milk]]                 |
-| 1 Tbsp   | [[../_ingredients/sugar.md][sugar]]               |
+| Quantity | Item         |
+|----------+--------------|
+| 2 cups   | [[../_ingredients/milk.md][milk]]         |
+| 1 Tbsp   | [[../_ingredients/sugar.md][sugar]]        |
 | 3/2 Tbsp | [[../_ingredients/cocoa-powder.md][cocoa powder]] |
-| 1/4 tsp  | [[../_ingredients/cinnamon.md][cinnamon]]         |
-| pinch    | [[../_ingredients/nutmeg.md][nutmeg]]             |
-| 1 oz     | [[../_ingredients/khalua.md][Kahlua]]             |
+| 1/4 tsp  | [[../_ingredients/cinnamon.md][cinnamon]]     |
+| pinch    | [[../_ingredients/nutmeg.md][nutmeg]]       |
+| 1 oz     | [[../_ingredients/khalua.md][Kahlua]]       |
 
 * Directions
 
 1. Combine all ingredients except the Kahlua in a small pot
-
-   1. Heat on medium heat and stir
-
-2. Top with marshmallows, whipped cream, or a caramel syrup
+2. Heat on medium heat and stir
+3. Top with marshmallows, whipped cream, or a caramel syrup
 
 * References & Notes
+
+1. [[https://damndelicious.net/2013/12/03/kahlua-hot-chocolate/][Original recipe]]
+2. Don't let the milk boil or else it will spoil
+

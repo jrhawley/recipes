@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       3a707ccd-7a7f-450b-ab27-2a3a6524b345
+:END:
 #+TITLE: Treacle
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:17]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
@@ -22,3 +25,6 @@
 4. Garnish with a strip of lemon zest.
 
 * References
+
+1. The Periodic Table of Cocktails
+

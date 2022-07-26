@@ -1,19 +1,22 @@
+:PROPERTIES:
+:ID:       7c43c5f1-75f2-439c-b33d-54dd769e9d42
+:END:
 #+TITLE: Cinnamon maple whiskey sour
+#+DATE: [2020-10-09]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:58]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 #+CAPTION: Cinnamon maple whiskey sour
 [[../_assets/cinnamon-maple-whiskey-sour.jpg]]
-#+DATE: [2020-10-09]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
 
 * Ingredients
 
-| Quantity | Item                                                  |
-|----------+-------------------------------------------------------|
-| 1.5 oz   | [[../_ingredients/bourbon.md][bourbon]]               |
+| Quantity | Item              |
+|----------+-------------------|
+| 1.5 oz   | [[../_ingredients/bourbon.md][bourbon]]           |
 | 1 oz     | fresh [[../_ingredients/lemon-juice.md][lemon juice]] |
 | 1 Tbsp   | [[../_ingredients/maple-syrup.md][maple syrup]]       |
-|          | [[../_ingredients/ice.md][ice cubes]]                 |
+|          | [[../_ingredients/ice.md][ice cubes]]         |
 
 * Directions
 
@@ -22,3 +25,6 @@
 3. Fill cocktail glass with ice, pour drink over top and serve
 
 * References & Notes
+
+1. [[https://cookieandkate.com/cinnamon-maple-whiskey-sour-recipe/print/24019/][Original recipe]]
+

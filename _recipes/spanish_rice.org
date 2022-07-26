@@ -1,30 +1,31 @@
+:PROPERTIES:
+:ID:       c866fb54-13a9-4472-b1c3-51410706295a
+:END:
 #+TITLE: Spanish rice
+#+DATE: [2013-09-14]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:32]
+#+FILETAGS: :recipe:side:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 5 min      |
 | Cook Time | 20 min     |
 | Yields    | 5 servings |
-#+DATE: [2013-09-14]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:side :rice :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                |
-|----------+-----------------------------------------------------|
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]         |
-| 2 Tbsp   | [[../_ingredients/onion.md][onion]], chopped        |
-| 3/2 cups | [[../_ingredients/rice.md][rice]], uncooked         |
-| 2 cups   | [[../_ingredients/chicken-broth.md][chicken broth]] |
-| 1 cup    | [[../_ingredients/salsa.md][salsa]], chunky         |
+| Quantity | Item           |
+|----------+----------------|
+| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]      |
+| 2 Tbsp   | [[../_ingredients/onion.md][onion]], chopped |
+| 3/2 cups | [[../_ingredients/rice.md][rice]], uncooked |
+| 2 cups   | [[../_ingredients/chicken-broth.md][chicken broth]]  |
+| 1 cup    | [[../_ingredients/salsa.md][salsa]], chunky  |
 
 * Directions
 
 1. Heat oil in large skillet over medium heat
-
-   1. Stir in onion and cook till tender
-   2. Mix rice into skillet and brown
-   3. Add broth and salsa, and mix well
-
-2. Reduce heat, cover, and simmer until liquid is absorbed (~ 20min)
+2. Stir in onion and cook till tender
+3. Mix rice into skillet and brown
+4. Add broth and salsa, and mix well
+5. Reduce heat, cover, and simmer until liquid is absorbed (~ 20min)

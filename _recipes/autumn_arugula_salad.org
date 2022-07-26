@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       4ff5cde1-5985-4216-a4b2-96315ec1f1d5
+:END:
 #+TITLE: Autumn arugula salad
 #+DATE: [2020-12-22]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:54]
-#+FILETAGS: :recipe:salad :vegetarian :summer :dinner:
+#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
+#+FILETAGS: :recipe:vegetarian:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -58,3 +61,6 @@
 4. Combine all vinaigrette ingredients in a small bowl, drizzle over salad as desired
 
 * References & Notes
+
+1. [[https://howsweeteats.com/wprm_print/59460][Original recipe]]
+

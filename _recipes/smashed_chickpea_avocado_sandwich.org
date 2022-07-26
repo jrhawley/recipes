@@ -1,36 +1,40 @@
+:PROPERTIES:
+:ID:       f6e579ef-9234-456a-b90d-1d919662a02a
+:END:
 #+TITLE: Smashed chickpea avocado sandwich
+#+DATE: [2019-12-07]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:31]
+#+FILETAGS: :recipe:vegetarian:lunch:dinner:
 
 | Info      | Amount       |
 |-----------+--------------|
 | Prep Time | 10 min       |
 | Cook Time | 0 min        |
 | Yields    | 2 sandwiches |
-#+DATE: [2019-12-07]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:sandwich :vegetarian :lunch :dinner:
 
 * Ingredients
 
-| Quantity  | Item                                                         |
-|-----------+--------------------------------------------------------------|
+| Quantity  | Item                       |
+|-----------+----------------------------|
 | 15 oz     | [[../_ingredients/chickpeas.md][chickpeas]], drained, rinsed |
-| 1         | large ripe [[../_ingredients/avocado.md][avocado]]           |
-| 2 tsp     | [[../_ingredients/lemon-juice.md][lemon juice]]              |
+| 1         | large ripe [[../_ingredients/avocado.md][avocado]]         |
+| 2 tsp     | [[../_ingredients/lemon-juice.md][lemon juice]]                |
 | 1/4 cup   | [[../_ingredients/cranberry.md][dried cranberries]]          |
-| 1 handful | [[../_ingredients/arugula.md][arugula]]                      |
+| 1 handful | [[../_ingredients/arugula.md][arugula]]                    |
 | 1/8       | [[../_ingredients/red-onion.md][red onion]], sliced          |
-| 4 slices  | [[../_ingredients/french-bread.md][French bread]]            |
-|           | [[../_ingredients/kosher-salt.md][kosher salt]]              |
-|           | [[../_ingredients/pepper.md][pepper]]                        |
+| 4 slices  | [[../_ingredients/french-bread.md][French bread]]               |
+|           | [[../_ingredients/kosher-salt.md][kosher salt]]                |
+|           | [[../_ingredients/pepper.md][pepper]]                     |
 
 * Directions
 
 1. In a medium bowl, smash chickpeas with a fork
-
    1. Add in avocado, lemon juice, cranberries, and spinach and us a fork to mash everything together
    2. Place in refrigerator until ready to serve
-
 2. Toast bread, spoon chickpea mix into each sandwich
 3. Top with red onion, cut sandwiches in half
 
 * References & Notes
+
+1. [[https://www.ambitiouskitchen.com/smashed-chickpea-avocado-salad-sandwich-with-cranberries-lemon/][Original recipe]]
+

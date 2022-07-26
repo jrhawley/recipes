@@ -1,15 +1,18 @@
+:PROPERTIES:
+:ID:       2b5d35e5-cee4-4727-b616-454eff7e525a
+:END:
 #+TITLE: Tequila sunrise
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:17]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Ingredients                                       |
-|----------+---------------------------------------------------|
-| 5/3 oz   | [[../_ingredients/tequila.md][tequila]]           |
+| Quantity | Ingredients  |
+|----------+--------------|
+| 5/3 oz   | [[../_ingredients/tequila.md][tequila]]      |
 | 5/2 oz   | [[../_ingredients/orange-juice.md][orange juice]] |
-| 1 tsp    | [[../_ingredients/grenadine.md][grenadine]]       |
+| 1 tsp    | [[../_ingredients/grenadine.md][grenadine]]    |
 
 * Directions
 
@@ -19,3 +22,6 @@
 4. Pour the grenadine into the top of the glass.
 
 * References
+
+1. The Periodic Table of Cocktails
+

@@ -1,16 +1,19 @@
+:PROPERTIES:
+:ID:       288a18a1-4ada-41a2-9183-922982ed4d35
+:END:
 #+TITLE: Capo Americano
 #+DATE: [2021-09-25]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 08:49]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                                |
-|----------+-----------------------------------------------------|
-| 3/2 oz   | [[../_ingredients/amaro.md][amaro]]                 |
+| Quantity | Item               |
+|----------+--------------------|
+| 3/2 oz   | [[../_ingredients/amaro.md][amaro]]              |
 | 3/2 oz   | [[../_ingredients/vermouth.md][sweet red vermouth]] |
-| 3/2 oz   | [[../_ingredients/tonic-water.md][tonic water]]     |
-| 1        | [[../_ingredients/lemon.md][lemon wedge]]           |
+| 3/2 oz   | [[../_ingredients/tonic-water.md][tonic water]]        |
+| 1        | [[../_ingredients/lemon.md][lemon wedge]]        |
 
 * Directions
 
@@ -19,4 +22,7 @@
 3. Top with tonic water and squeeze the lemon wedge to add a splash of lemon juice.
 4. Garnish with the lemon wedge.
 
-* References
+* References & Notes
+
+1. [[https://www.lcbo.com/webapp/wcs/stores/servlet/en/lcbo/recipe/capo-americano/F202105041][Original recipe]]
+

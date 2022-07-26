@@ -44,10 +44,8 @@ Tags: #pasta #dinner
 
 ## References & Notes
 
-[^1]: Original recipe: Giacomo Grillo
-> We can say that this is a classic.
-> In Italy you may find a risotto cooked with the same ingredients, but a pasta dish is a perfect way to celebrate two ingredients made for one another.
 
 [^2]: Try to use "elongated shallots" (aka "banana shallots") because they're sweeter and less harsh on the palate.
 
 [^3]: Make sure that frozen prawns are completely defrosted / fresh prawns are clean (I [Giacomo] normally use raw peeled frozen prawns)
+

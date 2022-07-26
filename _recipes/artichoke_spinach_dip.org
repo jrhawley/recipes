@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       be00aba6-829e-4998-956d-04d34d12e5e8
+:END:
 #+TITLE: Artichoke and spinach dip
 #+DATE: [2015-01-02]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:54]
-#+FILETAGS: :recipe:sauce :condiment:
+#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
+#+FILETAGS: :recipe:sauce:
 
 | Info      | Amount      |
 |-----------+-------------|
@@ -29,15 +32,10 @@
 * Directions
 
 1. Preheat over to 350 F
-
    1. Lightly grease a small baking dish
-
 2. In a medium bowl, mix together cream cheese, sour cream, parmesan, romano, garlic, basil, garlic salt, salt, and pepper
-
    1. Once well mixed, gently stir in artichoke hearts and spinach
-
 3. Transfer mixture to baking dish
-
    1. Top with mozzarella
-
 4. Bake for 25 min, until bubbly and lightly browned
+

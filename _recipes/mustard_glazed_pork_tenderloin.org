@@ -1,33 +1,37 @@
+:PROPERTIES:
+:ID:       fb211f75-e0da-49e0-86b5-73e6bad42eff
+:END:
 #+TITLE: Mustard-glazed pork tenderloin
+#+DATE: [2021-03-28]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:19]
+#+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 15 min     |
 | Cook Time | 20 min     |
 | Yields    | 4 servings |
-#+DATE: [2021-03-28]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:dinner :pork:
 
 * Ingredients
 
-| Quantity | Item                                                            |
-|----------+-----------------------------------------------------------------|
-| 400 g    | [[../_ingredients/pork-tenderloin.md][pork tenderloin]]         |
-| 3 Tbsp   | [[../_ingredients/brown-sugar.md][brown sugar]]                 |
-| 2 Tbsp   | [[../_ingredients/mustard.md][grainy mustard]]                  |
-| 2 tsp    | [[../_ingredients/rosemary.md][rosemary]]                       |
+| Quantity | Item                |
+|----------+---------------------|
+| 400 g    | [[../_ingredients/pork-tenderloin.md][pork tenderloin]]     |
+| 3 Tbsp   | [[../_ingredients/brown-sugar.md][brown sugar]]         |
+| 2 Tbsp   | [[../_ingredients/mustard.md][grainy mustard]]      |
+| 2 tsp    | [[../_ingredients/rosemary.md][rosemary]]            |
 | 2 Tbsp   | [[../_ingredients/apple-cider-vinegar.md][apple cider vinegar]] |
 
 * Directions
 
 1. Combine all ingredients in a waterproof bag, let marinate for 15 min, or overnight
 2. Heat a large cast iron skillet or grill pan over medium-high heat
-
    1. Brush pan with olive oil and add tenderloins
    2. Reduce heat to medium-low
    3. Cook, turning tenderloins every 3 to 4 minutes, until deeply caramelized on all sides, about 20 to 25 minutes
-
 3. Remove and lightly tent with foil; let rest about 10 minutes before cutting into 1/4- to 1/2-inch slices
 
 * References & Notes
+
+1. [[https://cooking.nytimes.com/recipes/10080-mustard-glazed-pork-tenderloin][Original recipe]]
+

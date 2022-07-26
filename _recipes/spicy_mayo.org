@@ -1,20 +1,23 @@
+:PROPERTIES:
+:ID:       f8db22d1-b230-4536-9081-f30287037914
+:END:
 #+TITLE: Spicy mayo
+#+DATE: [2013-09-13]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:33]
+#+FILETAGS: :recipe:condiment:
 
 | Info      | Amount  |
 |-----------+---------|
 | Prep Time | 5 min   |
 | Cook Time | 0 min   |
 | Yields    | 1/2 cup |
-#+DATE: [2013-09-13]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:sauce :condiment:
 
 * Ingredients
 
-| Quantity | Item                                                  |
-|----------+-------------------------------------------------------|
-| 1/2 cup  | [[../_ingredients/mayonnaise.md][mayonnaise]]         |
-| 1 tsp    | [[../_ingredients/sriracha.md][Sriracha sauce]]       |
+| Quantity | Item           |
+|----------+----------------|
+| 1/2 cup  | [[../_ingredients/mayonnaise.md][mayonnaise]]     |
+| 1 tsp    | [[../_ingredients/sriracha.md][Sriracha sauce]] |
 | 1/4 tsp  | [[../_ingredients/cayenne-pepper.md][cayenne pepper]] |
 
 * Directions

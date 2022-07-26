@@ -1,15 +1,18 @@
+:PROPERTIES:
+:ID:       9c410fa8-6a5d-4798-8ccf-5eea1f8264c6
+:END:
 #+TITLE: Paper plane
 #+DATE: [2021-08-07]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:18]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                            |
-|----------+-------------------------------------------------|
-| 3/4 oz   | [[../_ingredients/bourbon.md][bourbon]]         |
-| 3/4 oz   | [[../_ingredients/aperol.md][Aperol]]           |
-| 3/4 oz   | [[../_ingredients/amaro.md][amaro]]             |
+| Quantity | Item        |
+|----------+-------------|
+| 3/4 oz   | [[../_ingredients/bourbon.md][bourbon]]     |
+| 3/4 oz   | [[../_ingredients/aperol.md][Aperol]]      |
+| 3/4 oz   | [[../_ingredients/amaro.md][amaro]]       |
 | 3/4 oz   | [[../_ingredients/lemon-juice.md][lemon juice]] |
 
 * Directions
@@ -18,3 +21,6 @@
 2. Strain into a coupe glass
 
 * References & Notes
+
+1. [[https://www.liquor.com/recipes/the-paper-plane/][Original recipe]]
+

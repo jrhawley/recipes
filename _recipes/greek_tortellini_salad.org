@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       79faa659-14dd-4b6e-bad4-2040bc3f50e9
+:END:
 #+TITLE: Greek tortellini salad
+#+DATE: [2017-01-21]
+#+LAST_MODIFIED: [2022-07-25 Mon 09:05]
+#+FILETAGS: :recipe:vegetarian:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -8,48 +14,43 @@
 
 #+CAPTION: Greek tortellini salad
 [[../_assets/greek-tortellini.jpg]]
-#+DATE: [2017-01-21]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:vegetarian :salad :dinner:
 
 * Ingredients
 
-*** Salad
+** Salad
 
-| Quantity | Item                                                                             |
-|----------+----------------------------------------------------------------------------------|
-| 20 oz    | [[../_ingredients/tortellini.md][tortellini]]                                    |
-| 3/2 cups | [[../_ingredients/cherry-tomato.md][cherry tomatoes]], cut in half               |
-| 1        | large [[../_ingredients/cucumber.md][cucumber]], diced                           |
+| Quantity | Item                                     |
+|----------+------------------------------------------|
+| 20 oz    | [[../_ingredients/tortellini.md][tortellini]]                               |
+| 3/2 cups | [[../_ingredients/cherry-tomato.md][cherry tomatoes]], cut in half             |
+| 1        | large [[../_ingredients/cucumber.md][cucumber]], diced                    |
 | 1 cup    | [[../_ingredients/kalamata-olives.md][kalamata olives]], pit removed and chopped |
-| 1/2      | [[../_ingredients/red-onion.md][red onion]]                                      |
-| 3/4 cup  | [[../_ingredients/feta.md][feta]]                                                |
+| 1/2      | [[../_ingredients/red-onion.md][red onion]]                                |
+| 3/4 cup  | [[../_ingredients/feta.md][feta]]                                     |
 
-*** Dressing
+** Dressing
 
-| Quantity | Item                                                      |
-|----------+-----------------------------------------------------------|
-| 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]               |
+| Quantity | Item             |
+|----------+------------------|
+| 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]        |
 | 3 Tbsp   | [[../_ingredients/red-wine-vinegar.md][red-wine-vinegar]] |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced             |
-| 1/2 tsp  | dried [[../_ingredients/oregano.md][oregano]]             |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]           |
-|          | [[../_ingredients/pepper.md][pepper]]                     |
+| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced   |
+| 1/2 tsp  | dried [[../_ingredients/oregano.md][oregano]]    |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]      |
+|          | [[../_ingredients/pepper.md][pepper]]           |
 
 * Directions
 
 1. Bring a large pot of salted water to a boil
-
    1. Cook the tortellini according to the package directions
    2. Drain the tortellini and rinse with cold water
-
 2. Place the tortellini in a large bowl
-
    1. Add the tomatoes, cucumber, olives, red onion, and feta cheese
-
 3. In a small bowl, whisk together the olive oil, vinegar, garlic, oregano, salt, and pepper
-
    1. Pour the dressing over the salad and stir until salad is well coated
    2. Serve immediately or place in the refrigerator
 
-* Notes
+* References & Notes
+
+1. This will keep in the fridge for up to 3 days
+

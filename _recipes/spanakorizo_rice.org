@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       51d27afa-5a67-44e4-800e-1762247f2361
+:END:
 #+TITLE: Spanakorizo rice
+#+DATE: [2020-04-16]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:32]
+#+FILETAGS: :recipe:vegetarian:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -8,42 +14,38 @@
 
 #+CAPTION: Spanakorizo rice
 [[../_assets/spanakorizo-rice.png]]
-#+DATE: [2020-04-16]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:vegetarian :rice :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                       |
-|----------+------------------------------------------------------------|
-| 3 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                |
-| 1        | medium [[../_ingredients/onion.md][onion]], chopped        |
+| Quantity | Item                        |
+|----------+-----------------------------|
+| 3 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                   |
+| 1        | medium [[../_ingredients/onion.md][onion]], chopped       |
 | 4 cloves | [[../_ingredients/garlic.md][garlic]], chopped             |
 | 4 Tbsp   | [[../_ingredients/chives.md][chives]], chopped and divided |
-| 4 Tbsp   | [[../_ingredients/dill.md][dill]]                          |
-| 1/2 lbs  | baby [[../_ingredients/spinach.md][spinach]]               |
-| 1 cup    | basmati [[../_ingredients/rice.md][rice]]                  |
-| 2 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]    |
+| 4 Tbsp   | [[../_ingredients/dill.md][dill]]                        |
+| 1/2 lbs  | baby [[../_ingredients/spinach.md][spinach]]                |
+| 1 cup    | basmati [[../_ingredients/rice.md][rice]]                |
+| 2 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]             |
 | 3 Tbsp   | [[../_ingredients/butter.md][butter]]                      |
-| 2 Tbsp   | [[../_ingredients/lemon-juice.md][lemon juice]]            |
-| 2 tsp    | [[../_ingredients/lemon.md][lemon zest]]                   |
-|          | [[../_ingredients/feta.md][feta]]                          |
+| 2 Tbsp   | [[../_ingredients/lemon-juice.md][lemon juice]]                 |
+| 2 tsp    | [[../_ingredients/lemon.md][lemon zest]]                  |
+|          | [[../_ingredients/feta.md][feta]]                        |
 
 * Directions
 
 1. Heat olive oil in large pot over medium-high heat
-
    1. Saute onions
    2. Add garlic, half the dill and chives
    3. Saute for another minute
-
 2. Add spinach, cook until wilted
-
    1. Add salt, rice, and broth
    2. Stir, bring to a boil, cover, reduce heat to medium-low
    3. Simmer for 20 min
-
 3. Stir in butter, lemon juice, lemon zest, and remaining chives and dill
 4. Garnish with feta, serve with lemon wedges
 
 * References & Notes
+
+1. [[https://cooktoria.com/spanakorizo-greek-spinach-rice/#wprm-recipe-container-5934][Original recipe]]
+

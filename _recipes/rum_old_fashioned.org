@@ -1,16 +1,19 @@
+:PROPERTIES:
+:ID:       e28aa207-400b-4bb5-a16b-584a6b5bd5c0
+:END:
 #+TITLE: Rum Old-Fashioned
 #+DATE: [2021-02-17]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:18]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                                        |
-|----------+-------------------------------------------------------------|
-| 1/3 oz   | [[./simple-syrup.md][simple syrup]]                         |
-| 3 dashes | [[../_ingredients/agnostura-bitters.md][Agnostura bitters]] |
-| 5/3 oz   | golden or dark [[../_ingredients/rum.md][rum]]              |
-| 1 disk   | [[../_ingredients/orange.md][orange peel]]                  |
+| Quantity | Item               |
+|----------+--------------------|
+| 1/3 oz   | [[./simple-syrup.md][simple syrup]]       |
+| 3 dashes | [[../_ingredients/agnostura-bitters.md][Agnostura bitters]]  |
+| 5/3 oz   | golden or dark [[../_ingredients/rum.md][rum]] |
+| 1 disk   | [[../_ingredients/orange.md][orange peel]]        |
 
 * Directions
 
@@ -21,3 +24,6 @@
 5. Serve in the glass as is
 
 * References & Notes
+
+1. The Periodic Table of Cocktails
+

@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       5f87abf8-efaf-45d8-9980-d00182ff3e18
+:END:
 #+TITLE: Pulled pork
+#+DATE: [2017-12-03]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:27]
+#+FILETAGS: :recipe:slow_cooker:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -8,39 +14,32 @@
 
 #+CAPTION: Pulled pork
 [[../_assets/pulled-pork.jpg]]
-#+DATE: [2017-12-03]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:pork :slow:-cookerdinner:
 
 * Ingredients
 
-| Quantity | Item                                                              |
-|----------+-------------------------------------------------------------------|
-| 1 tsp    | [[../_ingredients/vegetable-oil.md][vegetable oil]]               |
-| 4 lbs    | [[../_ingredients/pork.md][pork]] shoulder roast                  |
-| 1 cup    | [[../_ingredients/barbecue-sauce.md][barbecue sauce]]             |
-| 1/2 cup  | [[../_ingredients/apple-cider-vinegar.md][apple cider vinegar]]   |
-| 1/2 cup  | [[../_ingredients/chicken-broth.md][chicken broth]]               |
-| 1/4 cup  | [[../_ingredients/brown-sugar.md][light brown sugar]]             |
-| 1 Tbsp   | [[../_ingredients/mustard.md][mustard]]                           |
+| Quantity | Item                 |
+|----------+----------------------|
+| 1 tsp    | [[../_ingredients/vegetable-oil.md][vegetable oil]]        |
+| 4 lbs    | [[../_ingredients/pork.md][pork]] shoulder roast  |
+| 1 cup    | [[../_ingredients/barbecue-sauce.md][barbecue sauce]]       |
+| 1/2 cup  | [[../_ingredients/apple-cider-vinegar.md][apple cider vinegar]]  |
+| 1/2 cup  | [[../_ingredients/chicken-broth.md][chicken broth]]        |
+| 1/4 cup  | [[../_ingredients/brown-sugar.md][light brown sugar]]    |
+| 1 Tbsp   | [[../_ingredients/mustard.md][mustard]]              |
 | 1 Tbsp   | [[../_ingredients/worcestershire-sauce.md][Worcestershire sauce]] |
-| 1 Tbsp   | [[../_ingredients/chili-powder.md][chili powder]]                 |
-| 1        | large [[../_ingredients/onion.md][onion]], diced                  |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced                     |
-| 2/3 tsp  | dried [[../_ingredients/thyme.md][thyme]]                         |
-| 8        | [[../_ingredients/buns.md][hamburger buns]]                       |
+| 1 Tbsp   | [[../_ingredients/chili-powder.md][chili powder]]         |
+| 1        | large [[../_ingredients/onion.md][onion]], diced   |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced       |
+| 2/3 tsp  | dried [[../_ingredients/thyme.md][thyme]]          |
+| 8        | [[../_ingredients/buns.md][hamburger buns]]       |
 
 * Directions
 
 1. Pour vegetable oil into bottom of slow cooker
-
    1. Place in pork roast
    2. Pour in barbecue sauce, apple cider vinegar, and chicken broth
    3. Stir in brown sugar, mustard, Worcestershire sauce, chili powder, onion, garlic, and thyme
    4. Cover and cook on high until pork easily shreds with a fork (5-6 h)
-
 2. Remove roast from slow cooker and shred meat with two forks
-
    1. Return shredded pork to slow cooker to stir meat into the juices
-
 3. Serve on hamburger buns

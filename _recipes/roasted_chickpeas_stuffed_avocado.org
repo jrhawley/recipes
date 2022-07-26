@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       63506438-1e85-452b-b947-9a2c0b8172c4
+:END:
 #+TITLE: Roasted chickpea stuffed avocadoes
+#+DATE: [2017-08-22]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:29]
+#+FILETAGS: :recipe:vegetarian:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -8,44 +14,39 @@
 
 #+CAPTION: Roasted chickpeas stuff avocado
 [[../_assets/roasted-chickpeas-stuff-avocado.jpg]]
-#+DATE: [2017-08-22]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:vegetarian :avocado :dinner:
 
 * Ingredients
 
-*** Roasted chickpeas
+** Roasted chickpeas
 
-| Quantity | Item                                                         |
-|----------+--------------------------------------------------------------|
+| Quantity | Item                       |
+|----------+----------------------------|
 | 15 oz    | [[../_ingredients/chickpeas.md][chickpeas]], drained, rinsed |
 | 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                  |
-| 2 tsp    | smoked [[../_ingredients/paprika.md][paprika]]               |
-| 1 tsp    | [[../_ingredients/pepper.md][pepper]]                        |
-| 1/2 tsp  | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]        |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                |
-| 4        | ripe [[../_ingredients/avocado.md][avocadoes]]               |
-| 1/2      | [[../_ingredients/tomato.md][tomato]], diced                 |
-| 1        | [[../_ingredients/lemon.md][lemon]]                          |
+| 2 tsp    | smoked [[../_ingredients/paprika.md][paprika]]             |
+| 1 tsp    | [[../_ingredients/pepper.md][pepper]]                     |
+| 1/2 tsp  | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]             |
+| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                 |
+| 4        | ripe [[../_ingredients/avocado.md][avocadoes]]             |
+| 1/2      | [[../_ingredients/tomato.md][tomato]], diced              |
+| 1        | [[../_ingredients/lemon.md][lemon]]                      |
 
-*** Yogurt sauce
+** Yogurt sauce
 
-| Quantity | Item                                                    |
-|----------+---------------------------------------------------------|
+| Quantity | Item               |
+|----------+--------------------|
 | 1/4 cup  | plain [[../_ingredients/greek-yogurt.md][Greek yogurt]] |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced           |
-| 2 Tbsp   | [[../_ingredients/parsley.md][parsley]], chopped        |
-|          | [[../_ingredients/pepper.md][pepper]]                   |
+| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced     |
+| 2 Tbsp   | [[../_ingredients/parsley.md][parsley]], chopped   |
+|          | [[../_ingredients/pepper.md][pepper]]             |
 
 * Directions
 
 1. Preheat oven to 400 F
 2. Pour chickpeas onto paper towels to pat dry, rolling to remove skins
-
    1. In a medium sized bowl, mix chickpeas, olive oil, and spices
    2. Spread chickpeas onto parchment lined baking sheet
    3. Cook for 20 min in the oven
-
 3. Combine all dressing ingredients in a small bowl
 4. When chickpeas have finished cooking, slice avocados in half, fill with chickpeas, drizzle with lemon juice, and sprinkle with salt and pepper
 5. Serve in a bowl with diced tomato and a dollop of the yogurt sauce

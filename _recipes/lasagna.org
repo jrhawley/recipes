@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       8bb9f4d7-f17b-4028-bd9c-076a2fefea0e
+:END:
 #+TITLE: Lasagna
+#+DATE: [2019-03-23]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:11]
+#+FILETAGS: :recipe:vegetarian:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -8,47 +14,43 @@
 
 #+CAPTION: Lasagna
 [[../_assets/lasagna.jpg]]
-#+DATE: [2019-03-23]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:pasta :lasagna :vegetarian :dinner:
 
 * Ingredients
 
-| Quantity   | Item                                                                    |
-|------------+-------------------------------------------------------------------------|
+| Quantity   | Item                                |
+|------------+-------------------------------------|
 | 500 g      | [[../_ingredients/ground-beef.md][ground beef]] (exclude if vegetarian) |
-| 3 handfuls | [[../_ingredients/spinach.md][spinach]] (exclude if carnivorous)        |
-| 2 tsp      | [[../_ingredients/table-salt.md][table salt]]                           |
-| 1 tsp      | [[../_ingredients/pepper.md][pepper]]                                   |
-| 1          | large [[../_ingredients/onion.md][onion]], chopped                      |
-| 1 tsp      | [[../_ingredients/italian-seasoning.md][italian seasoning]]             |
-| 2 Tbsp     | dried [[../_ingredients/parsley.md][parsley]]                           |
-| 2 tsp      | [[../_ingredients/garlic-powder.md][garlic powder]]                     |
-| 6 oz       | [[../_ingredients/tomato-paste.md][tomato paste]]                       |
-| 28 oz      | [[../_ingredients/tomato-sauce.md][tomato sauce]]                       |
-| 5/4 cups   | [[../_ingredients/water.md][water]]                                     |
-| 8 oz       | [[../_ingredients/lasagna-noodles.md][lasagna noodles]], uncooked       |
-| 4 cups     | shredded [[../_ingredients/mozzarella.md][mozzarella]]                  |
-| 3/2 cups   | [[../_ingredients/ricotta.md][ricotta]]                                 |
-| 1/2 cup    | [[../_ingredients/parmesan.md][parmesan]]                               |
+| 3 handfuls | [[../_ingredients/spinach.md][spinach]] (exclude if carnivorous)    |
+| 2 tsp      | [[../_ingredients/table-salt.md][table salt]]                          |
+| 1 tsp      | [[../_ingredients/pepper.md][pepper]]                              |
+| 1          | large [[../_ingredients/onion.md][onion]], chopped                |
+| 1 tsp      | [[../_ingredients/italian-seasoning.md][italian seasoning]]                   |
+| 2 Tbsp     | dried [[../_ingredients/parsley.md][parsley]]                       |
+| 2 tsp      | [[../_ingredients/garlic-powder.md][garlic powder]]                       |
+| 6 oz       | [[../_ingredients/tomato-paste.md][tomato paste]]                        |
+| 28 oz      | [[../_ingredients/tomato-sauce.md][tomato sauce]]                        |
+| 5/4 cups   | [[../_ingredients/water.md][water]]                               |
+| 8 oz       | [[../_ingredients/lasagna-noodles.md][lasagna noodles]], uncooked           |
+| 4 cups     | shredded [[../_ingredients/mozzarella.md][mozzarella]]                 |
+| 3/2 cups   | [[../_ingredients/ricotta.md][ricotta]]                             |
+| 1/2 cup    | [[../_ingredients/parmesan.md][parmesan]]                            |
 
 * Directions
 
 1. In a large skillet over medium heat brown the ground beef and onion
 2. Add salt, pepper, Italian seasoning, parsley, garlic powder, tomato paste, tomato sauce, sugar, and water
-
    1. Stir and simmer 15-20 min
-
 3. Spread a fourth of the meat sauce into the bottom of your slow cooker
-
    1. Arrange a third of the noodles over the sauce (break the noodles to fit, if necessary)
-
 4. Combine the mozzarella, cottage cheese and parmesan cheese in a medium bowl
-
    1. Spoon a third of the mixture over noodles
-
 5. Repeat layers twice
 6. Top with remaining meat sauce and sprinkle with extra mozzarella cheese, if desired
 7. Cover and cook on low for about 4-5 hours or until noodles are tender
 
 * References & Notes
+
+1. [[https://tastesbetterfromscratch.com/slow-cooker-lasagna/][Original recipe]]
+
+2. Substitute ground beef with h3 - 4 handfuls of spinach to make vegetarian
+

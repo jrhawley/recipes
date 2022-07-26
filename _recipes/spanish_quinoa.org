@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       3aea73ab-ec9b-4210-a45c-f064f7627de8
+:END:
 #+TITLE: Spanish quinoa
+#+DATE: [2020-05-21]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:32]
+#+FILETAGS: :recipe:vegetarian:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -8,43 +14,39 @@
 
 #+CAPTION: Spanish quinoa
 [[../_assets/spanish-quinoa.jpg]]
-#+DATE: [2020-05-21]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:rice :vegetarian :bowl :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                                          |
-|----------+-------------------------------------------------------------------------------|
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                                   |
-| 1        | small yellow [[../_ingredients/onion.md][onion]], finely diced                |
-| 3 cloves | [[../_ingredients/garlic.md][garlic]], minced                                 |
-| 2 tsp    | [[../_ingredients/paprika.md][paprika]]                                       |
-| 1 tsp    | [[../_ingredients/cumin.md][cumin]]                                           |
-| 1 tsp    | [[../_ingredients/oregano.md][oregano]]                                       |
-| 1/4 tsp  | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]                         |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                                 |
-| 1 cup    | [[../_ingredients/quinoa.md][quinoa]], uncooked                               |
-| 15 oz    | [[../_ingredients/diced-tomatoes.md][diced tomatoes]]                         |
-| 15 oz    | [[../_ingredients/chickpeas.md][chickpeas]], drained, rinsed                  |
-| 2 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]                       |
+| Quantity | Item                                 |
+|----------+--------------------------------------|
+| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                            |
+| 1        | small yellow [[../_ingredients/onion.md][onion]], finely diced     |
+| 3 cloves | [[../_ingredients/garlic.md][garlic]], minced                       |
+| 2 tsp    | [[../_ingredients/paprika.md][paprika]]                              |
+| 1 tsp    | [[../_ingredients/cumin.md][cumin]]                                |
+| 1 tsp    | [[../_ingredients/oregano.md][oregano]]                              |
+| 1/4 tsp  | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]                       |
+| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                           |
+| 1 cup    | [[../_ingredients/quinoa.md][quinoa]], uncooked                     |
+| 15 oz    | [[../_ingredients/diced-tomatoes.md][diced tomatoes]]                       |
+| 15 oz    | [[../_ingredients/chickpeas.md][chickpeas]], drained, rinsed           |
+| 2 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]                      |
 | 15 oz    | [[../_ingredients/artichoke-hearts.md][artichoke hearts]], quartered, drained |
-| 1        | [[../_ingredients/lemon.md][lemon]]                                           |
-|          | [[../_ingredients/parsley.md][parsley]]                                       |
+| 1        | [[../_ingredients/lemon.md][lemon]]                                |
+|          | [[../_ingredients/parsley.md][parsley]]                              |
 
 * Directions
 
 1. In a large skillet, heat olive oil over medium heat
-
    1. Add onion, garlic, cumin, oregano, cayenne, and salt
    2. Saute until onion is translucent
-
 2. Add quinoa, diced tomatoes with juices, chickpeas, and vegetable broth
-
    1. Bring to a low boil
    2. Cover with lid and simmer for 20-30 min, stirring intermittently
-
 3. Stir in artichoke hearts until heated through
 4. Garnish with juice from one lemon and fresh parsley
 
 * References & Notes
+
+1. [[https://www.makingthymeforhealth.com/one-pot-spanish-quinoa/print/][Original recipe]]
+

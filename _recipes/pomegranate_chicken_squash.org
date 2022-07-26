@@ -1,29 +1,32 @@
+:PROPERTIES:
+:ID:       fe9f85db-a32b-4a15-941d-611fd8431efa
+:END:
 #+TITLE: Pomegranate chicken and roasted acorn squash
+#+DATE: [2021-12-08]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:25]
+#+FILETAGS: :recipe::dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 10 min     |
 | Cook Time | 25 min     |
 | Yields    | 2 servings |
-#+DATE: [2021-12-08]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:chicken :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                                  |
-|----------+-----------------------------------------------------------------------|
-| 1/2 cup  | [[../_ingredients/rice.md][rice]]                                     |
+| Quantity | Item                   |
+|----------+------------------------|
+| 1/2 cup  | [[../_ingredients/rice.md][rice]]                   |
 | 1/4 cup  | [[../_ingredients/sweet-thai-chili-sauce.md][sweet Thai chili sauce]] |
-| 1/4 cup  | [[../_ingredients/soy-sauce.md][soy sauce]]                           |
-| 1 tsp    | [[../_ingredients/ginger.md][groudn ginger]]                          |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced                         |
-| 2        | [[../_ingredients/chicken-breast.md][chicken breasts]]                |
-| 1        | [[../_ingredients/acorn-squash.md][acorn squash]]                     |
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                           |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                       |
-|          | [[../_ingredients/pepper.md][pepper]]                                 |
-| 1/2 cup  | [[../_ingredients/pomegranate-arils.md][pomegranate arils]]           |
+| 1/4 cup  | [[../_ingredients/soy-sauce.md][soy sauce]]              |
+| 1 tsp    | [[../_ingredients/ginger.md][ground ginger]]         |
+| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced         |
+| 2        | [[../_ingredients/chicken-breast.md][chicken breasts]]        |
+| 1        | [[../_ingredients/acorn-squash.md][acorn squash]]           |
+| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]              |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]            |
+|          | [[../_ingredients/pepper.md][pepper]]                 |
+| 1/2 cup  | [[../_ingredients/pomegranate-arils.md][pomegranate arils]]      |
 
 * Directions
 
@@ -37,4 +40,7 @@
 8. Place the entire baking sheet (including the chicken breasts, if fresh) for 20 min, flipping half way through.
 9. Serve chicken and squash over rice in a bowl, garnishing with arils and extra sauce.
 
-* References
+* References & Notes
+
+1. [[https://www.halfbakedharvest.com/wprm_print/41880][Original recipe]]
+

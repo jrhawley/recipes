@@ -1,17 +1,20 @@
+:PROPERTIES:
+:ID:       91e2db24-5fe2-43cf-b496-52c469f686fc
+:END:
 #+TITLE: London fog
 #+DATE: [2021-08-13]
-#+LAST_MODIFIED:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:13]
 #+FILETAGS: :recipe:beverage:
 
 * Ingredients
 
-| Quantity | Item                                                    |
-|----------+---------------------------------------------------------|
-| 1/2 cup  | [[../_ingredients/water.md][water]]                     |
-| 1/2 cup  | [[../_ingredients/milk.md][milk]]                       |
+| Quantity | Item            |
+|----------+-----------------|
+| 1/2 cup  | [[../_ingredients/water.md][water]]           |
+| 1/2 cup  | [[../_ingredients/milk.md][milk]]            |
 | 1/4 tsp  | [[../_ingredients/vanilla-extract.md][vanilla extract]] |
-| 1 tsp    | [[../_ingredients/sugar.md][sugar]]                     |
-| 1 sachet | [[../_ingredients/earl-grey-tea.md][Earl Grey tea]]     |
+| 1 tsp    | [[../_ingredients/sugar.md][sugar]]           |
+| 1 sachet | [[../_ingredients/earl-grey-tea.md][Earl Grey tea]]   |
 
 * Directions
 

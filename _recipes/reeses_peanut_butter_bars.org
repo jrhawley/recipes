@@ -1,33 +1,33 @@
+:PROPERTIES:
+:ID:       74b000a8-34d9-4167-b210-847a2292e965
+:END:
 #+TITLE: Reese's Peanut Butter Bars
+#+DATE: [2013-11-09]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:28]
+#+FILETAGS: :recipe:dessert:
 
 | Info      | Amount |
 |-----------+--------|
 | Prep Time |        |
 | Cook Time |        |
 | Yields    |        |
-#+DATE: [2013-11-09]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:dessert:
 
 * Ingredients
 
-| Quantity | Item                                                              |
-|----------+-------------------------------------------------------------------|
-| 1 cup    | [[../_ingredients/butter.md][butter]], melted                     |
-| 2 cup    | [[../_ingredients/graham-cracker.md][graham cracker]] crumbs      |
-| 2 cup    | [[../_ingredients/icing-sugar.md][icing sugar]]                   |
-| 5/4 cup  | [[../_ingredients/peanut-butter.md][peanut butter]]               |
+| Quantity | Item                      |
+|----------+---------------------------|
+| 1 cup    | [[../_ingredients/butter.md][butter]], melted            |
+| 2 cup    | [[../_ingredients/graham-cracker.md][graham cracker]] crumbs     |
+| 2 cup    | [[../_ingredients/icing-sugar.md][icing sugar]]               |
+| 5/4 cup  | [[../_ingredients/peanut-butter.md][peanut butter]]             |
 | 3/2 cup  | semisweet [[../_ingredients/chocolate-chips.md][chocolate chips]] |
 
 * Directions
 
 1. In a medium bowl, mix together the melted butter, graham cracker crumbs, powdered sugar, and 1 cup peanut butter
-
    1. Blend well
    2. Press evenly into the bottom of an ungreased 9" x 13" pan
-
 2. In a metal bowl over simmering water, or in the microwave, melt the chocolate chips with the peanut butter
-
    1. Stir occasionally until smooth
    2. Spread over the peanut butter layer
    3. Refrigerate for at least one hour before cutting into squares

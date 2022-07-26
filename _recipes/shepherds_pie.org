@@ -1,56 +1,58 @@
+:PROPERTIES:
+:ID:       6d22eab0-4ee0-4dee-9bda-5d94dbb501f4
+:END:
 #+TITLE: Shepherd's pie
+#+DATE: [2020-11-08]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:31]
+#+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 20 min     |
 | Cook Time | 40 min     |
 | Yields    | 4 servings |
-#+DATE: [2020-11-08]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:beef :potatoes :dinner:
 
 * Ingredients
 
-*** Beef
+** Beef
 
-| Quantity | Item                                                                  |
-|----------+-----------------------------------------------------------------------|
-| 1 lbs    | extra lean [[../_ingredients/ground-beef.md][ground beef]]            |
-| 1/2 cup  | [[../_ingredients/onion.md][onion]], chopped                          |
-| 1/3 cup  | [[../_ingredients/celery.md][celery]], chopped                        |
-| 1/4 tsp  | [[../_ingredients/table-salt.md][table salt]]                         |
-| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                                 |
+| Quantity | Item                   |
+|----------+------------------------|
+| 1 lbs    | extra lean [[../_ingredients/ground-beef.md][ground beef]] |
+| 1/2 cup  | [[../_ingredients/onion.md][onion]], chopped         |
+| 1/3 cup  | [[../_ingredients/celery.md][celery]], chopped        |
+| 1/4 tsp  | [[../_ingredients/table-salt.md][table salt]]             |
+| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                 |
 | 10 oz    | [[../_ingredients/cream-of-mushroom-soup.md][cream-of-mushroom-soup]] |
-| 10 oz    | [[../_ingredients/peas.md][peas]]                                     |
-| 8 oz     | [[../_ingredients/corn.md][corn niblets]]                             |
+| 10 oz    | [[../_ingredients/peas.md][peas]]                   |
+| 8 oz     | [[../_ingredients/corn.md][corn niblets]]           |
 
-*** Topping
+** Topping
 
-| Quantity | Item                                              |
-|----------+---------------------------------------------------|
-| 2        | [[../_ingredients/potato.md][potatoes]], mashed   |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]     |
-| 1        | [[../_ingredients/egg.md][egg]], beaten           |
+| Quantity | Item             |
+|----------+------------------|
+| 2        | [[../_ingredients/potato.md][potatoes]], mashed |
+| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]       |
+| 1        | [[../_ingredients/egg.md][egg]], beaten      |
 | 1/4 cup  | [[../_ingredients/parmesan.md][parmesan]], grated |
-|          | [[../_ingredients/cheddar.md][cheddar]], grated   |
-|          | [[../_ingredients/paprika.md][paprika]]           |
-|          | [[../_ingredients/milk.md][milk]]                 |
+|          | [[../_ingredients/cheddar.md][cheddar]], grated  |
+|          | [[../_ingredients/paprika.md][paprika]]          |
+|          | [[../_ingredients/milk.md][milk]]             |
 
 * Directions
 
 1. Preheat oven to 350 F and lightly butter a casserole dish
 2. Boil the potatoes until soft
 3. Meanwhile, in a large skillet, brown the ground beef, onion, and celery
-
    1. Drain the ground beef once cooked
-
 4. Add salt, pepper, peas, corn, and soup to the skillet and simmer for 3-5 min
-
    1. Pour mixture into the casserole dish and push into the edges
-
 5. Mash potatoes, add in salt, beaten egg, milk, and parmesan
 6. Lightly spread the potatoes over the entire meat mixture, again, pushing into the edges of the dish
 7. Sprinkle grated cheddar and paprika over potatoes
 8. Bake in oven for 30 min
 
 * References & Notes
+
+1. Original recipe: Nana
+

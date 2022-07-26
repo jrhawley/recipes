@@ -1,49 +1,46 @@
+:PROPERTIES:
+:ID:       ef524938-76ab-456e-9e1c-a65c41ad035d
+:END:
 #+TITLE: Spicy rice
+#+DATE: [2013-10-15]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:33]
+#+FILETAGS: :recipe:side:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 10 min     |
 | Cook Time | 50 min     |
 | Yields    | 2 servings |
-#+DATE: [2013-10-15]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:side :rice :spicy :dinner:
 
 * Ingredients
 
-| Quantity  | Item                                                                        |
-|-----------+-----------------------------------------------------------------------------|
-| 1 Tbsp    | [[../_ingredients/butter.md][butter]]                                       |
-| 1/2 cup   | [[../_ingredients/onion.md][onion]], chopped finely                         |
-| 1/2 stalk | [[../_ingredients/celery.md][celery]], chopped finely                       |
-| 1 clove   | [[../_ingredients/garlic.md][garlic]]                                       |
+| Quantity  | Item                                     |
+|-----------+------------------------------------------|
+| 1 Tbsp    | [[../_ingredients/butter.md][butter]]                                   |
+| 1/2 cup   | [[../_ingredients/onion.md][onion]], chopped finely                    |
+| 1/2 stalk | [[../_ingredients/celery.md][celery]], chopped finely                   |
+| 1 clove   | [[../_ingredients/garlic.md][garlic]]                                   |
 | 1         | [[../_ingredients/thai-chili.md][Thai chili]], seeded and minced (optional) |
-| 1/2       | [[../_ingredients/carrot.md][carrot]], peeled and chopped finely            |
-| 3/4 cup   | long grain [[../_ingredients/rice.md][rice]]                                |
-| 3/2 cup   | [[../_ingredients/chicken-broth.md][chicken broth]]                         |
-| 1         | [[../_ingredients/lemon.md][lemon]], zested                                 |
-| 1/3 cup   | frozen [[../_ingredients/peas.md][peas]]                                    |
-| 2 tbsp    | [[../_ingredients/parsley.md][parsley]], chopped                            |
-| 2 tsp     | [[../_ingredients/thyme.md][thyme]], chopped                                |
-|           | [[../_ingredients/kosher-salt.md][kosher salt]]                             |
-|           | [[../_ingredients/pepper.md][pepper]]                                       |
+| 1/2       | [[../_ingredients/carrot.md][carrot]], peeled and chopped finely        |
+| 3/4 cup   | long grain [[../_ingredients/rice.md][rice]]                          |
+| 3/2 cup   | [[../_ingredients/chicken-broth.md][chicken broth]]                            |
+| 1         | [[../_ingredients/lemon.md][lemon]], zested                            |
+| 1/3 cup   | frozen [[../_ingredients/peas.md][peas]]                              |
+| 2 tbsp    | [[../_ingredients/parsley.md][parsley]], chopped                         |
+| 2 tsp     | [[../_ingredients/thyme.md][thyme]], chopped                           |
+|           | [[../_ingredients/kosher-salt.md][kosher salt]]                              |
+|           | [[../_ingredients/pepper.md][pepper]]                                   |
 
 * Directions
 
 1. Preheat oven to 350F
 2. In oven-proof Dutch oven on medium heat, melt 1 Tbsp butter
-
    1. Add onions, celery, garlic, and chili, and saute until softened (~ 5 min)
    2. Stir in carrot and continue for another 2 min
-
 3. Add rice to the pot, stirring and cooking for 1 min
-
    1. Pour chicken broth and zest over top
    2. Bring to boil before covering with lid
-
 4. Place in oven and bake for 40 min
-
    1. Remove from oven, stir frozen peas, parsley, and thyme
    2. Put lid back on, sit for a few minutes
-
 5. Season with salt and pepper before serving

@@ -1,25 +1,28 @@
+:PROPERTIES:
+:ID:       00775440-d6ea-4f3f-bf8f-7dc4f722bd27
+:END:
 #+TITLE: Millionaire Shortbread
+#+DATE: [2018-03-30]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:14]
+#+FILETAGS: :recipe:dessert:
 
 | Info      | Amount |
 |-----------+--------|
 | Prep Time | 10 min |
 | Cook Time | 20 min |
 | Yields    |        |
-#+DATE: [2018-03-30]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:shortbread :dessert :chocolate:
 
 * Ingredients
 
-*** Shortbread
+** Shortbread
 
-| Quantity | Item                                  |
-|----------+---------------------------------------|
+| Quantity | Item   |
+|----------+--------|
 | 4 oz     | [[../_ingredients/butter.md][butter]] |
-| 2 oz     | [[../_ingredients/sugar.md][sugar]]   |
-| 6 oz     | [[../_ingredients/flour.md][flour]]   |
+| 2 oz     | [[../_ingredients/sugar.md][sugar]]  |
+| 6 oz     | [[../_ingredients/flour.md][flour]]  |
 
-*** Caramel
+** Caramel
 
 | Quantity | Item                                                                  |
 |----------+-----------------------------------------------------------------------|
@@ -32,10 +35,7 @@
 
 * Directions
 
-1. Cream together margarine and sugar
-
-   1. Mix in flour
-
+1. Cream together margarine and sugar, then mix in flour
 2. Line a square baking tray with parchment paper or grease
 3. Cook at 180 C/350 F until golden (about 20 min? possibly?)
 4. While shortbread is baking, melt together caramel ingredients and boil for 5 min
@@ -43,4 +43,7 @@
 6. Melt chocolate and pour on top of caramel layer
 7. Refrigerate for 1 h before serving
 
-* References
+* References & Notes
+
+1. Original recipe: Julie Milner
+

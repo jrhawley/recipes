@@ -1,75 +1,68 @@
+:PROPERTIES:
+:ID:       76f35591-1d4a-4935-a8dd-6f708b383656
+:END:
 #+TITLE: Birthday doughnuts
+#+DATE: [2021-06-16]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:47]
+#+FILETAGS: :recipe:doughnuts:dessert:
 
 | Info      | Amount      |
 |-----------+-------------|
 | Prep Time | 20 min      |
 | Cook Time | 10 min      |
 | Yields    | 8 doughnuts |
-#+DATE: [2021-06-16]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:doughnuts :dessert:
 
 * Ingredients
 
-*** Dough
+** Dough
 
-| Quantity | Item                                                    |
-|----------+---------------------------------------------------------|
-| 1 cup    | [[../_ingredients/flour.md][flour]]                     |
-| 1 tsp    | [[../_ingredients/baking-powder.md][baking powder]]     |
-| 1/4 tsp  | [[../_ingredients/baking-soda.md][baking soda]]         |
-| 1/4 tsp  | [[../_ingredients/table-salt.md][table salt]]           |
-| 1/4 tsp  | [[../_ingredients/nutmeg.md][nutmeg]]                   |
-| 1/4 cup  | [[../_ingredients/sugar.md][sugar]]                     |
-| 1 Tbsp   | [[../_ingredients/brown-sugar.md][brown sugar]]         |
-| 1/4 cup  | [[../_ingredients/milk.md][milk]]                       |
-| 1/4 cup  | [[../_ingredients/greek-yogurt.md][Greek yogurt]]       |
-| 1        | [[../_ingredients/egg.md][egg]]                         |
-| 2 Tbsp   | [[../_ingredients/butter.md][unsalted butter]], melted  |
-| 3/2 tsp  | [[../_ingredients/vanilla-extract.md][vanilla extract]] |
-| 1/2 cup  | [[../_ingredients/sprinkles.md][rainbow sprinkles]]     |
+| Quantity | Item                    |
+|----------+-------------------------|
+| 1 cup    | [[../_ingredients/flour.md][flour]]                   |
+| 1 tsp    | [[../_ingredients/baking-powder.md][baking powder]]           |
+| 1/4 tsp  | [[../_ingredients/baking-soda.md][baking soda]]             |
+| 1/4 tsp  | [[../_ingredients/table-salt.md][table salt]]              |
+| 1/4 tsp  | [[../_ingredients/nutmeg.md][nutmeg]]                  |
+| 1/4 cup  | [[../_ingredients/sugar.md][sugar]]                   |
+| 1 Tbsp   | [[../_ingredients/brown-sugar.md][brown sugar]]             |
+| 1/4 cup  | [[../_ingredients/milk.md][milk]]                    |
+| 1/4 cup  | [[../_ingredients/greek-yogurt.md][Greek yogurt]]            |
+| 1        | [[../_ingredients/egg.md][egg]]                     |
+| 2 Tbsp   | [[../_ingredients/butter.md][unsalted butter]], melted |
+| 3/2 tsp  | [[../_ingredients/vanilla-extract.md][vanilla extract]]         |
+| 1/2 cup  | [[../_ingredients/sprinkles.md][rainbow sprinkles]]       |
 
-*** Glaze
+** Glaze
 
-| Quantity | Item                                                    |
-|----------+---------------------------------------------------------|
-| 1/4 cup  | [[../_ingredients/milk.md][milk]]                       |
-| 2 cup    | [[../_ingredients/icing-sugar.md][icing sugar]]         |
-| 1 tsp    | [[../_ingredients/vanilla-extract.md][vanilla extract]] |
-|          | [[../_ingredients/sprinkles.md][rainbow sprinkles]]     |
+| Quantity | Item              |
+|----------+-------------------|
+| 1/4 cup  | [[../_ingredients/milk.md][milk]]              |
+| 2 cup    | [[../_ingredients/icing-sugar.md][icing sugar]]       |
+| 1 tsp    | [[../_ingredients/vanilla-extract.md][vanilla extract]]   |
+|          | [[../_ingredients/sprinkles.md][rainbow sprinkles]] |
 
 * Directions
 
 1. Preheat the oven to 350 F
-
    1. Grease a doughnut pan or coat with a non-stick spray
-
 2. In a medium bowl, whisk the flour, baking powder, baking soda, salt, nutmeg, and sugars
 3. In a large bowl, whisk the milk, yogurt, and egg
-
    1. Add and whisk the melted butter and vanilla
-
 4. Pour the dry ingredients into the wet bowl and stir together
-
    1. After mostly mixed, add the sprinkles and fold them in gently [fn:1]
-
 5. Transfer the batter into each doughnut cup until 3/4 full
 6. Bake for 8 - 10 min, or until the edges become golden
-
    1. Remove the doughnuts and let them cool for 2 min on a wire rack before glazing [fn:2]
-
 7. While the doughnuts are baking, in a medium saucepan combine the milk, powdered sugar, and vanilla for the glaze over low heat
-
    1. Whisk until smooth and uniform
-
 8. After the glaze has thickened slightly and the doughnuts have cooled, dip the top of each doughnut into the glaze
-
    1. Turn the doughnuts to coat evenly
    2. Return to the wire rack and top lightly with sprinkles
-
 9. Let the glaze harden, then serve
 
 * References & Notes
+
+1. [[https://www.ifyougiveablondeakitchen.com/wprm_print/recipe/9392][Original recipe]]
 
 [fn:1] The sprinkle colours will bleed and turn grey if you mix them too vigorously
 

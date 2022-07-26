@@ -1,48 +1,51 @@
+:PROPERTIES:
+:ID:       c1c18351-62cb-4071-91e0-198021d684db
+:END:
 #+TITLE: Pad Thai
+#+DATE: [2017-11-27]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:22]
+#+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 15 min     |
 | Cook Time | 15 min     |
 | Yields    | 4 servings |
-#+DATE: [2017-11-27]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:chicken :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                   |
-|----------+--------------------------------------------------------|
-| 2 tsp    | [[../_ingredients/fish-sauce.md][fish sauce]]          |
+| Quantity | Item              |
+|----------+-------------------|
+| 2 tsp    | [[../_ingredients/fish-sauce.md][fish sauce]]        |
 | 2 Tbsp   | [[../_ingredients/oyster-sauce.md][oyster sauce]]      |
-| 2 Tbsp   | [[../_ingredients/vegetable-oil.md][vegetable oil]]    |
-| 1 tsp    | [[../_ingredients/sugar.md][sugar]]                    |
-| 1 lb     | [[../_ingredients/chicken-breast.md][chicken breasts]] |
+| 2 Tbsp   | [[../_ingredients/vegetable-oil.md][vegetable oil]]     |
+| 1 tsp    | [[../_ingredients/sugar.md][sugar]]             |
+| 1 lb     | [[../_ingredients/chicken-breast.md][chicken breasts]]   |
 | 1 pkg    | [[../_ingredients/rice-noodles.md][rice noodles]]      |
-| 1        | [[../_ingredients/lime.md][lime]]                      |
-| 1/2 cup  | [[../_ingredients/peanuts.md][peanuts]], chopped       |
+| 1        | [[../_ingredients/lime.md][lime]]              |
+| 1/2 cup  | [[../_ingredients/peanuts.md][peanuts]], chopped  |
 | 1/2 cup  | [[../_ingredients/bean-sprouts.md][bean sprouts]]      |
-| 1/4 cup  | [[../_ingredients/carrot.md][carrots]], shredded       |
-| 2        | [[../_ingredients/egg.md][eggs]]                       |
+| 1/4 cup  | [[../_ingredients/carrot.md][carrots]], shredded |
+| 2        | [[../_ingredients/egg.md][eggs]]              |
 
 * Directions
 
 1. Cook rice noodles before adding to pan
-
    1. Boil water in a pot, remove from heat
    2. Set the noodles in it for ~10 mins until they're soft but not mushy
-
 2. Cook chicken in oil
-
    1. When sealed (aka whole outside is white) add eggs into the pan and immediately mix around
    2. Cook eggs until yellow
-
 3. Mix fish sauce, oyster sauce, vegetable oil, and sugar, and mix it all in the pan
 4. Add noodles to the pan
 5. Add sprouts and carrots and mix a bit
-
    1. Take pan off heat 1-2 mins after you've added the veggies (they should still be somewhat crunchy)
-
 6. Garnish with chopped peanuts and lime juice
 
 * References & Notes
+
+1. Original recipe:  Heather McNeil
+2. Taste the noodles to ensure they're like al dente pasta before you put them in the pan. They won't cook that much in the pan
+3. Don't worry if it doesn't seem that saucy
+4. You don't want it saucy like pasta; the taste is too strong
+5. You want it all covered in sauce but a bit dry

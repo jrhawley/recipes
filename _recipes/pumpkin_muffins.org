@@ -1,50 +1,49 @@
+:PROPERTIES:
+:ID:       8d0c3c2e-aa89-4312-a6a8-69ca18535375
+:END:
 #+TITLE: Pumpkin muffins
+#+DATE: [2013-11-09]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:28]
+#+FILETAGS: :recipe:muffins :pumpkin :baking:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 15 min     |
 | Cook Time | 25 min     |
 | Yields    | 18 muffins |
-#+DATE: [2013-11-09]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:muffins :pumpkin :baking:
 
 * Ingredients
 
-*** Muffins
+** Muffins
 
-| Quantity  | Item                                                        |
-|-----------+-------------------------------------------------------------|
-| 14 oz can | [[../_ingredients/pumpkin-puree.md][pumpkin puree]]         |
-| 1 cup     | [[../_ingredients/sugar.md][sugar]]                         |
-| 1 cup     | [[../_ingredients/canola-oil.md][canola oil]]               |
-| 1         | [[../_ingredients/egg.md][egg]]                             |
-| 2 tsp     | [[../_ingredients/vanilla-extract.md][vanilla extract]]     |
-| 3 cup     | [[../_ingredients/flour.md][flour]]                         |
+| Quantity  | Item              |
+|-----------+-------------------|
+| 14 oz can | [[../_ingredients/pumpkin-puree.md][pumpkin puree]]     |
+| 1 cup     | [[../_ingredients/sugar.md][sugar]]             |
+| 1 cup     | [[../_ingredients/canola-oil.md][canola oil]]        |
+| 1         | [[../_ingredients/egg.md][egg]]               |
+| 2 tsp     | [[../_ingredients/vanilla-extract.md][vanilla extract]]   |
+| 3 cup     | [[../_ingredients/flour.md][flour]]             |
 | 1 Tbsp    | [[../_ingredients/pumpkin-pie-spice.md][pumpkin-pie-spice]] |
-| 1/2 tsp   | [[../_ingredients/nutmeg.md][nutmeg]]                       |
-| 2 tsp     | [[../_ingredients/baking-powder.md][baking powder]]         |
-| 1 tsp     | [[../_ingredients/baking-soda.md][baking soda]]             |
-| 1/2 tsp   | [[../_ingredients/table-salt.md][table salt]]               |
+| 1/2 tsp   | [[../_ingredients/nutmeg.md][nutmeg]]            |
+| 2 tsp     | [[../_ingredients/baking-powder.md][baking powder]]     |
+| 1 tsp     | [[../_ingredients/baking-soda.md][baking soda]]       |
+| 1/2 tsp   | [[../_ingredients/table-salt.md][table salt]]        |
 
-*** Cream Cheese
+** Cream Cheese
 
-| Quantity | Item                                                        |
-|----------+-------------------------------------------------------------|
+| Quantity | Item                   |
+|----------+------------------------|
 | 6 oz     | [[../_ingredients/cream-cheese.md][cream cheese]], softened |
-| 1/4 cup  | [[../_ingredients/sugar.md][sugar]]                         |
-| 1        | [[../_ingredients/egg.md][egg]]                             |
-| 2 Tbsp   | [[../_ingredients/flour.md][flour]]                         |
+| 1/4 cup  | [[../_ingredients/sugar.md][sugar]]                  |
+| 1        | [[../_ingredients/egg.md][egg]]                    |
+| 2 Tbsp   | [[../_ingredients/flour.md][flour]]                  |
 
 * Directions
 
 1. Preheat the oven to 350 F
-
    1. In a large bowl, mix the pumpkin, sugar, oil, egg and vanilla
    2. In another bowl, stir together the dry ingredients; add to the pumpkin mixture and stir just until combined
-
 2. Fill paper-lined muffin cups and if you like, sprinkle with coarse sugar
-
    1. If you're filling them, poke a hole in the top of each with the handle of a wooden spoon and add a small spoonful of the cream cheese mixture
-
 3. Bake for 25 min, or until springy to the touch

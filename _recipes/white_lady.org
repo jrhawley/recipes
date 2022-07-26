@@ -1,15 +1,18 @@
+:PROPERTIES:
+:ID:       da886a29-5d47-4804-bdc3-893e28441fbc
+:END:
 #+TITLE: White Lady
 #+DATE: [2021-02-17]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:17]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                             |
-|----------+--------------------------------------------------|
+| Quantity | Item                 |
+|----------+----------------------|
 | 5/3 oz   | [[../_ingredients/gin.md][gin]]                  |
-| 2/3 oz   | [[../_ingredients/lemon-juice.md][lemon juice]]  |
-| 2/3 oz   | [[../_ingredients/triple-sec.md][Triple Sec]]    |
+| 2/3 oz   | [[../_ingredients/lemon-juice.md][lemon juice]]          |
+| 2/3 oz   | [[../_ingredients/triple-sec.md][Triple Sec]]           |
 | 1        | [[../_ingredients/egg.md][egg white]] (optional) |
 
 * Directions
@@ -20,3 +23,6 @@
 4. Garnish with a strip of lemon peel
 
 * References & Notes
+
+1. The Periodic Table of Cocktails
+

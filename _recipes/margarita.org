@@ -1,13 +1,16 @@
+:PROPERTIES:
+:ID:       674ed0c9-dab0-40a1-b6cf-9f8a95c45b0a
+:END:
 #+TITLE: Margarita
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:13]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                          |
-|----------+-----------------------------------------------|
-| 5/3 oz   | [[../_ingredients/tequila.md][tequila]]       |
+| Quantity | Item       |
+|----------+------------|
+| 5/3 oz   | [[../_ingredients/tequila.md][tequila]]    |
 | 1 oz     | [[../_ingredients/lime-juice.md][lime juice]] |
 | 5/6 oz   | [[../_ingredients/triple-sec.md][Triple Sec]] |
 
@@ -17,4 +20,7 @@
 2. Shake all ingredients with ice.
 3. Double strain into the glass.
 
-* References
+* References & Notes
+
+1. The Periodic Table of Cocktails
+

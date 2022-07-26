@@ -1,15 +1,18 @@
+:PROPERTIES:
+:ID:       0ba2596b-f0bf-4084-824b-41be1d114b7d
+:END:
 #+TITLE: Lynchburg lemonade
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:13]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Ingredient                                              |
-|----------+---------------------------------------------------------|
-| 4 / 3 oz | [[../_ingredients/whiskey.md][whiskey]][fn:2]           |
-| 2 / 3 oz | [[../_ingredients/triple-sec.md][Triple sec]]           |
-| 5 / 6 oz | [[../_ingredients/lemon-juice.md][lemon juice]]         |
+| Quantity | Ingredient      |
+|----------+-----------------|
+| 4 / 3 oz | [[../_ingredients/whiskey.md][whiskey]][fn:2]   |
+| 2 / 3 oz | [[../_ingredients/triple-sec.md][Triple sec]]      |
+| 5 / 6 oz | [[../_ingredients/lemon-juice.md][lemon juice]]     |
 |          | [[../_ingredients/lemon-lime-soda.md][lemon-lime soda]] |
 
 * References & Notes

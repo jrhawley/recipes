@@ -1,27 +1,30 @@
+:PROPERTIES:
+:ID:       dbd6903d-ec7d-43ed-8367-ffa6031e2faa
+:END:
 #+TITLE: Custard and Berry Cake
+#+DATE: [2013-09-22]
+#+LAST_MODIFIED: [2022-07-25 Mon 09:00]
+#+FILETAGS: :recipe:dessert:
 
 | Info      | Amount |
 |-----------+--------|
 | Prep Time | 10 min |
 | Cook Time | 40 min |
 | Yields    |        |
-#+DATE: [2013-09-22]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:custard :dessert:
 
 * Ingredients
 
-| Quantity | Item                                                             |
-|----------+------------------------------------------------------------------|
-| 2 cup    | frozen [[../_ingredients/raspberry.md][raspberry]]               |
-| 2        | [[../_ingredients/cherry-tomato.md][eggs]]                       |
-| 1 cup    | [[../_ingredients/milk.md][milk]]                                |
-| 1 cup    | [[../_ingredients/flour.md][flour]]                              |
-| 3/4 cup  | [[../_ingredients/sugar.md][sugar]]                              |
+| Quantity | Item                              |
+|----------+-----------------------------------|
+| 2 cup    | frozen [[../_ingredients/raspberry.md][raspberry]]                  |
+| 2        | [[../_ingredients/cherry-tomato.md][eggs]]                              |
+| 1 cup    | [[../_ingredients/milk.md][milk]]                              |
+| 1 cup    | [[../_ingredients/flour.md][flour]]                             |
+| 3/4 cup  | [[../_ingredients/sugar.md][sugar]]                             |
 | 3 tbsp   | [[../_ingredients/butter.md][butter]], melted                    |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                    |
-| 1 tbsp   | [[../_ingredients/vanilla-extract.md][vanilla extract]]          |
-|          | [[../_ingredients/icing-sugar.md][icing sugar]] (optional)       |
+| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                        |
+| 1 tbsp   | [[../_ingredients/vanilla-extract.md][vanilla extract]]                   |
+|          | [[../_ingredients/icing-sugar.md][icing sugar]] (optional)            |
 |          | low fat vanilla [[../_ingredients/yogurt.md][yogurt]] (optional) |
 
 * Directions
@@ -29,10 +32,9 @@
 1. Preheat oven to 350 F
 2. Scatter raspberries in greased 11" shallow baking dish
 3. Combine eggs, milk, flour, sugar, butter, vanilla, and salt in a blender
-
    1. Blend on medium until smooth
    2. Could also combine in bowl and whisk
-
 4. Pour batter evenly over raspberries
 5. Bake for 40 min or until set
 6. Dust with icing sugar and serve warm with a dollop of yogurt
+

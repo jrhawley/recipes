@@ -1,35 +1,36 @@
+:PROPERTIES:
+:ID:       4f6f8631-76ff-45c8-b37d-9b9a056751c7
+:END:
 #+TITLE: Spicy halibut
+#+DATE: [2013-09-15]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:33]
+#+FILETAGS: :recipe:dinner:
 
 | Info      | Amount   |
 |-----------+----------|
 | Prep Time | 10 min   |
 | Cook Time | 10 min   |
 | Yields    | 4 filets |
-#+DATE: [2013-09-15]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:fish :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                  |
-|----------+-------------------------------------------------------|
+| Quantity | Item                    |
+|----------+-------------------------|
 | 1 slice  | apple wood smoked [[../_ingredients/bacon.md][bacon]] |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]         |
-| 1/2 tsp  | [[../_ingredients/paprika.md][paprika]]               |
-| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                 |
-| 2 tsp    | [[../_ingredients/garlic.md][garlic]], minced         |
-| 4 filets | [[../_ingredients/halibut.md][halibut]]               |
-| 4 oz     | baby [[../_ingredients/spinach.md][spinach]]          |
+| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]              |
+| 1/2 tsp  | [[../_ingredients/paprika.md][paprika]]                 |
+| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                  |
+| 2 tsp    | [[../_ingredients/garlic.md][garlic]], minced          |
+| 4 filets | [[../_ingredients/halibut.md][halibut]]                 |
+| 4 oz     | baby [[../_ingredients/spinach.md][spinach]]            |
 
 * Directions
 
 1. Cook bacon until crisp. Crumble, set aside.
 2. Combine salt, paprika, and pepper in a small bowl
-
    1. Sprinkle evenly over filets, using your hands to press them into the filets
    2. Add filets to the pan with bacon drippings
    3. Cooke for 3 min each side, or until flaky
-
 3. Add garlic to pan, cooking for 1 min
 4. Remove fish, add spinach and bacon into the pan, and cook until spinach is wilted
 5. Plate all ingredients and serve

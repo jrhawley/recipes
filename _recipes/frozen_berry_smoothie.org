@@ -1,23 +1,26 @@
+:PROPERTIES:
+:ID:       bba6702f-f5c9-42da-b79d-3c24ca19799e
+:END:
 #+TITLE: Frozen berry smoothie
+#+DATE: [2015-07-12]
+#+LAST_MODIFIED: [2022-07-25 Mon 09:02]
+#+FILETAGS: :recipe:beverage:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 5 min      |
 | Yields    | 2 servings |
-#+DATE: [2015-07-12]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:beverage :smoothie :fruit:
 
 * Ingredients
 
-| Quantity | Item                                                            |
-|----------+-----------------------------------------------------------------|
+| Quantity | Item                             |
+|----------+----------------------------------|
 | 1        | frozen [[../_ingredients/banana.md][banana]], peeled and sliced |
-| 2 cups   | frozen [[../_ingredients/strawberry.md][strawberries]]          |
-| 1 cup    | [[../_ingredients/milk.md][milk]]                               |
+| 2 cups   | frozen [[../_ingredients/strawberry.md][strawberries]]              |
+| 1 cup    | [[../_ingredients/milk.md][milk]]                             |
 | 1/2 cup  | [[../_ingredients/yogurt.md][yogurt]]                           |
-| 1/2 cup  | [[../_ingredients/orange-juice.md][orange juice]]               |
-| 2 Tbsp   | [[../_ingredients/honey.md][honey]], to taste                   |
+| 1/2 cup  | [[../_ingredients/orange-juice.md][orange juice]]                     |
+| 2 Tbsp   | [[../_ingredients/honey.md][honey]], to taste                  |
 
 * Directions
 

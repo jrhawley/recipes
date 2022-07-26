@@ -1,18 +1,21 @@
+:PROPERTIES:
+:ID:       1bd0af37-7dee-4e34-ab1e-3550dfd67899
+:END:
 #+TITLE: Bramble
 #+DATE: [2021-12-05]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:beverage :alcoholic:
+#+LAST_MODIFIED: [2022-07-25 Mon 08:48]
+#+FILETAGS: :recipe:beverage:alcoholic:
 
 * Ingredients
 
-| Quantity | Item                                                |
-|----------+-----------------------------------------------------|
-| 2 oz     | [[../_ingredients/gin.md][gin]]                     |
-| 1 oz     | [[../_ingredients/lemon-juice.md][lemon juice]]     |
-| 2 tsp    | [[../_recipes/simple-syrup.md][simple syrup]]       |
+| Quantity | Item          |
+|----------+---------------|
+| 2 oz     | [[../_ingredients/gin.md][gin]]           |
+| 1 oz     | [[../_ingredients/lemon-juice.md][lemon juice]]   |
+| 2 tsp    | [[../_recipes/simple-syrup.md][simple syrup]]  |
 | 1/2 oz   | [[../_ingredients/creme-de-mure.md][creme de mure]] |
-|          | [[../_ingredients/lemon.md][lemon wedge]]           |
-|          | [[../_ingredients/blackberry.md][blackberry]]       |
+|          | [[../_ingredients/lemon.md][lemon wedge]]   |
+|          | [[../_ingredients/blackberry.md][blackberry]]    |
 
 * Directions
 

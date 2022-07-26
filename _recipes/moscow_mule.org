@@ -1,20 +1,25 @@
+:PROPERTIES:
+:ID:       402ef3d6-8451-454f-9d40-3b954e91258a
+:END:
 #+TITLE: Moscow mule
 #+DATE: [2020-05-18]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:19]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                            |
-|----------+-------------------------------------------------|
-| 1.5 oz   | [[../_ingredients/vodka.md][vodka]]             |
+| Quantity | Item        |
+|----------+-------------|
+| 1.5 oz   | [[../_ingredients/vodka.md][vodka]]       |
 | 4.5 oz   | [[../_ingredients/ginger-beer.md][ginger beer]] |
-| 1 oz     | [[../_ingredients/lime-juice.md][lime juice]]   |
-|          | [[../_ingredients/ice.md][ice cubes]]           |
+| 1 oz     | [[../_ingredients/lime-juice.md][lime juice]]  |
+|          | [[../_ingredients/ice.md][ice cubes]]   |
 
 * Directions
 
 1. Fill copper mug with ice cubes
 2. Mix remaining ingredients in mug and stir
 
-* Notes
+* References & Notes
+
+1. Ginger beer can be substituted with ginger ale, although it is not as sharp

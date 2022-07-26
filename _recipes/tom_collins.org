@@ -1,16 +1,19 @@
+:PROPERTIES:
+:ID:       0d4e7424-6f00-4e9e-93c5-f50ce506aebc
+:END:
 #+TITLE: Tom Collins
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:16]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Ingredient                                      |
-|----------+-------------------------------------------------|
-| 2 oz     | [[../_ingredients/gin.md][gin]]                 |
-| 1 oz     | [[../_ingredients/lemon-juice.md][lemon juice]] |
-| 2/3 oz   | [[file:simple-syrup.md][simple syrup]]          |
-|          | [[../_ingredients/club-soda.md][soda water]]    |
+| Quantity | Ingredient   |
+|----------+--------------|
+| 2 oz     | [[../_ingredients/gin.md][gin]]          |
+| 1 oz     | [[../_ingredients/lemon-juice.md][lemon juice]]  |
+| 2/3 oz   | [[file:simple-syrup.md][simple syrup]] |
+|          | [[../_ingredients/club-soda.md][soda water]]   |
 
 * Directions
 
@@ -20,3 +23,6 @@
 4. Garnish with a lemon wedge or maraschino cherry.
 
 * References
+
+1. The Periodic Table of Cocktails
+

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       32c741ba-0cbd-41b0-8226-e2563cde3480
+:END:
 #+TITLE: Apple cider chicken
 #+DATE: [2021-11-08]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:53]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
 #+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
@@ -50,3 +53,6 @@
    1. Mix thoroughly, then let stand for a few minutes before serving.
 
 * References
+
+1. [[https://foodwithfeeling.com/one-skillet-apple-cider-chicken/print/10059/][Original recipe]]
+

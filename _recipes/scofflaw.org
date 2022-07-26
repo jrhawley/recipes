@@ -1,16 +1,19 @@
+:PROPERTIES:
+:ID:       dd73d051-81bd-4dfc-80ec-975cc93f8650
+:END:
 #+TITLE: Scofflaw
 #+DATE: [2021-02-17]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:18]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                            |
-|----------+-------------------------------------------------|
-| 3/2 oz   | [[../_ingredients/whiskey.md][rye whiskey]]     |
-| 1 oz     | [[../_ingredients/vermouth.md][dry vermouth]]   |
-| 2/3 oz   | [[../_ingredients/lemon-juice.md][lemon juice]] |
-| 2/3 oz   | [[../_ingredients/grenadine.md][grenadine]]     |
+| Quantity | Item         |
+|----------+--------------|
+| 3/2 oz   | [[../_ingredients/whiskey.md][rye whiskey]]  |
+| 1 oz     | [[../_ingredients/vermouth.md][dry vermouth]] |
+| 2/3 oz   | [[../_ingredients/lemon-juice.md][lemon juice]]  |
+| 2/3 oz   | [[../_ingredients/grenadine.md][grenadine]]    |
 
 * Directions
 
@@ -20,3 +23,6 @@
 4. Garnish with a twist of lemon peel
 
 * References & Notes
+
+1. The Periodic Table of Cocktails
+

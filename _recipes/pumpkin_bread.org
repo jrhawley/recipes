@@ -1,29 +1,32 @@
+:PROPERTIES:
+:ID:       bca8da10-67f5-413d-bb28-39a2f1c6c5ce
+:END:
 #+TITLE: Pumpkin bread
+#+DATE: [2013-09-12]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:27]
+#+FILETAGS: :recipe:
 
 | Info      | Amount   |
 |-----------+----------|
 | Prep Time | 20 min   |
 | Cook Time | 1 h      |
 | Yields    | 2 loaves |
-#+DATE: [2013-09-12]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:bread :pumpkin :baking:
 
 * Ingredients
 
-| Quantity | Item                                                    |
-|----------+---------------------------------------------------------|
+| Quantity | Item                      |
+|----------+---------------------------|
 | 3 cup    | [[../_ingredients/flour.md][flour]]                     |
-| 1 tsp    | ground [[../_ingredients/cloves.md][cloves]]            |
-| 2 tsp    | ground [[../_ingredients/cinnamon.md][cinnamon]]        |
-| 1 tsp    | ground [[../_ingredients/nutmeg.md][nutmeg]]            |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]           |
-| 1 tsp    | [[../_ingredients/baking-soda.md][baking soda]]         |
-| 1/2 tsp  | [[../_ingredients/baking-powder.md][baking powder]]     |
+| 1 tsp    | ground [[../_ingredients/cloves.md][cloves]]             |
+| 2 tsp    | ground [[../_ingredients/cinnamon.md][cinnamon]]           |
+| 1 tsp    | ground [[../_ingredients/nutmeg.md][nutmeg]]             |
+| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                |
+| 1 tsp    | [[../_ingredients/baking-soda.md][baking soda]]               |
+| 1/2 tsp  | [[../_ingredients/baking-powder.md][baking powder]]             |
 | 3 cup    | granulated [[../_ingredients/sugar.md][sugar]]          |
-| 1 cup    | soft [[../_ingredients/butter.md][butter]]              |
-| 3        | large [[../_ingredients/egg.md][eggs]]                  |
-| 16 oz    | [[../_ingredients/pumpkin-puree.md][pumpkin puree]]     |
+| 1 cup    | soft [[../_ingredients/butter.md][butter]]               |
+| 3        | large [[../_ingredients/egg.md][eggs]]                |
+| 16 oz    | [[../_ingredients/pumpkin-puree.md][pumpkin puree]]             |
 | 1/2 cup  | chopped [[../_ingredients/pecan.md][pecans]] (optional) |
 
 * Directions
@@ -31,14 +34,10 @@
 1. Preheat oven to 350 F and spray two medium loaf pans with non-stick cooking spray
 2. In a medium bowl, mix the flour, spices, salt, baking soda, and baking powder and set aside
 3. In another bowl add the butter and put it in the microwave for about 30 seconds, so that it is half melted
-
    - Add the sugar, eggs
    - Cream these three ingredients together until fluffy
    - Add the pumpkin and combine well
-
 4. In three batches, add the dry ingredients to the butter, sugar mixture and mix gently until each batch is just incorporated. Scrape the sides between each batch
-
    - Fold in the nuts
    - Split the batter between the prepared pans.
-
 5. Bake side-by-side for about one hour or until an inserted knife comes out clean the top is golden

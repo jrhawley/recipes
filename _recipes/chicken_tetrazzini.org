@@ -1,58 +1,57 @@
+:PROPERTIES:
+:ID:       c00450ce-37a8-4254-9b97-0d6b181390b0
+:END:
 #+TITLE: Chicken tetrazzini
+#+DATE: [2020-09-09]
+#+LAST_MODIFIED: [2022-07-25 Mon 08:54]
+#+FILETAGS: :recipe:dinner:
 
 | Info      | Amount         |
 |-----------+----------------|
 | Prep time | 20 min         |
 | Cook time | 30 min         |
 | Yields    | 4 - 6 servings |
-#+DATE: [2020-09-09]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:chicken :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                              |
-|----------+-------------------------------------------------------------------|
-| 6 Tbsp   | [[../_ingredients/butter.md][butter]]                             |
-| 1        | [[../_ingredients/onion.md][onion]], chopped                      |
-| 1 stalk  | [[../_ingredients/celery.md][celery]]                             |
-| 3 Tbsp   | [[../_ingredients/flour.md][flour]]                               |
-| 7/2 cup  | [[../_ingredients/milk.md][milk]]                                 |
-| 3/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                     |
-| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                             |
+| Quantity | Item                 |
+|----------+----------------------|
+| 6 Tbsp   | [[../_ingredients/butter.md][butter]]               |
+| 1        | [[../_ingredients/onion.md][onion]], chopped       |
+| 1 stalk  | [[../_ingredients/celery.md][celery]]               |
+| 3 Tbsp   | [[../_ingredients/flour.md][flour]]                |
+| 7/2 cup  | [[../_ingredients/milk.md][milk]]                 |
+| 3/2 tsp  | [[../_ingredients/table-salt.md][table salt]]           |
+| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]               |
 | 1 Tbsp   | [[../_ingredients/worcestershire-sauce.md][worcestershire sauce]] |
-| 1/2 cup  | [[../_ingredients/cream-cheese.md][cream cheese]]                 |
-| 3 cup    | [[../_ingredients/chicken-breast.md][chicken]], cooked            |
-| 1 pkg    | [[../_ingredients/egg-noodles.md][egg noodles]], cooked           |
-| 1/2 cup  | [[../_ingredients/parmesan.md][parmesan]], grated                 |
-| 1/2 cup  | [[../_ingredients/breadcrumbs.md][breadcrumbs]]                   |
+| 1/2 cup  | [[../_ingredients/cream-cheese.md][cream cheese]]         |
+| 3 cup    | [[../_ingredients/chicken-breast.md][chicken]], cooked      |
+| 1 pkg    | [[../_ingredients/egg-noodles.md][egg noodles]], cooked  |
+| 1/2 cup  | [[../_ingredients/parmesan.md][parmesan]], grated     |
+| 1/2 cup  | [[../_ingredients/breadcrumbs.md][breadcrumbs]]          |
 
 * Directions
 
 1. Preheat oven to 350 F, cook chicken in a large frying pan, and cook egg noodles according to instructions
 2. Heat half the butter in a large saucepan
-
    - Add onion and celery
    - Cook until tender and liquid has evaporated
-
 3. Sprinkle with flour, cook for 1 min
 4. Add milk gradually and bring to a boil
-
    - Add salt, pepper, worcestershire sauce
    - Whisk in cream cheese small bits at a time
    - Cook gently for ~ 2 min until melted and thickened
-
 5. Add chicken and noodles
-
    - Place in buttered 9"x13" pan
-
 6. Melt remaining butter
-
    - Combine with parmesan and bread crumbs
    - Sprinkle over the casserole
-
 7. Place entire dish on a baking sheet to catch any spills
-
    - Cook in oven for 30 min
 
 * References & Notes
+
+1. Original recipe: Wendy McNeil
+
+2. Be sure not to brown the vegetables after adding flour
+

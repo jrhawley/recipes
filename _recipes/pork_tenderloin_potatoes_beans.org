@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       6aea2628-eefd-490b-b1a2-a6c20ea431c1
+:END:
 #+TITLE: Brown sugar pork tenderloin, potatoes, and carrots
+#+DATE: [2021-03-01]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:26]
+#+FILETAGS: :recipe:dinner:slow_cooker:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -7,51 +13,44 @@
 | Yields    | 4 servings |
 
 #+CAPTION: Pork tenderloin, potatoes, and green beans
-[[/_assets/pork-tenderloin-potatoes-beans.jpg]]
-#+DATE: [2021-03-01]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:dinner :pork :slow:-cooker
+[[file:c:/Users/james/Documents/Org/personal-notes/recipes/_assets/pork-tenderloin-potatoes-beans.jpg][Pork tenderloin, potatoes, and green beans]]
 
 * Ingredients
 
-| Quantity | Item                                                              |
-|----------+-------------------------------------------------------------------|
-| 400 g    | [[../_ingredients/pork-tenderloin.md][pork tenderloin]]           |
-| 2 tsp    | [[../_ingredients/table-salt.md][table salt]]                     |
-| 1 tsp    | [[../_ingredients/thyme.md][thyme]]                               |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][salt]]                           |
-| 1/2 tsp  | [[../_ingredients/pepper.md][pepper]]                             |
-| 1 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]           |
-| 1/4 cup  | [[../_ingredients/brown-sugar.md][brown sugar]]                   |
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                       |
+| Quantity | Item                 |
+|----------+----------------------|
+| 400 g    | [[../_ingredients/pork-tenderloin.md][pork tenderloin]]      |
+| 2 tsp    | [[../_ingredients/table-salt.md][table salt]]           |
+| 1 tsp    | [[../_ingredients/thyme.md][thyme]]                |
+| 1/2 tsp  | [[../_ingredients/table-salt.md][salt]]                 |
+| 1/2 tsp  | [[../_ingredients/pepper.md][pepper]]               |
+| 1 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]      |
+| 1/4 cup  | [[../_ingredients/brown-sugar.md][brown sugar]]          |
+| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]            |
 | 2 Tbsp   | [[../_ingredients/worcestershire-sauce.md][Worcestershire sauce]] |
-| 1 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]                       |
-| 680 g    | [[../_ingredients/potato.md][baby potatoes]]                      |
-| 340 g    | [[../_ingredients/carrot.md][baby carrots]]                       |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], crushed                    |
+| 1 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]            |
+| 680 g    | [[../_ingredients/potato.md][baby potatoes]]        |
+| 340 g    | [[../_ingredients/carrot.md][baby carrots]]         |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], crushed      |
 
 * Directions
 
 1. Mix thyme, salt, and pepper in a small bowl
-
    1. Rub pork all over with the olive oil and then coat it well with the spice mixture on all sides
-
 2. Heat a pan to medium-high heat
-
    1. Sear all sides of the park tenderloin until brown, but don't cook through
-
 3. While the pork is searing, mix the broth, brown sugar, olive oil, Worcestershire sauce, and soy sauce together in the slow cooker
-
    1. When the pork is finished searing, place it in the slow cooker
    2. Add the potatoes, carrots, and garlic
-
 4. Cook for 4 h on LOW or until the pork registers 160 F
-
    1. Let the pork rest for 3 min
-
 5. While the pork is resting, place the potatoes in a large bowl and add butter and salt to taste
-
    1. Stir to combine
    2. Slice the pork and place it on a serving platter
 
 * References & Notes
+
+1. [[https://www.blessthismessplease.com/slow-cooker-pork-tenderloin-and-potatoes/][Original recipe]]
+
+2. Can easily substitute carrots with another vegetable
+

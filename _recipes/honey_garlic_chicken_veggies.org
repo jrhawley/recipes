@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       68f988f0-2c01-432b-9964-71102cd309aa
+:END:
 #+TITLE: Honey garlic chicken and veggies
+#+DATE: [2019-12-07]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:09]
+#+FILETAGS: :recipe:slow_cooker:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -8,45 +14,43 @@
 
 #+CAPTION: Honey garlic chicken and veggies
 [[../_assets/honey-garlic-chicken-veggies.jpg]]
-#+DATE: [2019-12-07]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:slow:-cookerdiner:
 
 * Ingredients
 
-*** Main
+** Main
 
-| Quantity | Item                                                     |
-|----------+----------------------------------------------------------|
-| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]   |
+| Quantity | Item                      |
+|----------+---------------------------|
+| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]           |
 | 16 oz    | baby [[../_ingredients/potato.md][red potatoes]], halved |
 | 16 oz    | baby [[../_ingredients/carrot.md][carrots]]              |
-| 16 oz    | [[../_ingredients/green-beans.md][green beans]], trimmed |
-| 2 Tbsp   | [[../_ingredients/parsley.md][parsley]], chopped         |
+| 16 oz    | [[../_ingredients/green-beans.md][green beans]], trimmed      |
+| 2 Tbsp   | [[../_ingredients/parsley.md][parsley]], chopped          |
 
-*** Sauce
+** Sauce
 
-| Quantity | Item                                                        |
-|----------+-------------------------------------------------------------|
-| 1/2 cup  | [[../_ingredients/soy-sauce.md][soy sauce]]                 |
-| 1/2 cup  | [[../_ingredients/honey.md][honey]]                         |
-| 1/4 cup  | [[../_ingredients/ketchup.md][ketchup]]                     |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced               |
-| 1 tsp    | [[../_ingredients/basil.md][basil]]                         |
-| 1/2 tsp  | [[../_ingredients/oregano.md][oregano]]                     |
+| Quantity | Item              |
+|----------+-------------------|
+| 1/2 cup  | [[../_ingredients/soy-sauce.md][soy sauce]]         |
+| 1/2 cup  | [[../_ingredients/honey.md][honey]]             |
+| 1/4 cup  | [[../_ingredients/ketchup.md][ketchup]]           |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced    |
+| 1 tsp    | [[../_ingredients/basil.md][basil]]             |
+| 1/2 tsp  | [[../_ingredients/oregano.md][oregano]]           |
 | 1/4 tsp  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]] |
-| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                       |
+| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]            |
 
 * Directions
 
 1. In a large bowl, combine soy sauce, honey, ketchup, garlic, basil, oregano, red pepper flakes and pepper.
 2. Place chicken thighs, potatoes, carrots and soy sauce mixture into slow cooker
-
    1. Cover and cook on high heat for 4h or low for 8 h
    2. Baste every hour
    3. Add green beans during the last 30 minutes of cooking time
-
 3. OPTIONAL: Preheat oven to broil. Place chicken thighs onto a baking sheet, skin side up, and broil until crisp, about 3-4 min.
 4. Serve chicken immediately with potatoes, carrots and green beans, garnished with parsley, if desired.
 
 * References & Notes
+
+1. [[https://damndelicious.net/2015/06/05/slow-cooker-honey-garlic-chicken-and-veggies/][Original recipe]]
+

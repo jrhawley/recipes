@@ -1,22 +1,25 @@
+:PROPERTIES:
+:ID:       40935080-1806-4c82-9a68-792e63c43749
+:END:
 #+TITLE: Gin fizz
+#+DATE: [2020-12-19]
+#+LAST_MODIFIED: [2022-07-25 Mon 09:04]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 2 min      |
 | Yields    | 1 cocktail |
-#+DATE: [2020-12-19]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
 
 * Ingredients
 
-| Quantity | Item                                          |
-|----------+-----------------------------------------------|
-| 1.5 oz   | [[../_ingredients/gin.md][gin]]               |
-| 1 oz     | [[./simple-syrup.md][simple syrup]]           |
-| 1 oz     | [[../_ingredients/lime-juice.md][lime juice]] |
-|          | [[../_ingredients/ice.md][ice cubes]]         |
-| 4 oz     | [[../_ingredients/club-soda.md][club soda]]   |
+| Quantity | Item         |
+|----------+--------------|
+| 1.5 oz   | [[../_ingredients/gin.md][gin]]          |
+| 1 oz     | [[./simple-syrup.md][simple syrup]] |
+| 1 oz     | [[../_ingredients/lime-juice.md][lime juice]]   |
+|          | [[../_ingredients/ice.md][ice cubes]]    |
+| 4 oz     | [[../_ingredients/club-soda.md][club soda]]    |
 
 * Directions
 

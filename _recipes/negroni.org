@@ -1,14 +1,17 @@
+:PROPERTIES:
+:ID:       46f16e9c-48d4-408d-8874-6c1ed9353dfe
+:END:
 #+TITLE: Negroni
 #+DATE: [2021-02-17]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:19]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                            |
-|----------+-------------------------------------------------|
-| 1 oz     | [[../_ingredients/campari.md][Campari]]         |
-| 1 oz     | [[../_ingredients/gin.md][gin]]                 |
+| Quantity | Item           |
+|----------+----------------|
+| 1 oz     | [[../_ingredients/campari.md][Campari]]        |
+| 1 oz     | [[../_ingredients/gin.md][gin]]            |
 | 1 oz     | [[../_ingredients/vermouth.md][sweet vermouth]] |
 
 * Directions
@@ -17,3 +20,6 @@
 2. Garnish with an orange wedge or twist
 
 * References & Notes
+
+1. The Periodic Table of Cocktails
+

@@ -1,4 +1,10 @@
+:PROPERTIES:
+:ID:       0201158b-4650-4c3d-96c9-7254da897d36
+:END:
 #+TITLE: Tomato spinach tortellini soup
+#+DATE: [2020-10-20]
+#+LAST_MODIFIED: [2022-07-25 Mon 20:25]
+#+FILETAGS: :recipe:vegetarian:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -8,46 +14,41 @@
 
 #+CAPTION: Tomato spinach tortellini soup
 [[../_assets/tomato-spinach-tortellini-soup.jpg]]
-#+DATE: [2020-10-20]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:soup :pasta :vegetarian :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                        |
-|----------+-------------------------------------------------------------|
-| 2 Tbsp   | [[../_ingredients/butter.md][butter]]                       |
-| 1        | [[../_ingredients/onion.md][onion]], diced                  |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], chopped              |
-| 1/4 cup  | [[../_ingredients/flour.md][flour]]                         |
-| 3 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]     |
-| 28 oz    | [[../_ingredients/diced-tomatoes.md][diced tomatoes]]       |
-| 2 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]           |
-| 8 oz     | cheese [[../_ingredients/tortellini.md][tortellini]]        |
-| 1/2 cup  | [[../_ingredients/parmesan.md][parmesan]], grated           |
-| 10 oz    | [[../_ingredients/spinach.md][spinach]], coarsely chopped   |
-| 1/2 cup  | [[../_ingredients/greek-yogurt.md][Greek yogurt]]           |
-| 1/4 cup  | [[../_ingredients/basil.md][basil]], chopped (optional)     |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]             |
-|          | [[../_ingredients/pepper.md][pepper]]                       |
-|          | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]] |
+| Quantity | Item                      |
+|----------+---------------------------|
+| 2 Tbsp   | [[../_ingredients/butter.md][butter]]                    |
+| 1        | [[../_ingredients/onion.md][onion]], diced              |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], chopped           |
+| 1/4 cup  | [[../_ingredients/flour.md][flour]]                     |
+| 3 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]           |
+| 28 oz    | [[../_ingredients/diced-tomatoes.md][diced tomatoes]]            |
+| 2 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]              |
+| 8 oz     | cheese [[../_ingredients/tortellini.md][tortellini]]         |
+| 1/2 cup  | [[../_ingredients/parmesan.md][parmesan]], grated          |
+| 10 oz    | [[../_ingredients/spinach.md][spinach]], coarsely chopped |
+| 1/2 cup  | [[../_ingredients/greek-yogurt.md][Greek yogurt]]              |
+| 1/4 cup  | [[../_ingredients/basil.md][basil]], chopped (optional) |
+|          | [[../_ingredients/kosher-salt.md][kosher salt]]               |
+|          | [[../_ingredients/pepper.md][pepper]]                    |
+|          | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]]         |
 
 * Directions
 
 1. Melt the butter in a pan over medium heat
-
    1. add the onion and cook until tender, about 5-7 min
    2. Add the garlic and red pepper flakes and cook until fragrant, about 1 min
    3. Add the flour and cook for another minute
-
 2. Add the broth, tomatoes, tomato paste and tortellini, bring to a boil
-
    1. Reduce the heat and simmer until the tortellini is tender, about 10 min
-
 3. Add the parmesan, let it melt
-
    1. Add the spinach, let it wilt
    2. Add the cream, season with salt and pepper to taste
    3. Remove from heat before adding the basil
 
 * References & Notes
+
+1. [[https://www.closetcooking.com/creamy-parmesan-tomato-and-spinach/][Original recipe]]
+

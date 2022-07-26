@@ -1,14 +1,17 @@
+:PROPERTIES:
+:ID:       7227861b-820e-4e27-a6bb-1748cabb20a9
+:END:
 #+TITLE: Manhattan
 #+DATE: [2021-02-17]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:alcoholic :beverage:
+#+LAST_MODIFIED: [2022-07-25 Mon 18:13]
+#+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-| Quantity | Item                                                        |
-|----------+-------------------------------------------------------------|
-| 2 oz     | [[../_ingredients/whiskey.md][whiskey]]                     |
-| 2/3 oz   | [[../_ingredients/vermouth.md][vermouth]]                   |
+| Quantity | Item              |
+|----------+-------------------|
+| 2 oz     | [[../_ingredients/whiskey.md][whiskey]]           |
+| 2/3 oz   | [[../_ingredients/vermouth.md][vermouth]]          |
 | 3 dashes | [[../_ingredients/agnostura-bitters.md][Agnostura bitters]] |
 
 * Directions
@@ -19,3 +22,7 @@
 4. Garnish with a maraschino cherry (with sweet vermouth) or a strip of lemon peel (with dry vermouth)
 
 * References & Notes
+
+1. The Periodic Table of Cocktails
+2. The Rob Roy is made the same way as a Manhattan, just with scotch whiskey instead of bourbon or rye
+

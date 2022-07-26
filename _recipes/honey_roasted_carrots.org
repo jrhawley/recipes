@@ -1,28 +1,28 @@
 #+TITLE: Honey roasted carrots
+#+DATE: [2019-12-07]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:10]
+#+FILETAGS: :recipe:vegetarian:side:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 10 min     |
 | Cook Time | 20 min     |
 | Yields    | 6 servings |
-#+DATE: [2019-12-07]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:vegetarian :side :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                                                   |
-|----------+----------------------------------------------------------------------------------------|
+| Quantity | Item                                                    |
+|----------+---------------------------------------------------------|
 | 2 lbs    | [[../_ingredients/carrot.md][rainbow carrots]], peeled and sliced into 1/4 inch rounds |
 | 2 Tbsp   | [[../_ingredients/butter.md][butter]], melted                                          |
-| 2 tsp    | [[../_ingredients/honey.md][honey]]                                                    |
-| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                                          |
-| 1/2 tsp  | fresh [[../_ingredients/thyme.md][thyme]], chopped                                     |
-| 1/8      | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]                                  |
-| 1/8      | [[../_ingredients/cumin.md][cumin]]                                                    |
-| 2 oz     | [[../_ingredients/goat-cheese.md][goat cheese]], crumbled                              |
-| 1/3 cup  | [[../_ingredients/pomegranate-seeds.md][pomegranate seeds]], about 1/2 pomegranate     |
-| 2 Tbsp   | [[../_ingredients/sunflower-seeds.md][sunflower seeds]]                                |
+| 2 tsp    | [[../_ingredients/honey.md][honey]]                                                   |
+| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                                              |
+| 1/2 tsp  | fresh [[../_ingredients/thyme.md][thyme]], chopped                                    |
+| 1/8      | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]                                          |
+| 1/8      | [[../_ingredients/cumin.md][cumin]]                                                   |
+| 2 oz     | [[../_ingredients/goat-cheese.md][goat cheese]], crumbled                                   |
+| 1/3 cup  | [[../_ingredients/pomegranate-seeds.md][pomegranate seeds]], about 1/2 pomegranate                |
+| 2 Tbsp   | [[../_ingredients/sunflower-seeds.md][sunflower seeds]]                                         |
 
 * Instructions
 
@@ -32,4 +32,7 @@
 4. Transfer warm carrots to a serving dish and top with goat cheese, pomegranate seeds, and sunflower seeds.
 5. Serve warm.
 
-* References
+* References & Notes
+
+1. [https://www.thevintagemixer.com/honey-roasted-carrots-with-goat-cheese-and-pomegranate-seeds/][Original recipe]]
+

@@ -1,41 +1,56 @@
+:PROPERTIES:
+:ID:       6649fc87-1356-4b9e-a39f-80364c9ca06a
+:ROAM_ALIASES: "Garlic, olive oil, and chili pepper pasta"
+:END:
 #+TITLE: Aglio, olio e peperoncino
-
-Garlic, olive oil and chili pepper
+#+DATE: [2020-11-01]
+#+LAST_MODIFIED: [2022-07-25 Mon 09:03]
+#+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 5 min      |
 | Cook Time | 15 min     |
 | Yields    | 4 servings |
-#+DATE: [2020-11-01]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:pasta :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                          |
-|----------+---------------------------------------------------------------|
-| 4 cloves | [[../_ingredients/garlic.md][garlic]], finely diced           |
-| 3/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]                   |
-| 20       | [[../_ingredients/anchovies.md][anchovies]]                   |
+| Quantity | Item                    |
+|----------+-------------------------|
+| 4 cloves | [[../_ingredients/garlic.md][garlic]], finely diced    |
+| 3/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]               |
+| 20       | [[../_ingredients/anchovies.md][anchovies]]               |
 | 30       | [[../_ingredients/cherry-tomato.md][cherry tomatoes]], halved |
-| 500 g    | [[../_ingredients/spaghetti.md][spaghetti]]                   |
-|          | [[../_ingredients/pepper.md][pepper]]                         |
-|          | dry [[../_ingredients/red-pepper-flakes.md][chili flakes]]    |
+| 500 g    | [[../_ingredients/spaghetti.md][spaghetti]]               |
+|          | [[../_ingredients/pepper.md][pepper]]                  |
+|          | dry [[../_ingredients/red-pepper-flakes.md][chili flakes]]        |
 
 * Directions
 
 1. In a big non-stick pan add the olive oil, chili peppers and the garlic
-
    1. Cook the garlic until it is nice and golden (white: too early, brown: too late)
-
 2. Remove from heat and add anchovies
 3. Once searing, return back to the heat and add cherry tomatoes
 4. Add pepper to taste, no need for salt
-
    1. Fry on medium heat and have the tomatoes blister
-
 5. Reduce heat and let simmer while the pasta cooks until /al dente/
 6. Drain pasta, then toss with mixture in the pan before serving
 
 * References & Notes
+
+1. Original recipe: Giacomo Grillo
+
+#+BEGIN_QUOTE
+This recipe is the favorite of my dad.
+After a long and hard day at work, this pasta dish is all he needs to be in peace and happy.
+It is super-easy and straightforward but incredibly delicious.
+#+END_QUOTE
+
+2. The sauce takes minutes to prepare so bring the water to the boil.
+Do not add a lot of salt to the water since the sauce is a little strong on seasoning.
+
+3. *The reaction after adding the anchovies is pretty violent, so add them and with a wooden spoon and melt them with the heat off*
+
+4. You can prepare a little fancy garnish by toasting some breadcrumbs and fresh parsley in a non-stick pan until breadcrumbs are golden brown.
+Once you serve the pasta sprinkle some breadcrumbs on the pasta.
+

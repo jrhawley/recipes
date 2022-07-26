@@ -1,47 +1,48 @@
+:PROPERTIES:
+:ID:       9bd96b6c-e81b-43c1-bcd7-d805c2ad6144
+:END:
 #+TITLE: Sweet potato, black bean, and lime rice bowl
+#+DATE: [2022-03-27]
+#+LAST_MODIFIED: [2022-07-25 Mon 20:23]
+#+FILETAGS: :recipe:dinner:vegetarian:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time |            |
 | Cook Time |            |
 | Yields    | 4 servings |
-#+DATE: [2022-03-27]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:dinner :vegetarian:
 
 * Ingredients
 
-| Quantity | Item                                                       |
-|----------+------------------------------------------------------------|
+| Quantity | Item                  |
+|----------+-----------------------|
 | 2        | [[../_ingredients/sweet-potato.md][sweet potatoes]], cubed |
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                |
-| 15 oz    | [[../_ingredients/black-beans.md][black beans]]            |
-| 2 tsp    | [[../_ingredients/cumin.md][cumin]]                        |
-| 1 cup    | [[../_ingredients/rice.md][long grain rice]]               |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced              |
-| 3/2 cup  | [[../_ingredients/vegetable-broth.md][vegetable broth]]    |
-| 2 Tbsp   | [[../_ingredients/lime-juice.md][lime juice]]              |
-| 1 tsp    | [[../_ingredients/kosher-salt.md][kosher salt]]            |
-| 2 tsp    | [[../_ingredients/lime-zest.md][lime zest]]                |
+| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]             |
+| 15 oz    | [[../_ingredients/black-beans.md][black beans]]           |
+| 2 tsp    | [[../_ingredients/cumin.md][cumin]]                 |
+| 1 cup    | [[../_ingredients/rice.md][long grain rice]]       |
+| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced        |
+| 3/2 cup  | [[../_ingredients/vegetable-broth.md][vegetable broth]]       |
+| 2 Tbsp   | [[../_ingredients/lime-juice.md][lime juice]]            |
+| 1 tsp    | [[../_ingredients/kosher-salt.md][kosher salt]]           |
+| 2 tsp    | [[../_ingredients/lime-zest.md][lime zest]]             |
 
 * Directions
 
 1. Preheat oven to 400 F.
-
    1. Drizzle cubed potatoes with olive oil and toss to coat.
    2. Place potatoes onto a baking sheet, bake for 15 - 20 min, until soft.
-
 2. In a medium saucepan over medium-high heat, add 1 Tbsp olive oil.
-
    1. Add rice and garlic, cooking for 1 - 2 min.
    2. Add broth, lime juice, and salt.
    3. Reduce heat to low, cover, and simmer for 20 min.
    4. Stir in lime zest and set aside.
-
 3. In a large, deep pot over medium heat, add 1 Tbsp oil.
-
    1. Add roasted potatoes, black beans, and cumin.
    2. Mix together evenly and cook for 3 - 5 min.
    3. Add rice and remaining ingredients, mixing well.
 
 * References
+
+1. [[https://thiswifecooks.com/wprm_print/9504][Original recipe]]
+

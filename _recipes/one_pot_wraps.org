@@ -1,35 +1,39 @@
+:PROPERTIES:
+:ID:       4701e35a-ab1b-4b79-8dc6-68014ac148eb
+:END:
 #+TITLE: One pot wraps
+#+DATE: [2020-02-22]
+#+LAST_MODIFIED: [2022-07-25 Mon 18:22]
+#+FILETAGS: :recipe:vegetarian:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 10 min     |
 | Cook Time | 20 min     |
 | Yields    | 4 servings |
-#+DATE: [2020-02-22]
-#+LAST_MODIFIED:
-#+FILETAGS: :recipe:vegetarian :dinner:
 
 * Ingredients
 
-| Quantity | Item                                                             |
-|----------+------------------------------------------------------------------|
-| 1 cup    | [[../_ingredients/quinoa.md][quinoa]], uncooked                  |
-| 1.75 cup | [[../_ingredients/vegetable-broth.md][vegetable broth]]          |
+| Quantity | Item                         |
+|----------+------------------------------|
+| 1 cup    | [[../_ingredients/quinoa.md][quinoa]], uncooked             |
+| 7/4 cup  | [[../_ingredients/vegetable-broth.md][vegetable broth]]              |
 | 15 oz    | [[../_ingredients/black-beans.md][black beans]], drained, rinsed |
 | 1        | small red [[../_ingredients/bell-pepper.md][bell pepper]], diced |
-| 12 oz    | diced [[../_ingredients/pineapple.md][pineapple]]                |
-| 1 tsp    | [[../_ingredients/paprika.md][paprika]]                          |
-| 1 Tbsp   | [[../_ingredients/lime-juice.md][lime juice]]                    |
-| 4        | [[../_ingredients/tortilla.md][tortillas]]                       |
+| 12 oz    | diced [[../_ingredients/pineapple.md][pineapple]]              |
+| 1 tsp    | [[../_ingredients/paprika.md][paprika]]                      |
+| 1 Tbsp   | [[../_ingredients/lime-juice.md][lime juice]]                   |
+| 4        | [[../_ingredients/tortilla.md][tortillas]]                    |
 
 * Directions
 
 1. In a large pot, bring quinoa and broth to a simmer over medium heat
-
    1. Add all other ingredients but the wraps, and mix
-
 2. Bring to a boil over medium-high heat, reduce to medium, cover, and cook for 15-20 min
 3. Stir and serve in lettuce or wraps
 4. Garnish with cilantro, parsley, avocado, salsa, and/or green onion
 
 * References & Notes
+
+1. Original recipe: Wendy McNeil
+
