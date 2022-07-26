@@ -1,9 +1,9 @@
 :PROPERTIES:
-:ID:       74f43fb4-0055-4d7d-a645-b566b276c016
+:ID:       36F2E97A-C8D0-47F4-8F02-4C2CCE1B0029
 :END:
 #+TITLE: Recipes
 #+DATE: [2021-02-27 Sat]
-#+LAST_MODIFIED: [2022-07-24 Sun 22:03]
+#+LAST_MODIFIED: [2022-07-25 Mon 09:12]
 #+FILETAGS: :personal:recipes:
 
 This is my recipe book.
