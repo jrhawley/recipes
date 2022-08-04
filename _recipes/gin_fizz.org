@@ -19,7 +19,7 @@
 | 1 oz     | [[./simple-syrup.md][simple syrup]] |
 | 1 oz     | [[../_ingredients/lime-juice.md][lime juice]]   |
 |          | [[../_ingredients/ice.md][ice cubes]]    |
-| 4 oz     | [[../_ingredients/club-soda.md][club soda]]    |
+| 4 oz     | [[id:dba4890c-1a4a-44b8-8ab2-c6414d166052][club soda]]    |
 
 * Directions
 

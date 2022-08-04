@@ -10,9 +10,9 @@
 
 | Quantity | Ingredients |
 |----------+-------------|
-| 3 oz     | [[../_ingredients/prosecco.md][Prosecco]]    |
-| 2 oz     | [[../_ingredients/aperol.md][Aperol]]      |
-| 1 oz     | [[../_ingredients/club-soda.md][soda water]]  |
+| 3 oz     | [[id:5ef6d9fc-4f8c-412d-be11-efaf44b151cb][Prosecco]]    |
+| 2 oz     | [[id:30eda9e5-d727-424e-a2e9-7eccafaaefda][Aperol]]      |
+| 1 oz     | [[id:dba4890c-1a4a-44b8-8ab2-c6414d166052][soda water]]  |
 
 * Directions
 

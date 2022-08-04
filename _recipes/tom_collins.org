@@ -13,7 +13,7 @@
 | 2 oz     | [[../_ingredients/gin.md][gin]]          |
 | 1 oz     | [[../_ingredients/lemon-juice.md][lemon juice]]  |
 | 2/3 oz   | [[file:simple-syrup.md][simple syrup]] |
-|          | [[../_ingredients/club-soda.md][soda water]]   |
+|          | [[id:dba4890c-1a4a-44b8-8ab2-c6414d166052][soda water]]   |
 
 * Directions
 
