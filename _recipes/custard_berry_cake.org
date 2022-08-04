@@ -25,7 +25,7 @@
 | 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                        |
 | 1 tbsp   | [[../_ingredients/vanilla-extract.md][vanilla extract]]                   |
 |          | [[../_ingredients/icing-sugar.md][icing sugar]] (optional)            |
-|          | low fat vanilla [[../_ingredients/yogurt.md][yogurt]] (optional) |
+|          | low fat vanilla [[id:79ae6530-e322-4fb9-9733-ec46a5aeee7d][yogurt]] (optional) |
 
 * Directions
 
