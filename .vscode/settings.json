@@ -17,9 +17,6 @@
         "traybake",
         "zucchine"
     ],
-    "cSpell.ignoreWords": [
-        "worchestershire"
-    ],
     "markdownlint.config": {
         "MD025": false,
         "MD037": false,
