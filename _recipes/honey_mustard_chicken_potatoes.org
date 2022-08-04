@@ -23,7 +23,7 @@
 | 1/4 cup  | [[../_ingredients/honey.md][honey]]                        |
 | 3 Tbsp   | [[../_ingredients/mustard.md][whole grain mustard]]          |
 | 2 Tbsp   | [[../_ingredients/dijon-mustard.md][dijon mustard]]                |
-| 2 Tbsp   | [[../_ingredients/water.md][water]]                        |
+| 2 Tbsp   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                        |
 | 1 lbs    | baby [[../_ingredients/potato.md][red potatoes]], quartered |
 | 8 oz     | [[../_ingredients/green-beans.md][green beans]], halved          |
 | 2 sprigs | [[../_ingredients/rosemary.md][rosemary]]                     |

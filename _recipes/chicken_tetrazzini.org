@@ -23,7 +23,7 @@
 | 7/2 cup  | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                 |
 | 3/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]           |
 | 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]               |
-| 1 Tbsp   | [[../_ingredients/worcestershire-sauce.md][worcestershire sauce]] |
+| 1 Tbsp   | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][worcestershire sauce]] |
 | 1/2 cup  | [[../_ingredients/cream-cheese.md][cream cheese]]         |
 | 3 cup    | [[../_ingredients/chicken-breast.md][chicken]], cooked      |
 | 1 pkg    | [[../_ingredients/egg-noodles.md][egg noodles]], cooked  |

@@ -38,7 +38,7 @@
 | 2 cloves | [[../_ingredients/garlic.md][garlic]], minced                    |
 | 1/2 cup  | [[../_ingredients/cashews.md][cashews]], soaked                   |
 | 2 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]                   |
-| 28 oz    | [[../_ingredients/whole-peeled-tomatoes.md][whole peeled tomatoes]] with juices |
+| 28 oz    | [[id:419803fa-a1ca-47e6-8eda-93d83cd90bd5][whole peeled tomatoes]] with juices |
 | 1/4 cup  | oil-packed [[../_ingredients/sun-dried-tomatoes.md][sun-dried-tomatoes]]     |
 | 2 oz     | [[../_ingredients/tomato-paste.md][tomato paste]]                      |
 | 1 tsp    | dried [[../_ingredients/oregano.md][oregano]]                     |

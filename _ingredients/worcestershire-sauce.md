@@ -1,1 +1,0 @@
-# Worcestershire sauce

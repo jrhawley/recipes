@@ -29,7 +29,7 @@
 | 2 tsp      | [[../_ingredients/garlic-powder.md][garlic powder]]                       |
 | 6 oz       | [[../_ingredients/tomato-paste.md][tomato paste]]                        |
 | 28 oz      | [[../_ingredients/tomato-sauce.md][tomato sauce]]                        |
-| 5/4 cups   | [[../_ingredients/water.md][water]]                               |
+| 5/4 cups   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                               |
 | 8 oz       | [[../_ingredients/lasagna-noodles.md][lasagna noodles]], uncooked           |
 | 4 cups     | shredded [[../_ingredients/mozzarella.md][mozzarella]]                 |
 | 3/2 cups   | [[../_ingredients/ricotta.md][ricotta]]                             |

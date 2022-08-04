@@ -10,7 +10,7 @@
 
 | Quantity | Ingredient      |
 |----------+-----------------|
-| 4 / 3 oz | [[../_ingredients/whiskey.md][whiskey]][fn:2]   |
+| 4 / 3 oz | [[id:52f0a339-318e-4e60-b3d3-cdc5de08502f][whiskey]][fn:2]   |
 | 2 / 3 oz | [[../_ingredients/triple-sec.md][Triple sec]]      |
 | 5 / 6 oz | [[../_ingredients/lemon-juice.md][lemon juice]]     |
 |          | [[../_ingredients/lemon-lime-soda.md][lemon-lime soda]] |

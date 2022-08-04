@@ -10,7 +10,7 @@
 
 | Quantity | Item         |
 |----------+--------------|
-| 3/2 oz   | [[../_ingredients/whiskey.md][rye whiskey]]  |
+| 3/2 oz   | [[id:52f0a339-318e-4e60-b3d3-cdc5de08502f][rye whiskey]]  |
 | 1 oz     | [[../_ingredients/vermouth.md][dry vermouth]] |
 | 2/3 oz   | [[../_ingredients/lemon-juice.md][lemon juice]]  |
 | 2/3 oz   | [[../_ingredients/grenadine.md][grenadine]]    |

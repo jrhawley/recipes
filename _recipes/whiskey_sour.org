@@ -10,7 +10,7 @@
 
 | Quantity | Item         |
 |----------+--------------|
-| 1.5 oz   | [[../_ingredients/whiskey.md][whiskey]]      |
+| 1.5 oz   | [[id:52f0a339-318e-4e60-b3d3-cdc5de08502f][whiskey]]      |
 | 1.5 oz   | [[./simple-syrup.md][Simple syrup]] |
 | 1 oz     | [[../_ingredients/lime-juice.md][lime juice]]   |
 |          | [[../_ingredients/ice.md][ice cubes]]    |

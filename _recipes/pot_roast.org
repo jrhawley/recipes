@@ -21,7 +21,7 @@
 | 1        | [[../_ingredients/onion.md][onion]], chunked    |
 | 4        | [[../_ingredients/carrot.md][carrots]], chunked  |
 | 2 cups   | [[../_ingredients/beef-broth.md][beef broth]]        |
-| 2 cups   | [[../_ingredients/water.md][water]]             |
+| 2 cups   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]             |
 | 1/2 tsp  | [[../_ingredients/garlic-powder.md][garlic powder]]     |
 | 1/2 tsp  | [[../_ingredients/onion-powder.md][onion powder]]      |
 | 1/2 tsp  | [[../_ingredients/italian-seasoning.md][Italian seasoning]] |

@@ -18,8 +18,8 @@
 |----------+-----------------------|
 | 3/2 lbs  | [[../_ingredients/ground-beef.md][ground beef]]           |
 | 1        | medium [[../_ingredients/onion.md][onion]], chopped |
-| 28 oz    | [[../_ingredients/whole-peeled-tomatoes.md][whole peeled tomatoes]] |
-| 2 cup    | [[../_ingredients/water.md][water]]                 |
+| 28 oz    | [[id:419803fa-a1ca-47e6-8eda-93d83cd90bd5][whole peeled tomatoes]] |
+| 2 cup    | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                 |
 | 852 mL   | [[../_ingredients/consomme.md][consomme soup]]         |
 | 284 mL   | [[../_ingredients/tomato-soup.md][tomato soup]]           |
 | 4        | [[../_ingredients/carrot.md][carrots]], chopped      |

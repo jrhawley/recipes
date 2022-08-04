@@ -25,7 +25,7 @@
 | 1        | [[../_ingredients/onion.md][onion]]             |
 | 3 cloves | [[../_ingredients/garlic.md][garlic]]            |
 | 1/2 tsp  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]] |
-| 1/2 cup  | [[../_ingredients/white-wine.md][white wine]]        |
+| 1/2 cup  | [[id:3c0b48f9-96ce-4e4f-82d0-d816f1abdfcf][white wine]]        |
 | 1 cup    | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]              |
 | 1 cup    | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated  |
 | 16 oz    | [[../_ingredients/farfalle.md][farfalle]]          |

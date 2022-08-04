@@ -10,7 +10,7 @@
 
 | Quantity | Item              |
 |----------+-------------------|
-| 2 oz     | [[../_ingredients/whiskey.md][whiskey]]           |
+| 2 oz     | [[id:52f0a339-318e-4e60-b3d3-cdc5de08502f][whiskey]]           |
 | 2/3 oz   | [[../_ingredients/vermouth.md][vermouth]]          |
 | 3 dashes | [[id:0ec50573-a2d4-4421-b07c-d43736a9a586][Agnostura bitters]] |
 

@@ -19,10 +19,10 @@
 | 2 lbs    | boneless, skinless [[../_ingredients/chicken-breast.md][chicken breasts]] |
 | 5 oz     | [[../_ingredients/snap-peas.md][snap peas]]                          |
 | 1        | large [[../_ingredients/bell-pepper.md][red bell pepper]], sliced      |
-| 5 oz     | [[../_ingredients/water-chestnuts.md][water chestnuts]], sliced            |
+| 5 oz     | [[id:ca962d8d-8d43-4353-b35d-4b39592e6e52][water chestnuts]], sliced            |
 | 4 stalks | [[../_ingredients/green-onion.md][green onion]], chopped               |
 | 1 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]                    |
-| 1/4 cup  | [[../_ingredients/worcestershire-sauce.md][worcestershire sauce]]               |
+| 1/4 cup  | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][worcestershire sauce]]               |
 | 1/4 cup  | low sodium [[../_ingredients/soy-sauce.md][soy sauce]]               |
 | 2 Tbsp   | [[../_ingredients/honey.md][honey]]                              |
 | 2 tsp    | [[../_ingredients/garlic.md][garlic]], minced                     |

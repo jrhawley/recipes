@@ -27,7 +27,7 @@
 | 1 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]      |
 | 1/4 cup  | [[../_ingredients/brown-sugar.md][brown sugar]]          |
 | 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]            |
-| 2 Tbsp   | [[../_ingredients/worcestershire-sauce.md][Worcestershire sauce]] |
+| 2 Tbsp   | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][Worcestershire sauce]] |
 | 1 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]            |
 | 680 g    | [[../_ingredients/potato.md][baby potatoes]]        |
 | 340 g    | [[../_ingredients/carrot.md][baby carrots]]         |

@@ -11,7 +11,7 @@
 | Quantity | Item             |
 |----------+------------------|
 | 2 oz     | [[../_ingredients/amaro.md][amaro]]            |
-| 1 oz     | [[../_ingredients/whipping-cream.md][whipping cream]]   |
+| 1 oz     | [[id:eaf54217-f528-4d72-b1b1-4efff76983ae][whipping cream]]   |
 | 3/4 oz   | [[../_ingredients/espresso.md][espresso]]         |
 | 2        | [[../_ingredients/chocolate-sticks.md][chocolate sticks]] |
 

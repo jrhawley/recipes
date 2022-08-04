@@ -27,7 +27,7 @@
 |        1 | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]] (whole)             |
 |    2 tsp | [[../_ingredients/cloves.md][cloves]] (whole)             |
 |  1/2 tsp | [[../_ingredients/allspice.md][allspice]] (whole; optional) |
-|      3 L | [[../_ingredients/water.md][water]]                      |
+|      3 L | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                      |
 |  1/4 cup | [[../_ingredients/brown-sugar.md][brown sugar]]                |
 
 * Directions

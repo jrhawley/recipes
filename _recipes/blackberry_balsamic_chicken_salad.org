@@ -49,7 +49,7 @@
 | 1 cup    | [[../_ingredients/blackberry.md][blackberries]]      |
 | 1 cup    | [[../_ingredients/avocado.md][avocado]]           |
 | 1/4 cup  | [[../_ingredients/red-onion.md][red onion]], sliced |
-| 1/4 cup  | [[../_ingredients/walnuts.md][walnuts]]           |
+| 1/4 cup  | [[id:2e7a8ec5-e441-4250-a315-3a58fd5d65f3][walnuts]]           |
 
 * Directions
 

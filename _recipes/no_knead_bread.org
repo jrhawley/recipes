@@ -18,8 +18,8 @@
 |----------+-----------------|
 | 3 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]           |
 | 3/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]      |
-| 1 tsp    | [[../_ingredients/yeast.md][yeast]]           |
-| 3/2 cup  | [[../_ingredients/water.md][water]], lukewarm |
+| 1 tsp    | [[id:87dc0381-68e7-4bc0-a570-38a0ee678619][yeast]]           |
+| 3/2 cup  | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]], lukewarm |
 
 * Directions
 

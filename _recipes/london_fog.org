@@ -10,7 +10,7 @@
 
 | Quantity | Item            |
 |----------+-----------------|
-| 1/2 cup  | [[../_ingredients/water.md][water]]           |
+| 1/2 cup  | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]           |
 | 1/2 cup  | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]            |
 | 1/4 tsp  | [[../_ingredients/vanilla-extract.md][vanilla extract]] |
 | 1 tsp    | [[../_ingredients/sugar.md][sugar]]           |

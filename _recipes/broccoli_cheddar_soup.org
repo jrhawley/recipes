@@ -25,8 +25,8 @@
 | 1 tsp    | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                          |
 | 1/4 tsp  | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]                          |
 | 4 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]                 |
-| 1 Tbsp   | [[../_ingredients/water.md][water]]                           |
-| 1/4 cup  | warm [[../_ingredients/water.md][water]]                      |
+| 1 Tbsp   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                           |
+| 1/4 cup  | warm [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                      |
 | 1 Tbsp   | [[../_ingredients/corn-starch.md][corn starch]]                     |
 | 1/4 cup  | plain [[../_ingredients/greek-yogurt.md][Greek yogurt]]              |
 | 1 cup    | [[../_ingredients/cheddar.md][cheddar]], grated                 |

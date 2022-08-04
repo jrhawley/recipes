@@ -25,7 +25,7 @@
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]                       |
 | 1 tsp    | [[../_ingredients/ginger.md][ginger]], minced                    |
 | 2 cups   | [[../_ingredients/chicken-broth.md][chicken broth]]                     |
-| 2 cups   | [[../_ingredients/water.md][water]]                             |
+| 2 cups   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                             |
 | 3        | large [[../_ingredients/orange.md][orange zest]] strips          |
 |          | [[../_ingredients/parsley.md][parsley]]                           |
 

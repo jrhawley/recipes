@@ -20,7 +20,7 @@
 | 6        | [[../_ingredients/chicken-breast.md][chicken breasts]] |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]     |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]          |
-| 1/4 cup  | [[../_ingredients/white-wine.md][white wine]]      |
+| 1/4 cup  | [[id:3c0b48f9-96ce-4e4f-82d0-d816f1abdfcf][white wine]]      |
 | 1/2 cup  | [[../_ingredients/maple-syrup.md][maple syrup]]     |
 | 1/4 cup  | [[../_ingredients/dijon-mustard.md][dijon mustard]]   |
 | 1 cup    | [[../_ingredients/cranberry.md][cranberries]]     |

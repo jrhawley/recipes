@@ -26,7 +26,7 @@
 | 1/2 cup  | [[../_ingredients/chicken-broth.md][chicken broth]]        |
 | 1/4 cup  | [[../_ingredients/brown-sugar.md][light brown sugar]]    |
 | 1 Tbsp   | [[../_ingredients/mustard.md][mustard]]              |
-| 1 Tbsp   | [[../_ingredients/worcestershire-sauce.md][Worcestershire sauce]] |
+| 1 Tbsp   | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][Worcestershire sauce]] |
 | 1 Tbsp   | [[../_ingredients/chili-powder.md][chili powder]]         |
 | 1        | large [[../_ingredients/onion.md][onion]], diced   |
 | 2 cloves | [[../_ingredients/garlic.md][garlic]], minced       |
