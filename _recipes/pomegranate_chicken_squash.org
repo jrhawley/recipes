@@ -22,7 +22,7 @@
 | 1 tsp    | [[../_ingredients/ginger.md][ground ginger]]         |
 | 1 clove  | [[../_ingredients/garlic.md][garlic]], minced         |
 | 2        | [[../_ingredients/chicken-breast.md][chicken breasts]]        |
-| 1        | [[../_ingredients/acorn-squash.md][acorn squash]]           |
+| 1        | [[id:d18e5e95-8002-4ea9-98ee-9a0d5cfffcf9][acorn squash]]           |
 | 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]              |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]            |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                 |

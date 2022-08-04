@@ -12,7 +12,7 @@
 |----------+---------------------------|
 | 2 oz     | [[../_ingredients/whiskey.md][rye whisk]]                 |
 | 1 oz     | [[../_ingredients/amaro.md][amaro]]                     |
-| 5 dashes | [[../_ingredients/agnostura-bitters.md][Agnostura bitters]]         |
+| 5 dashes | [[id:0ec50573-a2d4-4421-b07c-d43736a9a586][Agnostura bitters]]         |
 | 1/8 tsp  | [[../_ingredients/cinnamon.md][cinnamon]]                  |
 |          | [[../_ingredients/orange.md][orange peel]] (optional)    |
 | 1        | [[../_ingredients/cinnamon-stick.md][cinnamon stick]] (optional) |

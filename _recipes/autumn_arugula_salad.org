@@ -19,7 +19,7 @@
 | Quantity | Item              |
 |----------+-------------------|
 | 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]         |
-| 1        | [[../_ingredients/acorn-squash.md][acorn squash]]      |
+| 1        | [[id:d18e5e95-8002-4ea9-98ee-9a0d5cfffcf9][acorn squash]]      |
 | 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]        |
 | 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]            |
 | 2 tsp    | [[../_ingredients/brown-sugar.md][brown sugar]]       |

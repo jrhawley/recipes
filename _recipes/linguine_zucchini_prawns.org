@@ -19,7 +19,7 @@
 |----------+--------------------------------------|
 | 1 clove  | [[../_ingredients/garlic.md][garlic]], finely diced                 |
 | 2        | [[../_ingredients/shallot.md][shallots]], finely diced               |
-| 1        | small [[../_ingredients/zucchini.md][zucchini]], sliced in half moons |
+| 1        | small [[id:76e9ca6f-2a60-4a79-a531-1d0c9af7e6d1][zucchini]], sliced in half moons |
 | 300 g    | [[../_ingredients/prawns.md][prawns]], thawed                       |
 | 500 g    | [[../_ingredients/linguine.md][linguine]]                             |
 | 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                            |

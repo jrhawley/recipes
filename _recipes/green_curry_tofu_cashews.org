@@ -25,7 +25,7 @@
 | 1 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]                      |
 | 1 tsp    | [[../_ingredients/brown-sugar.md][brown sugar]]                    |
 | 3 cups   | [[../_ingredients/broccoli.md][broccoli florets]]               |
-| 1        | [[../_ingredients/zucchini.md][zucchini]]                       |
+| 1        | [[id:76e9ca6f-2a60-4a79-a531-1d0c9af7e6d1][zucchini]]                       |
 | 6 oz     | [[../_ingredients/green-beans.md][green beans]]                    |
 | 1 lb     | [[../_ingredients/tofu.md][extra-firm tofu]]                |
 | 1 cup    | [[../_ingredients/parsley.md][parsley]] leaves, lightly packed |

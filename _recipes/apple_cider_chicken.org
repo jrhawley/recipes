@@ -19,7 +19,7 @@
 | 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]      |
 | 3/2 Tbsp | [[../_ingredients/olive-oil.md][olive oil]]            |
 | 3/4 cup  | [[../_recipes/apple-cider.md][apple cider]]          |
-| 2        | [[../_ingredients/apple.md][apples]], sliced       |
+| 2        | [[id:f9ceed1b-9c02-40b0-910b-cb65cb53125d][apples]], sliced       |
 | 2 tsp    | [[../_ingredients/thyme.md][thyme]]                |
 | 1        | [[../_ingredients/sweet-onion.md][sweet onion]], chopped |
 | 1 tsp    | [[../_ingredients/garlic-powder.md][garlic powder]]        |

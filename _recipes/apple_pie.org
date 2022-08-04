@@ -29,7 +29,7 @@
 
 | Quantity | Item                                              |
 |----------+---------------------------------------------------|
-| 6        | granny smith [[../_ingredients/apple.md][apples]] |
+| 6        | granny smith [[id:f9ceed1b-9c02-40b0-910b-cb65cb53125d][apples]] |
 | 1 cup    | [[../_ingredients/sugar.md][sugar]]               |
 | 2 Tbsp   | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]               |
 | 1 tsp    | [[../_ingredients/cinnamon.md][cinnamon]]         |

@@ -20,7 +20,7 @@
 
 | Quantity | Item                       |
 |----------+----------------------------|
-|        9 | [[../_ingredients/apple.md][apples]], assorted types     |
+|        9 | [[id:f9ceed1b-9c02-40b0-910b-cb65cb53125d][apples]], assorted types     |
 |        1 | [[../_ingredients/orange.md][orange]]                     |
 |        2 | [[../_ingredients/pear.md][pears]]                      |
 |        3 | [[../_ingredients/cinnamon-sticks.md][cinnamon sticks]]            |
