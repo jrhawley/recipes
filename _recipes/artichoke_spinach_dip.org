@@ -18,13 +18,13 @@
 |----------+----------------------------------------------|
 | 8 oz     | [[../_ingredients/cream-cheese.md][cream cheese]] (single package)                |
 | 1/4 cup  | [[../_ingredients/sour-cream.md][sour cream]]                                   |
-| 1/4 cup  | [[../_ingredients/parmesan.md][parmesan]], grated                             |
+| 1/4 cup  | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated                             |
 | 1/4 cup  | [[../_ingredients/romano.md][Romano cheese]], grated                        |
 | 1 clove  | [[../_ingredients/garlic.md][garlic]], minced                               |
 | 1/2 tsp  | dried [[../_ingredients/basil.md][basil]]                                  |
 | 1/4 tsp  | [[../_ingredients/garlic-salt.md][garlic salt]]                                  |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]                                  |
-|          | [[../_ingredients/pepper.md][pepper]]                                       |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                                       |
 | 14 oz    | [[../_ingredients/artichoke-hearts.md][artichoke hearts]]                             |
 | 1/2 cup  | frozen [[../_ingredients/spinach.md][spinach]], chopped, thawed, and drained |
 | 1/4 cup  | [[../_ingredients/mozzarella.md][mozzarella]], grated                           |

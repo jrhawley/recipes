@@ -16,18 +16,18 @@
 
 | Quantity | Item                 |
 |----------+----------------------|
-| 6 Tbsp   | [[../_ingredients/butter.md][butter]]               |
+| 6 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]               |
 | 1        | [[../_ingredients/onion.md][onion]], chopped       |
 | 1 stalk  | [[../_ingredients/celery.md][celery]]               |
-| 3 Tbsp   | [[../_ingredients/flour.md][flour]]                |
-| 7/2 cup  | [[../_ingredients/milk.md][milk]]                 |
-| 3/2 tsp  | [[../_ingredients/table-salt.md][table salt]]           |
-| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]               |
+| 3 Tbsp   | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                |
+| 7/2 cup  | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                 |
+| 3/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]           |
+| 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]               |
 | 1 Tbsp   | [[../_ingredients/worcestershire-sauce.md][worcestershire sauce]] |
 | 1/2 cup  | [[../_ingredients/cream-cheese.md][cream cheese]]         |
 | 3 cup    | [[../_ingredients/chicken-breast.md][chicken]], cooked      |
 | 1 pkg    | [[../_ingredients/egg-noodles.md][egg noodles]], cooked  |
-| 1/2 cup  | [[../_ingredients/parmesan.md][parmesan]], grated     |
+| 1/2 cup  | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated     |
 | 1/2 cup  | [[../_ingredients/breadcrumbs.md][breadcrumbs]]          |
 
 * Directions

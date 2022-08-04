@@ -16,15 +16,15 @@
 
 | Quantity  | Item                      |
 |-----------+---------------------------|
-| 3 cup     | [[../_ingredients/flour.md][flour]]                     |
+| 3 cup     | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                     |
 | 1 tsp     | [[../_ingredients/cloves.md][ground cloves]]             |
 | 2 tsp     | [[../_ingredients/cinnamon.md][ground cinnamon]]           |
-| 1 tsp     | [[../_ingredients/nutmeg.md][ground nutmeg]]             |
-| 1/2 tsp   | [[../_ingredients/table-salt.md][table salt]]                |
+| 1 tsp     | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][ground nutmeg]]             |
+| 1/2 tsp   | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                |
 | 1 tsp     | [[../_ingredients/baking-soda.md][baking soda]]               |
 | 1/2 tsp   | [[../_ingredients/baking-powder.md][baking powder]]             |
 | 3 cup     | [[../_ingredients/sugar.md][sugar]]                     |
-| 1 cup     | soft [[../_ingredients/butter.md][butter]]               |
+| 1 cup     | soft [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]               |
 | 3         | large [[../_ingredients/egg.md][eggs]]                |
 | 16 oz can | [[../_ingredients/pumpkin-puree.md][pumpkin puree]]             |
 | 1/2 cup   | chopped [[../_ingredients/pecan.md][pecans]] (optional) |

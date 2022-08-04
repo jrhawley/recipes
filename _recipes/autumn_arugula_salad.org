@@ -20,8 +20,8 @@
 |----------+-------------------|
 | 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]         |
 | 1        | [[../_ingredients/acorn-squash.md][acorn squash]]      |
-| 1/4 tsp  | [[../_ingredients/table-salt.md][table salt]]        |
-| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]            |
+| 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]        |
+| 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]            |
 | 2 tsp    | [[../_ingredients/brown-sugar.md][brown sugar]]       |
 | 1/2 cup  | [[../_ingredients/pecan.md][pecans]], chopped   |
 | 1/4 tsp  | [[../_ingredients/pumpkin-pie-spice.md][pumpkin-pie-spice]] |
@@ -38,8 +38,8 @@
 | 1/4 cup  | [[../_ingredients/apple-cider-vinegar.md][apple cider vinegar]]    |
 | 1/2 tsp  | [[../_ingredients/ginger.md][ginger]], freshly grated |
 | 1 clove  | [[../_ingredients/garlic.md][garlic]], grated         |
-| 1/4 tsp  | [[../_ingredients/table-salt.md][table salt]]             |
-| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                 |
+| 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]             |
+| 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                 |
 | 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]              |
 
 * Directions

@@ -19,7 +19,7 @@
 | Quantity | Item           |
 |----------+----------------|
 | 2 Tbsp   | [[../_ingredients/honey.md][honey]]          |
-| 1/4 tsp  | [[../_ingredients/table-salt.md][table salt]]     |
+| 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]     |
 | 2 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]      |
 | 1 Tbsp   | [[../_ingredients/ketchup.md][ketchup]]        |
 | 1 tsp    | [[../_ingredients/vinegar.md][vinegar]]        |

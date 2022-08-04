@@ -23,7 +23,7 @@
 | 1 tsp    | ground [[../_ingredients/cilantro.md][cilantro]]             |
 | 1        | [[../_ingredients/onion.md][onion]], finley diced         |
 | 2        | [[../_ingredients/chicken-breast.md][chicken breasts]], cubed      |
-| 2 Tbsp   | [[../_ingredients/butter.md][butter]], melted              |
+| 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], melted              |
 | 2 cups   | [[../_ingredients/tomato-sauce.md][tomato sauce]]                |
 | 1 Tbsp   | [[../_ingredients/lime-juice.md][lime juice]]                  |
 | 1/2 cup  | plain [[../_ingredients/greek-yogurt.md][Greek yogurt]]          |

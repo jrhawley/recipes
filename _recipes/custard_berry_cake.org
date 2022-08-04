@@ -18,11 +18,11 @@
 |----------+-----------------------------------|
 | 2 cup    | frozen [[../_ingredients/raspberry.md][raspberry]]                  |
 | 2        | [[../_ingredients/cherry-tomato.md][eggs]]                              |
-| 1 cup    | [[../_ingredients/milk.md][milk]]                              |
-| 1 cup    | [[../_ingredients/flour.md][flour]]                             |
+| 1 cup    | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                              |
+| 1 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                             |
 | 3/4 cup  | [[../_ingredients/sugar.md][sugar]]                             |
-| 3 tbsp   | [[../_ingredients/butter.md][butter]], melted                    |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                        |
+| 3 tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], melted                    |
+| 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                        |
 | 1 tbsp   | [[../_ingredients/vanilla-extract.md][vanilla extract]]                   |
 |          | [[../_ingredients/icing-sugar.md][icing sugar]] (optional)            |
 |          | low fat vanilla [[../_ingredients/yogurt.md][yogurt]] (optional) |

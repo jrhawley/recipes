@@ -25,7 +25,7 @@
 | 1 tsp    | [[../_ingredients/honey.md][honey]]                    |
 | 1 Tbsp   | [[../_ingredients/water.md][water]]                    |
 | 1 cup    | [[../_ingredients/cherry-tomato.md][cherry tomatoes]], halved  |
-| 1 cup    | [[../_ingredients/parmesan.md][parmesan]], grated         |
+| 1 cup    | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated         |
 | 5        | [[../_ingredients/mint.md][mint]] leaves, chopped     |
 | 1        | [[../_ingredients/lemon.md][lemon]], zested and juiced |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]              |

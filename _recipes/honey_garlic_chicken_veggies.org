@@ -38,7 +38,7 @@
 | 1 tsp    | [[../_ingredients/basil.md][basil]]             |
 | 1/2 tsp  | [[../_ingredients/oregano.md][oregano]]           |
 | 1/4 tsp  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]] |
-| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]            |
+| 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]            |
 
 * Directions
 

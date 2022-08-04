@@ -17,7 +17,7 @@
 | Quantity | Item                        |
 |----------+-----------------------------|
 | 2 lbs    | [[../_ingredients/beets.md][(golden) beets]]              |
-| 2 Tbsp   | [[../_ingredients/butter.md][butter]]                      |
+| 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                      |
 | 1/2 cup  | [[../_ingredients/onion.md][onion]], diced                |
 | 1 lb     | [[../_ingredients/apple.md][apples]], cored and quartered |
 | 1/4 cup  | [[../_ingredients/apple-cider-vinegar.md][apple cider vinegar]]         |
@@ -25,8 +25,8 @@
 | 5 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]             |
 | 1 Tbsp   | [[../_ingredients/honey.md][honey]]                       |
 | 1/2 cup  | [[../_ingredients/greek-yogurt.md][Greek yogurt]]                |
-|          | [[../_ingredients/table-salt.md][salt]]                        |
-|          | [[../_ingredients/pepper.md][pepper]]                      |
+|          | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]                        |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                      |
 
 * Directions
 

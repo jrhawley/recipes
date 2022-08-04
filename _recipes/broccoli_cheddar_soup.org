@@ -21,9 +21,9 @@
 | 3 cloves | [[../_ingredients/garlic.md][garlic]], minced                  |
 | 1 cup    | [[../_ingredients/carrot.md][carrots]], grated                 |
 | 2 oz     | reduced fat [[../_ingredients/cream-cheese.md][cream cheese]]        |
-| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                      |
-| 1 tsp    | [[../_ingredients/pepper.md][pepper]]                          |
-| 1/4 tsp  | [[../_ingredients/nutmeg.md][nutmeg]]                          |
+| 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                      |
+| 1 tsp    | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                          |
+| 1/4 tsp  | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]                          |
 | 4 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]                 |
 | 1 Tbsp   | [[../_ingredients/water.md][water]]                           |
 | 1/4 cup  | warm [[../_ingredients/water.md][water]]                      |

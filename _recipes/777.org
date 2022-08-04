@@ -3,22 +3,22 @@
 :END:
 #+TITLE: 777
 #+DATE: [2022-06-06]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:44]
+#+LAST_MODIFIED: [2022-08-03 Wed 22:52]
 #+FILETAGS: :recipe:alcoholic:beverage:
 
 * Ingredients
 
-  | Quantity | Item                     |
-  |----------+--------------------------|
-  | 1/2 oz   | [[../_ingredients/bourbon.md][Woodford Reserve bourbon]] |
-  | 1/2 oz   | [[../_ingredients/peach-schnapps.md][peach schnapps]]           |
-  | 1/2 oz   | [[../_ingredients/maple-syrup.md][maple syrup]]              |
-  | 2 dashes | [[../_ingredients/agnostura-bitters.md][Agnostura bitters]]        |
-  | 1/4 oz   | [[../_ingredients/lemon.md][lemon juice]]              |
-  | 1/4 oz   | [[../_ingredients/lime.md][lime juice]]               |
-  | 1 oz     | [[../_ingredients/ginger-beed.md][ginger beer]]              |
-  | 1 sprig  | [[../_ingredients/thyme.md][thyme]]                    |
-  |          | [[../_ingredients/ice.md][ice cubes]]                |
+  | Quantity | Item                             |
+  |----------+----------------------------------|
+  | 1/2 oz   | [[id:5222efd5-49f0-4c4b-b272-9b394c99a406][Woodford Reserve Bourbon Whiskey]] |
+  | 1/2 oz   | [[id:64ffe721-5354-46fb-bb46-45ca620eb4f7][McGuinness Peach Schnapps]]        |
+  | 1/2 oz   | [[id:716dd7d0-46db-4224-9391-75b5eaad5cfd][maple syrup]]                      |
+  | 2 dashes | [[id:0ec50573-a2d4-4421-b07c-d43736a9a586][Agnostura bitters]]                |
+  | 1/4 oz   | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]                      |
+  | 1/4 oz   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]                       |
+  | 1 oz     | [[id:b24867aa-b60a-4f3c-9996-1b06485fda36][Fever Tree Ginger Beer]]           |
+  | 1 sprig  | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                            |
+  |          | ice cubes                        |
 
 * Directions
 

@@ -29,14 +29,14 @@
 | 1 tsp    | [[../_ingredients/soy-sauce.md][soy sauce]]        |
 | 1 clove  | [[../_ingredients/garlic.md][garlic]], minced   |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]      |
-|          | [[../_ingredients/pepper.md][pepper]]           |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]           |
 
 ** Cheese
 
 | Quantity | Item                                |
 |----------+-------------------------------------|
 | 8 oz     | [[../_ingredients/goat-cheese.md][goat cheese]], sliced into 1/4" discs |
-| 1/4 cup  | [[../_ingredients/flour.md][flour]]                               |
+| 1/4 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                               |
 | 1        | [[../_ingredients/egg.md][egg]], lightly beaten                 |
 | 1 cup    | [[../_ingredients/breadcrumbs.md][breadcrumbs]]                         |
 

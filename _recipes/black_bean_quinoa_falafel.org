@@ -23,7 +23,7 @@
 | 15 oz    | [[../_ingredients/black-beans.md][black beans]], rinsed, drained, dried |
 | 1/4 cup  | [[../_ingredients/pumpkin-seeds.md][pumpkin seeds]]                       |
 | 5 cloves | [[../_ingredients/garlic.md][garlic]], minced                      |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                          |
+| 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                          |
 | 1 tsp    | ground [[../_ingredients/cumin.md][cumin]]                        |
 | 1/2 tsp  | [[../_ingredients/cilantro.md][cilantro]]                            |
 | 2 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]                        |

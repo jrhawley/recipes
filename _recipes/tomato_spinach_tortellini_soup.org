@@ -19,20 +19,20 @@
 
 | Quantity | Item                      |
 |----------+---------------------------|
-| 2 Tbsp   | [[../_ingredients/butter.md][butter]]                    |
+| 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                    |
 | 1        | [[../_ingredients/onion.md][onion]], diced              |
 | 2 cloves | [[../_ingredients/garlic.md][garlic]], chopped           |
-| 1/4 cup  | [[../_ingredients/flour.md][flour]]                     |
+| 1/4 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                     |
 | 3 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]           |
 | 28 oz    | [[../_ingredients/diced-tomatoes.md][diced tomatoes]]            |
 | 2 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]              |
 | 8 oz     | cheese [[../_ingredients/tortellini.md][tortellini]]         |
-| 1/2 cup  | [[../_ingredients/parmesan.md][parmesan]], grated          |
+| 1/2 cup  | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated          |
 | 10 oz    | [[../_ingredients/spinach.md][spinach]], coarsely chopped |
 | 1/2 cup  | [[../_ingredients/greek-yogurt.md][Greek yogurt]]              |
 | 1/4 cup  | [[../_ingredients/basil.md][basil]], chopped (optional) |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]               |
-|          | [[../_ingredients/pepper.md][pepper]]                    |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                    |
 |          | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]]         |
 
 * Directions

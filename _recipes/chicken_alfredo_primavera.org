@@ -16,7 +16,7 @@
 
 | Quantity | Item              |
 |----------+-------------------|
-| 2 Tbsp   | [[../_ingredients/butter.md][butter]]            |
+| 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]            |
 | 3 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]         |
 | 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]   |
 | 1        | [[../_ingredients/squash.md][squash]]            |
@@ -26,11 +26,11 @@
 | 3 cloves | [[../_ingredients/garlic.md][garlic]]            |
 | 1/2 tsp  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]] |
 | 1/2 cup  | [[../_ingredients/white-wine.md][white wine]]        |
-| 1 cup    | [[../_ingredients/milk.md][milk]]              |
-| 1 cup    | [[../_ingredients/parmesan.md][parmesan]], grated  |
+| 1 cup    | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]              |
+| 1 cup    | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated  |
 | 16 oz    | [[../_ingredients/farfalle.md][farfalle]]          |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]       |
-|          | [[../_ingredients/pepper.md][pepper]]            |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]            |
 |          | [[../_ingredients/parsley.md][parsley]]           |
 
 * Directions

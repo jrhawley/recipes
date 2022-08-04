@@ -27,7 +27,7 @@
 | 1 clove  | [[../_ingredients/garlic.md][garlic]]. minced                |
 | 4 oz     | [[../_ingredients/feta.md][feta]], crumbled                |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]                   |
-|          | [[../_ingredients/pepper.md][pepper]]                        |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                        |
 |          | [[../_ingredients/olive-oil.md][olive oil]]                     |
 
 * Directions

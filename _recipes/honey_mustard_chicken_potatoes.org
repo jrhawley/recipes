@@ -28,7 +28,7 @@
 | 8 oz     | [[../_ingredients/green-beans.md][green beans]], halved          |
 | 2 sprigs | [[../_ingredients/rosemary.md][rosemary]]                     |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]                  |
-|          | [[../_ingredients/pepper.md][pepper]]                       |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                       |
 
 * Directions
 

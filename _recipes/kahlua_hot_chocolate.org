@@ -10,11 +10,11 @@
 
 | Quantity | Item         |
 |----------+--------------|
-| 2 cups   | [[../_ingredients/milk.md][milk]]         |
+| 2 cups   | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]         |
 | 1 Tbsp   | [[../_ingredients/sugar.md][sugar]]        |
 | 3/2 Tbsp | [[../_ingredients/cocoa-powder.md][cocoa powder]] |
 | 1/4 tsp  | [[../_ingredients/cinnamon.md][cinnamon]]     |
-| pinch    | [[../_ingredients/nutmeg.md][nutmeg]]       |
+| pinch    | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]       |
 | 1 oz     | [[../_ingredients/khalua.md][Kahlua]]       |
 
 * Directions

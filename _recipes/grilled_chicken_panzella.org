@@ -22,13 +22,13 @@
 | 3/2 cup  | [[../_ingredients/cherry-tomato.md][cherry tomatoes]]   |
 | 1 Tbsp   | [[../_ingredients/kalamata-olives.md][kalamata olives]]   |
 | 1 clove  | [[../_ingredients/garlic.md][garlic]]            |
-| 1/4 cup  | grated [[../_ingredients/parmesan.md][Parmesan]]   |
+| 1/4 cup  | grated [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][Parmesan]]   |
 | 2 Tbsp   | [[../_ingredients/mayonnaise.md][mayonnaise]]        |
 | 2 Tbsp   | [[../_ingredients/red-wine-vinegar.md][red-wine-vinegar]]  |
 | 1 Tbsp   | [[../_ingredients/italian-seasoning.md][Italian seasoning]] |
 |          | [[../_ingredients/olive-oil.md][olive oil]]         |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]       |
-|          | [[../_ingredients/pepper.md][pepper]]            |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]            |
 
 * Directions
 

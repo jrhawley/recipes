@@ -29,7 +29,7 @@
 | 2 tsp     | [[../_ingredients/maple-syrup.md][maple syrup]]                |
 |           | [[../_ingredients/olive-oil.md][olive oil]]                  |
 |           | [[../_ingredients/kosher-salt.md][kosher salt]]                |
-|           | [[../_ingredients/pepper.md][pepper]]                     |
+|           | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                     |
 
 * Directions
 

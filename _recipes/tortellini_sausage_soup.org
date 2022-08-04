@@ -26,8 +26,8 @@
 | 250 mL   | [[../_ingredients/heavy-cream.md][heavy cream]]             |
 |          | [[../_ingredients/spinach.md][spinach]]                 |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]             |
-|          | [[../_ingredients/pepper.md][pepper]]                  |
-|          | [[../_ingredients/parmesan.md][parmesan]]                |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                  |
+|          | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]]                |
 |          | [[../_ingredients/sourdough.md][sourdough]]               |
 
 * Directions

@@ -18,14 +18,14 @@
 
 | Quantity | Ingredient       |
 |----------+------------------|
-| 1 cup    | [[../_ingredients/flour.md][flour]]            |
+| 1 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]            |
 | 1/3 cup  | [[../_ingredients/cocoa-powder.md][cocoa powder]]     |
 | 1/2 tsp  | [[../_ingredients/baking-powder.md][baking powder]]    |
-| 1/4 tsp  | [[../_ingredients/table-salt.md][salt]]             |
+| 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]             |
 | 1/2 cup  | [[../_ingredients/guinness.md][Guinness]]         |
 | 1        | large [[../_ingredients/egg.md][egg]]        |
 | 1/2 cup  | [[../_ingredients/sugar.md][granulated sugar]] |
-| 1/3 cup  | unsalted [[../_ingredients/butter.md][butter]]  |
+| 1/3 cup  | unsalted [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]  |
 
 ** Glaze
 

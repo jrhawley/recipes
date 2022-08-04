@@ -24,7 +24,7 @@
 | 1/8       | [[../_ingredients/red-onion.md][red onion]], sliced          |
 | 4 slices  | [[../_ingredients/french-bread.md][French bread]]               |
 |           | [[../_ingredients/kosher-salt.md][kosher salt]]                |
-|           | [[../_ingredients/pepper.md][pepper]]                     |
+|           | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                     |
 
 * Directions
 

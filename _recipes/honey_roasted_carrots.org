@@ -14,9 +14,9 @@
 | Quantity | Item                                                    |
 |----------+---------------------------------------------------------|
 | 2 lbs    | [[../_ingredients/carrot.md][rainbow carrots]], peeled and sliced into 1/4 inch rounds |
-| 2 Tbsp   | [[../_ingredients/butter.md][butter]], melted                                          |
+| 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], melted                                          |
 | 2 tsp    | [[../_ingredients/honey.md][honey]]                                                   |
-| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                                              |
+| 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                                              |
 | 1/2 tsp  | fresh [[../_ingredients/thyme.md][thyme]], chopped                                    |
 | 1/8      | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]                                          |
 | 1/8      | [[../_ingredients/cumin.md][cumin]]                                                   |

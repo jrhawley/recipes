@@ -27,8 +27,8 @@
 | 28 oz    | [[../_ingredients/diced-tomatoes.md][diced tomatoes]]                |
 | 1 Tbsp   | [[../_ingredients/chili-powder.md][chili powder]], divided         |
 | 1 tsp    | [[../_ingredients/oregano.md][oregano]]                       |
-| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                    |
-| 1/2 tsp  | [[../_ingredients/pepper.md][pepper]]                        |
+| 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                    |
+| 1/2 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                        |
 | 1 tsp    | [[../_ingredients/sugar.md][sugar]]                         |
 
 * Directions

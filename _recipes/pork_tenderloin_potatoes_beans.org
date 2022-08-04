@@ -20,10 +20,10 @@
 | Quantity | Item                 |
 |----------+----------------------|
 | 400 g    | [[../_ingredients/pork-tenderloin.md][pork tenderloin]]      |
-| 2 tsp    | [[../_ingredients/table-salt.md][table salt]]           |
+| 2 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]           |
 | 1 tsp    | [[../_ingredients/thyme.md][thyme]]                |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][salt]]                 |
-| 1/2 tsp  | [[../_ingredients/pepper.md][pepper]]               |
+| 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]                 |
+| 1/2 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]               |
 | 1 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]      |
 | 1/4 cup  | [[../_ingredients/brown-sugar.md][brown sugar]]          |
 | 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]            |

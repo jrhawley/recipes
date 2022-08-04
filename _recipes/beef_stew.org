@@ -20,7 +20,7 @@
 | Quantity | Item                                  |
 |----------+---------------------------------------|
 | 2 lbs    | [[../_ingredients/beef-chuck.md][beef chuck]], cut into 1" pieces        |
-| 1/4 cup  | [[../_ingredients/flour.md][flour]]                                 |
+| 1/4 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                                 |
 | 3 Tbsp   | [[../_ingredients/canola-oil.md][canola oil]]                            |
 | 1        | [[../_ingredients/carrot.md][carrots]]                               |
 | 1        | [[../_ingredients/onion.md][onion]]                                 |
@@ -31,11 +31,11 @@
 | 3 sprigs | [[../_ingredients/thyme.md][thyme]]                                 |
 | 2 Tbsp   | [[../_ingredients/molasses.md][molasses]]                              |
 | 1 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]                          |
-| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                            |
+| 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                            |
 | 1/2 cup  | [[../_ingredients/peas.md][frozen peas]]                           |
 | 1/2 cup  | fresh [[../_ingredients/parsley.md][parsley]], chopped                |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]                           |
-|          | [[../_ingredients/pepper.md][pepper]]                                |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                                |
 
 * Directions
 

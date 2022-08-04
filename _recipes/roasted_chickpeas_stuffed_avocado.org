@@ -24,9 +24,9 @@
 | 15 oz    | [[../_ingredients/chickpeas.md][chickpeas]], drained, rinsed |
 | 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                  |
 | 2 tsp    | smoked [[../_ingredients/paprika.md][paprika]]             |
-| 1 tsp    | [[../_ingredients/pepper.md][pepper]]                     |
+| 1 tsp    | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                     |
 | 1/2 tsp  | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]             |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                 |
+| 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                 |
 | 4        | ripe [[../_ingredients/avocado.md][avocadoes]]             |
 | 1/2      | [[../_ingredients/tomato.md][tomato]], diced              |
 | 1        | [[../_ingredients/lemon.md][lemon]]                      |
@@ -38,7 +38,7 @@
 | 1/4 cup  | plain [[../_ingredients/greek-yogurt.md][Greek yogurt]] |
 | 1 clove  | [[../_ingredients/garlic.md][garlic]], minced     |
 | 2 Tbsp   | [[../_ingredients/parsley.md][parsley]], chopped   |
-|          | [[../_ingredients/pepper.md][pepper]]             |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]             |
 
 * Directions
 

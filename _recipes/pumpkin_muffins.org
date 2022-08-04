@@ -23,12 +23,12 @@
 | 1 cup     | [[../_ingredients/canola-oil.md][canola oil]]        |
 | 1         | [[../_ingredients/egg.md][egg]]               |
 | 2 tsp     | [[../_ingredients/vanilla-extract.md][vanilla extract]]   |
-| 3 cup     | [[../_ingredients/flour.md][flour]]             |
+| 3 cup     | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]             |
 | 1 Tbsp    | [[../_ingredients/pumpkin-pie-spice.md][pumpkin-pie-spice]] |
-| 1/2 tsp   | [[../_ingredients/nutmeg.md][nutmeg]]            |
+| 1/2 tsp   | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]            |
 | 2 tsp     | [[../_ingredients/baking-powder.md][baking powder]]     |
 | 1 tsp     | [[../_ingredients/baking-soda.md][baking soda]]       |
-| 1/2 tsp   | [[../_ingredients/table-salt.md][table salt]]        |
+| 1/2 tsp   | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]        |
 
 ** Cream Cheese
 
@@ -37,7 +37,7 @@
 | 6 oz     | [[../_ingredients/cream-cheese.md][cream cheese]], softened |
 | 1/4 cup  | [[../_ingredients/sugar.md][sugar]]                  |
 | 1        | [[../_ingredients/egg.md][egg]]                    |
-| 2 Tbsp   | [[../_ingredients/flour.md][flour]]                  |
+| 2 Tbsp   | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                  |
 
 * Directions
 

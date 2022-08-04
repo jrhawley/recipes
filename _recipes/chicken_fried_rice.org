@@ -19,13 +19,13 @@
 
 | Quantity | Item                       |
 |----------+----------------------------|
-| 3 Tbsp   | [[../_ingredients/butter.md][butter]]                     |
+| 3 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                     |
 | 2        | [[../_ingredients/eggs.md][eggs]], lightly beaten       |
 | 2        | [[../_ingredients/carrot.md][carrots]], peeled, diced     |
 | 1        | [[../_ingredients/onion.md][onion]], diced               |
 | 2 cloves | [[../_ingredients/garlic.md][garlic]], minced             |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]                |
-|          | [[../_ingredients/pepper.md][pepper]]                     |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                     |
 | 4 cup    | [[../_ingredients/rice.md][basmati rice]], uncooked     |
 | 3 stalks | [[../_ingredients/green-onion.md][green onion]], thinly sliced |
 | 3 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]                  |

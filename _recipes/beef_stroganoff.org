@@ -21,9 +21,9 @@
 | 2 cloves | [[../_ingredients/garlic.md][garlic]], minced |
 | 1 cup    | [[../_ingredients/beef-consomme.md][beef consomme]]  |
 | 3 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]   |
-| 2 Tbsp   | [[../_ingredients/flour.md][flour]]          |
+| 2 Tbsp   | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]          |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]    |
-|          | [[../_ingredients/pepper.md][pepper]]         |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]         |
 
 * Directions
 

@@ -16,7 +16,7 @@
 
 | Quantity  | Item                                     |
 |-----------+------------------------------------------|
-| 1 Tbsp    | [[../_ingredients/butter.md][butter]]                                   |
+| 1 Tbsp    | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                                   |
 | 1/2 cup   | [[../_ingredients/onion.md][onion]], chopped finely                    |
 | 1/2 stalk | [[../_ingredients/celery.md][celery]], chopped finely                   |
 | 1 clove   | [[../_ingredients/garlic.md][garlic]]                                   |
@@ -29,7 +29,7 @@
 | 2 tbsp    | [[../_ingredients/parsley.md][parsley]], chopped                         |
 | 2 tsp     | [[../_ingredients/thyme.md][thyme]], chopped                           |
 |           | [[../_ingredients/kosher-salt.md][kosher salt]]                              |
-|           | [[../_ingredients/pepper.md][pepper]]                                   |
+|           | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                                   |
 
 * Directions
 

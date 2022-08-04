@@ -18,7 +18,7 @@
 |----------+-------------------------|
 | 2 filets | [[../_ingredients/cod.md][cod]]                     |
 | 1        | [[../_ingredients/egg.md][egg]]                     |
-| 1 cup    | [[../_ingredients/flour.md][flour]], separated        |
+| 1 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]], separated        |
 | 1 tsp    | [[../_ingredients/baking-powder.md][baking powder]]           |
 | 3/2 tsp  | [[../_ingredients/curry-powder.md][curry powder]], optional  |
 | 150 mL   | [[../_ingredients/beer.md][beer]]                    |

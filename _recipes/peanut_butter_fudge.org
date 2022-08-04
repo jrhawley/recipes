@@ -16,10 +16,10 @@
 
 | Quantity | Item                                    |
 |----------+-----------------------------------------|
-| 1/2 cup  | [[../_ingredients/butter.md][butter]], unsalted                        |
-| 1/2 tsp  | [[../_ingredients/nutmeg.md][nutmeg]]                                  |
+| 1/2 cup  | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], unsalted                        |
+| 1/2 tsp  | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]                                  |
 | 1 lb     | light [[../_ingredients/muscovado-sugar.md][muscovado sugar]] (soft dark brown) |
-| 1/2 cup  | [[../_ingredients/milk.md][milk]]                                    |
+| 1/2 cup  | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                                    |
 | 1 Tbsp   | [[../_ingredients/vanilla-extract.md][vanilla extract]]                         |
 | 1 cup    | extra crunchy [[../_ingredients/peanut-butter.md][peanut butter]]             |
 | 5/2 cup  | [[../_ingredients/icing-sugar.md][icing sugar]]                             |

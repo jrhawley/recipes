@@ -21,8 +21,8 @@
 | 1 lbs    | extra lean [[../_ingredients/ground-beef.md][ground beef]] |
 | 1/2 cup  | [[../_ingredients/onion.md][onion]], chopped         |
 | 1/3 cup  | [[../_ingredients/celery.md][celery]], chopped        |
-| 1/4 tsp  | [[../_ingredients/table-salt.md][table salt]]             |
-| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                 |
+| 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]             |
+| 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                 |
 | 10 oz    | [[../_ingredients/cream-of-mushroom-soup.md][cream-of-mushroom-soup]] |
 | 10 oz    | [[../_ingredients/peas.md][peas]]                   |
 | 8 oz     | [[../_ingredients/corn.md][corn niblets]]           |
@@ -32,12 +32,12 @@
 | Quantity | Item             |
 |----------+------------------|
 | 2        | [[../_ingredients/potato.md][potatoes]], mashed |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]       |
+| 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]       |
 | 1        | [[../_ingredients/egg.md][egg]], beaten      |
-| 1/4 cup  | [[../_ingredients/parmesan.md][parmesan]], grated |
+| 1/4 cup  | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated |
 |          | [[../_ingredients/cheddar.md][cheddar]], grated  |
 |          | [[../_ingredients/paprika.md][paprika]]          |
-|          | [[../_ingredients/milk.md][milk]]             |
+|          | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]             |
 
 * Directions
 

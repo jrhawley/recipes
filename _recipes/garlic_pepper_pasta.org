@@ -22,7 +22,7 @@
 | 20       | [[../_ingredients/anchovies.md][anchovies]]               |
 | 30       | [[../_ingredients/cherry-tomato.md][cherry tomatoes]], halved |
 | 500 g    | [[../_ingredients/spaghetti.md][spaghetti]]               |
-|          | [[../_ingredients/pepper.md][pepper]]                  |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                  |
 |          | dry [[../_ingredients/red-pepper-flakes.md][chili flakes]]        |
 
 * Directions

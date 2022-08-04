@@ -24,7 +24,7 @@
 |        1 | [[../_ingredients/orange.md][orange]]                     |
 |        2 | [[../_ingredients/pear.md][pears]]                      |
 |        3 | [[../_ingredients/cinnamon-sticks.md][cinnamon sticks]]            |
-|        1 | [[../_ingredients/nutmeg.md][nutmeg]] (whole)             |
+|        1 | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]] (whole)             |
 |    2 tsp | [[../_ingredients/cloves.md][cloves]] (whole)             |
 |  1/2 tsp | [[../_ingredients/allspice.md][allspice]] (whole; optional) |
 |      3 L | [[../_ingredients/water.md][water]]                      |

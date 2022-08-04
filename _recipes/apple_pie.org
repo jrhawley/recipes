@@ -22,8 +22,8 @@
 | Quantity | Item       |
 |----------+------------|
 | 2 cup    | [[../_ingredients/shortening.md][shortening]] |
-| 8 cup    | [[../_ingredients/flour.md][flour]]      |
-| 4 tsp    | [[../_ingredients/table-salt.md][table salt]] |
+| 8 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]      |
+| 4 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]] |
 
 ** Filling
 
@@ -31,13 +31,13 @@
 |----------+---------------------------------------------------|
 | 6        | granny smith [[../_ingredients/apple.md][apples]] |
 | 1 cup    | [[../_ingredients/sugar.md][sugar]]               |
-| 2 Tbsp   | [[../_ingredients/flour.md][flour]]               |
+| 2 Tbsp   | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]               |
 | 1 tsp    | [[../_ingredients/cinnamon.md][cinnamon]]         |
-| 1/4 tsp  | [[../_ingredients/nutmeg.md][nutmeg]]             |
+| 1/4 tsp  | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]             |
 | 1/4 tsp  | [[../_ingredients/allspice.md][allspice]]         |
 | 1/4 tsp  | ground [[../_ingredients/cloves.md][cloves]]      |
-| dash     | [[../_ingredients/table-salt.md][table salt]]     |
-| 2 Tbsp   | [[../_ingredients/butter.md][butter]]             |
+| dash     | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]     |
+| 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]             |
 
 * Directions
 

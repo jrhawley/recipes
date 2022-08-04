@@ -16,13 +16,13 @@
 
 | Quantity | Item             |
 |----------+------------------|
-| 1/4 cup  | [[../_ingredients/butter.md][butter]]           |
+| 1/4 cup  | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]           |
 | 1/4 cup  | [[../_ingredients/sugar.md][sugar]]            |
 | 1        | [[../_ingredients/egg.md][egg]], beaten      |
 | 2        | [[../_ingredients/banana.md][bananas]], crushed |
-| 3/2 cup  | [[../_ingredients/flour.md][flour]]            |
+| 3/2 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]            |
 | 1 tsp    | [[../_ingredients/baking-soda.md][baking soda]]      |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]       |
+| 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]       |
 | 1/2 tsp  | [[../_ingredients/vanilla-extract.md][vanilla]]          |
 
 * Directions

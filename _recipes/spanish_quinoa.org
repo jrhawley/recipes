@@ -26,7 +26,7 @@
 | 1 tsp    | [[../_ingredients/cumin.md][cumin]]                                |
 | 1 tsp    | [[../_ingredients/oregano.md][oregano]]                              |
 | 1/4 tsp  | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]                       |
-| 1/2 tsp  | [[../_ingredients/table-salt.md][table salt]]                           |
+| 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                           |
 | 1 cup    | [[../_ingredients/quinoa.md][quinoa]], uncooked                     |
 | 15 oz    | [[../_ingredients/diced-tomatoes.md][diced tomatoes]]                       |
 | 15 oz    | [[../_ingredients/chickpeas.md][chickpeas]], drained, rinsed           |

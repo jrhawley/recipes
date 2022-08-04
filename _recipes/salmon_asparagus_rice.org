@@ -22,7 +22,7 @@
 | 2 cloves | [[../_ingredients/garlic.md][garlic]], minced       |
 | 1        | [[../_ingredients/lemon.md][lemon]], thinly sliced |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]          |
-|          | [[../_ingredients/pepper.md][pepper]]               |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]               |
 |          | [[../_ingredients/dill.md][dill]]                 |
 |          | [[../_ingredients/thyme.md][thyme]]                |
 |          | [[../_ingredients/rosemary.md][rosemary]]             |

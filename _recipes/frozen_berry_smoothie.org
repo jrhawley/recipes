@@ -17,7 +17,7 @@
 |----------+----------------------------------|
 | 1        | frozen [[../_ingredients/banana.md][banana]], peeled and sliced |
 | 2 cups   | frozen [[../_ingredients/strawberry.md][strawberries]]              |
-| 1 cup    | [[../_ingredients/milk.md][milk]]                             |
+| 1 cup    | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                             |
 | 1/2 cup  | [[../_ingredients/yogurt.md][yogurt]]                           |
 | 1/2 cup  | [[../_ingredients/orange-juice.md][orange juice]]                     |
 | 2 Tbsp   | [[../_ingredients/honey.md][honey]], to taste                  |

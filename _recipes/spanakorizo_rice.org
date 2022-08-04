@@ -3,14 +3,14 @@
 :END:
 #+TITLE: Spanakorizo rice
 #+DATE: [2020-04-16]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:32]
+#+LAST_MODIFIED: [2022-07-29 Fri 13:16]
 #+FILETAGS: :recipe:vegetarian:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 5 min      |
 | Cook Time | 35 min     |
-| Yields    | 6 servings |
+| Yields    | 4 servings |
 
 #+CAPTION: Spanakorizo rice
 [[../_assets/spanakorizo-rice.png]]
@@ -27,7 +27,7 @@
 | 1/2 lbs  | baby [[../_ingredients/spinach.md][spinach]]                |
 | 1 cup    | basmati [[../_ingredients/rice.md][rice]]                |
 | 2 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]             |
-| 3 Tbsp   | [[../_ingredients/butter.md][butter]]                      |
+| 3 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                      |
 | 2 Tbsp   | [[../_ingredients/lemon-juice.md][lemon juice]]                 |
 | 2 tsp    | [[../_ingredients/lemon.md][lemon zest]]                  |
 |          | [[../_ingredients/feta.md][feta]]                        |

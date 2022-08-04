@@ -24,7 +24,7 @@
 | 1 cup    | [[../_ingredients/lentils.md][lentils]]                     |
 | 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                   |
 | 2 cloves | [[../_ingredients/garlic.md][garlic]], minced              |
-| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                  |
+| 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                  |
 | 1 tsp    | [[../_ingredients/tomato-paste.md][tomato paste]]                |
 | 1        | [[../_ingredients/bay-leaf.md][bay leaf]]                    |
 | 1/2 tsp  | [[../_ingredients/cumin.md][cumin]]                       |

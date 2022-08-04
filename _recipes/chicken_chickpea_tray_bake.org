@@ -27,7 +27,7 @@
 | 1 tsp    | [[../_ingredients/cumin.md][cumin]]             |
 | 1 pinch  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]] |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]       |
-|          | [[../_ingredients/pepper.md][pepper]]            |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]            |
 
 ** Chicken
 

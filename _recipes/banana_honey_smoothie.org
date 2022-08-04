@@ -18,9 +18,9 @@
 |----------+----------------------------------|
 | 2        | [[../_ingredients/banana.md][bananas]] (or 3/2 cups of berries) |
 | 1 cup    | vanilla [[../_ingredients/yogurt.md][yogurt]]                   |
-| 3/2 cup  | [[../_ingredients/milk.md][milk]]                             |
+| 3/2 cup  | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                             |
 | 1/2 Tbsp | ground [[../_ingredients/cinnamon.md][cinnamon]]                  |
-| 1/2 Tbsp | ground [[../_ingredients/nutmeg.md][nutmeg]]                    |
+| 1/2 Tbsp | ground [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]                    |
 | 4 Tbsp   | [[../_ingredients/honey.md][honey]]                            |
 | 1 cup    | [[../_ingredients/ice.md][ice cubes]]                        |
 | 1 tsp    | [[../_ingredients/vanilla-extract.md][vanilla extract]]                  |

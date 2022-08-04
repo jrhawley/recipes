@@ -20,9 +20,9 @@
 | 2 Tbsp   | [[../_ingredients/lemon-juice.md][lemon juice]]               |
 | 3 cloves | [[../_ingredients/garlic.md][garlic]], minced            |
 | 3/2 tsp  | fresh [[../_ingredients/thyme.md][thyme]], minced       |
-| 1 tsp    | [[../_ingredients/table-salt.md][table salt]]                |
+| 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                |
 | 1/2 tsp  | fresh [[../_ingredients/rosemary.md][rosemary]], minced    |
-| 1/4 tsp  | [[../_ingredients/pepper.md][pepper]]                    |
+| 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                    |
 | 6        | bone-in [[../_ingredients/chicken-thighs.md][chicken thighs]]    |
 | 6        | [[../_ingredients/chicken-drumsticks.md][chicken drumsticks]]        |
 | 1 lb     | baby [[../_ingredients/potato.md][red potatoes]], halved |

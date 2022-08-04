@@ -24,7 +24,7 @@
 | 15 oz    | [[../_ingredients/chickpeas.md][chickpeas]]      |
 | 100 g    | [[../_ingredients/feta.md][feta]]           |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]    |
-|          | [[../_ingredients/pepper.md][pepper]]         |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]         |
 |          | [[../_ingredients/cumin.md][cumin]]          |
 |          | [[../_ingredients/lemon.md][lemon]]          |
 |          | [[../_ingredients/cayenne-pepper.md][cayenne pepper]] |

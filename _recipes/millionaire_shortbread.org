@@ -18,15 +18,15 @@
 
 | Quantity | Item   |
 |----------+--------|
-| 4 oz     | [[../_ingredients/butter.md][butter]] |
+| 4 oz     | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]] |
 | 2 oz     | [[../_ingredients/sugar.md][sugar]]  |
-| 6 oz     | [[../_ingredients/flour.md][flour]]  |
+| 6 oz     | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]  |
 
 ** Caramel
 
 | Quantity | Item                                                                  |
 |----------+-----------------------------------------------------------------------|
-| 8 oz     | [[../_ingredients/butter.md][butter]]                                 |
+| 8 oz     | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                                 |
 | 4 Tbsp   | [[../_ingredients/maple-syrup.md][maple syrup]]                       |
 | 4 oz     | [[../_ingredients/sugar.md][sugar]]                                   |
 | 400 oz   | [[../_ingredients/condensed-milk.md][condensed milk]]                 |

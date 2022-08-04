@@ -19,7 +19,7 @@
 | 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]       |
 | 6        | [[../_ingredients/chicken-breast.md][chicken breasts]] |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]     |
-|          | [[../_ingredients/pepper.md][pepper]]          |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]          |
 | 1/4 cup  | [[../_ingredients/white-wine.md][white wine]]      |
 | 1/2 cup  | [[../_ingredients/maple-syrup.md][maple syrup]]     |
 | 1/4 cup  | [[../_ingredients/dijon-mustard.md][dijon mustard]]   |

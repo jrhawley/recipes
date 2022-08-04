@@ -21,7 +21,7 @@
 | 2 cloves | [[../_ingredients/garlic.md][garlic]], peeled, crushed |
 | 1 tsp    | [[../_ingredients/italian-seasoning.md][Italian seasoning]]       |
 |          | [[../_ingredients/kosher-salt.md][kosher salt]]             |
-|          | [[../_ingredients/pepper.md][pepper]]                  |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                  |
 | 2        | [[../_ingredients/steak.md][steaks]]                  |
 
 * Directions
