@@ -3,17 +3,17 @@
 :END:
 #+TITLE: Capo Americano
 #+DATE: [2021-09-25]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:49]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:37]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
 | Quantity | Item               |
 |----------+--------------------|
-| 3/2 oz   | [[../_ingredients/amaro.md][amaro]]              |
-| 3/2 oz   | [[../_ingredients/vermouth.md][sweet red vermouth]] |
-| 3/2 oz   | [[../_ingredients/tonic-water.md][tonic water]]        |
-| 1        | [[../_ingredients/lemon.md][lemon wedge]]        |
+| 3/2 oz   | [[id:f0c2d0c7-8399-45f1-a783-1be5ca83aafd][amaro]]              |
+| 3/2 oz   | [[id:e5be28df-0ad7-4af2-8128-15a50f98c04f][sweet red vermouth]] |
+| 3/2 oz   | [[id:180c2407-f4f1-4f5a-9530-e35f86942d1b][tonic water]]        |
+| 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon wedge]]        |
 
 * Directions
 

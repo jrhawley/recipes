@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       ff64633e-0540-4928-b8e0-4e84932c087a
+:END:
+#+TITLE: Cod with lemon caper brown butter
+#+DATE: [2022-08-21 Sun 10:25]
+#+LAST_MODIFIED: [2022-08-21 Sun 10:38]
+#+FILETAGS: :recipe:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 15 min     |
+| Yields    | 2 servings |
+
+* Ingredients
+
+** Pan-fried cod
+
+   | Quantity | Item         |
+   |----------+--------------|
+   | 2 filets | [[id:7e7653de-23af-47e0-9d3c-7d0d457f4e3e][fresh cod]]    |
+   | 1 tsp    | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]  |
+   | 1/2 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]] |
+   | 1 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]        |
+   | 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]       |
+
+** Sauce
+
+   | Quantity | Item        |
+   |----------+-------------|
+   | 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]]       |
+   | 3 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]      |
+   | 1/4 cup  | [[id:e27d44f2-b9a3-4b4e-a4c3-c7aef4e94019][capers]]      |
+   | 1 Tbsp   | caper brine |
+   | 6 Tbsp   | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]     |
+
+* Directions
+
+  1. Season the code with salt and pepper.
+	 - Evenly dredge with flour, shaking off any excess.
+  2. Set a large, heavy-bottomed skillet over medium-high heat.
+	 - Once warm, heat the butter until bubbles appear and subside.
+	 - Gently lay fish in the pan, cooking for 5 min per side.[fn:1]
+	 - Set aside fish aside to rest in a warm place.
+
+  3. Slice lemons into quarters and remove any seeds.
+  4. In the same pan, place butter and lemon quarters.
+	 - Cook for 3 min, until a rich, golden-brown colour.
+	 - Squeeze the juice from the lemons into the butter, then toss to stew.
+  5. Add the capers, brine, and parsley to the pan.
+	 - Cook for 30 s, then spoon the sauce over the crispy fish.
+6. Serve immediately.
+
+* References
+
+  1. Original recipe: [[https://www.eatyourbooks.com/library/197843/a-rising-tide-a-cookbook][A Rising Tide]]
+
+* Footnotes
+
+  [fn:1] The fillets will be golden and crispy on the outside, just barely cooked through and opaque in the centre.
+

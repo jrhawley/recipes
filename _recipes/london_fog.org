@@ -12,9 +12,9 @@
 |----------+-----------------|
 | 1/2 cup  | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]           |
 | 1/2 cup  | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]            |
-| 1/4 tsp  | [[../_ingredients/vanilla-extract.md][vanilla extract]] |
-| 1 tsp    | [[../_ingredients/sugar.md][sugar]]           |
-| 1 sachet | [[../_ingredients/earl-grey-tea.md][Earl Grey tea]]   |
+| 1/4 tsp  | [[id:924ad22d-2f73-4def-b12f-f0133df00ff1][vanilla extract]] |
+| 1 tsp    | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]           |
+| 1 sachet | [[id:1034e8a1-c179-45f8-a818-5b54e314d761][Earl Grey tea]]   |
 
 * Directions
 

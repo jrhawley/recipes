@@ -16,20 +16,20 @@
 
 | Quantity | Item                            |
 |----------+---------------------------------|
-| 5 cups   | [[../_ingredients/broccoli.md][broccoli]] florets, thinly sliced |
-| 1        | medium [[../_ingredients/onion.md][yellow onion]], diced      |
-| 3 cloves | [[../_ingredients/garlic.md][garlic]], minced                  |
-| 1 cup    | [[../_ingredients/carrot.md][carrots]], grated                 |
-| 2 oz     | reduced fat [[../_ingredients/cream-cheese.md][cream cheese]]        |
+| 5 cups   | [[id:dfedd038-479e-42e5-9995-bd0beeea0dd4][broccoli]] florets, thinly sliced |
+| 1        | medium [[id:8a695016-03b5-4059-9a54-668f3b794e33][yellow onion]], diced      |
+| 3 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                  |
+| 1 cup    | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrots]], grated                 |
+| 2 oz     | reduced fat [[id:d208148d-02fe-4a3d-8675-f4934bc5a298][cream cheese]]        |
 | 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                      |
 | 1 tsp    | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                          |
 | 1/4 tsp  | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]                          |
-| 4 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]                 |
+| 4 cups   | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]                 |
 | 1 Tbsp   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                           |
 | 1/4 cup  | warm [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                      |
-| 1 Tbsp   | [[../_ingredients/corn-starch.md][corn starch]]                     |
-| 1/4 cup  | plain [[../_ingredients/greek-yogurt.md][Greek yogurt]]              |
-| 1 cup    | [[../_ingredients/cheddar.md][cheddar]], grated                 |
+| 1 Tbsp   | [[id:74ca1bf4-e5d8-4e1c-89fe-fb8a82ad8249][corn starch]]                     |
+| 1/4 cup  | plain [[id:3e80ceb1-aa3e-425a-a18b-d3acdc4353cf][Greek yogurt]]              |
+| 1 cup    | [[id:a89a233e-066a-40bd-8081-de30271f7576][cheddar]], grated                 |
 
 * Directions
 

@@ -16,19 +16,19 @@
 
 | Quantity | Item                       |
 |----------+----------------------------|
-| 2        | [[../_ingredients/tomato.md][beefsteak tomatoes]], sliced |
-| 1/4 cup  | [[../_ingredients/mayonnaise.md][mayonnaise]]                 |
-| 1/2      | [[../_ingredients/lemon.md][lemon]], juiced              |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced             |
-| 4 slices | [[../_ingredients/sourdough.md][sourdough]], thick slices    |
-| 1        | [[../_ingredients/avocado.md][avocado]]                    |
-|          | [[../_ingredients/olive-oil.md][olive oil]]                  |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                |
+| 2        | [[id:062adc0a-d992-4452-a4fb-8010d2b4a0db][beefsteak tomatoes]], sliced |
+| 1/4 cup  | [[id:9dddf4a5-99df-4431-89f5-751dc7c04029][mayonnaise]]                 |
+| 1/2      | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]], juiced              |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced             |
+| 4 slices | [[id:b95bab01-5471-4ccb-9965-981d9db436f4][sourdough]], thick slices    |
+| 1        | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocado]]                    |
+|          | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                  |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                     |
-|          | [[../_ingredients/oregano.md][oregano]]                    |
+|          | [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]                    |
 |          | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                     |
-|          | [[../_ingredients/basil.md][basil]]                      |
-|          | [[../_ingredients/arugula.md][arugula]]                    |
+|          | [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]]                      |
+|          | [[id:5e36609a-fd6f-49ce-9707-d28edbcb1860][arugula]]                    |
 
 * Directions
 

@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Thai veggie bowl
 #+DATE: [2020-03-13]
-#+LAST_MODIFIED: [2022-07-25 Mon 20:25]
+#+LAST_MODIFIED: [2022-08-21 Sun 10:19]
 #+FILETAGS: :recipe:vegetarian:vegan:dinner:
 
 | Info      | Amount     |
@@ -19,40 +19,40 @@
 
 ** Thai peanut sauce
 
-| Quantity | Item           |
-|----------+----------------|
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced |
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]      |
-| 3 Tbsp   | [[../_ingredients/peanut-butter.md][peanut butter]]  |
-| 2 tsp    | [[../_ingredients/ginger.md][ginger]], grated |
-| 3 Tbsp   | [[../_ingredients/lime-juice.md][lime juice]]     |
-| 3 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]      |
-| 1 tsp    | [[../_ingredients/sugar.md][sugar]]          |
+   | Quantity | Item           |
+   |----------+----------------|
+   | 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced |
+   | 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]      |
+   | 3 Tbsp   | [[id:6e61a7f2-b5a0-4740-9cc0-c915469ee602][peanut butter]]  |
+   | 2 tsp    | [[id:5650869d-ec01-477c-ba1b-7b2a830a5c9e][ginger]], grated |
+   | 3 Tbsp   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]     |
+   | 3 Tbsp   | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]      |
+   | 1 tsp    | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]          |
 
 ** Salad
 
-| Quantity | Item                   |
-|----------+------------------------|
-| 1 cup    | [[../_ingredients/rice.md][rice]]                   |
-| 16 oz    | [[../_ingredients/edamame.md][edamame beans]]          |
-| 1        | red [[../_ingredients/bell-pepper.md][bell pepper]], diced |
-| 1/2      | [[../_ingredients/cucumber.md][cucumber]], diced        |
-| 1        | [[../_ingredients/carrot.md][carrot]], juilienned     |
-| 4        | [[../_ingredients/green-onion.md][green onions]]           |
-| 1/4 cup  | [[../_ingredients/parsley.md][parsley]], chopped       |
-|          | [[../_ingredients/olive-oil.md][olive oil]]              |
-|          | [[../_ingredients/sesame-seeds.md][sesame seeds]]           |
+   | Quantity | Item                   |
+   |----------+------------------------|
+   | 1 cup    | [[id:9b67d62e-13d2-46e0-9366-196393f90028][rice]]                   |
+   | 16 oz    | [[id:426f19a5-a43a-45d4-af0c-7c0537117834][edamame beans]]          |
+   | 1        | red [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell pepper]], diced |
+   | 1/2      | [[id:91d2bb4a-3cc3-4dfd-8c54-953a701ad3a2][cucumber]], diced        |
+   | 1        | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrot]], juilienned     |
+   | 4        | [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onions]]           |
+   | 1/4 cup  | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], chopped       |
+   |          | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]              |
+   |          | [[id:64a79bd5-0a6a-4dab-9747-32cf2a07fb93][sesame seeds]]           |
 
 * Directions
 
-1. In a food processor, combine all sauce ingredients and blend until smooth
-2. Cook the rice/soba noodles according to instructions
-   1. If noodles, drain, rinse under cold water, toss with olive oil
-   2. Transfer to a large bowl
-3. Add remaining salad ingredients
-4. Top with sauce and sesame seeds when serving
+  1. In a food processor, combine all sauce ingredients and blend until smooth
+  2. Cook the rice/soba noodles according to instructions
+     1. If noodles, drain, rinse under cold water, toss with olive oil
+     2. Transfer to a large bowl
+  3. Add remaining salad ingredients
+  4. Top with sauce and sesame seeds when serving
 
 * References & Notes
 
-1. [[https://ohsheglows.com/book/][Oh She Glows]]
+1. Original recipe: [[https://ohsheglows.com/book/][Oh She Glows]]
 

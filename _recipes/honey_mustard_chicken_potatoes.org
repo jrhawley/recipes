@@ -16,18 +16,18 @@
 
 | Quantity | Item                         |
 |----------+------------------------------|
-| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]              |
-| 1 Tbsp   | [[../_ingredients/garlic-powder.md][garlic powder]]                |
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                    |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced               |
-| 1/4 cup  | [[../_ingredients/honey.md][honey]]                        |
-| 3 Tbsp   | [[../_ingredients/mustard.md][whole grain mustard]]          |
-| 2 Tbsp   | [[../_ingredients/dijon-mustard.md][dijon mustard]]                |
+| 4        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]              |
+| 1 Tbsp   | [[id:42bb6cab-f3f5-4018-814f-dba5fcf0e95a][garlic powder]]                |
+| 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                    |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced               |
+| 1/4 cup  | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                        |
+| 3 Tbsp   | [[id:8229d1fa-b72c-4ed1-8d8e-cc10f0ff35ef][whole grain mustard]]          |
+| 2 Tbsp   | [[id:00a48416-bb29-468a-9498-dacf8e0491ba][dijon mustard]]                |
 | 2 Tbsp   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                        |
-| 1 lbs    | baby [[../_ingredients/potato.md][red potatoes]], quartered |
-| 8 oz     | [[../_ingredients/green-beans.md][green beans]], halved          |
-| 2 sprigs | [[../_ingredients/rosemary.md][rosemary]]                     |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                  |
+| 1 lbs    | baby [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][red potatoes]], quartered |
+| 8 oz     | [[id:7e70dd06-871f-47f8-a1bc-af4c7f194ef5][green beans]], halved          |
+| 2 sprigs | [[id:473555c6-ad53-42f0-9301-71ed769e25e8][rosemary]]                     |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                  |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                       |
 
 * Directions

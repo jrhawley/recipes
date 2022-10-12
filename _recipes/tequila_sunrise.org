@@ -3,16 +3,16 @@
 :END:
 #+TITLE: Tequila sunrise
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:17]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:35]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
 | Quantity | Ingredients  |
 |----------+--------------|
-| 5/3 oz   | [[../_ingredients/tequila.md][tequila]]      |
-| 5/2 oz   | [[../_ingredients/orange-juice.md][orange juice]] |
-| 1 tsp    | [[../_ingredients/grenadine.md][grenadine]]    |
+| 5/3 oz   | [[id:1cc52ced-0115-42f9-9fe7-6ad85fc3d3ca][tequila]]      |
+| 5/2 oz   | [[id:f7a7c38b-0afe-4fce-9d30-49540dcf2035][orange juice]] |
+| 1 tsp    | [[id:3a37487a-599e-4c93-b961-8d13cfbaa780][grenadine]]    |
 
 * Directions
 

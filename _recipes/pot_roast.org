@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Pot roast
 #+DATE: [2019-03-23]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:27]
+#+LAST_MODIFIED: [2022-10-12 Wed 00:37]
 #+FILETAGS: :recipe:slow_cooker:dinner:
 
 | Info      | Amount      |
@@ -16,16 +16,15 @@
 
 | Quantity | Item              |
 |----------+-------------------|
-| 3 lbs    | [[../_ingredients/chuck-roast.md][chuck roast]]       |
-| 5        | [[../_ingredients/potato.md][potatoes]], chunked |
-| 1        | [[../_ingredients/onion.md][onion]], chunked    |
-| 4        | [[../_ingredients/carrot.md][carrots]], chunked  |
-| 2 cups   | [[../_ingredients/beef-broth.md][beef broth]]        |
+| 3 lbs    | [[id:0a198fbe-3294-42a0-83b0-58c3284fdb76][chuck roast]]       |
+| 5        | [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][potatoes]], chunked |
+| 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], chunked    |
+| 4        | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrots]], chunked  |
+| 2 cups   | [[id:6e6ebcb8-32a9-45bf-932a-f432577fc322][beef broth]]        |
 | 2 cups   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]             |
-| 1/2 tsp  | [[../_ingredients/garlic-powder.md][garlic powder]]     |
-| 1/2 tsp  | [[../_ingredients/onion-powder.md][onion powder]]      |
-| 1/2 tsp  | [[../_ingredients/italian-seasoning.md][Italian seasoning]] |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]       |
+| 1/2 tsp  | [[id:42bb6cab-f3f5-4018-814f-dba5fcf0e95a][garlic powder]]     |
+| 1/2 tsp  | [[id:1073ad23-11a9-46bd-93e3-57cc0885776f][onion powder]]      |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]       |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]            |
 
 * Directions

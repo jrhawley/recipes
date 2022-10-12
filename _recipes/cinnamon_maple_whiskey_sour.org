@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Cinnamon maple whiskey sour
 #+DATE: [2020-10-09]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:58]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-10-12 Wed 00:33]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 #+CAPTION: Cinnamon maple whiskey sour
 [[../_assets/cinnamon-maple-whiskey-sour.jpg]]
@@ -13,18 +13,18 @@
 
 | Quantity | Item              |
 |----------+-------------------|
-| 1.5 oz   | [[../_ingredients/bourbon.md][bourbon]]           |
-| 1 oz     | fresh [[../_ingredients/lemon-juice.md][lemon juice]] |
-| 1 Tbsp   | [[../_ingredients/maple-syrup.md][maple syrup]]       |
-|          | [[../_ingredients/ice.md][ice cubes]]         |
+| 1.5 oz   | [[id:437447cf-eabf-4f1a-89d0-e4d402eddf18][Bulleit bourbon]]   |
+| 1 oz     | fresh [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]] |
+| 1 Tbsp   | [[id:716dd7d0-46db-4224-9391-75b5eaad5cfd][maple syrup]]       |
+|          | ice cubes         |
 
 * Directions
 
-1. Fill a cocktail shaker with ice cubes
-2. Add all ingredients and shake until frothy
-3. Fill cocktail glass with ice, pour drink over top and serve
+  1. Fill a cocktail shaker with ice cubes
+  2. Add all ingredients and shake until frothy
+  3. Fill cocktail glass with ice, pour drink over top and serve
 
 * References & Notes
 
-1. [[https://cookieandkate.com/cinnamon-maple-whiskey-sour-recipe/print/24019/][Original recipe]]
+  1. [[https://cookieandkate.com/cinnamon-maple-whiskey-sour-recipe/print/24019/][Original recipe]]
 

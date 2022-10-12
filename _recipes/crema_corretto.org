@@ -3,17 +3,17 @@
 :END:
 #+TITLE: Crema corretto
 #+DATE: [2021-09-25]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:59]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:37]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
 | Quantity | Item             |
 |----------+------------------|
-| 2 oz     | [[../_ingredients/amaro.md][amaro]]            |
+| 2 oz     | [[id:f0c2d0c7-8399-45f1-a783-1be5ca83aafd][amaro]]            |
 | 1 oz     | [[id:eaf54217-f528-4d72-b1b1-4efff76983ae][whipping cream]]   |
-| 3/4 oz   | [[../_ingredients/espresso.md][espresso]]         |
-| 2        | [[../_ingredients/chocolate-sticks.md][chocolate sticks]] |
+| 3/4 oz   | [[id:5af07580-c639-47a4-86af-1003c1635152][espresso]]         |
+| 2        | [[id:b3692180-16ba-453c-ac93-9d3c5787cecc][chocolate sticks]] |
 
 * Directions
 

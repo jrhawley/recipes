@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       b698c969-065f-4050-96d7-e6dafbd504f5
+:END:
+#+TITLE: Southern baked macaroni and cheese
+#+DATE: [2022-08-09 Tue]
+#+LAST_MODIFIED: [2022-08-09 Tue 13:40]
+#+FILETAGS: :dairy:dinner:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 35 min     |
+| Yields    | 6 servings |
+
+* Ingredients
+
+  | Amount  | Ingredient                               |
+  |---------+------------------------------------------|
+  | 3 cup   | [[id:da6d7073-3e24-4401-bbd6-c92cbb8fdcc4][Macaroni]], uncooked                       |
+  | 3/2 cup | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][Milk]]                                     |
+  | 1/2 cup | [[id:eaf54217-f528-4d72-b1b1-4efff76983ae][Whipping cream]]                           |
+  | 1 cup   | [[id:58bbf85a-f39c-40ce-b0e7-7f48f825aa76][Colby and monterey jack cheese]], shredded |
+  | 1 cup   | [[id:a89a233e-066a-40bd-8081-de30271f7576][Cheddar cheese]], shredded                 |
+  | 2       | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][Eggs]]                                     |
+  | 1 cup   | [[id:c0d2d422-c5f4-4147-8bc8-6dc9e7148046][Smoked cheddar cheese]]                    |
+  |         | [[id:505e3767-00ab-4806-8966-555302b06297][Table salt]]                               |
+  |         | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][Pepper]]                                   |
+  |         | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][Paprika]]                                  |
+
+* Directions
+
+  1. Preheat oven to 350 F and boik a large pot of salted water
+  2. Cook macaroni until /al dente/ [fn:1]
+	 - Drain and set aside
+  3. While the pasta is cooking, combine milk, heavy cream, and cheeses except for the smoked cheddar in a large bowl
+	 - Season with salt, pepper, and paprika to taste
+	 - Mix in the eggs and lightly beat
+  4. Butter a 9" x 9" baking dish and add the cooked macaroni
+	 - Pour the cheese mixture over the macaroni and carefully stir to combine
+	 - Top with smoked cheddar, and any leftover shredded cheese
+	 - Add additional salt, pepper, and paprika, to taste
+  5. Bake for 35 min [fn:1]
+  6. Let sit for 10 min before serving
+
+* References & Footnotes
+
+  1. [[https://divascancook.com/wprm_print/recipe/18403][Original recipe]]
+
+  [fn:1] Be careful not to overcook
+

@@ -19,18 +19,18 @@
 
 | Quantity | Item                        |
 |----------+-----------------------------|
-| 3 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                   |
-| 1        | medium [[../_ingredients/onion.md][onion]], chopped       |
-| 4 cloves | [[../_ingredients/garlic.md][garlic]], chopped             |
-| 4 Tbsp   | [[../_ingredients/chives.md][chives]], chopped and divided |
-| 4 Tbsp   | [[../_ingredients/dill.md][dill]]                        |
-| 1/2 lbs  | baby [[../_ingredients/spinach.md][spinach]]                |
-| 1 cup    | basmati [[../_ingredients/rice.md][rice]]                |
-| 2 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]             |
+| 3 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                   |
+| 1        | medium [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], chopped       |
+| 4 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], chopped             |
+| 4 Tbsp   | [[id:4a640bfd-1c57-4159-af05-12f6dfc43346][chives]], chopped and divided |
+| 4 Tbsp   | [[id:ed1dc225-9206-4760-a3c0-9fc7274bbd31][dill]]                        |
+| 1/2 lbs  | baby [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]]                |
+| 1 cup    | basmati [[id:9b67d62e-13d2-46e0-9366-196393f90028][rice]]                |
+| 2 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]             |
 | 3 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                      |
-| 2 Tbsp   | [[../_ingredients/lemon-juice.md][lemon juice]]                 |
-| 2 tsp    | [[../_ingredients/lemon.md][lemon zest]]                  |
-|          | [[../_ingredients/feta.md][feta]]                        |
+| 2 Tbsp   | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]                 |
+| 2 tsp    | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon zest]]                  |
+|          | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]]                        |
 
 * Directions
 

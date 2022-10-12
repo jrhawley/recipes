@@ -3,23 +3,23 @@
 :END:
 #+TITLE: Bacardi cocktail
 #+DATE: [2021-06-01]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
-#+FILETAGS: :recipe:beverage:alcoholic:
+#+LAST_MODIFIED: [2022-10-11 Tue 21:23]
+#+FILETAGS: :recipe:beverage:alcohol:
 
 * Ingredients
 
 | Quantity | Item       |
 |----------+------------|
-| 2 oz     | [[../_ingredients/rum.md][white rum]]  |
-| 1/2 oz   | [[../_ingredients/lime-juice.md][lime juice]] |
-| 1/2 oz   | [[../_ingredients/grenadine.md][grenadine]]  |
+| 2 oz     | [[id:3b6f920d-85fb-4fb1-bd0b-cc08811eb2b1][white rum]]  |
+| 1/2 oz   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]] |
+| 1/2 oz   | [[id:3a37487a-599e-4c93-b961-8d13cfbaa780][grenadine]]  |
 
 * Directions
 
-1. Combine all ingredients in a cocktail shaker with ice
-2. Shake well and strain into a chilled cocktail glass
+  1. Combine all ingredients in a cocktail shaker with ice
+  2. Shake well and strain into a chilled cocktail glass
 
 * References & Notes
 
-1. [[https://www.thespruceeats.com/bacardi-cocktail-recipe-759282][Original recipe]]
+  1. [[https://www.thespruceeats.com/bacardi-cocktail-recipe-759282][Original recipe]]
 

@@ -16,18 +16,18 @@
 
 | Quantity | Item                               |
 |----------+------------------------------------|
-| 2 lbs    | boneless, skinless [[../_ingredients/chicken-breast.md][chicken breasts]] |
-| 5 oz     | [[../_ingredients/snap-peas.md][snap peas]]                          |
-| 1        | large [[../_ingredients/bell-pepper.md][red bell pepper]], sliced      |
+| 2 lbs    | boneless, skinless [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]] |
+| 5 oz     | [[id:439b4d67-0be5-41c8-a1c6-be508254bf6d][snap peas]]                          |
+| 1        | large [[id:4390c023-512f-49c7-8320-0b6fba85a579][red bell pepper]], sliced      |
 | 5 oz     | [[id:ca962d8d-8d43-4353-b35d-4b39592e6e52][water chestnuts]], sliced            |
-| 4 stalks | [[../_ingredients/green-onion.md][green onion]], chopped               |
-| 1 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]                    |
+| 4 stalks | [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onion]], chopped               |
+| 1 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]                    |
 | 1/4 cup  | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][worcestershire sauce]]               |
-| 1/4 cup  | low sodium [[../_ingredients/soy-sauce.md][soy sauce]]               |
-| 2 Tbsp   | [[../_ingredients/honey.md][honey]]                              |
-| 2 tsp    | [[../_ingredients/garlic.md][garlic]], minced                     |
-| 1 tsp    | ground [[../_ingredients/ginger.md][ginger]]                      |
-| 14 oz    | [[../_ingredients/lo-mein.md][lo mein noodles]], uncooked          |
+| 1/4 cup  | low sodium [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]               |
+| 2 Tbsp   | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                              |
+| 2 tsp    | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                     |
+| 1 tsp    | ground [[id:5650869d-ec01-477c-ba1b-7b2a830a5c9e][ginger]]                      |
+| 14 oz    | [[id:55e8f7d0-5d66-41cf-b669-dce30eab787b][lo mein noodles]], uncooked          |
 
 * Directions
 

@@ -16,19 +16,19 @@
 
 | Quantity | Item           |
 |----------+----------------|
-| 1 cup    | [[../_ingredients/quinoa.md][quinoa]]         |
-| 10 oz    | [[../_ingredients/kale.md][kale]]           |
-| 1/2      | [[../_ingredients/red-onion.md][red onion]]      |
-| 6 stalks | [[../_ingredients/green-onion.md][green onion]]    |
-| 15 oz    | [[../_ingredients/black-beans.md][black beans]]    |
-| 15 oz    | [[../_ingredients/chickpeas.md][chickpeas]]      |
-| 100 g    | [[../_ingredients/feta.md][feta]]           |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]    |
+| 1 cup    | [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]]         |
+| 10 oz    | [[id:36223b51-b988-470c-ab00-748e4a5b3e66][kale]]           |
+| 1/2      | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]]      |
+| 6 stalks | [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onion]]    |
+| 15 oz    | [[id:285345d6-78f4-42cd-af32-0738783c781d][black beans]]    |
+| 15 oz    | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]]      |
+| 100 g    | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]]           |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]    |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]         |
-|          | [[../_ingredients/cumin.md][cumin]]          |
-|          | [[../_ingredients/lemon.md][lemon]]          |
-|          | [[../_ingredients/cayenne-pepper.md][cayenne pepper]] |
-|          | [[../_ingredients/chili-pepper.md][chili pepper]]   |
+|          | [[id:591e51ef-30b7-48f4-9232-a0834f4c31af][cumin]]          |
+|          | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]]          |
+|          | [[id:964cf8d4-b475-4188-b372-cd92a1346089][cayenne pepper]] |
+|          | [[id:9e9a753c-a10b-46bc-bbe1-1101225a6257][chili pepper]]   |
 
 * Directions
 

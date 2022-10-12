@@ -18,25 +18,25 @@
 
 | Quantity  | Item              |
 |-----------+-------------------|
-| 14 oz can | [[../_ingredients/pumpkin-puree.md][pumpkin puree]]     |
-| 1 cup     | [[../_ingredients/sugar.md][sugar]]             |
-| 1 cup     | [[../_ingredients/canola-oil.md][canola oil]]        |
-| 1         | [[../_ingredients/egg.md][egg]]               |
-| 2 tsp     | [[../_ingredients/vanilla-extract.md][vanilla extract]]   |
+| 14 oz can | [[id:6f0f0e58-76c7-44e1-92f1-33cf8468e9b3][pumpkin puree]]     |
+| 1 cup     | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]             |
+| 1 cup     | [[id:7a9bbd87-4f90-4c59-8bb1-e1bdcdffceb3][canola oil]]        |
+| 1         | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]]               |
+| 2 tsp     | [[id:924ad22d-2f73-4def-b12f-f0133df00ff1][vanilla extract]]   |
 | 3 cup     | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]             |
-| 1 Tbsp    | [[../_ingredients/pumpkin-pie-spice.md][pumpkin-pie-spice]] |
+| 1 Tbsp    | [[id:6f7fcb45-3840-441b-98a0-cf58af4170c4][pumpkin-pie-spice]] |
 | 1/2 tsp   | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]            |
-| 2 tsp     | [[../_ingredients/baking-powder.md][baking powder]]     |
-| 1 tsp     | [[../_ingredients/baking-soda.md][baking soda]]       |
+| 2 tsp     | [[id:218f6314-47d3-4d12-bc91-3adc8baf97a8][baking powder]]     |
+| 1 tsp     | [[id:3977eee0-56ec-42eb-af6c-6b31a703c1f6][baking soda]]       |
 | 1/2 tsp   | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]        |
 
 ** Cream Cheese
 
 | Quantity | Item                   |
 |----------+------------------------|
-| 6 oz     | [[../_ingredients/cream-cheese.md][cream cheese]], softened |
-| 1/4 cup  | [[../_ingredients/sugar.md][sugar]]                  |
-| 1        | [[../_ingredients/egg.md][egg]]                    |
+| 6 oz     | [[id:d208148d-02fe-4a3d-8675-f4934bc5a298][cream cheese]], softened |
+| 1/4 cup  | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]                  |
+| 1        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]]                    |
 | 2 Tbsp   | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                  |
 
 * Directions

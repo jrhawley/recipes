@@ -20,18 +20,18 @@
 | Quantity | Item                       |
 |----------+----------------------------|
 | 3 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                     |
-| 2        | [[../_ingredients/eggs.md][eggs]], lightly beaten       |
-| 2        | [[../_ingredients/carrot.md][carrots]], peeled, diced     |
-| 1        | [[../_ingredients/onion.md][onion]], diced               |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced             |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                |
+| 2        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][eggs]], lightly beaten       |
+| 2        | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrots]], peeled, diced     |
+| 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], diced               |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced             |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                     |
-| 4 cup    | [[../_ingredients/rice.md][basmati rice]], uncooked     |
-| 3 stalks | [[../_ingredients/green-onion.md][green onion]], thinly sliced |
-| 3 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]                  |
-| 2 tsp    | [[../_ingredients/oyster-sauce.md][oyster sauce]]               |
-| 2 tsp    | [[../_ingredients/olive-oil.md][olive oil]]                  |
-| 2        | [[../_ingredients/chicken-breast.md][chicken breasts]]            |
+| 4 cup    | [[id:9b67d62e-13d2-46e0-9366-196393f90028][basmati rice]], uncooked     |
+| 3 stalks | [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onion]], thinly sliced |
+| 3 Tbsp   | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]                  |
+| 2 tsp    | [[id:3d5af97e-e0c3-4886-b87f-91ac6d5206e4][oyster sauce]]               |
+| 2 tsp    | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                  |
+| 2        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]            |
 
 * Directions
 

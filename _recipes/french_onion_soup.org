@@ -16,16 +16,16 @@
 
 | Quantity | Item                                   |
 |----------+----------------------------------------|
-| 3        | yellow [[../_ingredients/onion.md][onion]], peeled and sliced thinly |
+| 3        | yellow [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], peeled and sliced thinly |
 | 3 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                                 |
-| 2 Tbsp   | [[../_ingredients/brown-sugar.md][brown sugar]]                            |
+| 2 Tbsp   | [[id:02ccfac6-e705-4b80-949e-1dff24216a5b][brown sugar]]                            |
 | 2 Tbsp   | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][worcestershire sauce]]                   |
-| 2 Tbsp   | [[../_ingredients/garlic.md][garlic]], minced                         |
-| 8 cups   | low sodium [[../_ingredients/beef-broth.md][beef broth]]                  |
-| 1        | [[../_ingredients/bay-leaf.md][bay leaf]]                               |
-| 1 sprig  | fresh [[../_ingredients/thyme.md][thyme]]                            |
-| 6 slices | [[../_ingredients/french-bread.md][French bread]]                           |
-| 1 cup    | [[../_ingredients/swiss-cheese.md][Swiss cheese]], shredded                 |
+| 2 Tbsp   | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                         |
+| 8 cups   | low sodium [[id:6e6ebcb8-32a9-45bf-932a-f432577fc322][beef broth]]                  |
+| 1        | [[id:e2e9621c-0f45-41ca-b381-22b8fa8694b9][bay leaf]]                               |
+| 1 sprig  | fresh [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                            |
+| 6 slices | [[id:857e2e38-6c9d-46e0-a46b-a3ce9a25c0e7][French bread]]                           |
+| 1 cup    | [[id:5994fb2f-57a2-46df-9802-047e0013e079][Swiss cheese]], shredded                 |
 | 1 cup    | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], shredded                     |
 
 * Directions

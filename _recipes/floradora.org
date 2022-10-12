@@ -3,17 +3,17 @@
 :END:
 #+TITLE: Floradora
 #+DATE: [2021-07-11]
-#+LAST_MODIFIED: [2022-07-25 Mon 09:01]
-#+FILETAGS: :recipe:beverage:alcoholic:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:37]
+#+FILETAGS: :recipe:beverage:alcohol:
 
 * Ingredients
 
 | Quantity | Item       |
 |----------+------------|
-| 3/2 oz   | [[../_ingredients/gin.md][gin]]        |
-| 1/2 oz   | [[../_ingredients/grenadine.md][grenadine]]  |
-| 1/2 oz   | [[../_ingredients/lime-juice.md][lime juice]] |
-| 4 oz     | [[../_ingredients/ginger-ale.md][ginger ale]] |
+| 3/2 oz   | [[id:fccdeb8e-92f8-4058-b058-b9e9ae72b7fd][gin]]        |
+| 1/2 oz   | [[id:3a37487a-599e-4c93-b961-8d13cfbaa780][grenadine]]  |
+| 1/2 oz   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]] |
+| 4 oz     | [[id:f8b77928-823a-4305-aa77-1dbb6248a0be][ginger ale]] |
 
 * Directions
 

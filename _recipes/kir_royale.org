@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       8c5da0e0-07a4-4548-91a5-777805112476
+:END:
+#+TITLE: Kir Royale
+#+DATE: [2022-10-06 Thu 22:26]
+#+LAST_MODIFIED: [2022-10-06 Thu 22:33]
+#+FILETAGS: :alcohol:recipe:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 1 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item                  |
+  |----------+-----------------------|
+  | 1 oz     | [[id:75a5e2c3-fc9d-406f-acb3-0a044fb43863][creme de cassis]]       |
+  | 4 oz     | [[id:5ef6d9fc-4f8c-412d-be11-efaf44b151cb][prosecco]] or [[id:212f1eb7-715e-4b55-8c04-8b50abd043be][champagne]] |
+
+* Directions
+
+  1. Pour the creme de cassis into a champagne flute and top with champagne.
+  2. Garnish with raspberries, cranberries, or other fruit.
+

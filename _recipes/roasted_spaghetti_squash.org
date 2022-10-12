@@ -16,11 +16,11 @@
 
 | Quantity | Item                   |
 |----------+------------------------|
-| 1        | [[../_ingredients/spaghetti-squash.md][spaghetti squash]]       |
-| 1 tsp    | minced [[../_ingredients/bell-pepper.md][red bell pepper]] |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]]                 |
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]              |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]            |
+| 1        | [[id:e347b790-00c5-4ebe-9b4c-3900568d21c1][spaghetti squash]]       |
+| 1 tsp    | minced [[id:4390c023-512f-49c7-8320-0b6fba85a579][red bell pepper]] |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]                 |
+| 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]              |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]            |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                 |
 
 * Directions

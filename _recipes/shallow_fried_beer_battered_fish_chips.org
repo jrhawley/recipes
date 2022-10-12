@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Shallow-fried beer-battered fish and chips
 #+DATE: [2020-04-26]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:30]
+#+LAST_MODIFIED: [2022-10-12 Wed 00:37]
 #+FILETAGS: :recipe:dinner:
 
 | Info      | Amount   |
@@ -16,23 +16,23 @@
 
 | Quantity | Item                    |
 |----------+-------------------------|
-| 2 filets | [[../_ingredients/cod.md][cod]]                     |
-| 1        | [[../_ingredients/egg.md][egg]]                     |
+| 2 filets | [[id:7e7653de-23af-47e0-9d3c-7d0d457f4e3e][cod]]                     |
+| 1        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]]                     |
 | 1 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]], separated        |
-| 1 tsp    | [[../_ingredients/baking-powder.md][baking powder]]           |
-| 3/2 tsp  | [[../_ingredients/curry-powder.md][curry powder]], optional  |
-| 150 mL   | [[../_ingredients/beer.md][beer]]                    |
-| 2        | yukon gold [[../_ingredients/potato.md][potatoes]]     |
-| 1/2 cup  | [[../_ingredients/sunflower-oil.md][sunflower oil]]           |
-| 2        | [[../_ingredients/shallot.md][shallots]]                |
-| 1        | [[../_ingredients/lemon.md][lemon]]                   |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]             |
-|          | [[../_ingredients/creme-fraiche.md][creme fraiche]]           |
-|          | [[../_ingredients/mayonnaise.md][mayonnaise]]              |
-|          | [[../_ingredients/gherkin-pickles.md][gherkin pickles]]         |
-|          | [[../_ingredients/capers.md][capers]]                  |
-|          | [[../_ingredients/parsley.md][parsley]]                 |
-|          | [[../_ingredients/tabasco.md][tabasco sauce]], optional |
+| 1 tsp    | [[id:218f6314-47d3-4d12-bc91-3adc8baf97a8][baking powder]]           |
+| 3/2 tsp  | [[id:95827b91-eda0-4d7b-8546-0453820d0b0d][curry powder]], optional  |
+| 150 mL   | beer                    |
+| 2        | yukon gold [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][potatoes]]     |
+| 1/2 cup  | [[id:ab65a9ea-074a-40c5-877a-000b30a13ada][sunflower oil]]           |
+| 2        | [[id:7b7e13cf-0fb9-4dc6-a707-94bfd73417b2][shallots]]                |
+| 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]]                   |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]             |
+|          | [[id:8a8a1424-203a-4d36-b557-8c0ccb9c43a3][creme fraiche]]           |
+|          | [[id:9dddf4a5-99df-4431-89f5-751dc7c04029][mayonnaise]]              |
+|          | [[id:c3607859-0627-4a3a-87ca-1f21e95c0988][gherkin pickles]]         |
+|          | [[id:e27d44f2-b9a3-4b4e-a4c3-c7aef4e94019][capers]]                  |
+|          | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]                 |
+|          | [[id:7a869ad9-f06d-4a2e-9b2e-98115f7d8e03][tabasco sauce]], optional |
 
 * Directions
 

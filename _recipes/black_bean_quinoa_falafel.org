@@ -19,14 +19,14 @@
 
 | Quantity | Item                                |
 |----------+-------------------------------------|
-| 1 cup    | cooked [[../_ingredients/quinoa.md][quinoa]], cooled               |
-| 15 oz    | [[../_ingredients/black-beans.md][black beans]], rinsed, drained, dried |
-| 1/4 cup  | [[../_ingredients/pumpkin-seeds.md][pumpkin seeds]]                       |
-| 5 cloves | [[../_ingredients/garlic.md][garlic]], minced                      |
+| 1 cup    | cooked [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]], cooled               |
+| 15 oz    | [[id:285345d6-78f4-42cd-af32-0738783c781d][black beans]], rinsed, drained, dried |
+| 1/4 cup  | [[id:26ca4439-8ab4-4422-a478-8c2354ea8724][pumpkin seeds]]                       |
+| 5 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                      |
 | 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                          |
-| 1 tsp    | ground [[../_ingredients/cumin.md][cumin]]                        |
-| 1/2 tsp  | [[../_ingredients/cilantro.md][cilantro]]                            |
-| 2 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]                        |
+| 1 tsp    | ground [[id:591e51ef-30b7-48f4-9232-a0834f4c31af][cumin]]                        |
+| 1/2 tsp  | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][cilantro]]                            |
+| 2 Tbsp   | [[id:e6fe5a89-23f4-4236-8d7f-5f5575b9719f][tomato paste]]                        |
 
 * Directions
 

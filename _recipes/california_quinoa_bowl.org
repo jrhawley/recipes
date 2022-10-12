@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       e7a9c1e1-16a4-4c9f-8f5d-e0295c78f6f7
+:END:
+#+TITLE: California quinoa bowl
+#+DATE: [2022-10-02 Sun 22:53]
+#+LAST_MODIFIED: [2022-10-02 Sun 23:01]
+#+FILETAGS: :entree:recipe:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 20 min     |
+| Cook Time | 15 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item                    |
+  |----------+-------------------------|
+  | 2        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]         |
+  | 1 tsp    | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]                 |
+  | 1 Tbsp   | dried parsley or basil  |
+  | 1 - 2    | [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell peppers]]            |
+  | 1 - 2    | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocadoes​]], mashed       |
+  | 2 cup    | [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]], cooked          |
+  | 1 cup    | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][cherry tomatoes]], halved |
+  | 1/2 cup  | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]]                    |
+  |          | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]               |
+  |          | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]             |
+  |          | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]              |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]            |
+
+* Directions
+
+  1. Cook the quinoa according to the instructions.
+  2. In a frying pan, add olive oil and cook the chicken.
+  3. Meanwhile, slice the bell pepper.
+	 - Once the chicken is fully cooked, swap the peppers with the chicken.
+	 - Cube the chicken into bite sized chunks and sautee the peppers.
+	 - Add the chicken back in after a few minutes.
+  5. Combine everything in the bowl, mash the avocado, and top with lemon juice and olive oil.
+
+* References & Notes
+

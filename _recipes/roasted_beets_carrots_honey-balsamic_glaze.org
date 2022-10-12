@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       657088d7-b571-450b-b897-a92867f1d99b
+:END:
+#+TITLE: Roasted beets and carrots with honey-balsamic glaze
+#+DATE: [2022-10-02 Sun 10:13]
+#+LAST_MODIFIED: [2022-10-02 Sun 23:06]
+#+FILETAGS: :recipe:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 20 min     |
+| Cook Time | 1 h 35 min |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item               |
+  |----------+--------------------|
+  | 8        | [[id:3bff7e0c-815d-44cd-ae7b-296924ca59b0][carrots]]            |
+  | 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]          |
+  | 4        | medium sized [[id:aa695135-a404-4546-a1df-75faf5c6e0ed][beets]] |
+  | 2 Tbsp   | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]              |
+  | 3 Tbsp   | [[id:f166ad76-3c07-43ce-a9fa-826590535b84][balsamic vinegar]]   |
+
+* Directions
+
+  1. Preheat the oven to 180 C (350 F) and line a baking sheet with aluminium foil.
+  2. Peel the carrots and cut into 2.5 cm (1 in) chunks.
+  3. Wrap the beets in aluminium foil and place in a baking dish.
+	 - Toss carrots with oil and put in a single layer on the baking sheet.
+  4. Place beets in the oven and roast for 1 h.
+	 - Once the hour is up, add the carrots to the oven and roast for 30 min more.
+	 - Remove beets and set aside to cool.
+	 - Check that carrots are tender to the fork, and cook for up to 20 min more if needed.
+  5. Peel and chop beets into 2.5 cm (1 in) pieces.
+  6. Combine balsamic vinegar and honey in a large saucepan over medium heat.
+	 - Add beets and carrots and simmer until sauce is thickened and vegetables are glazed (5 - 10 min).
+
+* References & Notes
+
+  1. Original recipe: [[https://allrecipes.com/recipe/278854/roasted-beets-and-carrots-with-honey-balsamic-glaze/][AllRecipes]]
+

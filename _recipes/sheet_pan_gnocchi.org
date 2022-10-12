@@ -1,0 +1,44 @@
+#+TITLE: Sheet pan gnocchi
+#+DATE: [2022-09-04 Sun]
+#+LAST_MODIFIED: [2022-09-08 Thu 23:06]
+#+FILETAGS: :recipe:dinner:vegetarian:vegan:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 30 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item             |
+  |----------+------------------|
+  | 16 oz    | [[id:5c4a5548-b5e7-4b9e-86ba-8915143c1c56][gnocchi]]          |
+  | 2 pints  | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][cherry tomatoes]]  |
+  | 12 oz    | [[id:100913a2-17aa-433b-9321-d52933da5f11][mozzarella ball]]  |
+  | 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]           |
+  |          | [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]]            |
+  |          | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]]         |
+  |          | [[id:f166ad76-3c07-43ce-a9fa-826590535b84][balsamic vinegar]] |
+  |          | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]        |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]      |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]     |
+  |          | [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]          |
+  
+
+* Directions
+
+  1. Preheat the oven to 450 F and line a baking sheet with parchment paper.
+  2. Dump the package of gnocchi on the pan
+	 1. Add the cherry tomatoes to the dry pan.
+	 2. Smash the garlic and add to the pan
+  3. Coat the tomatoes and gnocchi with olive oil, then add salt, pepper, and oregano to taste.
+  4. Arrange as a single layer then roast for 20 min, or until some of the tomatoes have blistered and the gnocchi is golden.
+  5. Just before the gnocchi is done, slice up half the mozzarella ball and slice the basil.
+  6. Remove the baking sheet when done, let sit for 2 min, then sprinkle with mozzarella and basil.
+  7. Serve and top with olive oil and balsamic vinegar, to taste.
+
+* References & Notes
+
+  1. Original recipe: [[https://thefoodcharlatan.com/wprm_print/recipe/30333][The Food Charlatan]]
+

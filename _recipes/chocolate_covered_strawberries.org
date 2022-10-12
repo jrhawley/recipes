@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Chocolate covered strawberries
 #+DATE: [2018-06-27]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:57]
+#+LAST_MODIFIED: [2022-10-11 Tue 21:13]
 #+FILETAGS: :recipe:dessert:
 
 | Info      | Amount |
@@ -19,9 +19,9 @@
 
 | Quantity | Item                |
 |----------+---------------------|
-| 16 oz    | [[../_ingredients/chocolate-chips.md][chocolate chips]]     |
-| 2 Tbsp   | [[../_ingredients/shortening.md][shortening]]          |
-| 1 lb     | [[../_ingredients/strawberry.md][strawberries]], fresh |
+| 16 oz    | [[id:b3692180-16ba-453c-ac93-9d3c5787cecc][chocolate chips]]     |
+| 2 Tbsp   | [[id:2da7b183-9139-4ba6-9578-3d55c818b151][shortening]]          |
+| 1 lb     | [[id:0769e2a6-ee62-4cc0-82e9-a66c7658df7e][strawberries]], fresh |
 
 * Directions
 

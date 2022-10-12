@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Hamburger soup
 #+DATE: [2014-01-02]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:08]
+#+LAST_MODIFIED: [2022-10-11 Tue 21:19]
 #+FILETAGS: :recipe:dinner:lunch:
 
 | Info      | Amount     |
@@ -16,18 +16,18 @@
 
 | Quantity | Item                  |
 |----------+-----------------------|
-| 3/2 lbs  | [[../_ingredients/ground-beef.md][ground beef]]           |
-| 1        | medium [[../_ingredients/onion.md][onion]], chopped |
+| 3/2 lbs  | [[id:a77e3807-7a6b-44f6-b57f-a860be144d6d][ground beef]]           |
+| 1        | medium [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], chopped |
 | 28 oz    | [[id:419803fa-a1ca-47e6-8eda-93d83cd90bd5][whole peeled tomatoes]] |
 | 2 cup    | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                 |
-| 852 mL   | [[../_ingredients/consomme.md][consomme soup]]         |
-| 284 mL   | [[../_ingredients/tomato-soup.md][tomato soup]]           |
-| 4        | [[../_ingredients/carrot.md][carrots]], chopped      |
-| 1        | [[../_ingredients/bay-leaf.md][bay leaf]]              |
-| 3 stalks | [[../_ingredients/celery.md][celery]]                |
-|          | [[../_ingredients/parsley.md][parsley]]               |
-| 1/2 tsp  | [[../_ingredients/thyme.md][thyme]]                 |
-| 8 tbsp   | [[../_ingredients/barley.md][barley]]                |
+| 852 mL   | [[id:99b2ceb6-90e2-412f-8967-4698179a1942][consomme soup]]         |
+| 284 mL   | [[id:3cabbeab-1853-4175-9ad6-904d3191d220][tomato soup]]           |
+| 4        | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrots]], chopped      |
+| 1        | [[id:e2e9621c-0f45-41ca-b381-22b8fa8694b9][bay leaf]]              |
+| 3 stalks | [[id:83c6ab82-bb15-4724-a51e-77237cb01b95][celery]]                |
+|          | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]               |
+| 1/2 tsp  | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                 |
+| 8 tbsp   | [[id:5c595633-cf39-438a-b6a8-757d52312d84][barley]]                |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                |
 
 * Directions

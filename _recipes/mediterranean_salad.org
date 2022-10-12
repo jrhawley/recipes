@@ -16,15 +16,15 @@
 
 | Quantity | Item                              |
 |----------+-----------------------------------|
-| 1        | [[../_ingredients/cucumber.md][cucumber]], diced                   |
-| 1/2      | [[../_ingredients/red-onion.md][red onion]], diced                  |
-| 15 oz    | [[../_ingredients/bean-medley.md][six bean medley]]                   |
-| 1        | [[../_ingredients/tomato.md][tomato]], diced                     |
-| 1/4 cup  | [[../_ingredients/kalamata-olives.md][kalamata olives]], pitted and diced |
-| 50 g     | [[../_ingredients/feta.md][feta]]                              |
-| 1/2      | [[../_ingredients/lemon.md][lemon]]                             |
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                         |
-| 1 Tbsp   | [[../_ingredients/balsamic-vinegar.md][balsamic vinegar]]                  |
+| 1        | [[id:91d2bb4a-3cc3-4dfd-8c54-953a701ad3a2][cucumber]], diced                   |
+| 1/2      | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]], diced                  |
+| 15 oz    | [[id:5cef1621-9076-418d-996d-015f17a9f57f][six bean medley]]                   |
+| 1        | [[id:062adc0a-d992-4452-a4fb-8010d2b4a0db][tomato]], diced                     |
+| 1/4 cup  | [[id:28ed392f-6531-4633-86b1-aa98ebf55498][kalamata olives]], pitted and diced |
+| 50 g     | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]]                              |
+| 1/2      | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]]                             |
+| 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                         |
+| 1 Tbsp   | [[id:f166ad76-3c07-43ce-a9fa-826590535b84][balsamic vinegar]]                  |
 
 * Directions
 

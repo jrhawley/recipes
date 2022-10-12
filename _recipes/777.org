@@ -3,8 +3,8 @@
 :END:
 #+TITLE: 777
 #+DATE: [2022-06-06]
-#+LAST_MODIFIED: [2022-08-03 Wed 22:52]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:38]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 

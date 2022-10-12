@@ -16,17 +16,17 @@
 
 | Quantity | Item                          |
 |----------+-------------------------------|
-| 1/4 cup  | [[../_ingredients/rosehip-tea.md][rosehip tea]]                   |
-| 3 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                     |
-| 1 kg     | [[../_ingredients/lamb-chops.md][lamb shoulder chops]]           |
-| 2 cup    | [[../_ingredients/onion.md][white onion]], coarsely chopped |
-| 1/2 tsp  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]]             |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], finely chopped        |
-| 2 tsp    | [[../_ingredients/tomato-paste.md][tomato paste]]                  |
-| 1 cup    | [[../_ingredients/red-wine.md][dry red wine]]                  |
-| 1/2 cup  | [[../_ingredients/green-olives.md][whole pitted green olives]]     |
-| 4        | [[../_ingredients/fig.md][dried figs]], quartered         |
-| 5        | [[../_ingredients/cardamom.md][cardamom pods]] (optional)      |
+| 1/4 cup  | [[id:0c505c93-68a8-4e20-8a5f-1881ee1b79d2][rosehip tea]]                   |
+| 3 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                     |
+| 1 kg     | [[id:82eb6b56-8ce9-4b27-bedf-fc5d742da9d2][lamb shoulder chops]]           |
+| 2 cup    | [[id:8a695016-03b5-4059-9a54-668f3b794e33][white onion]], coarsely chopped |
+| 1/2 tsp  | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]]             |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], finely chopped        |
+| 2 tsp    | [[id:e6fe5a89-23f4-4236-8d7f-5f5575b9719f][tomato paste]]                  |
+| 1 cup    | [[id:23825845-5bf6-4a38-9010-3cfe7ee37c0f][dry red wine]]                  |
+| 1/2 cup  | [[id:981a6723-54c1-460a-94e5-c4cbdac17100][whole pitted green olives]]     |
+| 4        | [[id:d6e5019f-ac27-4323-91b0-cc4474167ce9][dried figs]], quartered         |
+| 5        | [[id:06628b3e-2504-4c49-a2c8-8d303da9f5ea][cardamom pods]] (optional)      |
 
 * Directions
 

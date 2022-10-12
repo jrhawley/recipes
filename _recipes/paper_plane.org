@@ -3,17 +3,17 @@
 :END:
 #+TITLE: Paper plane
 #+DATE: [2021-08-07]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:18]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:35]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
 | Quantity | Item        |
 |----------+-------------|
-| 3/4 oz   | [[../_ingredients/bourbon.md][bourbon]]     |
+| 3/4 oz   | [[id:437447cf-eabf-4f1a-89d0-e4d402eddf18][bourbon]]     |
 | 3/4 oz   | [[id:30eda9e5-d727-424e-a2e9-7eccafaaefda][Aperol]]      |
-| 3/4 oz   | [[../_ingredients/amaro.md][amaro]]       |
-| 3/4 oz   | [[../_ingredients/lemon-juice.md][lemon juice]] |
+| 3/4 oz   | [[id:f0c2d0c7-8399-45f1-a783-1be5ca83aafd][amaro]]       |
+| 3/4 oz   | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]] |
 
 * Directions
 

@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Shepherd's pie
 #+DATE: [2020-11-08]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:31]
+#+LAST_MODIFIED: [2022-10-11 Tue 21:18]
 #+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
@@ -18,25 +18,25 @@
 
 | Quantity | Item                   |
 |----------+------------------------|
-| 1 lbs    | extra lean [[../_ingredients/ground-beef.md][ground beef]] |
-| 1/2 cup  | [[../_ingredients/onion.md][onion]], chopped         |
-| 1/3 cup  | [[../_ingredients/celery.md][celery]], chopped        |
+| 1 lbs    | extra lean [[id:a77e3807-7a6b-44f6-b57f-a860be144d6d][ground beef]] |
+| 1/2 cup  | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], chopped         |
+| 1/3 cup  | [[id:83c6ab82-bb15-4724-a51e-77237cb01b95][celery]], chopped        |
 | 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]             |
 | 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                 |
-| 10 oz    | [[../_ingredients/cream-of-mushroom-soup.md][cream-of-mushroom-soup]] |
-| 10 oz    | [[../_ingredients/peas.md][peas]]                   |
-| 8 oz     | [[../_ingredients/corn.md][corn niblets]]           |
+| 10 oz    | [[id:2dc894a1-c94d-488e-944f-2a45746b3f68][cream-of-mushroom-soup]] |
+| 10 oz    | [[id:c184698f-d2fa-4679-8511-4264387a5b3c][peas]]                   |
+| 8 oz     | [[id:9c56cb2f-07f0-4a0c-a4f8-83d0f598586c][corn niblets]]           |
 
 ** Topping
 
 | Quantity | Item             |
 |----------+------------------|
-| 2        | [[../_ingredients/potato.md][potatoes]], mashed |
+| 2        | [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][potatoes]], mashed |
 | 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]       |
-| 1        | [[../_ingredients/egg.md][egg]], beaten      |
+| 1        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]], beaten      |
 | 1/4 cup  | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated |
-|          | [[../_ingredients/cheddar.md][cheddar]], grated  |
-|          | [[../_ingredients/paprika.md][paprika]]          |
+|          | [[id:a89a233e-066a-40bd-8081-de30271f7576][cheddar]], grated  |
+|          | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]          |
 |          | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]             |
 
 * Directions

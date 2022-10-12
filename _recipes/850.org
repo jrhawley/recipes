@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       e30bcfdb-a003-43fb-b6fc-1a934dfc33a9
+:END:
+#+TITLE: The 850
+#+DATE: [2022-09-26 Mon 22:59]
+#+LAST_MODIFIED: [2022-09-26 Mon 23:10]
+#+FILETAGS: :alcohol:recipe:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item         |
+  |----------+--------------|
+  |          | [[id:b428319f-a717-4af6-8002-c697645d5d3b][Ungava Gin]]   |
+  |          | [[id:f4be28ec-f5d2-4a1a-bf6d-29b941c8f922][raspberries]]  |
+  |          | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]   |
+  |          | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg white]]    |
+  |          | [[id:75f762b8-3f89-47ac-bde8-284a3506cd74][simple syrup]] |
+  |          | ice          |
+
+* Directions
+
+  1.
+
+* References & Notes
+
+  1. Le Boudoir cafe-bar

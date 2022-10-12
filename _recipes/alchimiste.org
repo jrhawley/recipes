@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       8b4255b6-540e-4a33-9121-529cdfd46d1a
+:END:
+#+TITLE: L'alchimiste
+#+DATE: [2022-09-26 Mon 22:59]
+#+LAST_MODIFIED: [2022-09-26 Mon 23:06]
+#+FILETAGS: :alcohol:recipe:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item               |
+  |----------+--------------------|
+  |          | hibiscus tea       |
+  |          | [[id:fccdeb8e-92f8-4058-b058-b9e9ae72b7fd][gin]]                |
+  |          | [[id:e5be28df-0ad7-4af2-8128-15a50f98c04f][dry vermouth]]       |
+  |          | elderberry liqueur |
+  |          | [[id:03c1357c-225f-455d-af1f-86c11d3eafb9][mint]]               |
+  |          | [[id:3eeb40b4-7420-4c99-8a55-6c3e0193dfaa][lime]]               |
+  |          | [[id:75f762b8-3f89-47ac-bde8-284a3506cd74][simple syrup]]       |
+  |          | ice                |
+  
+
+* Directions
+
+  1.
+
+* References & Notes
+
+  1. Le Boudoir cafe-bar

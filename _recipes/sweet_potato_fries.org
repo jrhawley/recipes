@@ -16,10 +16,10 @@
 
 | Quantity | Item         |
 |----------+--------------|
-| 1        | [[../_ingredients/sweet-potato.md][sweet potato]] |
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]    |
-|          | [[../_ingredients/corn-starch.md][corn starch]]  |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]  |
+| 1        | [[id:8f199dec-d073-44dc-9225-a8b2d33c1bd2][sweet potato]] |
+| 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]    |
+|          | [[id:74ca1bf4-e5d8-4e1c-89fe-fb8a82ad8249][corn starch]]  |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]  |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]       |
 
 * Directions

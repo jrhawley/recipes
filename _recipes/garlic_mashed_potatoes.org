@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Garlic mashed potatoes
 #+DATE: [2021-01-16]
-#+LAST_MODIFIED: [2022-07-25 Mon 09:03]
+#+LAST_MODIFIED: [2022-10-02 Sun 11:00]
 #+FILETAGS: :recipe:vegetarian:dinner:side:
 
 | Info      | Amount     |
@@ -16,15 +16,27 @@
 
 | Quantity | Item              |
 |----------+-------------------|
-| 1        | [[../_ingredients/potato.md][Yukon gold potato]] |
+| 1        | [[id:90910e36-410c-4b76-8b19-97d1c735b083][Yukon gold potato]] |
 | 1 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]            |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced    |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]            |
 |          | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]              |
+|          | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]         |
+|          | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]        |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]      |
 
 * Directions
 
-1. Get a large pot of water to boil.
+1. Get a large pot of water to boil and preheat the oven to 180 C (350 F).
    1. Boil potato(s) for 45 min, or until soft throughout
-2. Drain water, add butter to the pot and minced garlic.
-   1. Mash with a potato masher, slowly adding milk until smooth and creamy
-3. Serve with salt and pepper
+2. While the potatoes are boiling, wrap the garlic in aluminium foil, drizzle in olive oil, and sprinkle with salt.
+   1. Wrap everything together and put on a baking sheet.
+   2. Roast in the oven for 20 min, or until garlic can be crushed with a spoon. [fn:1]
+3. Drain water, add butter to the pot and garlic.
+   1. Mash with a potato masher, slowly adding milk until smooth and creamy. [fn:2]
+4. Serve with salt and pepper
+
+* Footnotes
+
+  [fn:1] This works well if you're baking something in the oven to go with the potatoes.
+
+  [fn:2] Use an egg beater to get an extra creamy texture, if desired.

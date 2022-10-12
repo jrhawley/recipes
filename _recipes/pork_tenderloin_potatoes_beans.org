@@ -19,19 +19,19 @@
 
 | Quantity | Item                 |
 |----------+----------------------|
-| 400 g    | [[../_ingredients/pork-tenderloin.md][pork tenderloin]]      |
+| 400 g    | [[id:4172ff60-dd6f-4154-ae3c-e301116ff4fa][pork tenderloin]]      |
 | 2 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]           |
-| 1 tsp    | [[../_ingredients/thyme.md][thyme]]                |
+| 1 tsp    | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                |
 | 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]                 |
 | 1/2 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]               |
-| 1 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]      |
-| 1/4 cup  | [[../_ingredients/brown-sugar.md][brown sugar]]          |
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]            |
+| 1 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]      |
+| 1/4 cup  | [[id:02ccfac6-e705-4b80-949e-1dff24216a5b][brown sugar]]          |
+| 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]            |
 | 2 Tbsp   | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][Worcestershire sauce]] |
-| 1 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]            |
-| 680 g    | [[../_ingredients/potato.md][baby potatoes]]        |
-| 340 g    | [[../_ingredients/carrot.md][baby carrots]]         |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], crushed      |
+| 1 Tbsp   | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]            |
+| 680 g    | [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][baby potatoes]]        |
+| 340 g    | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][baby carrots]]         |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], crushed      |
 
 * Directions
 

@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Chicken breasts
 #+DATE: [2013-09-14]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:51]
+#+LAST_MODIFIED: [2022-10-12 Wed 00:35]
 #+FILETAGS: :recipe:basics:
 
 | Info      | Amount      |
@@ -16,12 +16,11 @@
 
 | Quantity | Item                               |
 |----------+------------------------------------|
-| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]], fresh, not frozen |
+| 4        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]], fresh, not frozen |
 | 1/4 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                              |
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                          |
+| 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                          |
 | 1 tsp    | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                             |
-| 1 tsp    | [[../_ingredients/herbs.md][herbs]], freshly chopped (optional)  |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                        |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                        |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                             |
 
 * Directions

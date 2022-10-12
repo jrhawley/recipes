@@ -16,15 +16,15 @@
 
 | Quantity | Item                              |
 |----------+-----------------------------------|
-| 2 cup    | frozen [[../_ingredients/raspberry.md][raspberry]]                  |
-| 2        | [[../_ingredients/cherry-tomato.md][eggs]]                              |
+| 2 cup    | frozen [[id:f4be28ec-f5d2-4a1a-bf6d-29b941c8f922][raspberry]]                  |
+| 2        | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][eggs]]                              |
 | 1 cup    | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                              |
 | 1 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                             |
-| 3/4 cup  | [[../_ingredients/sugar.md][sugar]]                             |
+| 3/4 cup  | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]                             |
 | 3 tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], melted                    |
 | 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                        |
-| 1 tbsp   | [[../_ingredients/vanilla-extract.md][vanilla extract]]                   |
-|          | [[../_ingredients/icing-sugar.md][icing sugar]] (optional)            |
+| 1 tbsp   | [[id:924ad22d-2f73-4def-b12f-f0133df00ff1][vanilla extract]]                   |
+|          | [[id:65262120-03a6-474b-a6f6-819e4e9207cb][icing sugar]] (optional)            |
 |          | low fat vanilla [[id:79ae6530-e322-4fb9-9733-ec46a5aeee7d][yogurt]] (optional) |
 
 * Directions

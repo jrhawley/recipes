@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Stuffed peppers
 #+DATE: [2020-02-01]
-#+LAST_MODIFIED: [2022-07-25 Mon 20:23]
+#+LAST_MODIFIED: [2022-10-11 Tue 21:19]
 #+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
@@ -16,18 +16,18 @@
 
 | Quantity | Item                           |
 |----------+--------------------------------|
-| 1/2 cup  | [[../_ingredients/rice.md][rice]], uncooked                 |
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                      |
-| 1        | medium [[../_ingredients/onion.md][onion]], diced            |
-| 1 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]                   |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced                 |
-| 1 lbs    | [[../_ingredients/ground-beef.md][ground beef]]                    |
-| 14 oz    | [[../_ingredients/diced-tomatoes.md][diced tomatoes]]                 |
-| 1 tsp    | [[../_ingredients/oregano.md][oregano]]                        |
-| 6        | [[../_ingredients/bell-pepper.md][bell peppers]], topped and cored |
-| 1 cup    | [[../_ingredients/cheddar.md][cheddar]], grated                |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                    |
-|          | [[../_ingredients/parsley.md][parsley]], freshly cut           |
+| 1/2 cup  | [[id:9b67d62e-13d2-46e0-9366-196393f90028][rice]], uncooked                 |
+| 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                      |
+| 1        | medium [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], diced            |
+| 1 Tbsp   | [[id:e6fe5a89-23f4-4236-8d7f-5f5575b9719f][tomato paste]]                   |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                 |
+| 1 lbs    | [[id:a77e3807-7a6b-44f6-b57f-a860be144d6d][ground beef]]                    |
+| 14 oz    | [[id:937c514a-0447-4ecd-bebb-bd5f2a09386c][diced tomatoes]]                 |
+| 1 tsp    | [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]                        |
+| 6        | [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell peppers]], topped and cored |
+| 1 cup    | [[id:a89a233e-066a-40bd-8081-de30271f7576][cheddar]], grated                |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                    |
+|          | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], freshly cut           |
 
 * Directions
 

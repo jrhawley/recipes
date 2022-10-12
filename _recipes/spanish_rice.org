@@ -16,11 +16,11 @@
 
 | Quantity | Item           |
 |----------+----------------|
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]      |
-| 2 Tbsp   | [[../_ingredients/onion.md][onion]], chopped |
-| 3/2 cups | [[../_ingredients/rice.md][rice]], uncooked |
-| 2 cups   | [[../_ingredients/chicken-broth.md][chicken broth]]  |
-| 1 cup    | [[../_ingredients/salsa.md][salsa]], chunky  |
+| 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]      |
+| 2 Tbsp   | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], chopped |
+| 3/2 cups | [[id:9b67d62e-13d2-46e0-9366-196393f90028][rice]], uncooked |
+| 2 cups   | [[id:c97f058b-0a91-450d-9df4-c1c32e84dc29][chicken broth]]  |
+| 1 cup    | [[id:9eccb87d-4a61-4ef1-a76a-2074983cd48f][salsa]], chunky  |
 
 * Directions
 

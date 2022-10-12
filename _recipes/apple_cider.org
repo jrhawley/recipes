@@ -21,14 +21,14 @@
 | Quantity | Item                       |
 |----------+----------------------------|
 |        9 | [[id:f9ceed1b-9c02-40b0-910b-cb65cb53125d][apples]], assorted types     |
-|        1 | [[../_ingredients/orange.md][orange]]                     |
-|        2 | [[../_ingredients/pear.md][pears]]                      |
-|        3 | [[../_ingredients/cinnamon-sticks.md][cinnamon sticks]]            |
+|        1 | [[id:d7bd384f-78cd-4c74-9a0b-7bacdfb53676][orange]]                     |
+|        2 | [[id:d738f600-b8c8-4a0e-93e0-452e184112b7][pears]]                      |
+|        3 | [[id:0e283442-f6f9-4404-9e01-5a9306f036dd][cinnamon sticks]]            |
 |        1 | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]] (whole)             |
-|    2 tsp | [[../_ingredients/cloves.md][cloves]] (whole)             |
-|  1/2 tsp | [[../_ingredients/allspice.md][allspice]] (whole; optional) |
+|    2 tsp | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][cloves]] (whole)             |
+|  1/2 tsp | [[id:a13bb3ad-60ac-4296-a52a-dda7a88177cc][allspice]] (whole; optional) |
 |      3 L | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                      |
-|  1/4 cup | [[../_ingredients/brown-sugar.md][brown sugar]]                |
+|  1/4 cup | [[id:02ccfac6-e705-4b80-949e-1dff24216a5b][brown sugar]]                |
 
 * Directions
 

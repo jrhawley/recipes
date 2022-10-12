@@ -16,16 +16,16 @@
 
 | Quantity | Item                  |
 |----------+-----------------------|
-| 2        | [[../_ingredients/sweet-potato.md][sweet potatoes]], cubed |
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]             |
-| 15 oz    | [[../_ingredients/black-beans.md][black beans]]           |
-| 2 tsp    | [[../_ingredients/cumin.md][cumin]]                 |
-| 1 cup    | [[../_ingredients/rice.md][long grain rice]]       |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced        |
-| 3/2 cup  | [[../_ingredients/vegetable-broth.md][vegetable broth]]       |
-| 2 Tbsp   | [[../_ingredients/lime-juice.md][lime juice]]            |
-| 1 tsp    | [[../_ingredients/kosher-salt.md][kosher salt]]           |
-| 2 tsp    | [[../_ingredients/lime-zest.md][lime zest]]             |
+| 2        | [[id:8f199dec-d073-44dc-9225-a8b2d33c1bd2][sweet potatoes]], cubed |
+| 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]             |
+| 15 oz    | [[id:285345d6-78f4-42cd-af32-0738783c781d][black beans]]           |
+| 2 tsp    | [[id:591e51ef-30b7-48f4-9232-a0834f4c31af][cumin]]                 |
+| 1 cup    | [[id:9b67d62e-13d2-46e0-9366-196393f90028][long grain rice]]       |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced        |
+| 3/2 cup  | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]       |
+| 2 Tbsp   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]            |
+| 1 tsp    | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]           |
+| 2 tsp    | [[id:3eeb40b4-7420-4c99-8a55-6c3e0193dfaa][lime zest]]             |
 
 * Directions
 

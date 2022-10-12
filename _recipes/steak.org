@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Steak
 #+DATE: [2016-12-18]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:33]
+#+LAST_MODIFIED: [2022-10-12 Wed 00:37]
 #+FILETAGS: :recipe:basics:dinner:
 
 | Info      | Amount   |
@@ -16,13 +16,12 @@
 
 | Quantity | Item                    |
 |----------+-------------------------|
-| 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]               |
-| 2 Tbsp   | [[../_ingredients/balsamic-vinegar.md][balsamic vinegar]]        |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], peeled, crushed |
-| 1 tsp    | [[../_ingredients/italian-seasoning.md][Italian seasoning]]       |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]             |
+| 1/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]               |
+| 2 Tbsp   | [[id:f166ad76-3c07-43ce-a9fa-826590535b84][balsamic vinegar]]        |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], peeled, crushed |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]             |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                  |
-| 2        | [[../_ingredients/steak.md][steaks]]                  |
+| 2        | [[id:c58031b2-32ef-4ccb-8d12-5a1b25d8cfc4][steaks]]                  |
 
 * Directions
 

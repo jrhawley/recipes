@@ -19,11 +19,11 @@
 
 | Quantity | Item             |
 |----------+------------------|
-| 4 cups   | [[../_ingredients/oats.md][oats]]             |
-| 2 tsp    | [[../_ingredients/cinnamon.md][cinnamon]]         |
-| 1/2 cup  | [[../_ingredients/maple-syrup.md][pure maple syrup]] |
-| 1/3 cup  | [[../_ingredients/olive-oil.md][olive oil]]        |
-| 3/2 tsp  | [[../_ingredients/vanilla-extract.md][vanilla extract]]  |
+| 4 cups   | [[id:6107efce-a8eb-421d-a8c6-725e38345a3e][oats]]             |
+| 2 tsp    | [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][cinnamon]]         |
+| 1/2 cup  | [[id:716dd7d0-46db-4224-9391-75b5eaad5cfd][pure maple syrup]] |
+| 1/3 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]        |
+| 3/2 tsp  | [[id:924ad22d-2f73-4def-b12f-f0133df00ff1][vanilla extract]]  |
 
 * Directions
 

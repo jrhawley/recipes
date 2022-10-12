@@ -19,19 +19,19 @@
 
 | Quantity | Item                 |
 |----------+----------------------|
-| 1 tsp    | [[../_ingredients/vegetable-oil.md][vegetable oil]]        |
-| 4 lbs    | [[../_ingredients/pork.md][pork]] shoulder roast  |
-| 1 cup    | [[../_ingredients/barbecue-sauce.md][barbecue sauce]]       |
-| 1/2 cup  | [[../_ingredients/apple-cider-vinegar.md][apple cider vinegar]]  |
-| 1/2 cup  | [[../_ingredients/chicken-broth.md][chicken broth]]        |
-| 1/4 cup  | [[../_ingredients/brown-sugar.md][light brown sugar]]    |
-| 1 Tbsp   | [[../_ingredients/mustard.md][mustard]]              |
+| 1 tsp    | [[id:6594dbcb-ac42-4c68-a9f9-c1ba749b408a][vegetable oil]]        |
+| 4 lbs    | [[id:bd79e1cd-b0ac-4263-958f-59d804b99da9][pork]] shoulder roast  |
+| 1 cup    | [[id:9e5ccbf4-6ae0-4199-b9ad-3f42d6c32b5b][barbecue sauce]]       |
+| 1/2 cup  | [[id:9557565b-cbae-4bc7-bac6-d3e8ee9b3e6b][apple cider vinegar]]  |
+| 1/2 cup  | [[id:c97f058b-0a91-450d-9df4-c1c32e84dc29][chicken broth]]        |
+| 1/4 cup  | [[id:02ccfac6-e705-4b80-949e-1dff24216a5b][light brown sugar]]    |
+| 1 Tbsp   | [[id:8229d1fa-b72c-4ed1-8d8e-cc10f0ff35ef][mustard]]              |
 | 1 Tbsp   | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][Worcestershire sauce]] |
-| 1 Tbsp   | [[../_ingredients/chili-powder.md][chili powder]]         |
-| 1        | large [[../_ingredients/onion.md][onion]], diced   |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced       |
-| 2/3 tsp  | dried [[../_ingredients/thyme.md][thyme]]          |
-| 8        | [[../_ingredients/buns.md][hamburger buns]]       |
+| 1 Tbsp   | [[id:90505232-4100-4d41-a511-71ce3868f870][chili powder]]         |
+| 1        | large [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], diced   |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced       |
+| 2/3 tsp  | dried [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]          |
+| 8        | [[id:fa7b14d0-d076-4581-a4f3-4d6376e186a7][hamburger buns]]       |
 
 * Directions
 

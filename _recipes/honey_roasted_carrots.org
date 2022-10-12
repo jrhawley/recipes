@@ -13,16 +13,16 @@
 
 | Quantity | Item                                                    |
 |----------+---------------------------------------------------------|
-| 2 lbs    | [[../_ingredients/carrot.md][rainbow carrots]], peeled and sliced into 1/4 inch rounds |
+| 2 lbs    | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][rainbow carrots]], peeled and sliced into 1/4 inch rounds |
 | 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], melted                                          |
-| 2 tsp    | [[../_ingredients/honey.md][honey]]                                                   |
+| 2 tsp    | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                                                   |
 | 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                                              |
-| 1/2 tsp  | fresh [[../_ingredients/thyme.md][thyme]], chopped                                    |
-| 1/8      | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]                                          |
-| 1/8      | [[../_ingredients/cumin.md][cumin]]                                                   |
-| 2 oz     | [[../_ingredients/goat-cheese.md][goat cheese]], crumbled                                   |
-| 1/3 cup  | [[../_ingredients/pomegranate-seeds.md][pomegranate seeds]], about 1/2 pomegranate                |
-| 2 Tbsp   | [[../_ingredients/sunflower-seeds.md][sunflower seeds]]                                         |
+| 1/2 tsp  | fresh [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]], chopped                                    |
+| 1/8      | [[id:964cf8d4-b475-4188-b372-cd92a1346089][cayenne pepper]]                                          |
+| 1/8      | [[id:591e51ef-30b7-48f4-9232-a0834f4c31af][cumin]]                                                   |
+| 2 oz     | [[id:3390a836-81b1-4417-b719-41acfd8c2c7d][goat cheese]], crumbled                                   |
+| 1/3 cup  | [[id:492b7f86-5fef-49ba-bc09-ef09dde8360f][pomegranate seeds]], about 1/2 pomegranate                |
+| 2 Tbsp   | [[id:b15a8f44-32ea-423f-84e1-d97ec8996b81][sunflower seeds]]                                         |
 
 * Instructions
 

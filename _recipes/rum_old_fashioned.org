@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Rum Old-Fashioned
 #+DATE: [2021-02-17]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:18]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:35]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
@@ -12,8 +12,8 @@
 |----------+--------------------|
 | 1/3 oz   | [[./simple-syrup.md][simple syrup]]       |
 | 3 dashes | [[id:0ec50573-a2d4-4421-b07c-d43736a9a586][Agnostura bitters]]  |
-| 5/3 oz   | golden or dark [[../_ingredients/rum.md][rum]] |
-| 1 disk   | [[../_ingredients/orange.md][orange peel]]        |
+| 5/3 oz   | golden or dark [[id:3b6f920d-85fb-4fb1-bd0b-cc08811eb2b1][rum]] |
+| 1 disk   | [[id:d7bd384f-78cd-4c74-9a0b-7bacdfb53676][orange peel]]        |
 
 * Directions
 

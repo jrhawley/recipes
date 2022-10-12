@@ -3,17 +3,17 @@
 :END:
 #+TITLE: Moscow mule
 #+DATE: [2020-05-18]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:19]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-10-12 Wed 00:37]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
 | Quantity | Item        |
 |----------+-------------|
-| 1.5 oz   | [[../_ingredients/vodka.md][vodka]]       |
-| 4.5 oz   | [[../_ingredients/ginger-beer.md][ginger beer]] |
-| 1 oz     | [[../_ingredients/lime-juice.md][lime juice]]  |
-|          | [[../_ingredients/ice.md][ice cubes]]   |
+| 1.5 oz   | [[id:4afa8dad-f20f-409e-a016-7f119bafbace][vodka]]       |
+| 4.5 oz   | [[id:b24867aa-b60a-4f3c-9996-1b06485fda36][ginger beer]] |
+| 1 oz     | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]  |
+|          | ice cubes   |
 
 * Directions
 

@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Butter chicken
 #+DATE: [2013-10-17]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:50]
+#+LAST_MODIFIED: [2022-10-11 Tue 21:30]
 #+FILETAGS: :recipe:slow_cooker:dinner:
 
 | Info      | Amount     |
@@ -16,24 +16,23 @@
 
 | Quantity | Item                        |
 |----------+-----------------------------|
-| 2 tsp    | ground [[../_ingredients/ginger.md][ginger]]               |
-| 2 tsp    | ground [[../_ingredients/curry-powder.md][curry powder]]         |
-| 1 tsp    | ground [[../_ingredients/cumin.md][cumin]]                |
-| 1 tsp    | ground [[../_ingredients/cinnamon.md][cinnamon]]             |
-| 1 tsp    | ground [[../_ingredients/cilantro.md][cilantro]]             |
-| 1        | [[../_ingredients/onion.md][onion]], finley diced         |
-| 2        | [[../_ingredients/chicken-breast.md][chicken breasts]], cubed      |
+| 2 tsp    | ground [[id:5650869d-ec01-477c-ba1b-7b2a830a5c9e][ginger]]               |
+| 2 tsp    | ground [[id:95827b91-eda0-4d7b-8546-0453820d0b0d][curry powder]]         |
+| 1 tsp    | ground [[id:591e51ef-30b7-48f4-9232-a0834f4c31af][cumin]]                |
+| 1 tsp    | ground [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][cinnamon]]             |
+| 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][white onion]], finley diced   |
+| 2        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]], cubed      |
 | 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], melted              |
-| 2 cups   | [[../_ingredients/tomato-sauce.md][tomato sauce]]                |
-| 1 Tbsp   | [[../_ingredients/lime-juice.md][lime juice]]                  |
-| 1/2 cup  | plain [[../_ingredients/greek-yogurt.md][Greek yogurt]]          |
-| 1/4 cup  | [[../_ingredients/parsley.md][parsley]], chopped to garnish |
+| 2 cups   | [[id:2e7c99b9-6970-4d46-8c19-f85a5f9fb341][tomato sauce]]                |
+| 1 Tbsp   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]                  |
+| 1/2 cup  | plain [[id:3e80ceb1-aa3e-425a-a18b-d3acdc4353cf][Greek yogurt]]          |
+| 1/4 cup  | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], chopped to garnish |
 
 * Directions
 
-1. Combine all spices in small bowl
-   1. Add chicken, sprinkle with spices and top with butter and pasta sauce
-   2. Place onion in centre of slow cooker, surrounded by chicken
-2. Stir, cover, and cook on high for 4 h, or low for 8 h
-3. Stir in lime and yogurt before serving
-4. Garnish with parsley
+  1. Combine all spices in small bowl
+     1. Add chicken, sprinkle with spices and top with butter and pasta sauce
+     2. Place onion in centre of slow cooker, surrounded by chicken
+  2. Stir, cover, and cook on high for 4 h, or low for 8 h
+  3. Stir in lime and yogurt before serving
+  4. Garnish with parsley

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       5298d22a-2d03-4a9e-943c-3861a4e4c485
+:END:
+#+TITLE: Carajillo
+#+DATE: [2022-09-20 Tue 18:04]
+#+LAST_MODIFIED: [2022-09-20 Tue 18:12]
+#+FILETAGS: :alcohol:recipe:beverage:coffee:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item     |
+  |----------+----------|
+  | 1 oz     | [[id:94830df1-9021-459d-af9a-c8697afb4776][Licor 43]] |
+  |          | [[id:0FD74C42-5478-45AC-9A3F-00C82C98A30A][espresso]] |
+
+* Directions
+
+  1. Pull the single or double shot of espresso, mix with the Licor 43, and serve.
+
+* References & Notes
+
+  1. Original recipe: [[https://www.youtube.com/watch?v=9Ilnnne01So][The Espresso Martini Killer - Internet Shaquille]]
+  2. Can also be served cold, over ice in a low ball glass.

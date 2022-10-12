@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Whiskey sour
 #+DATE: [2020-05-18]
-#+LAST_MODIFIED: [2022-07-25 Mon 20:26]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-10-12 Wed 00:32]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
@@ -12,11 +12,11 @@
 |----------+--------------|
 | 1.5 oz   | [[id:52f0a339-318e-4e60-b3d3-cdc5de08502f][whiskey]]      |
 | 1.5 oz   | [[./simple-syrup.md][Simple syrup]] |
-| 1 oz     | [[../_ingredients/lime-juice.md][lime juice]]   |
-|          | [[../_ingredients/ice.md][ice cubes]]    |
+| 1 oz     | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]   |
+|          | ice cubes    |
 
 * Directions
 
-1. Fill lowball glass with ice cubes
-2. Combine other ingredients and stir
+  1. Fill lowball glass with ice cubes
+  2. Combine other ingredients and stir
 

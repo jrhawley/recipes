@@ -16,14 +16,14 @@
 
 | Quantity | Item                         |
 |----------+------------------------------|
-| 1 cup    | [[../_ingredients/quinoa.md][quinoa]], uncooked             |
-| 7/4 cup  | [[../_ingredients/vegetable-broth.md][vegetable broth]]              |
-| 15 oz    | [[../_ingredients/black-beans.md][black beans]], drained, rinsed |
-| 1        | small red [[../_ingredients/bell-pepper.md][bell pepper]], diced |
-| 12 oz    | diced [[../_ingredients/pineapple.md][pineapple]]              |
-| 1 tsp    | [[../_ingredients/paprika.md][paprika]]                      |
-| 1 Tbsp   | [[../_ingredients/lime-juice.md][lime juice]]                   |
-| 4        | [[../_ingredients/tortilla.md][tortillas]]                    |
+| 1 cup    | [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]], uncooked             |
+| 7/4 cup  | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]              |
+| 15 oz    | [[id:285345d6-78f4-42cd-af32-0738783c781d][black beans]], drained, rinsed |
+| 1        | small red [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell pepper]], diced |
+| 12 oz    | diced [[id:6850cbbb-964c-488c-8aaf-11faae0c6912][pineapple]]              |
+| 1 tsp    | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]                      |
+| 1 Tbsp   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]                   |
+| 4        | [[id:4447c70b-787f-49ba-ac31-69a5bf96726f][tortillas]]                    |
 
 * Directions
 

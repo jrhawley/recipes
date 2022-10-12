@@ -17,14 +17,14 @@
 
 | Quantity | Item                                 |
 |----------+--------------------------------------|
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], finely diced                 |
-| 2        | [[../_ingredients/shallot.md][shallots]], finely diced               |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], finely diced                 |
+| 2        | [[id:7b7e13cf-0fb9-4dc6-a707-94bfd73417b2][shallots]], finely diced               |
 | 1        | small [[id:76e9ca6f-2a60-4a79-a531-1d0c9af7e6d1][zucchini]], sliced in half moons |
-| 300 g    | [[../_ingredients/prawns.md][prawns]], thawed                       |
-| 500 g    | [[../_ingredients/linguine.md][linguine]]                             |
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                            |
-|          | [[../_ingredients/thyme.md][thyme]]                                |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                          |
+| 300 g    | [[id:8f000922-e372-4579-b556-115e54725a4d][prawns]], thawed                       |
+| 500 g    | [[id:3dea3bbc-20e3-46d3-afcb-9c244a2b7856][linguine]]                             |
+| 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                            |
+|          | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                                |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                          |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                               |
 
 * Directions

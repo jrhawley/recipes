@@ -16,25 +16,25 @@
 
 | Quantity | Item                           |
 |----------+--------------------------------|
-| 1 Tbsp   | [[../_ingredients/coconut-oil.md][coconut oil]]                    |
-| 2        | [[../_ingredients/shallot.md][shallots]]                       |
-| 3 cloves | [[../_ingredients/garlic.md][garlic]], minced                 |
-| 2 Tbsp   | [[../_ingredients/green-curry-paste.md][green curry paste]]              |
-| 3/2 cups | [[../_ingredients/vegetable-broth.md][vegetable broth]]                |
-| 400 mL   | [[../_ingredients/coconut-milk.md][coconut milk]]                   |
-| 1 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]                      |
-| 1 tsp    | [[../_ingredients/brown-sugar.md][brown sugar]]                    |
-| 3 cups   | [[../_ingredients/broccoli.md][broccoli florets]]               |
+| 1 Tbsp   | [[id:f0fdd31d-6bdf-4c11-8622-9d7115165301][coconut oil]]                    |
+| 2        | [[id:7b7e13cf-0fb9-4dc6-a707-94bfd73417b2][shallots]]                       |
+| 3 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                 |
+| 2 Tbsp   | [[id:9ac96c74-939f-4b1f-b812-46d545e3d046][green curry paste]]              |
+| 3/2 cups | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]                |
+| 400 mL   | [[id:161b2192-11b9-4ba8-a11b-c16b851a6e0d][coconut milk]]                   |
+| 1 Tbsp   | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]                      |
+| 1 tsp    | [[id:02ccfac6-e705-4b80-949e-1dff24216a5b][brown sugar]]                    |
+| 3 cups   | [[id:dfedd038-479e-42e5-9995-bd0beeea0dd4][broccoli florets]]               |
 | 1        | [[id:76e9ca6f-2a60-4a79-a531-1d0c9af7e6d1][zucchini]]                       |
-| 6 oz     | [[../_ingredients/green-beans.md][green beans]]                    |
-| 1 lb     | [[../_ingredients/tofu.md][extra-firm tofu]]                |
-| 1 cup    | [[../_ingredients/parsley.md][parsley]] leaves, lightly packed |
-| 2 tsp    | [[../_ingredients/lime-juice.md][lime juice]]                     |
-| 1        | [[../_ingredients/lime.md][lime]]                           |
-| 1 cup    | [[../_ingredients/rice.md][rice]]                           |
-| 1/2 cup  | [[../_ingredients/cashews.md][cashews]]                        |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                    |
-|          | [[../_ingredients/basil.md][basil leaves]]                   |
+| 6 oz     | [[id:7e70dd06-871f-47f8-a1bc-af4c7f194ef5][green beans]]                    |
+| 1 lb     | [[id:e530156c-ec74-467a-a30c-0b7283baa2bf][extra-firm tofu]]                |
+| 1 cup    | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]] leaves, lightly packed |
+| 2 tsp    | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]                     |
+| 1        | [[id:3eeb40b4-7420-4c99-8a55-6c3e0193dfaa][lime]]                           |
+| 1 cup    | [[id:9b67d62e-13d2-46e0-9366-196393f90028][rice]]                           |
+| 1/2 cup  | [[id:9c21df94-eb4c-47b4-8490-12ef0b3e8a57][cashews]]                        |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                    |
+|          | [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil leaves]]                   |
 
 * Directions
 

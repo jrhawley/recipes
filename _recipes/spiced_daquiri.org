@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       f40cbe20-3028-492e-a9bd-dc496e5e0ecd
+:END:
+#+TITLE: Spiced daquiri
+#+DATE: [2022-09-15 Thu 22:08]
+#+LAST_MODIFIED: [2022-09-27 Tue 09:35]
+#+FILETAGS: :recipe:beverage:alcohol:
+
+| Info      | Amount             |
+|-----------+--------------------|
+| Prep Time | 5 min              |
+| Cook Time | 0 min              |
+| Yields    | 1 serving servings |
+
+* Ingredients
+
+  | Quantity | Item               |
+  |----------+--------------------|
+  | 1        | [[id:3eeb40b4-7420-4c99-8a55-6c3e0193dfaa][lime]] wedge         |
+  | 3        | [[id:d6ae4e4e-6629-4cd1-b2a7-93d1ed40939e][whole cloves]]       |
+  | 2 oz     | [[id:26f1f3c3-0825-47dd-a54e-4142fd2aef19][aged rum]]           |
+  | 1 oz     | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]         |
+  | 3/4 oz   | [[id:d58a9b88-026c-4831-b116-b856947b96ad][spiced honey syrup]] |
+
+* Directions
+
+  1. Poke 3 evenly-spaced holes in the lime wedge skin with a skewer.
+	 - Stud each hole with a clove.
+  2. Place rum, lime juice, and spiced honey syrup in a cocktail shaker.
+	 - Fill 3/4 full with ice.
+	 - Shake until ice-cold and strain into a chilled coupe glass.
+  3. Garnish with lime wedge.
+
+* References & Notes
+
+  1. Original recipe: LCBO Food and Drink - Summer 2022
+

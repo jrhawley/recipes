@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Beef stroganoff
 #+DATE: [2018-08-26]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:47]
+#+LAST_MODIFIED: [2022-10-11 Tue 21:19]
 #+FILETAGS: :recipe:slow_cooker:dinner:
 
 | Info      | Amount     |
@@ -16,13 +16,13 @@
 
 | Quantity | Item           |
 |----------+----------------|
-| 2 lbs    | [[../_ingredients/ground-beef.md][ground beef]]    |
-| 2        | [[../_ingredients/onion.md][onions]], diced  |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced |
-| 1 cup    | [[../_ingredients/beef-consomme.md][beef consomme]]  |
-| 3 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]   |
+| 2 lbs    | [[id:a77e3807-7a6b-44f6-b57f-a860be144d6d][ground beef]]    |
+| 2        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onions]], diced  |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced |
+| 1 cup    | [[id:99b2ceb6-90e2-412f-8967-4698179a1942][beef consomme]]  |
+| 3 Tbsp   | [[id:e6fe5a89-23f4-4236-8d7f-5f5575b9719f][tomato paste]]   |
 | 2 Tbsp   | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]          |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]    |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]    |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]         |
 
 * Directions

@@ -1,17 +1,18 @@
 :PROPERTIES:
 :ID:       75f762b8-3f89-47ac-bde8-284a3506cd74
+:ROAM_ALIASES: "simple syrup"
 :END:
 #+TITLE: Simple syrup
 #+DATE: [2020-06-03]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:31]
+#+LAST_MODIFIED: [2022-09-15 Thu 22:38]
 #+FILETAGS: :recipe:beverage:
 
 * Ingredients
 
 | Quantity | Item  |
 |----------+-------|
-| 1 cup    | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]] |
-| 1 cup    | [[../_ingredients/sugar.md][sugar]] |
+| 1 part   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]] |
+| 1 part   | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]] |
 
 * Directions
 

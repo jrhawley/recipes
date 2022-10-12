@@ -17,10 +17,10 @@
 | Quantity | Item                      |
 |----------+---------------------------|
 | 1 cup    | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], melted            |
-| 2 cup    | [[../_ingredients/graham-cracker.md][graham cracker]] crumbs     |
-| 2 cup    | [[../_ingredients/icing-sugar.md][icing sugar]]               |
-| 5/4 cup  | [[../_ingredients/peanut-butter.md][peanut butter]]             |
-| 3/2 cup  | semisweet [[../_ingredients/chocolate-chips.md][chocolate chips]] |
+| 2 cup    | [[id:17657325-0a8c-4cc8-9bab-af374302ed1e][graham cracker]] crumbs     |
+| 2 cup    | [[id:65262120-03a6-474b-a6f6-819e4e9207cb][icing sugar]]               |
+| 5/4 cup  | [[id:6e61a7f2-b5a0-4740-9cc0-c915469ee602][peanut butter]]             |
+| 3/2 cup  | semisweet [[id:b3692180-16ba-453c-ac93-9d3c5787cecc][chocolate chips]] |
 
 * Directions
 

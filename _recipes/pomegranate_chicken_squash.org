@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Pomegranate chicken and roasted acorn squash
 #+DATE: [2021-12-08]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:25]
-#+FILETAGS: :recipe::dinner:
+#+LAST_MODIFIED: [2022-10-02 Sun 10:41]
+#+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -16,31 +16,31 @@
 
 | Quantity | Item                   |
 |----------+------------------------|
-| 1/2 cup  | [[../_ingredients/rice.md][rice]]                   |
-| 1/4 cup  | [[../_ingredients/sweet-thai-chili-sauce.md][sweet Thai chili sauce]] |
-| 1/4 cup  | [[../_ingredients/soy-sauce.md][soy sauce]]              |
-| 1 tsp    | [[../_ingredients/ginger.md][ground ginger]]         |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced         |
-| 2        | [[../_ingredients/chicken-breast.md][chicken breasts]]        |
+| 1/2 cup  | [[id:9b67d62e-13d2-46e0-9366-196393f90028][Basmati rice]]           |
+| 1/4 cup  | [[id:53ffee66-dd07-45fb-aa86-fafec67168a8][Sweet Thai chili sauce]] |
+| 1/4 cup  | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]              |
+| 1 tsp    | [[id:43bd669a-5993-4218-9c8b-4c58bb4ad072][ground ginger]]          |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced         |
+| 2        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]        |
 | 1        | [[id:d18e5e95-8002-4ea9-98ee-9a0d5cfffcf9][acorn squash]]           |
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]              |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]            |
-|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                 |
-| 1/2 cup  | [[../_ingredients/pomegranate-arils.md][pomegranate arils]]      |
+| 1 Tbsp   | [[id:8ec08acd-2a62-4bff-86e9-b8f9e6e6ba4d][olive oil]]              |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]            |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]           |
+| 1/2 cup  | [[id:492b7f86-5fef-49ba-bc09-ef09dde8360f][pomegranate arils]]      |
 
 * Directions
 
-1. Preheat oven to 425 F.
-2. In a medium bowl, combine the sweet Thai chili sauce, pomegranate juice, soy sauce, ginger, and garlic.
-3. If using fresh chicken breasts, toss with half the sauce, then place on a large baking sheet.
-4. If starting from frozen, heat olive oil in a pan and cook the chicken on medium heat until the skin is white and the breasts are soft.
-5. Cook the rice according to instructions.
-6. Slice the acorn squash into half rounds, 1/2" thick.
-7. Place on a baking sheet, drizzle with olive oil, salt, and pepper.
-8. Place the entire baking sheet (including the chicken breasts, if fresh) for 20 min, flipping half way through.
-9. Serve chicken and squash over rice in a bowl, garnishing with arils and extra sauce.
+  1. Preheat oven to 220 C (425 F).
+  2. In a medium bowl, combine the sweet Thai chili sauce, pomegranate juice, soy sauce, ginger, and garlic.
+  3. If using fresh chicken breasts, toss with half the sauce, then place on a large baking sheet.
+  4. If starting from frozen, heat olive oil in a pan and cook the chicken on medium heat until the skin is white and the breasts are soft.
+  5. Cook the rice according to instructions.
+  6. Slice the acorn squash into half rounds, 1/2" thick.
+  7. Place on a baking sheet, drizzle with olive oil, salt, and pepper.
+  8. Place the entire baking sheet (including the chicken breasts, if fresh) for 20 min, flipping half way through.
+  9. Serve chicken and squash over rice in a bowl, garnishing with arils and extra sauce.
 
 * References & Notes
 
-1. [[https://www.halfbakedharvest.com/wprm_print/41880][Original recipe]]
+  1. [[https://www.halfbakedharvest.com/wprm_print/41880][Original recipe]]
 

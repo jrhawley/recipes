@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       e10a608c-01c6-4c0b-9dcf-96a619ed0a74
+:END:
+#+TITLE: Smoked salmon and caper spread
+#+DATE: [2022-09-27 Tue 08:57]
+#+LAST_MODIFIED: [2022-09-27 Tue 09:09]
+#+FILETAGS: :recipe:
+
+| Info      | Amount         |
+|-----------+----------------|
+| Prep Time | 5 min          |
+| Cook Time | 0 min          |
+| Yields    | 6 - 8 servings |
+
+* Ingredients
+
+  | Quantity | Item                             |
+  |----------+----------------------------------|
+  | 225 g    | [[id:d208148d-02fe-4a3d-8675-f4934bc5a298][cream cheese]] at room temperature |
+  | 1 Tbsp   | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                             |
+  | 1/4 cup  | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], chopped                 |
+  | 2 Tbsp   | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]                      |
+  | 1 tsp    | [[id:e27d44f2-b9a3-4b4e-a4c3-c7aef4e94019][capers]], rinsed and drained       |
+  | 115 g    | [[id:2fd6e33a-0e6a-4a23-86d6-f36e9d231ddc][smoked salmon]]                    |
+  | 1/2      | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]]                        |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                     |
+  |          | crackers or baguette slices      |
+
+* Directions
+
+  1. Combine cream cheese, milk, parsley, lemon juice, and half of the salmon in a food processor until smooth.
+	 - Add black pepper and remaining salmon, pulsing to incorporate them without blending smooth.
+  2. Spread on toasted bread, topping with capers and thin slices of onion.
+
+* References & Notes
+
+  1. Original recipe: Wine Bites - Barbara Scott-Goodman
+  2. Mixture will keep when covered in the fridge for up to 2 days.
+  3. Can simplify this recipe by just bringing out all ingredients and letting each person assemble them.
+

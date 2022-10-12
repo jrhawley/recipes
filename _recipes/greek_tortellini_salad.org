@@ -21,22 +21,22 @@
 
 | Quantity | Item                                     |
 |----------+------------------------------------------|
-| 20 oz    | [[../_ingredients/tortellini.md][tortellini]]                               |
-| 3/2 cups | [[../_ingredients/cherry-tomato.md][cherry tomatoes]], cut in half             |
-| 1        | large [[../_ingredients/cucumber.md][cucumber]], diced                    |
-| 1 cup    | [[../_ingredients/kalamata-olives.md][kalamata olives]], pit removed and chopped |
-| 1/2      | [[../_ingredients/red-onion.md][red onion]]                                |
-| 3/4 cup  | [[../_ingredients/feta.md][feta]]                                     |
+| 20 oz    | [[id:f414a27c-8fdf-4625-aa81-996191b59a23][tortellini]]                               |
+| 3/2 cups | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][cherry tomatoes]], cut in half             |
+| 1        | large [[id:91d2bb4a-3cc3-4dfd-8c54-953a701ad3a2][cucumber]], diced                    |
+| 1 cup    | [[id:28ed392f-6531-4633-86b1-aa98ebf55498][kalamata olives]], pit removed and chopped |
+| 1/2      | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]]                                |
+| 3/4 cup  | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]]                                     |
 
 ** Dressing
 
 | Quantity | Item             |
 |----------+------------------|
-| 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]        |
-| 3 Tbsp   | [[../_ingredients/red-wine-vinegar.md][red-wine-vinegar]] |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced   |
-| 1/2 tsp  | dried [[../_ingredients/oregano.md][oregano]]    |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]      |
+| 1/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]        |
+| 3 Tbsp   | [[id:41605fe1-8b95-41a2-9031-1bfe668a46cf][red-wine-vinegar]] |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced   |
+| 1/2 tsp  | dried [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]    |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]      |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]           |
 
 * Directions

@@ -17,13 +17,13 @@
 
 | Quantity | Item                    |
 |----------+-------------------------|
-| 4 cloves | [[../_ingredients/garlic.md][garlic]], finely diced    |
-| 3/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]               |
-| 20       | [[../_ingredients/anchovies.md][anchovies]]               |
-| 30       | [[../_ingredients/cherry-tomato.md][cherry tomatoes]], halved |
-| 500 g    | [[../_ingredients/spaghetti.md][spaghetti]]               |
+| 4 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], finely diced    |
+| 3/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]               |
+| 20       | [[id:464e2049-c338-4eb1-801f-c640c741f92e][anchovies]]               |
+| 30       | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][cherry tomatoes]], halved |
+| 500 g    | [[id:c46ed37a-dacd-40dd-bba3-0e1683276381][spaghetti]]               |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                  |
-|          | dry [[../_ingredients/red-pepper-flakes.md][chili flakes]]        |
+|          | dry [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][chili flakes]]        |
 
 * Directions
 

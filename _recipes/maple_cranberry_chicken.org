@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Maple cranberry chicken
 #+DATE: [2020-12-07]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:13]
+#+LAST_MODIFIED: [2022-10-07 Fri 13:37]
 #+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
@@ -14,32 +14,34 @@
 
 * Ingredients
 
-| Quantity | Item            |
-|----------+-----------------|
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]       |
-| 6        | [[../_ingredients/chicken-breast.md][chicken breasts]] |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]     |
-|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]          |
-| 1/4 cup  | [[id:3c0b48f9-96ce-4e4f-82d0-d816f1abdfcf][white wine]]      |
-| 1/2 cup  | [[../_ingredients/maple-syrup.md][maple syrup]]     |
-| 1/4 cup  | [[../_ingredients/dijon-mustard.md][dijon mustard]]   |
-| 1 cup    | [[../_ingredients/cranberry.md][cranberries]]     |
-| 4 sprigs | fresh [[../_ingredients/rosemary.md][rosemary]]  |
+  | Quantity | Item            |
+  |----------+-----------------|
+  | 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]       |
+  | 6        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]] |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]     |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]          |
+  | 1/4 cup  | [[id:3c0b48f9-96ce-4e4f-82d0-d816f1abdfcf][white wine]]      |
+  | 1/2 cup  | [[id:716dd7d0-46db-4224-9391-75b5eaad5cfd][maple syrup]]     |
+  | 1/4 cup  | [[id:00a48416-bb29-468a-9498-dacf8e0491ba][dijon mustard]]   |
+  | 1 cup    | [[id:74c78f59-5cd0-4f98-95ed-31326812495b][cranberries]]     |
+  | 4 sprigs | fresh [[id:473555c6-ad53-42f0-9301-71ed769e25e8][rosemary]]  |
 
 * Directions
 
-1. Preheat your oven to 375 F
-2. Heat a large oven-safe skillet over medium-high heat and add the olive oil.
-   1. Season the chicken thighs on both sides with salt and pepper and add them to the hot pan to sear them on both sides until golden brown
-   2. Don't worry about cooking them through at this stage, just focus on crisping the skin.
-   3. Once the chicken is browned, remove it to a plate and set aside.
-3. Add the white wine to the pan with the chicken juices and whisk as the wine begins to evaporate
-   1. Add the maple syrup, dijon mustard, and cranberries, and whisk to combine until a thin sauce forms
-4. Add the chicken back into the pan and spoon the sauce over the chicken
-   1. Sprinkle the cranberries into the pan over the chicken and add the sprigs of rosemary around the chicken
-5. Bake for about 20-25 minutes until cooked through
+  1. Preheat your oven to 190 C (375 F).
+  2. Heat a large oven-safe skillet over medium-high heat and add the olive oil.
+     - Season the chicken breasts on both sides with salt and pepper and add them to the hot pan to sear them on both sides until golden brown [fn:1].
+     - Once the chicken is browned, remove them, place them on a plate and set aside.
+  3. Add the white wine to the pan with the chicken juices and whisk as the wine begins to evaporate
+     - Add the maple syrup, dijon mustard, and cranberries, and whisk to combine until a thin sauce forms
+  4. Add the chicken back into the pan and spoon the sauce over the chicken
+     - Sprinkle the cranberries into the pan over the chicken and add the sprigs of rosemary around the chicken
+  5. Bake for about 20-25 minutes until cooked through
 
-* References & Notes
+* References
 
-1. [[https://thebusybaker.ca/maple-cranberry-roast-chicken/#wprm-recipe-container-12798][Original recipe]]
+  1. [[https://thebusybaker.ca/maple-cranberry-roast-chicken/#wprm-recipe-container-12798][Original recipe]]
 
+* Footnotes
+
+  [fn:1] Don't worry about cooking them through at this stage, just focus on crisping the skin.

@@ -4,7 +4,7 @@
 :END:
 #+TITLE: Pasta al ragu
 #+DATE: [2020-11-01]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:23]
+#+LAST_MODIFIED: [2022-10-11 Tue 21:19]
 #+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
@@ -20,21 +20,21 @@
 
 | Quantity | Item                                |
 |----------+-------------------------------------|
-| 1/2      | [[../_ingredients/red-onion.md][red onion]], finely diced             |
-| 1        | [[../_ingredients/carrot.md][carrot]], finely diced                |
-| 2 stalks | [[../_ingredients/celery.md][celery]], finely diced                |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], finely diced                |
-| 400 g    | medium [[../_ingredients/ground-beef.md][ground beef]]                  |
-| 250 g    | [[../_ingredients/pork.md][ground pork]]                         |
-| 750 mL   | [[../_ingredients/red-wine.md][red wine]]                            |
-| 2 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]                        |
-| 800 g    | finely [[../_ingredients/diced-tomatoes.md][diced tomatoes]] (Mutti Polpa) |
-| 3 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                           |
-| 500 g    | [[../_ingredients/tagliatelle.md][tagliatelle]]                         |
+| 1/2      | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]], finely diced             |
+| 1        | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrot]], finely diced                |
+| 2 stalks | [[id:83c6ab82-bb15-4724-a51e-77237cb01b95][celery]], finely diced                |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], finely diced                |
+| 400 g    | medium [[id:a77e3807-7a6b-44f6-b57f-a860be144d6d][ground beef]]                  |
+| 250 g    | [[id:bd79e1cd-b0ac-4263-958f-59d804b99da9][ground pork]]                         |
+| 750 mL   | [[id:23825845-5bf6-4a38-9010-3cfe7ee37c0f][red wine]]                            |
+| 2 Tbsp   | [[id:e6fe5a89-23f4-4236-8d7f-5f5575b9719f][tomato paste]]                        |
+| 800 g    | finely [[id:937c514a-0447-4ecd-bebb-bd5f2a09386c][diced tomatoes]] (Mutti Polpa) |
+| 3 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                           |
+| 500 g    | [[id:87e909fb-f9a0-4d14-b637-46cac1cce127][tagliatelle]]                         |
 |          | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]]                            |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                         |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                         |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                              |
-|          | [[../_ingredients/thyme.md][thyme]]                               |
+|          | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                               |
 
 * Directions
 

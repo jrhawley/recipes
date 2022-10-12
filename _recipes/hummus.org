@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Hummus
 #+DATE: [2022-07-25 Mon]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:10]
+#+LAST_MODIFIED: [2022-09-12 Mon 18:49]
 #+FILETAGS: :recipe:side:
 
 | Info      | Amount |
@@ -16,13 +16,13 @@
 
 | Quantity  | Item                     |
 |-----------+--------------------------|
-| 1 clove   | [[../_ingredients/garlic.md][garlic]]                   |
-| 2 tsp     | [[../_ingredients/tahini.md][tahini]]                   |
-| 15 oz can | [[../_ingredients/chickpeas.md][chickpeas]]                |
-| 1         | [[../_ingredients/lemon.md][lemon]], juiced            |
-| 1 Tbsp    | [[../_ingredients/olive-oil.md][olive oil]]                |
-| 1 tsp     | [[../_ingredients/kosher-salt.md][salt]]                     |
-| 2 Tbsp    | [[../_ingredients/parsley.md][parsley]], roughly chopped |
+| 1 clove   | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]                   |
+| 2 tsp     | [[id:0f07f0ef-525c-4456-a534-c58bcf2c1e02][tahini]]                   |
+| 15 oz can | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]]                |
+| 1         | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]], juiced            |
+| 1 Tbsp    | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                |
+| 1 tsp     | [[id:026747d6-33c9-43c8-9d71-e201ed476116][salt]]                     |
+| 2 Tbsp    | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], roughly chopped |
 
 * Directions
 
@@ -33,6 +33,6 @@
 * References & Notes
 
 1. [[https://www.foodrepublic.com/recipes/best-basic-hummus-recipe/][Original recipe]]
-
-2. Cover, store in the fridge for up to a week
+2. Other inspiration: [[https://www.bonappetit.com/recipe/classic-chickpea-hummus][Classic Chickpea Hummus]]
+3. Cover, store in the fridge for up to a week
 

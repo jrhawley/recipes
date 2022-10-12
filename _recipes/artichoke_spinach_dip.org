@@ -16,18 +16,18 @@
 
 | Quantity | Item                                         |
 |----------+----------------------------------------------|
-| 8 oz     | [[../_ingredients/cream-cheese.md][cream cheese]] (single package)                |
-| 1/4 cup  | [[../_ingredients/sour-cream.md][sour cream]]                                   |
+| 8 oz     | [[id:d208148d-02fe-4a3d-8675-f4934bc5a298][cream cheese]] (single package)                |
+| 1/4 cup  | [[id:5342ded8-95a1-48c7-add9-5fe5101172f1][sour cream]]                                   |
 | 1/4 cup  | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated                             |
-| 1/4 cup  | [[../_ingredients/romano.md][Romano cheese]], grated                        |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced                               |
-| 1/2 tsp  | dried [[../_ingredients/basil.md][basil]]                                  |
-| 1/4 tsp  | [[../_ingredients/garlic-salt.md][garlic salt]]                                  |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                                  |
+| 1/4 cup  | [[id:474d0ea2-0b87-456f-8245-e541e8bca698][Romano cheese]], grated                        |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                               |
+| 1/2 tsp  | dried [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]]                                  |
+| 1/4 tsp  | [[id:6b9d44ec-f2e6-4aad-822d-8bc77d03a317][garlic salt]]                                  |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                                  |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                                       |
-| 14 oz    | [[../_ingredients/artichoke-hearts.md][artichoke hearts]]                             |
-| 1/2 cup  | frozen [[../_ingredients/spinach.md][spinach]], chopped, thawed, and drained |
-| 1/4 cup  | [[../_ingredients/mozzarella.md][mozzarella]], grated                           |
+| 14 oz    | [[id:9652dfc5-8c76-4531-8313-c7afbec5a721][artichoke hearts]]                             |
+| 1/2 cup  | frozen [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]], chopped, thawed, and drained |
+| 1/4 cup  | [[id:38889812-b3dc-441f-81eb-db027dca59ef][mozzarella]], grated                           |
 
 * Directions
 

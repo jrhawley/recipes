@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Beef stew
 #+DATE: [2018-02-03]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:47]
+#+LAST_MODIFIED: [2022-10-12 Wed 00:33]
 #+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
@@ -19,22 +19,22 @@
 
 | Quantity | Item                                  |
 |----------+---------------------------------------|
-| 2 lbs    | [[../_ingredients/beef-chuck.md][beef chuck]], cut into 1" pieces        |
+| 2 lbs    | [[id:0a198fbe-3294-42a0-83b0-58c3284fdb76][beef chuck]], cut into 1" pieces        |
 | 1/4 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                                 |
-| 3 Tbsp   | [[../_ingredients/canola-oil.md][canola oil]]                            |
-| 1        | [[../_ingredients/carrot.md][carrots]]                               |
-| 1        | [[../_ingredients/onion.md][onion]]                                 |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced                        |
-| 12 oz    | [[../_ingredients/beer.md][stout beer]], (eg. Guinness), divided   |
-| 3/2 cups | [[../_ingredients/chicken-stock.md][chicken stock]]                         |
-| 1        | [[../_ingredients/potato.md][Yukon gold potato]], cut into 1" chunks |
-| 3 sprigs | [[../_ingredients/thyme.md][thyme]]                                 |
-| 2 Tbsp   | [[../_ingredients/molasses.md][molasses]]                              |
-| 1 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]                          |
+| 3 Tbsp   | [[id:7a9bbd87-4f90-4c59-8bb1-e1bdcdffceb3][canola oil]]                            |
+| 1        | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrots]]                               |
+| 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]]                                 |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                        |
+| 12 oz    | stout beer, divided                   |
+| 3/2 cups | [[id:c97f058b-0a91-450d-9df4-c1c32e84dc29][chicken stock]]                         |
+| 1        | [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][Yukon gold potato]], cut into 1" chunks |
+| 3 sprigs | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                                 |
+| 2 Tbsp   | [[id:48c198d6-bee2-40ed-8f99-749446ada8a3][molasses]]                              |
+| 1 Tbsp   | [[id:e6fe5a89-23f4-4236-8d7f-5f5575b9719f][tomato paste]]                          |
 | 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                            |
-| 1/2 cup  | [[../_ingredients/peas.md][frozen peas]]                           |
-| 1/2 cup  | fresh [[../_ingredients/parsley.md][parsley]], chopped                |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                           |
+| 1/2 cup  | [[id:c184698f-d2fa-4679-8511-4264387a5b3c][frozen peas]]                           |
+| 1/2 cup  | fresh [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], chopped                |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                           |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                                |
 
 * Directions

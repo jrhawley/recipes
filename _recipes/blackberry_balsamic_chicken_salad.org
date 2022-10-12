@@ -21,34 +21,34 @@
 
 | Quantity | Item             |
 |----------+------------------|
-| 1/2 cup  | [[../_ingredients/blackberry.md][blackberries]]     |
-| 2 Tbsp   | [[../_ingredients/balsamic-vinegar.md][balsamic vinegar]] |
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]        |
-| 2 Tbsp   | [[../_ingredients/honey.md][honey]]            |
-| 2 tsp    | [[../_ingredients/dijon-mustard.md][dijon mustard]]    |
-| 1 tsp    | [[../_ingredients/soy-sauce.md][soy sauce]]        |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], minced   |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]      |
+| 1/2 cup  | [[id:1e9655ad-169a-4d0e-ba18-12f3035676b1][blackberries]]     |
+| 2 Tbsp   | [[id:f166ad76-3c07-43ce-a9fa-826590535b84][balsamic vinegar]] |
+| 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]        |
+| 2 Tbsp   | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]            |
+| 2 tsp    | [[id:00a48416-bb29-468a-9498-dacf8e0491ba][dijon mustard]]    |
+| 1 tsp    | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]        |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced   |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]      |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]           |
 
 ** Cheese
 
 | Quantity | Item                                |
 |----------+-------------------------------------|
-| 8 oz     | [[../_ingredients/goat-cheese.md][goat cheese]], sliced into 1/4" discs |
+| 8 oz     | [[id:3390a836-81b1-4417-b719-41acfd8c2c7d][goat cheese]], sliced into 1/4" discs |
 | 1/4 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                               |
-| 1        | [[../_ingredients/egg.md][egg]], lightly beaten                 |
-| 1 cup    | [[../_ingredients/breadcrumbs.md][breadcrumbs]]                         |
+| 1        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]], lightly beaten                 |
+| 1 cup    | [[id:77920ac4-23a6-41c9-8fb4-c8d7edb7ea8b][breadcrumbs]]                         |
 
 ** Salad
 
 | Quantity | Item              |
 |----------+-------------------|
-| 1/2 lbs  | [[../_ingredients/chicken-breast.md][chicken breasts]]   |
-| 6 cups   | [[../_ingredients/spinach.md][spinach]]           |
-| 1 cup    | [[../_ingredients/blackberry.md][blackberries]]      |
-| 1 cup    | [[../_ingredients/avocado.md][avocado]]           |
-| 1/4 cup  | [[../_ingredients/red-onion.md][red onion]], sliced |
+| 1/2 lbs  | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]   |
+| 6 cups   | [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]]           |
+| 1 cup    | [[id:1e9655ad-169a-4d0e-ba18-12f3035676b1][blackberries]]      |
+| 1 cup    | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocado]]           |
+| 1/4 cup  | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]], sliced |
 | 1/4 cup  | [[id:2e7a8ec5-e441-4250-a315-3a58fd5d65f3][walnuts]]           |
 
 * Directions

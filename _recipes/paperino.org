@@ -3,18 +3,18 @@
 :END:
 #+TITLE: Paperino
 #+DATE: [2021-09-25]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:18]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:36]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
 | Quantity | Item                   |
 |----------+------------------------|
-| 3/2 oz   | [[../_ingredients/amaro.md][amaro]]                  |
-| 1/2 oz   | [[../_ingredients/brandy.md][brandy]]                 |
-| 1 oz     | [[../_ingredients/lemon-juice.md][lemon juice]]            |
-| 1        | [[../_ingredients/egg.md][egg white]]              |
-| 1        | [[../_ingredients/lemon.md][lemon twist]] (optional) |
+| 3/2 oz   | [[id:f0c2d0c7-8399-45f1-a783-1be5ca83aafd][amaro]]                  |
+| 1/2 oz   | [[id:b4520ef7-5e65-4c7f-8485-9c4c05037cad][brandy]]                 |
+| 1 oz     | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]            |
+| 1        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg white]]              |
+| 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon twist]] (optional) |
 
 * Directions
 

@@ -1,0 +1,31 @@
+#+TITLE: Hendrick Lamar
+#+DATE: [2022-09-26 Mon 22:59]
+#+LAST_MODIFIED: [2022-09-26 Mon 23:13]
+#+FILETAGS: :alcohol:recipe:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item            |
+  |----------+-----------------|
+  |          | [[id:29eae75a-848f-4920-8a4e-90409a52918e][Hendrick's gin]]  |
+  |          | [[id:0abff3a4-882b-4b60-a2f1-598710047b2f][Triple Sec]]      |
+  |          | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]      |
+  |          | [[id:91d2bb4a-3cc3-4dfd-8c54-953a701ad3a2][cucumber juice]]  |
+  |          | [[id:03c1357c-225f-455d-af1f-86c11d3eafb9][mint]]            |
+  |          | [[id:ff705bb2-5bd0-49aa-8ed4-4680996fafe0][pineapple juice]] |
+  |          | [[id:f8b77928-823a-4305-aa77-1dbb6248a0be][club soda]]       |
+
+* Directions
+
+  1.
+
+* References & Notes
+
+  1. L'Entrepot
+

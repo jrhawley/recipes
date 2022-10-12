@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       830290f0-5966-48d3-a21a-6e8279cf77ed
+:END:
+#+TITLE: Stilton-stuffed dates with prosciutto
+#+DATE: [2022-09-27 Tue 09:19]
+#+LAST_MODIFIED: [2022-09-27 Tue 09:24]
+#+FILETAGS: :recipe:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 10 min |
+| Cook Time | 20 min |
+| Yields    | 12 dates / 6 servings |
+
+* Ingredients
+
+  | Quantity | Item              |
+  |----------+-------------------|
+  | 12       | [[id:c286f712-e223-4775-80f8-dc4973d0dfb5][dates]], pitted     |
+  | 55 g     | [[id:13198fab-785a-4c2c-a304-d9368970e16a][stilton]], crumbled |
+  | 6 slices | [[id:5cc2568e-a3bd-491c-a91e-3e401956a451][prosciutto]]        |
+
+* Directions
+
+  1. Preheat the oven to 180 C (350 F) and line a baking sheet with aluminium foil.
+  2. Cut a lengthwise slit in each date.
+	 - Stuff each one with cheese to fill the cavity but not spill out.
+	 - Pinch the dates closed.
+  3. Wrap each date in a piece of prosciutto and arrange them seam-side down on the baking sheet.
+  4. Bake in the oven for 10 min.
+	 - Flip and bake for 10 min, being careful not to break the date seam.
+  5. Serve warm or at room temperature.
+
+* References & Notes
+
+  1. Original recipe: Wine Bites - Barbara Scott-Goodman
+

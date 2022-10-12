@@ -3,16 +3,16 @@
 :END:
 #+TITLE: Negroni
 #+DATE: [2021-02-17]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:19]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:36]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
 | Quantity | Item           |
 |----------+----------------|
-| 1 oz     | [[../_ingredients/campari.md][Campari]]        |
-| 1 oz     | [[../_ingredients/gin.md][gin]]            |
-| 1 oz     | [[../_ingredients/vermouth.md][sweet vermouth]] |
+| 1 oz     | [[id:3620ff07-1ff6-4127-a63f-47f50512458a][Campari]]        |
+| 1 oz     | [[id:fccdeb8e-92f8-4058-b058-b9e9ae72b7fd][gin]]            |
+| 1 oz     | [[id:e5be28df-0ad7-4af2-8128-15a50f98c04f][sweet vermouth]] |
 
 * Directions
 

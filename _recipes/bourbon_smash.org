@@ -3,17 +3,17 @@
 :END:
 #+TITLE: Bourbon Smash
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:48]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:35]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
 | Quantity | Ingredient   |
 |----------+--------------|
-| 6        | [[../_ingredients/raspberry.md][raspberries]]  |
-| 6        | [[../_ingredients/mint.md][mint leaves]]  |
-| 5 / 3 oz | [[../_ingredients/bourbon.md][bourbon]]      |
-| 5 / 6 oz | [[../_ingredients/lime-juice.md][lime juice]]   |
+| 6        | [[id:f4be28ec-f5d2-4a1a-bf6d-29b941c8f922][raspberries]]  |
+| 6        | [[id:03c1357c-225f-455d-af1f-86c11d3eafb9][mint leaves]]  |
+| 5 / 3 oz | [[id:437447cf-eabf-4f1a-89d0-e4d402eddf18][bourbon]]      |
+| 5 / 6 oz | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]   |
 | 2 /3 oz  | [[file:simple-syrup.md][simple syrup]] |
 
 * Directions

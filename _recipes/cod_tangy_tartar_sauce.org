@@ -21,21 +21,21 @@
 | 1/4 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]      |
 | 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]] |
 | 1/2 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]     |
-| 1/4 tsp  | [[../_ingredients/paprika.md][paprika]]    |
-| 4        | [[../_ingredients/cod.md][cod]] filets |
+| 1/4 tsp  | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]    |
+| 4        | [[id:7e7653de-23af-47e0-9d3c-7d0d457f4e3e][cod]] filets |
 
 ** Tartar sauce
 
 | Quantity | Item             |
 |----------+------------------|
-| 1/3 cup  | [[../_ingredients/sour-cream.md][sour cream]]       |
-| 1/4 cup  | [[../_ingredients/mayonnaise.md][mayonnaise]]       |
-| 2 Tbsp   | [[../_ingredients/relish.md][relish]]           |
-| 1 tsp    | [[../_ingredients/parsley.md][parsley]], chopped |
-| 1 tsp    | [[../_ingredients/capers.md][capers]], drained  |
-| 1/2 tsp  | [[../_ingredients/lemon.md][lemon zest]]       |
-| 1 tsp    | [[../_ingredients/lemon-juice.md][lemon juice]]      |
-| 1/4 tsp  | [[../_ingredients/garlic-powder.md][garlic powder]]    |
+| 1/3 cup  | [[id:5342ded8-95a1-48c7-add9-5fe5101172f1][sour cream]]       |
+| 1/4 cup  | [[id:9dddf4a5-99df-4431-89f5-751dc7c04029][mayonnaise]]       |
+| 2 Tbsp   | [[id:af3d13ee-cf09-4e92-ae1a-4336589c9abc][relish]]           |
+| 1 tsp    | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], chopped |
+| 1 tsp    | [[id:e27d44f2-b9a3-4b4e-a4c3-c7aef4e94019][capers]], drained  |
+| 1/2 tsp  | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon zest]]       |
+| 1 tsp    | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]      |
+| 1/4 tsp  | [[id:42bb6cab-f3f5-4018-814f-dba5fcf0e95a][garlic powder]]    |
 
 * Directions
 

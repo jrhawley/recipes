@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       3cc805f8-d51e-466d-8ad2-21f122995580
+:END:
+#+TITLE: Honey whisky roasted parsnips
+#+DATE: [2022-10-01 Sat 00:56]
+#+LAST_MODIFIED: [2022-10-01 Sat 01:03]
+#+FILETAGS: :recipe:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 10 min |
+| Cook Time | 40 min |
+| Yields    | 4 sides |
+
+* Ingredients
+
+  | Quantity | Item                     |
+  |----------+--------------------------|
+  | 8        | small to medium [[id:309fbb11-9766-4238-8975-c4dd215bded5][parsnips]] |
+  | 1/4 cup  | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                    |
+  | 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                |
+  | 1 oz     | [[id:52f0a339-318e-4e60-b3d3-cdc5de08502f][whisky]]                   |
+  | 1 tsp    | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]              |
+  | 2 tsp    | [[id:8f22c779-11e8-4a81-8ace-4498a080d730][fennel seeds]]             |
+
+* Directions
+
+  1. Preheat the oven to 375 F and line a rimmed baking sheet with parchment paper.
+  2. In a small skillet over medium-low heat, gently toast the fennel seeds until they are aromatic and evenly toasted.
+  3. Peel the parsnips, leaving them whole and the stems attached, if possible.
+  4. With a small bowl, whisk together the honey, oil, whisky, and salt.
+	 - Use a pastry brush to evenly coat the parsnips with the mixture.
+	 - Drizzle any remaining mixture over top.
+  5. Lay the parsnips on the baking sheet and sprinkle the fennel seeds on top.
+	 - Bake in the centre of the oven for 35 - 40 min, until golden brown and tender to the fork.
+
+* References & Notes
+
+  1. A Rising Tide

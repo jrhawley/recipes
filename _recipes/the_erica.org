@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       0d590a3e-a370-4245-9f36-dadcc9a23560
+:END:
+#+TITLE: The Erica
+#+DATE: [2022-10-04 Tue 12:31]
+#+LAST_MODIFIED: [2022-10-04 Tue 12:40]
+#+FILETAGS: :alcohol:recipe:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item                             |
+  |----------+----------------------------------|
+  | 3/4 oz   | [[id:7ce2fdd1-075b-4065-b612-0db8aa48198e][Crown Royal Apple Whiskey]] [fn:1] |
+  | 1/2 oz   | cinnamon simple syrup [fn:2]     |
+  | 2 dashes | cranberry bitters [fn:3]         |
+  |          | [[id:5ef6d9fc-4f8c-412d-be11-efaf44b151cb][prosecco]] [fn:4]                  |
+  | 1 sprig  | [[id:473555c6-ad53-42f0-9301-71ed769e25e8][rosemary]] [fn:5]                  |
+
+* Directions
+
+  1. Combine whiskey, simple syrup, and bitters in a cocktail shaker with ice.
+  2. Shake well and pour into a champagne flute.
+  3. Top with prosecco and garnish with rosemary.
+
+* Footnotes
+
+  [fn:1] For her love of apple whiskey and Canadian heritage.
+  [fn:2] Because she's Dale's sweetie and for her spicy takes are roast fire.
+  [fn:3] For growing up on cranberry lane.
+  [fn:4] For her 30th birthday being a celebration and the importance of prosecco in cottage life.
+  [fn:5] For her love of the outdoors and doing things her own way. 
+

@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Banana honey smoothie
 #+DATE: [2016-02-28]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:46]
+#+LAST_MODIFIED: [2022-10-12 Wed 00:34]
 #+FILETAGS: :recipe:beverage:
 
 | Info      | Amount |
@@ -16,14 +16,14 @@
 
 | Quantity | Item                             |
 |----------+----------------------------------|
-| 2        | [[../_ingredients/banana.md][bananas]] (or 3/2 cups of berries) |
+| 2        | [[id:8e53ad86-0f2e-4b0f-8dc5-c982e76a0c25][bananas]] (or 3/2 cups of berries) |
 | 1 cup    | vanilla [[id:79ae6530-e322-4fb9-9733-ec46a5aeee7d][yogurt]]                   |
 | 3/2 cup  | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                             |
-| 1/2 Tbsp | ground [[../_ingredients/cinnamon.md][cinnamon]]                  |
+| 1/2 Tbsp | ground [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][cinnamon]]                  |
 | 1/2 Tbsp | ground [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]                    |
-| 4 Tbsp   | [[../_ingredients/honey.md][honey]]                            |
-| 1 cup    | [[../_ingredients/ice.md][ice cubes]]                        |
-| 1 tsp    | [[../_ingredients/vanilla-extract.md][vanilla extract]]                  |
+| 4 Tbsp   | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                            |
+| 1 cup    | ice cubes                        |
+| 1 tsp    | [[id:924ad22d-2f73-4def-b12f-f0133df00ff1][vanilla extract]]                  |
 
 * Directions
 

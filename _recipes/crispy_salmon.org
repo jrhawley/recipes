@@ -16,8 +16,8 @@
 
 | Quantity | Item      |
 |----------+-----------|
-| 1 filet  | [[../_ingredients/salmon.md][salmon]]    |
-|          | [[../_ingredients/olive-oil.md][olive oil]] |
+| 1 filet  | [[id:9eccb87d-4a61-4ef1-a76a-2074983cd48f][salmon]]    |
+|          | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]] |
 
 * Directions
 

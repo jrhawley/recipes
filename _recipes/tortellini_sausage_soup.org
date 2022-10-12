@@ -16,19 +16,19 @@
 
 | Quantity | Item                    |
 |----------+-------------------------|
-| 500 g    | [[../_ingredients/sausage.md][Italian sausage]], ground |
-| 1        | [[../_ingredients/onion.md][onion]], finely diced     |
-| 4 cloves | [[../_ingredients/garlic.md][garlic]], minced          |
-| 1 L      | [[../_ingredients/vegetable-broth.md][vegetable broth]]         |
-| 400 mL   | [[../_ingredients/crushed-tomato.md][crushed tomatoes]]        |
-| 2 Tbsp   | [[../_ingredients/tomato-paste.md][tomato paste]]            |
-| 300 mL   | [[../_ingredients/tortellini.md][tortellini]]              |
-| 250 mL   | [[../_ingredients/heavy-cream.md][heavy cream]]             |
-|          | [[../_ingredients/spinach.md][spinach]]                 |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]             |
+| 500 g    | [[id:197fc928-a7dd-4987-96fa-8561878da19c][Italian sausage]], ground |
+| 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], finely diced     |
+| 4 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced          |
+| 1 L      | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]         |
+| 400 mL   | [[id:b57a8dae-55d5-44ba-9145-d618c3fe48e2][crushed tomatoes]]        |
+| 2 Tbsp   | [[id:e6fe5a89-23f4-4236-8d7f-5f5575b9719f][tomato paste]]            |
+| 300 mL   | [[id:f414a27c-8fdf-4625-aa81-996191b59a23][tortellini]]              |
+| 250 mL   | [[id:6d096aed-8c49-48c6-a4d0-c5ffde8f440a][heavy cream]]             |
+|          | [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]]                 |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]             |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                  |
 |          | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]]                |
-|          | [[../_ingredients/sourdough.md][sourdough]]               |
+|          | [[id:b95bab01-5471-4ccb-9965-981d9db436f4][sourdough]]               |
 
 * Directions
 

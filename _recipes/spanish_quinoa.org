@@ -19,21 +19,21 @@
 
 | Quantity | Item                                 |
 |----------+--------------------------------------|
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                            |
-| 1        | small yellow [[../_ingredients/onion.md][onion]], finely diced     |
-| 3 cloves | [[../_ingredients/garlic.md][garlic]], minced                       |
-| 2 tsp    | [[../_ingredients/paprika.md][paprika]]                              |
-| 1 tsp    | [[../_ingredients/cumin.md][cumin]]                                |
-| 1 tsp    | [[../_ingredients/oregano.md][oregano]]                              |
-| 1/4 tsp  | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]                       |
+| 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                            |
+| 1        | small yellow [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], finely diced     |
+| 3 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                       |
+| 2 tsp    | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]                              |
+| 1 tsp    | [[id:591e51ef-30b7-48f4-9232-a0834f4c31af][cumin]]                                |
+| 1 tsp    | [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]                              |
+| 1/4 tsp  | [[id:964cf8d4-b475-4188-b372-cd92a1346089][cayenne pepper]]                       |
 | 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                           |
-| 1 cup    | [[../_ingredients/quinoa.md][quinoa]], uncooked                     |
-| 15 oz    | [[../_ingredients/diced-tomatoes.md][diced tomatoes]]                       |
-| 15 oz    | [[../_ingredients/chickpeas.md][chickpeas]], drained, rinsed           |
-| 2 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]                      |
-| 15 oz    | [[../_ingredients/artichoke-hearts.md][artichoke hearts]], quartered, drained |
-| 1        | [[../_ingredients/lemon.md][lemon]]                                |
-|          | [[../_ingredients/parsley.md][parsley]]                              |
+| 1 cup    | [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]], uncooked                     |
+| 15 oz    | [[id:937c514a-0447-4ecd-bebb-bd5f2a09386c][diced tomatoes]]                       |
+| 15 oz    | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]], drained, rinsed           |
+| 2 cups   | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]                      |
+| 15 oz    | [[id:9652dfc5-8c76-4531-8313-c7afbec5a721][artichoke hearts]], quartered, drained |
+| 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]]                                |
+|          | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]                              |
 
 * Directions
 

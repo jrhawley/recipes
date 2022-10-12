@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       155fba4d-75b2-40bc-b7a1-058400f98d04
+:ROAM_ALIASES: Daquiri
+:END:
+#+TITLE: Classic daiquiri
+#+DATE: [2020-05-18]
+#+LAST_MODIFIED: [2022-10-12 Wed 00:36]
+#+FILETAGS: :recipe:alcohol:beverage:
+
+* Ingredients
+
+| Quantity | Item         |
+|----------+--------------|
+| 1/2 oz   | [[id:75f762b8-3f89-47ac-bde8-284a3506cd74][Simple syrup]] |
+| 5/3 oz   | [[id:3b6f920d-85fb-4fb1-bd0b-cc08811eb2b1][white rum]]    |
+| 2/3 oz   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]   |
+|          | ice cubes    |
+|          | [[id:3eeb40b4-7420-4c99-8a55-6c3e0193dfaa][lime]]         |
+
+* Directions
+
+  1. Add all ingredients to a cocktail shaker
+  2. Strain into couple glasses
+  3. (Optional) Garnish with a lime wedge or wheel
+
+* References & Notes
+
+  1. Original recipe: The Periodic Table of Cocktails

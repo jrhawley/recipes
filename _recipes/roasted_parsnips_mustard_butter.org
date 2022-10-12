@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       126a6526-17dd-4e4c-ab0e-150f0f0257c9
+:END:
+#+TITLE: Roasted parsnips & mustard butter
+#+DATE: [2022-10-01 Sat 01:07]
+#+LAST_MODIFIED: [2022-10-01 Sat 01:15]
+#+FILETAGS: :sides:recipe:
+
+| Info      | Amount  |
+|-----------+---------|
+| Prep Time | 15 min  |
+| Cook Time | 40 min  |
+| Yields    | 8 sides |
+
+* Ingredients
+
+  | Quantity | Item                         |
+  |----------+------------------------------|
+  | 1 kg     | [[id:309fbb11-9766-4238-8975-c4dd215bded5][parsnips]], peeled             |
+  | 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                    |
+  | 4 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], softened and divided |
+  | 3/4 cup  | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]              |
+  | 2 tsp    | [[id:ac8ab019-7fa2-44f7-9cd7-4f9b64b41cbd][grainy mustard]]               |
+  | 1 tsp    | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                        |
+  | 2 Tbsp   | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], chopped             |
+  |          | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                   |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                 |
+
+* Directions
+
+  1. Preheat the oven to 177 C (350 F).
+  2. After peeling, cut each parsnips in two equal length pieces.
+	 - Cut the slender end in half and the thicker end into quarters along their length.
+  3. Heat olive oil and 1 Tbsp butter in an ovenproof skillet over medium0high heat.
+	 - Once foaming, add parsnips and arrange so as many as possible are in contact with the pan.
+	 - Season with salt and pepper, cooking for 4 - 5 min.
+	 - Stir and cook for a further 4 - 5 min.
+  4. Add in broth and place skillet on the bottom rack of the oven.
+	 - Cook for 30 min.
+  5. Combine remaining butter with mustard and honey.
+  6. When golden and fork-tender, dollop mustard butter over each parsnip and return to the oven for 5 min.
+  7. Toss, sprinkle with parsley to serve.
+
+* References & Notes
+  
+  1. LCBO Food and Drink: Autumn 2022
+

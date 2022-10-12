@@ -17,11 +17,11 @@
 | Quantity | Item           |
 |----------+----------------|
 | 1 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]          |
-| 1 tsp    | [[../_ingredients/baking-powder.md][baking powder]]  |
-| 1/2 tsp  | [[../_ingredients/baking-soda.md][baking soda]]    |
+| 1 tsp    | [[id:218f6314-47d3-4d12-bc91-3adc8baf97a8][baking powder]]  |
+| 1/2 tsp  | [[id:3977eee0-56ec-42eb-af6c-6b31a703c1f6][baking soda]]    |
 | 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]     |
 | 1 cup    | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]           |
-| 1        | [[../_ingredients/egg.md][egg]]            |
+| 1        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]]            |
 | 3/2 Tbsp | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], melted |
 
 * Directions

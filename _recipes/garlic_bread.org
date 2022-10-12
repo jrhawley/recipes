@@ -16,12 +16,12 @@
 
 | Quantitiy | Item             |
 |-----------+------------------|
-| 2 heads   | [[../_ingredients/garlic.md][garlic]]           |
+| 2 heads   | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]           |
 | 1/2 cup   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], softened |
-| 1/4 cup   | [[../_ingredients/parsley.md][parsley]], chopped |
-| 1         | [[../_ingredients/baguette.md][baguette]]         |
-|           | [[../_ingredients/olive-oil.md][olive oil]]        |
-|           | [[../_ingredients/kosher-salt.md][kosher salt]]      |
+| 1/4 cup   | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], chopped |
+| 1         | [[id:d0c6dd1c-f4ea-4094-ae0c-479152026dce][baguette]]         |
+|           | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]        |
+|           | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]      |
 |           | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]]         |
 
 * Directions

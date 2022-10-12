@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Apple pie
 #+DATE: [2018-12-18]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
+#+LAST_MODIFIED: [2022-10-11 Tue 21:13]
 #+FILETAGS: :recipe:dessert:
 
 | Info      | Amount  |
@@ -21,23 +21,23 @@
 
 | Quantity | Item       |
 |----------+------------|
-| 2 cup    | [[../_ingredients/shortening.md][shortening]] |
+| 2 cup    | [[id:2da7b183-9139-4ba6-9578-3d55c818b151][shortening]] |
 | 8 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]      |
 | 4 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]] |
 
 ** Filling
 
-| Quantity | Item                                              |
-|----------+---------------------------------------------------|
+| Quantity | Item                |
+|----------+---------------------|
 | 6        | granny smith [[id:f9ceed1b-9c02-40b0-910b-cb65cb53125d][apples]] |
-| 1 cup    | [[../_ingredients/sugar.md][sugar]]               |
+| 1 cup    | [[id:9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]               |
 | 2 Tbsp   | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]               |
-| 1 tsp    | [[../_ingredients/cinnamon.md][cinnamon]]         |
-| 1/4 tsp  | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]             |
-| 1/4 tsp  | [[../_ingredients/allspice.md][allspice]]         |
-| 1/4 tsp  | ground [[../_ingredients/cloves.md][cloves]]      |
-| dash     | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]     |
-| 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]             |
+| 1 tsp    | [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][cinnamon]]            |
+| 1/4 tsp  | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]              |
+| 1/4 tsp  | [[id:a13bb3ad-60ac-4296-a52a-dda7a88177cc][allspice]]            |
+| 1/4 tsp  | ground [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][cloves]]       |
+| dash     | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]          |
+| 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]              |
 
 * Directions
 

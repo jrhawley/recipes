@@ -1,0 +1,26 @@
+#+TITLE: Cinnamon simple syrup
+#+DATE: [2022-10-04 Tue 12:35]
+#+LAST_MODIFIED: [2022-10-04 Tue 12:51]
+#+FILETAGS: :recipe:beverage:
+
+| Info      | Amount   |
+|-----------+----------|
+| Prep Time | 1 min    |
+| Cook Time | 15 min   |
+| Yields    | 3/2 cups |
+
+* Ingredients
+
+  | Quantity | Item            |
+  |----------+-----------------|
+  | 1 cup    | water           |
+  | 1 cup    | [[id:9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]           |
+  | 4        | [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][cinnamon sticks]] |
+
+* Directions
+
+  1. In a small pot, add the ingredients and bring to a boil.
+  2. Once a boil is reached, let simmer on low heat for 5 min.
+  3. Turn off the heat and let the syrup cool.
+  4. Remove the sticks and any strain into a storage container.
+

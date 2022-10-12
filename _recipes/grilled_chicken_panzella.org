@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Grilled chicken and panzella
 #+DATE: [2021-08-15]
-#+LAST_MODIFIED: [2022-07-25 Mon 09:07]
+#+LAST_MODIFIED: [2022-10-12 Wed 00:36]
 #+FILETAGS: :recipe:dinner:
 
 | Info      | Amount     |
@@ -16,18 +16,17 @@
 
 | Quantity | Item              |
 |----------+-------------------|
-| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]   |
-| 1        | [[../_ingredients/baguette.md][baguette]]          |
-| 2        | [[../_ingredients/cucumber.md][cucumber]]          |
-| 3/2 cup  | [[../_ingredients/cherry-tomato.md][cherry tomatoes]]   |
-| 1 Tbsp   | [[../_ingredients/kalamata-olives.md][kalamata olives]]   |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]]            |
+| 4        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]   |
+| 1        | [[id:d0c6dd1c-f4ea-4094-ae0c-479152026dce][baguette]]          |
+| 2        | [[id:91d2bb4a-3cc3-4dfd-8c54-953a701ad3a2][cucumber]]          |
+| 3/2 cup  | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][cherry tomatoes]]   |
+| 1 Tbsp   | [[id:28ed392f-6531-4633-86b1-aa98ebf55498][kalamata olives]]   |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]            |
 | 1/4 cup  | grated [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][Parmesan]]   |
-| 2 Tbsp   | [[../_ingredients/mayonnaise.md][mayonnaise]]        |
-| 2 Tbsp   | [[../_ingredients/red-wine-vinegar.md][red-wine-vinegar]]  |
-| 1 Tbsp   | [[../_ingredients/italian-seasoning.md][Italian seasoning]] |
-|          | [[../_ingredients/olive-oil.md][olive oil]]         |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]       |
+| 2 Tbsp   | [[id:9dddf4a5-99df-4431-89f5-751dc7c04029][mayonnaise]]        |
+| 2 Tbsp   | [[id:41605fe1-8b95-41a2-9031-1bfe668a46cf][red-wine-vinegar]]  |
+|          | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]         |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]       |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]            |
 
 * Directions

@@ -19,16 +19,16 @@
 
 | Quantity | Item               |
 |----------+--------------------|
-| 1        | large [[../_ingredients/sweet-potato.md][sweet potato]] |
-| 2        | [[../_ingredients/bell-pepper.md][bell peppers]]       |
-| 1        | small [[../_ingredients/red-onion.md][red onion]]    |
-| 1 tsp    | [[../_ingredients/paprika.md][paprika]]            |
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]          |
-| 1/2 cup  | [[../_ingredients/rice.md][rice]]               |
-| 14 oz    | [[../_ingredients/black-beans.md][black beans]]        |
-| 1 cup    | cooked [[../_ingredients/corn.md][corn]]        |
-| 1        | [[../_ingredients/avocado.md][avocado]]            |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]        |
+| 1        | large [[id:8f199dec-d073-44dc-9225-a8b2d33c1bd2][sweet potato]] |
+| 2        | [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell peppers]]       |
+| 1        | small [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]]    |
+| 1 tsp    | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]            |
+| 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]          |
+| 1/2 cup  | [[id:9b67d62e-13d2-46e0-9366-196393f90028][rice]]               |
+| 14 oz    | [[id:285345d6-78f4-42cd-af32-0738783c781d][black beans]]        |
+| 1 cup    | cooked [[id:9c56cb2f-07f0-4a0c-a4f8-83d0f598586c][corn]]        |
+| 1        | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocado]]            |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]        |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]             |
 
 * Directions

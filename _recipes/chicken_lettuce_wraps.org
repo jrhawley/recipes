@@ -18,29 +18,29 @@
 
 | Quantity | Item           |
 |----------+----------------|
-| 2 Tbsp   | [[../_ingredients/honey.md][honey]]          |
+| 2 Tbsp   | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]          |
 | 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]     |
-| 2 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]      |
-| 1 Tbsp   | [[../_ingredients/ketchup.md][ketchup]]        |
-| 1 tsp    | [[../_ingredients/vinegar.md][vinegar]]        |
-| 1 Tbsp   | [[../_ingredients/sriracha.md][Sriracha sauce]] |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced |
-| 1 Tbsp   | [[../_ingredients/hoisin-sauce.md][Hoisin sauce]]   |
-| 1 Tbsp   | [[../_ingredients/oyster-sauce.md][oyster sauce]]   |
-| 1/4 cup  | [[../_ingredients/chicken-broth.md][chicken broth]]  |
+| 2 Tbsp   | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]      |
+| 1 Tbsp   | [[id:3660eff6-3c8a-45d5-9359-b916beae1821][ketchup]]        |
+| 1 tsp    | [[id:11c20422-e096-44af-ba48-fc7a0a44b3bf][vinegar]]        |
+| 1 Tbsp   | [[id:87194593-2bb9-4d60-8ad9-3a812da2e140][Sriracha sauce]] |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced |
+| 1 Tbsp   | [[id:9b48c089-baf7-4ef9-a321-f5295a564318][Hoisin sauce]]   |
+| 1 Tbsp   | [[id:3d5af97e-e0c3-4886-b87f-91ac6d5206e4][oyster sauce]]   |
+| 1/4 cup  | [[id:c97f058b-0a91-450d-9df4-c1c32e84dc29][chicken broth]]  |
 
 ** Chicken
 
 | Quantity | Item                  |
 |----------+-----------------------|
-| 1 cup    | [[../_ingredients/chicken-breast.md][chicken]], minced       |
-| 1        | small [[../_ingredients/onion.md][onion]], diced    |
-| 1 Tbsp   | [[../_ingredients/ginger.md][ginger]], grated        |
-| 4 cloves | [[../_ingredients/garlic.md][garlic]], minced        |
-| 2 Tbsp   | [[../_ingredients/vegetable-oil.md][vegetable oil]]         |
-| 1 pinch  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]]     |
-| 1 stalk  | [[../_ingredients/green-onion.md][green onion]]           |
-|          | [[../_ingredients/sesame-seeds.md][sesame seeds]], garnish |
+| 1 cup    | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken]], minced       |
+| 1        | small [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], diced    |
+| 1 Tbsp   | [[id:5650869d-ec01-477c-ba1b-7b2a830a5c9e][ginger]], grated        |
+| 4 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced        |
+| 2 Tbsp   | [[id:6594dbcb-ac42-4c68-a9f9-c1ba749b408a][vegetable oil]]         |
+| 1 pinch  | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]]     |
+| 1 stalk  | [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onion]]           |
+|          | [[id:64a79bd5-0a6a-4dab-9747-32cf2a07fb93][sesame seeds]], garnish |
 
 * Directions
 

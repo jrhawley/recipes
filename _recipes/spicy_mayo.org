@@ -16,9 +16,9 @@
 
 | Quantity | Item           |
 |----------+----------------|
-| 1/2 cup  | [[../_ingredients/mayonnaise.md][mayonnaise]]     |
-| 1 tsp    | [[../_ingredients/sriracha.md][Sriracha sauce]] |
-| 1/4 tsp  | [[../_ingredients/cayenne-pepper.md][cayenne pepper]] |
+| 1/2 cup  | [[id:9dddf4a5-99df-4431-89f5-751dc7c04029][mayonnaise]]     |
+| 1 tsp    | [[id:87194593-2bb9-4d60-8ad9-3a812da2e140][Sriracha sauce]] |
+| 1/4 tsp  | [[id:964cf8d4-b475-4188-b372-cd92a1346089][cayenne pepper]] |
 
 * Directions
 

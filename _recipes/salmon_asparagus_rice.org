@@ -16,17 +16,17 @@
 
 | Quantity | Item                 |
 |----------+----------------------|
-| 4 filets | [[../_ingredients/salmon.md][salmon]]               |
-| 1 lb     | [[../_ingredients/asparagus.md][asparagus]]            |
-| 3 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]            |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced       |
-| 1        | [[../_ingredients/lemon.md][lemon]], thinly sliced |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]          |
+| 4 filets | [[id:9eccb87d-4a61-4ef1-a76a-2074983cd48f][salmon]]               |
+| 1 lb     | [[id:79e39338-56c0-4eb7-98af-5474fbae80b6][asparagus]]            |
+| 3 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]            |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced       |
+| 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]], thinly sliced |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]          |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]               |
-|          | [[../_ingredients/dill.md][dill]]                 |
-|          | [[../_ingredients/thyme.md][thyme]]                |
-|          | [[../_ingredients/rosemary.md][rosemary]]             |
-|          | [[../_ingredients/parsley.md][parsley]]              |
+|          | [[id:ed1dc225-9206-4760-a3c0-9fc7274bbd31][dill]]                 |
+|          | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                |
+|          | [[id:473555c6-ad53-42f0-9301-71ed769e25e8][rosemary]]             |
+|          | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]              |
 
 * Directions
 

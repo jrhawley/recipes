@@ -21,23 +21,23 @@
 
 | Quantity | Item                      |
 |----------+---------------------------|
-| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]           |
-| 16 oz    | baby [[../_ingredients/potato.md][red potatoes]], halved |
-| 16 oz    | baby [[../_ingredients/carrot.md][carrots]]              |
-| 16 oz    | [[../_ingredients/green-beans.md][green beans]], trimmed      |
-| 2 Tbsp   | [[../_ingredients/parsley.md][parsley]], chopped          |
+| 4        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]           |
+| 16 oz    | baby [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][red potatoes]], halved |
+| 16 oz    | baby [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrots]]              |
+| 16 oz    | [[id:7e70dd06-871f-47f8-a1bc-af4c7f194ef5][green beans]], trimmed      |
+| 2 Tbsp   | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], chopped          |
 
 ** Sauce
 
 | Quantity | Item              |
 |----------+-------------------|
-| 1/2 cup  | [[../_ingredients/soy-sauce.md][soy sauce]]         |
-| 1/2 cup  | [[../_ingredients/honey.md][honey]]             |
-| 1/4 cup  | [[../_ingredients/ketchup.md][ketchup]]           |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced    |
-| 1 tsp    | [[../_ingredients/basil.md][basil]]             |
-| 1/2 tsp  | [[../_ingredients/oregano.md][oregano]]           |
-| 1/4 tsp  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]] |
+| 1/2 cup  | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]         |
+| 1/2 cup  | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]             |
+| 1/4 cup  | [[id:3660eff6-3c8a-45d5-9359-b916beae1821][ketchup]]           |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced    |
+| 1 tsp    | [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]]             |
+| 1/2 tsp  | [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]           |
+| 1/4 tsp  | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]] |
 | 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]            |
 
 * Directions

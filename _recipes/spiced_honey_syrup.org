@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       d58a9b88-026c-4831-b116-b856947b96ad
+:ROAM_ALIASES: "spiced honey syrup"
+:END:
+#+TITLE: Spiced honey syrup
+#+DATE: [2022-09-15 Thu 22:14]
+#+LAST_MODIFIED: [2022-09-15 Thu 22:22]
+#+FILETAGS: :recipe:beverage:
+
+| Info      | Amount           |
+|-----------+------------------|
+| Prep Time | 5 min            |
+| Cook Time | 5 min + 2 h      |
+| Yields    | 3/4 cup servings |
+
+* Ingredients
+
+  | Quantity | Item            |
+  |----------+-----------------|
+  | 1/2 cup  | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]           |
+  | 1/4 cup  | water           |
+  | 2        | [[id:0e283442-f6f9-4404-9e01-5a9306f036dd][cinnamon sticks]] |
+  | 1 tsp    | [[id:d6ae4e4e-6629-4cd1-b2a7-93d1ed40939e][whole cloves]]    |
+
+* Directions
+
+  1. Combine honey, water, cinnamon, and cloves in a small saucepan.
+	 - Place over medium heat.
+	 - When mixture comes to a boil, remove from heat, cover, and let stand for 2 h.
+  2. Strain into a bowl and discard solids.
+	 - Transfer to a glass jar and store in the fridge.
+
+* References & Notes
+
+  1. Original recipe: LCBO Food & Drink - Summer 2022.
+  2. Can last in the fridge up to 1 month.

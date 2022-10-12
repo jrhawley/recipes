@@ -3,15 +3,15 @@
 :END:
 #+TITLE: Manhattan
 #+DATE: [2021-02-17]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:13]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:36]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
 | Quantity | Item              |
 |----------+-------------------|
 | 2 oz     | [[id:52f0a339-318e-4e60-b3d3-cdc5de08502f][whiskey]]           |
-| 2/3 oz   | [[../_ingredients/vermouth.md][vermouth]]          |
+| 2/3 oz   | [[id:e5be28df-0ad7-4af2-8128-15a50f98c04f][vermouth]]          |
 | 3 dashes | [[id:0ec50573-a2d4-4421-b07c-d43736a9a586][Agnostura bitters]] |
 
 * Directions

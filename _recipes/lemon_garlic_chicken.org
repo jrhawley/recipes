@@ -16,18 +16,18 @@
 
 | Quantity | Item                      |
 |----------+---------------------------|
-| 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]                 |
-| 2 Tbsp   | [[../_ingredients/lemon-juice.md][lemon juice]]               |
-| 3 cloves | [[../_ingredients/garlic.md][garlic]], minced            |
-| 3/2 tsp  | fresh [[../_ingredients/thyme.md][thyme]], minced       |
+| 1/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                 |
+| 2 Tbsp   | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]               |
+| 3 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced            |
+| 3/2 tsp  | fresh [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]], minced       |
 | 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                |
-| 1/2 tsp  | fresh [[../_ingredients/rosemary.md][rosemary]], minced    |
+| 1/2 tsp  | fresh [[id:473555c6-ad53-42f0-9301-71ed769e25e8][rosemary]], minced    |
 | 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                    |
-| 6        | bone-in [[../_ingredients/chicken-thighs.md][chicken thighs]]    |
-| 6        | [[../_ingredients/chicken-drumsticks.md][chicken drumsticks]]        |
-| 1 lb     | baby [[../_ingredients/potato.md][red potatoes]], halved |
-| 1        | [[../_ingredients/lemon.md][lemon]], sliced             |
-| 2 Tbsp   | [[../_ingredients/parsley.md][parsley]], minced           |
+| 6        | bone-in [[id:c97f058b-0a91-450d-9df4-c1c32e84dc29][chicken thighs]]    |
+| 6        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken drumsticks]]        |
+| 1 lb     | baby [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][red potatoes]], halved |
+| 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]], sliced             |
+| 2 Tbsp   | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], minced           |
 
 * Directions
 

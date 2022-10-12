@@ -19,20 +19,20 @@
 | Quantity | Ingredient       |
 |----------+------------------|
 | 1 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]            |
-| 1/3 cup  | [[../_ingredients/cocoa-powder.md][cocoa powder]]     |
-| 1/2 tsp  | [[../_ingredients/baking-powder.md][baking powder]]    |
+| 1/3 cup  | [[id:050ad5a8-b270-4ae7-874b-8a4a99887a80][cocoa powder]]     |
+| 1/2 tsp  | [[id:218f6314-47d3-4d12-bc91-3adc8baf97a8][baking powder]]    |
 | 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]             |
-| 1/2 cup  | [[../_ingredients/guinness.md][Guinness]]         |
-| 1        | large [[../_ingredients/egg.md][egg]]        |
-| 1/2 cup  | [[../_ingredients/sugar.md][granulated sugar]] |
+| 1/2 cup  | [[id:54d0b771-4333-46f7-a3fa-f08a2136cf36][Guinness]]         |
+| 1        | large [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]]        |
+| 1/2 cup  | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][granulated sugar]] |
 | 1/3 cup  | unsalted [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]  |
 
 ** Glaze
 
 | Quantity | Ingredient           |
 |----------+----------------------|
-| 1/2 cup  | [[../_ingredients/icing-sugar.md][icing sugar]]          |
-| 1 Tbsp   | [[../_ingredients/baileys.md][Bailey's Irish Cream]] |
+| 1/2 cup  | [[id:65262120-03a6-474b-a6f6-819e4e9207cb][icing sugar]]          |
+| 1 Tbsp   | [[id:c265a6ca-82ef-447d-9c0e-7d0b36a617e8][Bailey's Irish Cream]] |
 | 1 tsp    | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                |
 
 * Directions

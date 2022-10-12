@@ -19,17 +19,17 @@
 
 | Quantity  | Item                  |
 |-----------+-----------------------|
-| 6 Tbsp    | [[../_ingredients/olive-oil.md][olive oil]], divided    |
-| 3         | large [[../_ingredients/potato.md][Russet potatoes]] |
-| 3 cloves  | [[../_ingredients/garlic.md][garlic]], minced        |
-|           | [[../_ingredients/kosher-salt.md][kosher salt]]           |
+| 6 Tbsp    | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]], divided    |
+| 3         | large [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][Russet potatoes]] |
+| 3 cloves  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced        |
+|           | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]           |
 |           | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                |
-|           | [[../_ingredients/thyme.md][thyme]]                 |
-|           | [[../_ingredients/oregano.md][oregano]]               |
-|           | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]        |
-|           | [[../_ingredients/feta.md][feta]], crumbled        |
-| 1 handful | [[../_ingredients/parsley.md][parsley]]               |
-|           | [[../_ingredients/tzatziki.md][Tzatziki]]              |
+|           | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                 |
+|           | [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]               |
+|           | [[id:964cf8d4-b475-4188-b372-cd92a1346089][cayenne pepper]]        |
+|           | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]], crumbled        |
+| 1 handful | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]               |
+|           | [[id:fd79465d-02fb-4a00-b845-a818bff68417][Tzatziki]]              |
 
 * Directions
 

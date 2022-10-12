@@ -16,16 +16,16 @@
 
 | Quantity | Item                 |
 |----------+----------------------|
-| 4        | [[../_ingredients/chicken-breast.md][chicken breasts]]      |
-| 3/2 Tbsp | [[../_ingredients/olive-oil.md][olive oil]]            |
+| 4        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]      |
+| 3/2 Tbsp | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]            |
 | 3/4 cup  | [[../_recipes/apple-cider.md][apple cider]]          |
 | 2        | [[id:f9ceed1b-9c02-40b0-910b-cb65cb53125d][apples]], sliced       |
-| 2 tsp    | [[../_ingredients/thyme.md][thyme]]                |
-| 1        | [[../_ingredients/sweet-onion.md][sweet onion]], chopped |
-| 1 tsp    | [[../_ingredients/garlic-powder.md][garlic powder]]        |
-| 1        | [[../_ingredients/sweet-potato.md][sweet potato]]         |
-| 1 Tbsp   | [[../_ingredients/dijon-mustard.md][dijon mustard]]        |
-| 1 tsp    | [[../_ingredients/corn-starch.md][cornstarch]]           |
+| 2 tsp    | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                |
+| 1        | [[id:6d78365c-626e-42af-a611-64d4c13757f8][sweet onion]], chopped |
+| 1 tsp    | [[id:42bb6cab-f3f5-4018-814f-dba5fcf0e95a][garlic powder]]        |
+| 1        | [[id:8f199dec-d073-44dc-9225-a8b2d33c1bd2][sweet potato]]         |
+| 1 Tbsp   | [[id:00a48416-bb29-468a-9498-dacf8e0491ba][dijon mustard]]        |
+| 1 tsp    | [[id:74ca1bf4-e5d8-4e1c-89fe-fb8a82ad8249][cornstarch]]           |
 
 * Directions
 

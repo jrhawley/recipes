@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Beet & apple soup
 #+DATE: [2022-03-25]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:47]
+#+LAST_MODIFIED: [2022-10-12 Wed 00:35]
 #+FILETAGS: :recipe:dinner:vegetarian:
 
 | Info      | Amount     |
@@ -14,19 +14,19 @@
 
 * Ingredients
 
-| Quantity | Item                        |
-|----------+-----------------------------|
-| 2 lbs    | [[../_ingredients/beets.md][(golden) beets]]              |
-| 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                      |
-| 1/2 cup  | [[../_ingredients/onion.md][onion]], diced                |
-| 1 lb     | [[id:f9ceed1b-9c02-40b0-910b-cb65cb53125d][apples]], cored and quartered |
-| 1/4 cup  | [[../_ingredients/apple-cider-vinegar.md][apple cider vinegar]]         |
-| 1 Tbsp   | [[../_ingredients/sugar.md][sugar]]                       |
-| 5 cup    | [[../_ingredients/vegetable-broth.md][vegetable broth]]             |
-| 1 Tbsp   | [[../_ingredients/honey.md][honey]]                       |
-| 1/2 cup  | [[../_ingredients/greek-yogurt.md][Greek yogurt]]                |
-|          | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]                        |
-|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                      |
+| Quantity | Item                          |
+|----------+-------------------------------|
+| 2 lbs    | beets ([[id:4a0313ca-b26a-43fa-9fd6-a95f4f7f625c][canned]] or [[id:aa695135-a404-4546-a1df-75faf5c6e0ed][fresh beets]]) |
+| 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                        |
+| 1/2 cup  | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], diced                  |
+| 1 lb     | [[id:f9ceed1b-9c02-40b0-910b-cb65cb53125d][apples]], cored and quartered   |
+| 1/4 cup  | [[id:9557565b-cbae-4bc7-bac6-d3e8ee9b3e6b][apple cider vinegar]]           |
+| 1 Tbsp   | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]                         |
+| 5 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]               |
+| 1 Tbsp   | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                         |
+| 1/2 cup  | [[id:3e80ceb1-aa3e-425a-a18b-d3acdc4353cf][Greek yogurt]]                  |
+|          | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]                          |
+|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                        |
 
 * Directions
 

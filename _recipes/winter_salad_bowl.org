@@ -18,27 +18,27 @@
 
 | Quantity | Item                             |
 |----------+----------------------------------|
-| 2        | large Yukon gold [[../_ingredients/potato.md][potatoes]], diced |
-| 12 oz    | [[../_ingredients/green-beans.md][green beans]], trimmed and chopped |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]]                           |
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                        |
-| 1 cup    | [[../_ingredients/quinoa.md][quinoa]], uncooked                 |
-| 1 cup    | [[../_ingredients/kale.md][kale]], stemmed, finely chopped    |
-| 3        | [[../_ingredients/green-onion.md][green onions]], sliced             |
-| 1/4 cup  | toasted [[../_ingredients/pumpkin-seeds.md][pumpkin seeds]]            |
-| 1        | large ripe [[../_ingredients/avocado.md][avocado]]               |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]                      |
+| 2        | large Yukon gold [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][potatoes]], diced |
+| 12 oz    | [[id:7e70dd06-871f-47f8-a1bc-af4c7f194ef5][green beans]], trimmed and chopped |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]                           |
+| 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                        |
+| 1 cup    | [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]], uncooked                 |
+| 1 cup    | [[id:36223b51-b988-470c-ab00-748e4a5b3e66][kale]], stemmed, finely chopped    |
+| 3        | [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onions]], sliced             |
+| 1/4 cup  | toasted [[id:26ca4439-8ab4-4422-a478-8c2354ea8724][pumpkin seeds]]            |
+| 1        | large ripe [[id:89016951-c43f-4a15-9f44-8430793f9529][avocado]]               |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                      |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                           |
 
 ** Dressing
 
 | Quantity | Item             |
 |----------+------------------|
-| 1/4 cup  | [[../_ingredients/red-wine-vinegar.md][red-wine-vinegar]] |
-| 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]        |
-| 2 tsp    | [[../_ingredients/dijon-mustard.md][dijon mustard]]    |
-| 1 Tbsp   | [[../_ingredients/maple-syrup.md][maple syrup]]      |
-|          | [[../_ingredients/kosher-salt.md][kosher salt]]      |
+| 1/4 cup  | [[id:41605fe1-8b95-41a2-9031-1bfe668a46cf][red-wine-vinegar]] |
+| 1/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]        |
+| 2 tsp    | [[id:00a48416-bb29-468a-9498-dacf8e0491ba][dijon mustard]]    |
+| 1 Tbsp   | [[id:716dd7d0-46db-4224-9391-75b5eaad5cfd][maple syrup]]      |
+|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]      |
 |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]           |
 
 * Directions

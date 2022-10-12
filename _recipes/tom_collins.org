@@ -3,15 +3,15 @@
 :END:
 #+TITLE: Tom Collins
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:16]
-#+FILETAGS: :recipe:alcoholic:beverage:
+#+LAST_MODIFIED: [2022-09-27 Tue 09:34]
+#+FILETAGS: :recipe:alcohol:beverage:
 
 * Ingredients
 
 | Quantity | Ingredient   |
 |----------+--------------|
-| 2 oz     | [[../_ingredients/gin.md][gin]]          |
-| 1 oz     | [[../_ingredients/lemon-juice.md][lemon juice]]  |
+| 2 oz     | [[id:fccdeb8e-92f8-4058-b058-b9e9ae72b7fd][gin]]          |
+| 1 oz     | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]  |
 | 2/3 oz   | [[file:simple-syrup.md][simple syrup]] |
 |          | [[id:dba4890c-1a4a-44b8-8ab2-c6414d166052][soda water]]   |
 

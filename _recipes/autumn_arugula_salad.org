@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Autumn arugula salad
 #+DATE: [2020-12-22]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
+#+LAST_MODIFIED: [2022-10-06 Thu 21:44]
 #+FILETAGS: :recipe:vegetarian:dinner:
 
 | Info      | Amount     |
@@ -18,46 +18,40 @@
 
 | Quantity | Item              |
 |----------+-------------------|
-| 2 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]         |
+| 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]         |
 | 1        | [[id:d18e5e95-8002-4ea9-98ee-9a0d5cfffcf9][acorn squash]]      |
 | 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]        |
 | 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]            |
-| 2 tsp    | [[../_ingredients/brown-sugar.md][brown sugar]]       |
-| 1/2 cup  | [[../_ingredients/pecan.md][pecans]], chopped   |
-| 1/4 tsp  | [[../_ingredients/pumpkin-pie-spice.md][pumpkin-pie-spice]] |
-| 6 cup    | [[../_ingredients/arugula.md][arugula]]           |
-| 1        | [[../_ingredients/avocado.md][avocado]]           |
-| 1/2 cup  | [[../_ingredients/pomegranate-seeds.md][pomegranate seeds]] |
-| 1        | [[../_ingredients/cucumber.md][cucumber]], sliced  |
+| 2 tsp    | [[id:02ccfac6-e705-4b80-949e-1dff24216a5b][brown sugar]]       |
+| 1/2 cup  | [[id:0aa7b5a8-d27f-40ec-b39c-f5aae4209aba][pecans]], chopped   |
+| 1/4 tsp  | [[id:6f7fcb45-3840-441b-98a0-cf58af4170c4][pumpkin-pie-spice]] |
+| 6 cup    | [[id:5e36609a-fd6f-49ce-9707-d28edbcb1860][arugula]]           |
+| 1        | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocado]]           |
+| 1/2 cup  | [[id:492b7f86-5fef-49ba-bc09-ef09dde8360f][pomegranate seeds]] |
+| 1        | [[id:91d2bb4a-3cc3-4dfd-8c54-953a701ad3a2][cucumber]], sliced  |
 
 ** Vinaigrette
 
 | Quantity | Item                   |
 |----------+------------------------|
-| 1/3 cup  | [[../_ingredients/pomegranate-juice.md][pomegranate juice]]      |
-| 1/4 cup  | [[../_ingredients/apple-cider-vinegar.md][apple cider vinegar]]    |
-| 1/2 tsp  | [[../_ingredients/ginger.md][ginger]], freshly grated |
-| 1 clove  | [[../_ingredients/garlic.md][garlic]], grated         |
+| 1/3 cup  | [[id:4cf4d740-5b5b-4a3d-be88-929f383663ef][pomegranate juice]]      |
+| 1/4 cup  | [[id:9557565b-cbae-4bc7-bac6-d3e8ee9b3e6b][apple cider vinegar]]    |
+| 1/2 tsp  | [[id:5650869d-ec01-477c-ba1b-7b2a830a5c9e][ginger]], freshly grated |
+| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], grated         |
 | 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]             |
 | 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                 |
-| 1/4 cup  | [[../_ingredients/olive-oil.md][olive oil]]              |
+| 1/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]              |
 
 * Directions
 
-1. Preheat oven to 425 F
-
-   1. Slice acorn squash into 1 cm chunks, removing seeds
-   2. Place on a baking sheet, cover with olive oil, salt, pepper, and brown sugar
-   3. Place in over, roast for 10 min, flip, and bake for another 10 min
-
+1. Preheat oven to 220C (425 F)
+   - Slice acorn squash into 1 cm chunks, removing seeds
+   - Place on a baking sheet, cover with olive oil, salt, pepper, and brown sugar
+   - Place in over, roast for 10 min, flip, and bake for another 10 min
 2. In a small saucepan over low heat, toss pecans
-
-   1. Toast until golden and fragment, adding a bit of brown sugar and pumpkin pie spice
-
+   - Toast until golden and fragment, adding a bit of brown sugar and pumpkin pie spice
 3. Slice avocado and cucumber, add remaining ingredients into a large bowl
-
-   1. When the squash is done, cut into smaller pieces and add to salad
-
+   - When the squash is done, cut into smaller pieces and add to salad
 4. Combine all vinaigrette ingredients in a small bowl, drizzle over salad as desired
 
 * References & Notes

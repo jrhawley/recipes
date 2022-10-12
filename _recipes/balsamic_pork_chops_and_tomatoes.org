@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       25673c3f-cf8c-4aa0-97b0-3706c349e990
+:END:
+#+TITLE: Balsamic pork chops with tomatoes
+#+DATE: [2022-10-11 Tue 19:54]
+#+LAST_MODIFIED: [2022-10-11 Tue 20:33]
+#+FILETAGS: :dinner:recipe:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 15 min     |
+| Yields    | 2 servings |
+
+* Ingredients
+
+  | Quantity | Item             |
+  |----------+------------------|
+  | 2        | [[id:bd79e1cd-b0ac-4263-958f-59d804b99da9][pork chops]]       |
+  | 1/2      | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]]        |
+  | 1 cup    | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][cherry tomatoes]]  |
+  | 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]           |
+  | 1/2 cup  | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]  |
+  | 1/4 cup  | [[id:3c0b48f9-96ce-4e4f-82d0-d816f1abdfcf][white wine]]       |
+  | 1 Tbsp   | [[id:f166ad76-3c07-43ce-a9fa-826590535b84][balsamic vinegar]] |
+  | 1 tsp    | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]      |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]      |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]     |
+  |          | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]        |
+  |          | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]           |
+
+* Directions
+
+  1. In a large, oven safe skillet, heat olive oil over medium high heat.
+  2. Pat pork chops dry and season with salt and pepper on both sides.
+	 - Add chops to skillet and cook 2-3 min per side.
+	 - Remove to a plate to rest and cover with foil.
+  3. Still over medium high heat, pour half of the white wine into the skillet and scrape up any browned bits on the bottom of the pan.
+     - Melt butter in skillet.
+	 - Add garlic and cook 30 seconds until fragrant.
+	 - Add red onion, tomatoes, and herbs and cook for 2 min, stirring occasionally.
+  4. Pour in the broth, lemon, juice, and the rest of the wine and cook another 2 min.
+  5. Remove skillet from heat and add chops back to the pan.
+	 Drizzle chops with with balsamic vinegar and serve immediately.
+
+* References & Notes
+
+  1. Original recipe: [[https://www.aberdeenskitchen.com/2020/04/skillet-balsamic-pork-chops-with-tomatoes-and-gremolata/print/16406/][Aberdeen's Kitchen]]
+

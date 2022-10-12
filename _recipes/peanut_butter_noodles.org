@@ -16,17 +16,17 @@
 
 | Quantity | Item               |
 |----------+--------------------|
-| 16 oz    | [[../_ingredients/rice-noodles.md][brown rice noodles]] |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced     |
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]          |
-| 2/3 cup  | [[../_ingredients/peanut-butter.md][peanut butter]]      |
-| 3 Tbsp   | [[../_ingredients/soy-sauce.md][soy sauce]]          |
-| 1/4 cup  | [[../_ingredients/vegetable-broth.md][vegetable broth]]    |
-| 1 Tbsp   | [[../_ingredients/rice-vinegar.md][rice vinegar]]       |
-| 1 Tbsp   | [[../_ingredients/maple-syrup.md][maple syrup]]        |
-| 1/4 cup  | [[../_ingredients/peanuts.md][peanuts]], crushed   |
-| 1/2 tsp  | [[../_ingredients/red-pepper-flakes.md][red pepper flakes]]  |
-| 1 stalk  | [[../_ingredients/green-onion.md][green onion]]        |
+| 16 oz    | [[id:57f12c91-bafd-4f86-a466-73d71df0fb09][brown rice noodles]] |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced     |
+| 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]          |
+| 2/3 cup  | [[id:6e61a7f2-b5a0-4740-9cc0-c915469ee602][peanut butter]]      |
+| 3 Tbsp   | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]          |
+| 1/4 cup  | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]    |
+| 1 Tbsp   | [[id:11c20422-e096-44af-ba48-fc7a0a44b3bf][rice vinegar]]       |
+| 1 Tbsp   | [[id:716dd7d0-46db-4224-9391-75b5eaad5cfd][maple syrup]]        |
+| 1/4 cup  | [[id:dfc24138-2ce4-491f-a29e-da741b9c77fb][peanuts]], crushed   |
+| 1/2 tsp  | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]]  |
+| 1 stalk  | [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onion]]        |
 
 * Directions
 

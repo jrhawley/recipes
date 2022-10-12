@@ -21,35 +21,35 @@
 
 | Quantity | Item                       |
 |----------+----------------------------|
-| 15 oz    | [[../_ingredients/chickpeas.md][chickpeas]], drained, rinsed |
-| 1 tsp    | [[../_ingredients/olive-oil.md][olive oil]]                  |
-| 1/2 tsp  | dried [[../_ingredients/oregano.md][oregano]]              |
-| 1/8 tsp  | [[../_ingredients/cayenne-pepper.md][cayenne pepper]]             |
-| 1 tsp    | [[../_ingredients/garlic-powder.md][garlic powder]]              |
-| 1/4 tsp  | [[../_ingredients/onion-powder.md][onion powder]]               |
+| 15 oz    | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]], drained, rinsed |
+| 1 tsp    | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                  |
+| 1/2 tsp  | dried [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]              |
+| 1/8 tsp  | [[id:964cf8d4-b475-4188-b372-cd92a1346089][cayenne pepper]]             |
+| 1 tsp    | [[id:42bb6cab-f3f5-4018-814f-dba5fcf0e95a][garlic powder]]              |
+| 1/4 tsp  | [[id:1073ad23-11a9-46bd-93e3-57cc0885776f][onion powder]]               |
 | 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                 |
 
 ** Tomato soup
 
 | Quantity | Item                              |
 |----------+-----------------------------------|
-| 1 Tbsp   | [[../_ingredients/olive-oil.md][olive oil]]                         |
-| 1        | [[../_ingredients/sweet-onion.md][yellow onion]], diced               |
-| 2 cloves | [[../_ingredients/garlic.md][garlic]], minced                    |
-| 1/2 cup  | [[../_ingredients/cashews.md][cashews]], soaked                   |
-| 2 cups   | [[../_ingredients/vegetable-broth.md][vegetable broth]]                   |
+| 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                         |
+| 1        | [[id:6d78365c-626e-42af-a611-64d4c13757f8][yellow onion]], diced               |
+| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                    |
+| 1/2 cup  | [[id:9c21df94-eb4c-47b4-8490-12ef0b3e8a57][cashews]], soaked                   |
+| 2 cups   | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]                   |
 | 28 oz    | [[id:419803fa-a1ca-47e6-8eda-93d83cd90bd5][whole peeled tomatoes]] with juices |
-| 1/4 cup  | oil-packed [[../_ingredients/sun-dried-tomatoes.md][sun-dried-tomatoes]]     |
-| 2 oz     | [[../_ingredients/tomato-paste.md][tomato paste]]                      |
-| 1 tsp    | dried [[../_ingredients/oregano.md][oregano]]                     |
+| 1/4 cup  | oil-packed [[id:ad9aeb4e-4928-4086-b9a0-6acdbaedb591][sun-dried-tomatoes]]     |
+| 2 oz     | [[id:e6fe5a89-23f4-4236-8d7f-5f5575b9719f][tomato paste]]                      |
+| 1 tsp    | dried [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]                     |
 | 1 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                        |
 | 1 tsp    | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                            |
-| 1/2 tsp  | dried [[../_ingredients/thyme.md][thyme]]                       |
+| 1/2 tsp  | dried [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                       |
 
 ** Garnish
 
-- fresh [[../_ingredients/basil.md][basil]]
-- [[../_ingredients/olive-oil.md][olive oil]]
+- fresh [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]]
+- [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]
 - [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]
 
 * Directions
