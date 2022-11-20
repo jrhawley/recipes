@@ -4,7 +4,7 @@
 #+TITLE: Tortellini soup with Italian sausage
 #+DATE: [2021-01-18]
 #+LAST_MODIFIED: [2022-07-25 Mon 20:25]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount |
 |-----------+--------|

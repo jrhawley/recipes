@@ -4,7 +4,7 @@
 #+TITLE: Garlic mashed potatoes
 #+DATE: [2021-01-16]
 #+LAST_MODIFIED: [2022-10-02 Sun 11:00]
-#+FILETAGS: :recipe:vegetarian:dinner:side:
+#+FILETAGS: :recipes:vegetarian:entree:sides:
 
 | Info      | Amount     |
 |-----------+------------|

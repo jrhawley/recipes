@@ -4,7 +4,7 @@
 #+TITLE: Honey whisky roasted parsnips
 #+DATE: [2022-10-01 Sat 00:56]
 #+LAST_MODIFIED: [2022-10-01 Sat 01:03]
-#+FILETAGS: :recipe:
+#+FILETAGS: :recipes:
 
 | Info      | Amount |
 |-----------+--------|

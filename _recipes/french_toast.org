@@ -4,7 +4,7 @@
 #+TITLE: French Toast
 #+DATE: [2013-09-14]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:02]
-#+FILETAGS: :recipe:breakfast:
+#+FILETAGS: :recipes:breakfast:
 
 | Info      | Amount     |
 |-----------+------------|

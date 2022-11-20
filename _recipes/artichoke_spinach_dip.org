@@ -4,7 +4,7 @@
 #+TITLE: Artichoke and spinach dip
 #+DATE: [2015-01-02]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:45]
-#+FILETAGS: :recipe:sauce:
+#+FILETAGS: :recipes:sauce:
 
 | Info      | Amount      |
 |-----------+-------------|

@@ -4,7 +4,7 @@
 #+TITLE: Kir Royale
 #+DATE: [2022-10-06 Thu 22:26]
 #+LAST_MODIFIED: [2022-10-06 Thu 22:33]
-#+FILETAGS: :alcohol:recipe:beverage:
+#+FILETAGS: :alcohol:recipes:beverage:
 
 | Info      | Amount     |
 |-----------+------------|

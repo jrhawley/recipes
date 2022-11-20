@@ -4,7 +4,7 @@
 #+TITLE: Garlic butter smashed sweet potatoes
 #+DATE: [2020-09-12]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:04]
-#+FILETAGS: :recipe:dinner:vegetarian:
+#+FILETAGS: :recipes:entree:vegetarian:
 
 | Info      | Amount     |
 |-----------+------------|

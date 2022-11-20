@@ -5,7 +5,7 @@
 #+TITLE: Aglio, olio e peperoncino
 #+DATE: [2020-11-01]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:03]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -4,7 +4,7 @@
 #+TITLE: Glazed Guinness chocolate doughnuts
 #+DATE: [2022-03-16]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:05]
-#+FILETAGS: :recipe:dessert:
+#+FILETAGS: :recipes:dessert:
 
 | Info      | Amount      |
 |-----------+-------------|

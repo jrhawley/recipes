@@ -4,7 +4,7 @@
 #+TITLE: Chicken fried rice
 #+DATE: [2020-07-12]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:52]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

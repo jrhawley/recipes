@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       2A8A74D1-5A49-4FF7-9CE3-C4587D482B00
+:END:
+#+TITLE: Poor man's tartar sauce
+#+DATE: [2022-10-17 Mon 12:33]
+#+LAST_MODIFIED: [2022-10-17 Mon 12:35]
+#+FILETAGS: :sauce:recipes:
+
+| Info      | Amount  |
+|-----------+---------|
+| Prep Time | 2 min   |
+| Cook Time | 0 min   |
+| Yields    | 1/4 cup |
+
+* Ingredients
+
+  | Quantity | Item   |
+  |----------+--------|
+  | 1/4 cup  | [[id:9dddf4a5-99df-4431-89f5-751dc7c04029][mayo]]   |
+  |          | [[id:af3d13ee-cf09-4e92-ae1a-4336589c9abc][relish]] |
+
+* Directions
+
+  1. Combine the mayo with a desired amount of relish.
+
+* Notes
+
+  1. I had this often as a kid, weren't the most well off, and I didn't know any better about food.
+

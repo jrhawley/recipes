@@ -4,7 +4,7 @@
 #+TITLE: Southern baked macaroni and cheese
 #+DATE: [2022-08-09 Tue]
 #+LAST_MODIFIED: [2022-08-09 Tue 13:40]
-#+FILETAGS: :dairy:dinner:
+#+FILETAGS: :dairy:entree:
 
 | Info      | Amount     |
 |-----------+------------|

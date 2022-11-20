@@ -3,16 +3,16 @@
 :END:
 #+TITLE: Black Manhattan
 #+DATE: [2021-09-25 Sat]
-#+LAST_MODIFIED: [2022-09-27 Tue 09:38]
-#+FILETAGS: :recipe:alcohol:beverage:
+#+LAST_MODIFIED: [2022-11-19 Sat 18:34]
+#+FILETAGS: :recipes:alcohol:beverage:
 
 * Ingredients
 
 | Quantity | Item                      |
 |----------+---------------------------|
-| 2 oz     | [[id:52f0a339-318e-4e60-b3d3-cdc5de08502f][rye whisk]]                 |
+| 2 oz     | [[id:52f0a339-318e-4e60-b3d3-cdc5de08502f][rye whiskey]]               |
 | 1 oz     | [[id:f0c2d0c7-8399-45f1-a783-1be5ca83aafd][amaro]]                     |
-| 5 dashes | [[id:0ec50573-a2d4-4421-b07c-d43736a9a586][Agnostura bitters]]         |
+| 5 dashes | [[id:0ec50573-a2d4-4421-b07c-d43736a9a586][Angostura bitters]]         |
 | 1/8 tsp  | [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][cinnamon]]                  |
 |          | [[id:d7bd384f-78cd-4c74-9a0b-7bacdfb53676][orange peel]] (optional)    |
 | 1        | [[id:0e283442-f6f9-4404-9e01-5a9306f036dd][cinnamon stick]] (optional) |

@@ -4,7 +4,7 @@
 #+TITLE: Lemon garlic chicken
 #+DATE: [2020-11-10]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:12]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -4,7 +4,7 @@
 #+TITLE: Paper plane
 #+DATE: [2021-08-07]
 #+LAST_MODIFIED: [2022-09-27 Tue 09:35]
-#+FILETAGS: :recipe:alcohol:beverage:
+#+FILETAGS: :recipes:alcohol:beverage:
 
 * Ingredients
 

@@ -4,7 +4,7 @@
 #+TITLE: Green curry with tofu and cashews
 #+DATE: [2022-07-25 Mon]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:06]
-#+FILETAGS: :recipe:dinner:vegan:vegetarian:
+#+FILETAGS: :recipes:entree:vegan:vegetarian:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -4,7 +4,7 @@
 #+TITLE: Autumn arugula salad
 #+DATE: [2020-12-22]
 #+LAST_MODIFIED: [2022-10-06 Thu 21:44]
-#+FILETAGS: :recipe:vegetarian:dinner:
+#+FILETAGS: :recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

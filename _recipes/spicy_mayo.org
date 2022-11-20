@@ -4,7 +4,7 @@
 #+TITLE: Spicy mayo
 #+DATE: [2013-09-13]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:33]
-#+FILETAGS: :recipe:condiment:
+#+FILETAGS: :recipes:condiment:
 
 | Info      | Amount  |
 |-----------+---------|

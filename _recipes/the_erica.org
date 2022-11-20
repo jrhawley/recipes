@@ -3,14 +3,16 @@
 :END:
 #+TITLE: The Erica
 #+DATE: [2022-10-04 Tue 12:31]
-#+LAST_MODIFIED: [2022-10-04 Tue 12:40]
-#+FILETAGS: :alcohol:recipe:beverage:
+#+LAST_MODIFIED: [2022-11-19 Sat 20:25]
+#+FILETAGS: :alcohol:recipes:beverage:
 
 | Info      | Amount     |
 |-----------+------------|
 | Prep Time | 5 min      |
 | Cook Time | 0 min      |
 | Yields    | 1 cocktail |
+
+A cocktail made for [[id:0d512cae-0c50-4518-a6b7-4f117b417d6c][Erica Bristow]] on her 30th birthday.
 
 * Ingredients
 

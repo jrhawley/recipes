@@ -4,7 +4,7 @@
 #+TITLE: Roasted spaghetti squash
 #+DATE: [2016-03-27]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:29]
-#+FILETAGS: :recipe:basics:vegetarian:dinner:
+#+FILETAGS: :recipes:basics:vegetarian:entree:
 
 | Info      | Amount   |
 |-----------+----------|

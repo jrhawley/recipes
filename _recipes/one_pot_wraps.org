@@ -4,7 +4,7 @@
 #+TITLE: One pot wraps
 #+DATE: [2020-02-22]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:22]
-#+FILETAGS: :recipe:vegetarian:dinner:
+#+FILETAGS: :recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

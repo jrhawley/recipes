@@ -4,7 +4,7 @@
 #+TITLE: Blackberry balsamic chicken salad
 #+DATE: [2019-08-12]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:48]
-#+FILETAGS: :recipe:lunch:dinner:
+#+FILETAGS: :recipes:lunch:entree:
 
 | Info      | Amount     |
 |-----------+------------|

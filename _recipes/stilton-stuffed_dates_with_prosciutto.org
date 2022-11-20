@@ -4,7 +4,7 @@
 #+TITLE: Stilton-stuffed dates with prosciutto
 #+DATE: [2022-09-27 Tue 09:19]
 #+LAST_MODIFIED: [2022-09-27 Tue 09:24]
-#+FILETAGS: :recipe:
+#+FILETAGS: :recipes:
 
 | Info      | Amount |
 |-----------+--------|

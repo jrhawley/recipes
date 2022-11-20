@@ -4,7 +4,7 @@
 #+TITLE: Pot roast
 #+DATE: [2019-03-23]
 #+LAST_MODIFIED: [2022-10-12 Wed 00:37]
-#+FILETAGS: :recipe:slow_cooker:dinner:
+#+FILETAGS: :recipes:slow_cooker:entree:
 
 | Info      | Amount      |
 |-----------+-------------|

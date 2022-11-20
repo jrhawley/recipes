@@ -4,7 +4,7 @@
 #+TITLE: Mustard-glazed pork tenderloin
 #+DATE: [2021-03-28]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:19]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

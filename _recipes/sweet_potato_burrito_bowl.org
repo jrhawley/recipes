@@ -4,7 +4,7 @@
 #+TITLE: Sweet potato burrito bowl
 #+DATE: [2021-03-03]
 #+LAST_MODIFIED: [2022-07-25 Mon 20:24]
-#+FILETAGS: :recipe:dinner:vegan:
+#+FILETAGS: :recipes:entree:vegan:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -4,7 +4,7 @@
 #+TITLE: The 850
 #+DATE: [2022-09-26 Mon 22:59]
 #+LAST_MODIFIED: [2022-09-26 Mon 23:10]
-#+FILETAGS: :alcohol:recipe:beverage:
+#+FILETAGS: :alcohol:recipes:beverage:
 
 | Info      | Amount     |
 |-----------+------------|

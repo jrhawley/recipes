@@ -4,7 +4,7 @@
 #+TITLE: Cod and tangy tartar sauce
 #+DATE: [2013-09-14]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:58]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount   |
 |-----------+----------|

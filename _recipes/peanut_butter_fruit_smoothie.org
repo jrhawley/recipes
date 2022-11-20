@@ -4,7 +4,7 @@
 #+TITLE: Peanut butter fruit smoothie
 #+DATE: [2017-05-28]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:24]
-#+FILETAGS: :recipe:beverage:
+#+FILETAGS: :recipes:beverage:
 
 | Info      | Amount |
 |-----------+--------|

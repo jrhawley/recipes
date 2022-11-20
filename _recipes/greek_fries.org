@@ -4,7 +4,7 @@
 #+TITLE: Greek fries
 #+DATE: [2021-02-26]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:05]
-#+FILETAGS: :recipe:appetizer:
+#+FILETAGS: :recipes:appetizers:
 
 | Info      | Amount     |
 |-----------+------------|

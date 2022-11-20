@@ -4,7 +4,7 @@
 #+TITLE: Smoked salmon and caper spread
 #+DATE: [2022-09-27 Tue 08:57]
 #+LAST_MODIFIED: [2022-09-27 Tue 09:09]
-#+FILETAGS: :recipe:
+#+FILETAGS: :recipes:
 
 | Info      | Amount         |
 |-----------+----------------|

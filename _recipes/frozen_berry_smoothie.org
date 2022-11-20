@@ -4,7 +4,7 @@
 #+TITLE: Frozen berry smoothie
 #+DATE: [2015-07-12]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:02]
-#+FILETAGS: :recipe:beverage:
+#+FILETAGS: :recipes:beverage:
 
 | Info      | Amount     |
 |-----------+------------|

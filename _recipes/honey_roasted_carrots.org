@@ -1,7 +1,7 @@
 #+TITLE: Honey roasted carrots
 #+DATE: [2019-12-07]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:10]
-#+FILETAGS: :recipe:vegetarian:side:
+#+FILETAGS: :recipes:vegetarian:sides:
 
 | Info      | Amount     |
 |-----------+------------|

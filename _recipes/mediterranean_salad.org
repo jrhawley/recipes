@@ -4,7 +4,7 @@
 #+TITLE: Mediterranean salad
 #+DATE: [2017-03-18]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:14]
-#+FILETAGS: :recipe:vegetarian:dinner:
+#+FILETAGS: :recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

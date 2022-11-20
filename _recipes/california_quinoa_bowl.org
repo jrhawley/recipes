@@ -4,7 +4,7 @@
 #+TITLE: California quinoa bowl
 #+DATE: [2022-10-02 Sun 22:53]
 #+LAST_MODIFIED: [2022-10-02 Sun 23:01]
-#+FILETAGS: :entree:recipe:
+#+FILETAGS: :entree:recipes:
 
 | Info      | Amount     |
 |-----------+------------|

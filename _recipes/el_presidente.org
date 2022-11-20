@@ -4,7 +4,7 @@
 #+TITLE: El Presidente
 #+DATE: [2021-02-17]
 #+LAST_MODIFIED: [2022-09-27 Tue 09:37]
-#+FILETAGS: :recipe:alcohol:beverage:
+#+FILETAGS: :recipes:alcohol:beverage:
 
 * Ingredients
 

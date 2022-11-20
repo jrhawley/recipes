@@ -4,7 +4,7 @@
 #+TITLE: French Onion Soup
 #+DATE: [2020-09-22]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:01]
-#+FILETAGS: :recipe:vegetarian:dinner:
+#+FILETAGS: :recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

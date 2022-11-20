@@ -4,7 +4,7 @@
 #+TITLE: Bean medley salad
 #+DATE: [2015-01-17]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:46]
-#+FILETAGS: :recipe:gluten_free:vegetarian:lunch:dinner:
+#+FILETAGS: :recipes:gluten_free:vegetarian:lunch:entree:
 
 | Info      | Amount     |
 |-----------+------------|

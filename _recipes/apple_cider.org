@@ -4,7 +4,7 @@
 #+TITLE: Apple cider
 #+DATE: [2017-10-15]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:44]
-#+FILETAGS: :recipe:beverage:slow_cooker:
+#+FILETAGS: :recipes:beverage:slow_cooker:
 
 | Info      | Amount |
 |-----------+--------|

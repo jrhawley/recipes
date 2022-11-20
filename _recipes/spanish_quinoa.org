@@ -4,7 +4,7 @@
 #+TITLE: Spanish quinoa
 #+DATE: [2020-05-21]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:32]
-#+FILETAGS: :recipe:vegetarian:dinner:
+#+FILETAGS: :recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -4,7 +4,7 @@
 #+TITLE: Pulled pork
 #+DATE: [2017-12-03]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:27]
-#+FILETAGS: :recipe:slow_cooker:dinner:
+#+FILETAGS: :recipes:slow_cooker:entree:
 
 | Info      | Amount     |
 |-----------+------------|

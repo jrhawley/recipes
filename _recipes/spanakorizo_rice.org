@@ -1,10 +1,11 @@
 :PROPERTIES:
 :ID:       51d27afa-5a67-44e4-800e-1762247f2361
+:ROAM_ALIASES: "Spinach rice"
 :END:
 #+TITLE: Spanakorizo rice
 #+DATE: [2020-04-16]
-#+LAST_MODIFIED: [2022-07-29 Fri 13:16]
-#+FILETAGS: :recipe:vegetarian:dinner:
+#+LAST_MODIFIED: [2022-11-09 Wed 12:00]
+#+FILETAGS: :recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

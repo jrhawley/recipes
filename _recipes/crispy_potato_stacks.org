@@ -4,7 +4,7 @@
 #+TITLE: Crispy potato stacks
 #+DATE: [2022-08-21 Sun]
 #+LAST_MODIFIED: [2022-08-21 Sun 10:45]
-#+FILETAGS: :recipe:dinner:vegan:gluten_free:nut_free:soy_free:grain_free:
+#+FILETAGS: :recipes:entree:vegan:gluten_free:nut_free:soy_free:grain_free:
 
 | Info      | Amount     |
 |-----------+------------|

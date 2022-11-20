@@ -4,7 +4,7 @@
 #+TITLE: Greek tortellini salad
 #+DATE: [2017-01-21]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:05]
-#+FILETAGS: :recipe:vegetarian:dinner:
+#+FILETAGS: :recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

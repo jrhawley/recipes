@@ -4,7 +4,7 @@
 #+TITLE: Spicy rice
 #+DATE: [2013-10-15]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:33]
-#+FILETAGS: :recipe:side:dinner:
+#+FILETAGS: :recipes:sides:entree:
 
 | Info      | Amount     |
 |-----------+------------|

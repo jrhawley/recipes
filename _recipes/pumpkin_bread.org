@@ -4,7 +4,7 @@
 #+TITLE: Pumpkin bread
 #+DATE: [2013-09-12]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:27]
-#+FILETAGS: :recipe:
+#+FILETAGS: :recipes:
 
 | Info      | Amount   |
 |-----------+----------|

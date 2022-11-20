@@ -4,7 +4,7 @@
 #+TITLE: Craisin and feta salad
 #+DATE: [2013-10-19]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:58]
-#+FILETAGS: :recipe:vegetarian:dinner:
+#+FILETAGS: :recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

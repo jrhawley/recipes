@@ -4,7 +4,7 @@
 #+TITLE: Floradora
 #+DATE: [2021-07-11]
 #+LAST_MODIFIED: [2022-09-27 Tue 09:37]
-#+FILETAGS: :recipe:beverage:alcohol:
+#+FILETAGS: :recipes:beverage:alcohol:
 
 * Ingredients
 

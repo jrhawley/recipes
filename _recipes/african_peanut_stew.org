@@ -4,7 +4,7 @@
 #+TITLE: African peanut stew
 #+DATE: [2020-01-14]
 #+LAST_MODIFIED: [2022-08-03 Wed 22:16]
-#+FILETAGS: :recipe:vegan:vegetarian:dinner:
+#+FILETAGS: :recipes:vegan:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

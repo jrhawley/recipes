@@ -5,7 +5,7 @@
 #+TITLE: Simple syrup
 #+DATE: [2020-06-03]
 #+LAST_MODIFIED: [2022-09-15 Thu 22:38]
-#+FILETAGS: :recipe:beverage:
+#+FILETAGS: :recipes:beverage:
 
 * Ingredients
 

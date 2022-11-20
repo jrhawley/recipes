@@ -4,7 +4,7 @@
 #+TITLE: Millionaire Shortbread
 #+DATE: [2018-03-30]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:14]
-#+FILETAGS: :recipe:dessert:
+#+FILETAGS: :recipes:dessert:
 
 | Info      | Amount |
 |-----------+--------|

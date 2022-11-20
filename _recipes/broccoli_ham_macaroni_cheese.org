@@ -4,7 +4,7 @@
 #+TITLE: Broccoli, ham, macaroni, and cheese
 #+DATE: [2020-12-19]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:44]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

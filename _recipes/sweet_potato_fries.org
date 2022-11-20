@@ -4,7 +4,7 @@
 #+TITLE: Sweet potato fries
 #+DATE: [2013-09-14]
 #+LAST_MODIFIED: [2022-07-25 Mon 20:24]
-#+FILETAGS: :recipe:basics:dinner:
+#+FILETAGS: :recipes:basics:entree:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -4,7 +4,7 @@
 #+TITLE: No-knead bread
 #+DATE: [2021-03-26]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:21]
-#+FILETAGS: :recipe:bread :baking:
+#+FILETAGS: :recipes:bread :baking:
 
 | Info      | Amount       |
 |-----------+--------------|

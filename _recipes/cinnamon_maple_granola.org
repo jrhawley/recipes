@@ -4,7 +4,7 @@
 #+TITLE: Cinnamon Maple Granola
 #+DATE: [2019-05-21]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:57]
-#+FILETAGS: :recipe:cereal:granola:baking:
+#+FILETAGS: :recipes:cereal:granola:baking:
 
 | Info      | Amount  |
 |-----------+---------|

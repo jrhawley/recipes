@@ -4,7 +4,7 @@
 #+TITLE: Sloppy glows
 #+DATE: [2021-02-08]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:31]
-#+FILETAGS: :recipe:vegan:vegetarian:dinner:
+#+FILETAGS: :recipes:vegan:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

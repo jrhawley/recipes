@@ -1,7 +1,7 @@
 #+TITLE: Hendrick Lamar
 #+DATE: [2022-09-26 Mon 22:59]
 #+LAST_MODIFIED: [2022-09-26 Mon 23:13]
-#+FILETAGS: :alcohol:recipe:beverage:
+#+FILETAGS: :alcohol:recipes:beverage:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -4,7 +4,7 @@
 #+TITLE: Hamburger soup
 #+DATE: [2014-01-02]
 #+LAST_MODIFIED: [2022-10-11 Tue 21:19]
-#+FILETAGS: :recipe:dinner:lunch:
+#+FILETAGS: :recipes:entree:lunch:
 
 | Info      | Amount     |
 |-----------+------------|

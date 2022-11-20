@@ -4,7 +4,7 @@
 #+TITLE: Grilled chicken and panzella
 #+DATE: [2021-08-15]
 #+LAST_MODIFIED: [2022-10-12 Wed 00:36]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

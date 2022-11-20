@@ -4,7 +4,7 @@
 #+TITLE: Sweet potato, black bean, and lime rice bowl
 #+DATE: [2022-03-27]
 #+LAST_MODIFIED: [2022-07-25 Mon 20:23]
-#+FILETAGS: :recipe:dinner:vegetarian:
+#+FILETAGS: :recipes:entree:vegetarian:
 
 | Info      | Amount     |
 |-----------+------------|

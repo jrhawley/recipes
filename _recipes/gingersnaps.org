@@ -4,7 +4,7 @@
 #+TITLE: Gingersnaps
 #+DATE: [2018-12-18]
 #+LAST_MODIFIED: [2022-10-11 Tue 21:14]
-#+FILETAGS: :recipe:dessert:
+#+FILETAGS: :recipes:dessert:
 
 | Info      | Amount     |
 |-----------+------------|

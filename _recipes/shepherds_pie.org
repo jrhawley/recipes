@@ -4,7 +4,7 @@
 #+TITLE: Shepherd's pie
 #+DATE: [2020-11-08]
 #+LAST_MODIFIED: [2022-10-11 Tue 21:18]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

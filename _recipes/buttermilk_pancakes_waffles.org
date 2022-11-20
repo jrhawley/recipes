@@ -1,10 +1,11 @@
 :PROPERTIES:
 :ID:       cb656b8d-7f89-49bb-9f11-f47d3ab01cfe
+:ROAM_ALIASES: Waffles Pancakes
 :END:
 #+TITLE: Buttermilk pancakes and waffles
 #+DATE: [2011-09-01]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:49]
-#+FILETAGS: :recipe:breakfast:
+#+LAST_MODIFIED: [2022-11-09 Wed 11:53]
+#+FILETAGS: :recipes:breakfast:
 
 | Info      | Amount                        |
 |-----------+-------------------------------|

@@ -4,7 +4,7 @@
 #+TITLE: Custard and Berry Cake
 #+DATE: [2013-09-22]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:00]
-#+FILETAGS: :recipe:dessert:
+#+FILETAGS: :recipes:dessert:
 
 | Info      | Amount |
 |-----------+--------|

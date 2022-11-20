@@ -4,7 +4,7 @@
 #+TITLE: Maple cranberry chicken
 #+DATE: [2020-12-07]
 #+LAST_MODIFIED: [2022-10-07 Fri 13:37]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

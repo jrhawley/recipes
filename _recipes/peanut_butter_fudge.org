@@ -4,7 +4,7 @@
 #+TITLE: Peanut Butter Fudge
 #+DATE: [2014-04-24]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:24]
-#+FILETAGS: :recipe:dessert:
+#+FILETAGS: :recipes:dessert:
 
 | Info      | Amount |
 |-----------+--------|

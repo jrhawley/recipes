@@ -4,7 +4,7 @@
 #+TITLE: Shallow-fried beer-battered fish and chips
 #+DATE: [2020-04-26]
 #+LAST_MODIFIED: [2022-10-12 Wed 00:37]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount   |
 |-----------+----------|

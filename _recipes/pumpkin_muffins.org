@@ -4,7 +4,7 @@
 #+TITLE: Pumpkin muffins
 #+DATE: [2013-11-09]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:28]
-#+FILETAGS: :recipe:muffins :pumpkin :baking:
+#+FILETAGS: :recipes:muffins :pumpkin :baking:
 
 | Info      | Amount     |
 |-----------+------------|

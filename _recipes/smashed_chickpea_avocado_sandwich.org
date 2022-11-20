@@ -4,7 +4,7 @@
 #+TITLE: Smashed chickpea avocado sandwich
 #+DATE: [2019-12-07]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:31]
-#+FILETAGS: :recipe:vegetarian:lunch:dinner:
+#+FILETAGS: :recipes:vegetarian:lunch:entree:
 
 | Info      | Amount       |
 |-----------+--------------|

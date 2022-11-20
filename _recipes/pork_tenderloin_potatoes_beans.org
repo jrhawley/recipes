@@ -4,7 +4,7 @@
 #+TITLE: Brown sugar pork tenderloin, potatoes, and carrots
 #+DATE: [2021-03-01]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:26]
-#+FILETAGS: :recipe:dinner:slow_cooker:
+#+FILETAGS: :recipes:entree:slow_cooker:
 
 | Info      | Amount     |
 |-----------+------------|

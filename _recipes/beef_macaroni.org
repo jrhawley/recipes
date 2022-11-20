@@ -4,7 +4,7 @@
 #+TITLE: Beef macaroni
 #+DATE: [2020-12-19]
 #+LAST_MODIFIED: [2022-10-11 Tue 21:19]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

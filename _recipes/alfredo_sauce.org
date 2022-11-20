@@ -4,7 +4,7 @@
 #+TITLE: Alfredo sauce
 #+DATE: [2013-09-14]
 #+LAST_MODIFIED: [2022-08-03 Wed 22:23]
-#+FILETAGS: :recipe:sauce:
+#+FILETAGS: :recipes:sauce:
 
 | Info      | Amount                    |
 |-----------+---------------------------|

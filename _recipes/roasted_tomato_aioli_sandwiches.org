@@ -4,7 +4,7 @@
 #+TITLE: Roasted tomato aioli sandwiches
 #+DATE: [2020-05-21]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:29]
-#+FILETAGS: :recipe:vegetarian:lunch:dinner:
+#+FILETAGS: :recipes:vegetarian:lunch:entree:
 
 | Info      | Amount       |
 |-----------+--------------|

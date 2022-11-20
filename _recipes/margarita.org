@@ -4,7 +4,7 @@
 #+TITLE: Margarita
 #+DATE: [2022-03-13]
 #+LAST_MODIFIED: [2022-09-27 Tue 09:36]
-#+FILETAGS: :recipe:alcohol:beverage:
+#+FILETAGS: :recipes:alcohol:beverage:
 
 * Ingredients
 

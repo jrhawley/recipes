@@ -4,7 +4,7 @@
 #+TITLE: Crispy salmon
 #+DATE: [2022-03-12]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:00]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

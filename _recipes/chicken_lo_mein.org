@@ -4,7 +4,7 @@
 #+TITLE: Chicken lo mein
 #+DATE: [2020-01-15]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:53]
-#+FILETAGS: :recipe:slow_cooker:dinner:
+#+FILETAGS: :recipes:slow_cooker:entree:
 
 | Info      | Amount |
 |-----------+--------|

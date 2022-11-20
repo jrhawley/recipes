@@ -4,7 +4,7 @@
 #+TITLE: Steak
 #+DATE: [2016-12-18]
 #+LAST_MODIFIED: [2022-10-12 Wed 00:37]
-#+FILETAGS: :recipe:basics:dinner:
+#+FILETAGS: :recipes:basics:entree:
 
 | Info      | Amount   |
 |-----------+----------|

@@ -4,7 +4,7 @@
 #+TITLE: Pomegranate chicken and roasted acorn squash
 #+DATE: [2021-12-08]
 #+LAST_MODIFIED: [2022-10-02 Sun 10:41]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -4,7 +4,7 @@
 #+TITLE: Basil and tomato orzo
 #+DATE: [2017-05-28]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:46]
-#+FILETAGS: :recipe:vegetarian:lunch:dinner:
+#+FILETAGS: :recipes:vegetarian:lunch:entree:
 
 | Info      | Amount     |
 |-----------+------------|

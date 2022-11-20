@@ -4,7 +4,7 @@
 #+TITLE: Whiskey sour
 #+DATE: [2020-05-18]
 #+LAST_MODIFIED: [2022-10-12 Wed 00:32]
-#+FILETAGS: :recipe:alcohol:beverage:
+#+FILETAGS: :recipes:alcohol:beverage:
 
 * Ingredients
 

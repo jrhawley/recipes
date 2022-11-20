@@ -1,7 +1,7 @@
 #+TITLE: Cinnamon simple syrup
 #+DATE: [2022-10-04 Tue 12:35]
 #+LAST_MODIFIED: [2022-10-04 Tue 12:51]
-#+FILETAGS: :recipe:beverage:
+#+FILETAGS: :recipes:beverage:
 
 | Info      | Amount   |
 |-----------+----------|

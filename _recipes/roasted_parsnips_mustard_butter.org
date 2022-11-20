@@ -4,7 +4,7 @@
 #+TITLE: Roasted parsnips & mustard butter
 #+DATE: [2022-10-01 Sat 01:07]
 #+LAST_MODIFIED: [2022-10-01 Sat 01:15]
-#+FILETAGS: :sides:recipe:
+#+FILETAGS: :sides:recipes:
 
 | Info      | Amount  |
 |-----------+---------|

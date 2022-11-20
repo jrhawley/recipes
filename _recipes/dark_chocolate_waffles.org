@@ -4,7 +4,7 @@
 #+TITLE: Dark Chocolate Waffles
 #+DATE: [2017-01-22]
 #+LAST_MODIFIED: [2022-07-25 Mon 09:00]
-#+FILETAGS: :recipe:breakfast:
+#+FILETAGS: :recipes:breakfast:
 
 | Info      | Amount     |
 |-----------+------------|

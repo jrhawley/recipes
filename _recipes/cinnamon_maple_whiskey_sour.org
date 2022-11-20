@@ -4,7 +4,7 @@
 #+TITLE: Cinnamon maple whiskey sour
 #+DATE: [2020-10-09]
 #+LAST_MODIFIED: [2022-10-12 Wed 00:33]
-#+FILETAGS: :recipe:alcohol:beverage:
+#+FILETAGS: :recipes:alcohol:beverage:
 
 #+CAPTION: Cinnamon maple whiskey sour
 [[../_assets/cinnamon-maple-whiskey-sour.jpg]]

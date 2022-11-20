@@ -5,7 +5,7 @@
 #+TITLE: Pasta al ragu
 #+DATE: [2020-11-01]
 #+LAST_MODIFIED: [2022-10-11 Tue 21:19]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

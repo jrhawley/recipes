@@ -4,7 +4,7 @@
 #+TITLE: Lynchburg lemonade
 #+DATE: [2022-03-13]
 #+LAST_MODIFIED: [2022-10-12 Wed 00:36]
-#+FILETAGS: :recipe:alcohol:beverage:
+#+FILETAGS: :recipes:alcohol:beverage:
 
 * Ingredients
 

@@ -4,7 +4,7 @@
 #+TITLE: Gin fizz
 #+DATE: [2020-12-19]
 #+LAST_MODIFIED: [2022-10-12 Wed 00:36]
-#+FILETAGS: :recipe:alcohol:beverage:
+#+FILETAGS: :recipes:alcohol:beverage:
 
 | Info      | Amount     |
 |-----------+------------|

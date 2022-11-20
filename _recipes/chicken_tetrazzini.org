@@ -4,7 +4,7 @@
 #+TITLE: Chicken tetrazzini
 #+DATE: [2020-09-09]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:54]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount         |
 |-----------+----------------|

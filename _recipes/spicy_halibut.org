@@ -4,7 +4,7 @@
 #+TITLE: Spicy halibut
 #+DATE: [2013-09-15]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:33]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount   |
 |-----------+----------|

@@ -4,7 +4,7 @@
 #+TITLE: Chicken lettuce wraps
 #+DATE: [2020-01-15]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:52]
-#+FILETAGS: :recipe:dinner:
+#+FILETAGS: :recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

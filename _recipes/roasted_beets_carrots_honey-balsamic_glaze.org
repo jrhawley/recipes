@@ -4,7 +4,7 @@
 #+TITLE: Roasted beets and carrots with honey-balsamic glaze
 #+DATE: [2022-10-02 Sun 10:13]
 #+LAST_MODIFIED: [2022-10-02 Sun 23:06]
-#+FILETAGS: :recipe:
+#+FILETAGS: :recipes:
 
 | Info      | Amount     |
 |-----------+------------|

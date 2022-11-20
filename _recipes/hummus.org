@@ -1,10 +1,11 @@
 :PROPERTIES:
 :ID:       83987201-cfd8-4d53-a7c0-bba0f561beed
+:ROAM_ALIASES: hummus
 :END:
 #+TITLE: Hummus
 #+DATE: [2022-07-25 Mon]
-#+LAST_MODIFIED: [2022-09-12 Mon 18:49]
-#+FILETAGS: :recipe:side:
+#+LAST_MODIFIED: [2022-11-16 Wed 15:01]
+#+FILETAGS: :recipes:sides:
 
 | Info      | Amount |
 |-----------+--------|

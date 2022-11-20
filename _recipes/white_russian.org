@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       071b12f6-53a0-47ef-b1a8-6821f49d1e6a
+:END:
+#+TITLE: White Russian
+#+DATE: [2022-11-12 Sat 22:56]
+#+LAST_MODIFIED: [2022-11-12 Sat 23:07]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 2 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item           |
+  |----------+----------------|
+  | 4/3 oz   | [[id:4afa8dad-f20f-409e-a016-7f119bafbace][vodka]]          |
+  | 2/3 oz   | [[id:2e53af8d-dae7-4ebb-9722-963c8c831bb8][Kahlua]]         |
+  | 2/3 oz   | [[id:eaf54217-f528-4d72-b1b1-4efff76983ae][whipping cream]] |
+
+* Directions
+
+  1. Pour vodka and kahlua into a rocks glass filled with ice and mix.
+  2. Slowly pour the cream on top and garnish with nutmeg, if desired.
+
+* References & Notes
+
+  1. Original recipe: The Periodic Table of Cocktails

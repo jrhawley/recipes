@@ -5,7 +5,7 @@
 #+TITLE: Spiced honey syrup
 #+DATE: [2022-09-15 Thu 22:14]
 #+LAST_MODIFIED: [2022-09-15 Thu 22:22]
-#+FILETAGS: :recipe:beverage:
+#+FILETAGS: :recipes:beverage:
 
 | Info      | Amount           |
 |-----------+------------------|

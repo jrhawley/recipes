@@ -4,7 +4,7 @@
 #+TITLE: Lentil soup
 #+DATE: [2021-02-27]
 #+LAST_MODIFIED: [2022-07-25 Mon 18:12]
-#+FILETAGS: :recipe:dinner:slow_cooker:
+#+FILETAGS: :recipes:entree:slow_cooker:
 
 | Info      | Amount |
 |-----------+--------|

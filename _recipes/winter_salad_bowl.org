@@ -1,10 +1,11 @@
 :PROPERTIES:
 :ID:       cb342e91-5721-4c90-af1d-48af98536955
+:ROAM_ALIASES: "Winter roasted quinoa bowl"
 :END:
 #+TITLE: Winter salad bowl
 #+DATE: [2020-02-01]
-#+LAST_MODIFIED: [2022-07-25 Mon 20:26]
-#+FILETAGS: :recipe:vegetarian:vegan:dinner:
+#+LAST_MODIFIED: [2022-10-16 Sun 14:46]
+#+FILETAGS: :recipes:vegetarian:vegan:entree:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -34,7 +35,7 @@
 
 | Quantity | Item             |
 |----------+------------------|
-| 1/4 cup  | [[id:41605fe1-8b95-41a2-9031-1bfe668a46cf][red-wine-vinegar]] |
+| 1/4 cup  | [[id:41605fe1-8b95-41a2-9031-1bfe668a46cf][red wine vinegar]] |
 | 1/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]        |
 | 2 tsp    | [[id:00a48416-bb29-468a-9498-dacf8e0491ba][dijon mustard]]    |
 | 1 Tbsp   | [[id:716dd7d0-46db-4224-9391-75b5eaad5cfd][maple syrup]]      |

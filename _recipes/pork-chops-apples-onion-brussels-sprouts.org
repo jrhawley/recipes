@@ -4,7 +4,7 @@
 #+TITLE: Pork chops, apples, and onion with Brussels sprouts
 #+DATE: [2022-09-19 Mon 16:31]
 #+LAST_MODIFIED: [2022-09-19 Mon 16:36]
-#+FILETAGS: :dinner:recipe:
+#+FILETAGS: :entree:recipes:
 
 | Info      | Amount     |
 |-----------+------------|

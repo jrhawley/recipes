@@ -4,7 +4,7 @@
 #+TITLE: Birthday doughnuts
 #+DATE: [2021-06-16]
 #+LAST_MODIFIED: [2022-07-25 Mon 08:47]
-#+FILETAGS: :recipe:doughnuts:dessert:
+#+FILETAGS: :recipes:doughnuts:dessert:
 
 | Info      | Amount      |
 |-----------+-------------|
