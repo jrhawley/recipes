@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       cc3dd554-76f5-4cee-b7ce-0e468fe5e375
+:ROAM_ALIASES: Toronto
+:END:
+#+TITLE: Toronto (cocktail)
+#+DATE: [2022-11-19 Sat 19:44]
+#+LAST_MODIFIED: [2022-11-19 Sat 19:52]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 2 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item              |
+  |----------+-------------------|
+  | 2 oz     | [[id:596b10a7-d46b-4a28-8339-d5dab462590a][rye whiskey]]       |
+  | 1/4 oz   | [[id:b5725c98-7bac-4603-94bb-c9638ba59558][Fernet-Branca]]     |
+  | 1/4 oz   | [[id:75f762b8-3f89-47ac-bde8-284a3506cd74][simple syrup]]      |
+  | 2 dashes | [[id:0ec50573-a2d4-4421-b07c-d43736a9a586][Angostura bitters]] |
+
+* Directions
+
+  1. Pour all ingredients into a mixing glass with ice. Stir until chilled.
+  2. Strain into a coupe glass and garnish with an orange twist.
+
+* References & Notes
+
+  1. Original recipe: [[https://www.liquor.com/recipes/toronto/][Liquor.com]]
+

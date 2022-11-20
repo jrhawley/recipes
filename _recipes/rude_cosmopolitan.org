@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       97ee542c-a8da-42c5-8532-c552ae4c97b9
+:END:
+#+TITLE: Rude Cosmopolitan
+#+DATE: [2022-11-12 Sat 23:25]
+#+LAST_MODIFIED: [2022-11-12 Sat 23:28]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 2 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item            |
+  |----------+-----------------|
+  | 1 oz     | [[id:1cc52ced-0115-42f9-9fe7-6ad85fc3d3ca][tequila]]         |
+  | 1/2 oz   | [[id:0abff3a4-882b-4b60-a2f1-598710047b2f][Triple Sec]]      |
+  | 1/2 oz   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]      |
+  | 1 oz     | [[id:fa7b1423-d495-4466-ba80-f3685503543e][cranberry juice]] |
+
+* Directions
+
+  1.
+
+* References & Notes
+

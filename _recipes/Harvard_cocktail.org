@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       2aa36757-92a7-45ce-bcec-0c280c2d3dea
+:END:
+#+TITLE: Harvard
+#+DATE: [2022-11-13 Sun 00:19]
+#+LAST_MODIFIED: [2022-11-13 Sun 00:24]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 2 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item              |
+  |----------+-------------------|
+  | 2 oz     | cognac            |
+  | 2/3 oz   | [[id:ec26d28e-ecb1-47a1-8e35-75a5ef125b1d][sweet vermouth]]    |
+  | 2 dashes | [[id:0ec50573-a2d4-4421-b07c-d43736a9a586][Angostura bitters]] |
+  | 3 oz     | soda water        |
+
+* Directions
+
+  1. Fill a mixing glass with ice, pour cognac, vermouth, and bitters until chilled.
+  2. Strain into a chilled cocktail glass and top with 3 oz of soda water.
+  3. Garnish with an orange peel.
+
+* References & Notes
+
+  1. Original recipe: The Periodic Table of Cocktails
+

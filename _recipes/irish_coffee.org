@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       e41b05e6-a985-4fd8-b28f-877000af7d68
+:END:
+#+TITLE: Irish coffee
+#+DATE: [2022-11-12 Sat 23:42]
+#+LAST_MODIFIED: [2022-11-12 Sat 23:51]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item           |
+  |----------+----------------|
+  | 2 oz     | Irish whiskey  |
+  | 1 oz     | [[id:75f762b8-3f89-47ac-bde8-284a3506cd74][simple syrup]]   |
+  |          | coffee         |
+  |          | [[id:eaf54217-f528-4d72-b1b1-4efff76983ae][whipping cream]] |
+
+* Directions
+
+  1. Brew the fresh coffee using your preferred method.
+  2. Just before the coffee is finished brewing, pour some hot water into a mug to heat it.
+	 - Rinse the water around the mug to heat evenly, then pour it out.
+  3. Add the whiskey and simple syrup, then fill the mug to 3/4 full with coffee.
+  4. Pour the whipping cream in a cocktail shaker witout ice and lightly shake it.
+  5. Float the cream on the drink by placing a spoon just under the surface and slowly pouring the lightly whipped cream into it.
+	 - Gently remove the spoon without stirring.
+
+* References & Notes
+
+  1. Original recipe: The Periodic Table of Cocktails

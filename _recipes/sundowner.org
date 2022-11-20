@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       84a01ada-7025-481b-aaeb-d2fc3d3fd5ed
+:END:
+#+TITLE: Sundowner
+#+DATE: [2022-11-13 Sun 00:30]
+#+LAST_MODIFIED: [2022-11-13 Sun 00:37]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 2 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item          |
+  |----------+---------------|
+  | 5/3 oz   | cognac        |
+  | 1/2 oz   | [[id:137350f2-a7e8-4aea-b171-9fb8889ea1f0][Grand Marnier]] |
+  | 1/2 oz   | [[id:f7a7c38b-0afe-4fce-9d30-49540dcf2035][orange juice]]  |
+  | 1/2 oz   | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]   |
+  | 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon wheel]]   |
+
+* Directions
+
+  1. Add all ingredients to a cocktail shaker and shake hard.
+  2. Strain into a chilled coupe glass and garnish with a lemon wedge or wheel.
+
+* References & Notes
+
+  1. Original recipe: The Periodic Table of Cocktails
+

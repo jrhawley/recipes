@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       fcc78e85-368c-4d0c-86f9-c57178f6568c
+:END:
+#+TITLE: Rob Roy
+#+DATE: [2022-11-12 Sat 23:58]
+#+LAST_MODIFIED: [2022-11-13 Sun 00:06]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 2 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item              |
+  |----------+-------------------|
+  | 2 oz     | Scotch whiskey    |
+  | 2/3 oz   | [[id:ec26d28e-ecb1-47a1-8e35-75a5ef125b1d][sweet vermouth]]    |
+  | 2 dashes | [[id:0ec50573-a2d4-4421-b07c-d43736a9a586][Angostura bitters]] |
+
+* Directions
+
+  1. Fill a mixing glass with ice, add all ingredients, and stir until chilled.
+  2. Strain into a chilled cocktail glass and garnish with a maraschino cherry.
+
+* References & Notes
+
+  1. Original recipe: The Periodic Table of Cocktails

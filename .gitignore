@@ -4,3 +4,4 @@ docs/.gitattributes
 *~
 .obsidian/
 .DS_Store
+_site
