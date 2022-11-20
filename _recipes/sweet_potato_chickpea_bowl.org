@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       77c3113b-a3ac-4293-b915-faafa2336fc5
+:END:
+#+TITLE: Sweet potato chickpea bowl
+#+DATE: [2022-11-12 Sat 21:44]
+#+LAST_MODIFIED: [2022-11-12 Sat 21:53]
+#+FILETAGS: :entree:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 15 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item           |
+  |----------+----------------|
+  |    1 cup | [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]]         |
+  |        2 | [[id:8f199dec-d073-44dc-9225-a8b2d33c1bd2][sweet potatoes]] |
+  |        1 | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]]      |
+  |    15 oz | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]]      |
+  |        2 | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocadoes]]      |
+
+* Directions
+
+  1.
+
+* References & Notes
+

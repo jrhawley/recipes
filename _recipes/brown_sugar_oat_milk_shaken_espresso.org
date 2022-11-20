@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       162A6A0B-B4E9-4821-8D61-A1066B7313D9
+:END:
+
+#+TITLE: Brown sugar oat milk shaken espresso
+#+DATE: [2022-11-16 Wed 14:57]
+#+LAST_MODIFIED: [2022-11-16 Wed 15:00]
+#+FILETAGS: :coffee:recipes:beverage:
+
+| Info      | Amount  |
+|-----------+---------|
+| Prep Time | 5 min   |
+| Cook Time | 0 min   |
+| Yields    | 1 drink |
+
+* Ingredients
+
+  | Quantity | Item                       |
+  |----------+----------------------------|
+  | 3/2 Tbsp | [[id:75f762b8-3f89-47ac-bde8-284a3506cd74][brown sugar simple syrup]]   |
+  | 1 oz     | espresso                   |
+  | 4 oz     | [[id:93f1e75b-991b-4ed7-8a88-855fac22f8c4][oat milk]]                   |
+  |          | [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][ground cinnamon]] (optional) |
+
+* Directions
+
+  1. Pour brown sugar simple syrup and espresso in a cocktail shaker with ice and shake vigorously.
+  2. Strain into a highball glass with ice.
+  3. Top with oat milk and garnish with a sprinkle of cinnamon.
+
+* References & Notes
+
+  1. Original recipe: [[https://sugarandsoul.co/wprm_print/53887][Sugar&Soul]]
+  2. Starbucks: [[https://www.starbucks.com/menu/product/2123431/iced?parent=%2Fdrinks%2Fcold-coffees%2Ficed-shaken-espresso][Iced brown sugar oat milk shaken espresso]]
+

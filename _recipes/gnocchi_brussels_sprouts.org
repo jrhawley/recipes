@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       749d6fbe-8e77-4e23-bf06-3c1eb1f2eeb1
+:END:
+#+TITLE: Gnocchi and Brussels sprouts
+#+DATE: [2022-11-12 Sat 22:25]
+#+LAST_MODIFIED: [2022-11-12 Sat 22:55]
+#+FILETAGS: :recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 15 min     |
+| Yields    | 2 servings |
+
+* Ingredients
+
+  | Quantity | Item              |
+  |----------+-------------------|
+  | 16 oz    | [[id:9fe71d5b-9abd-4ca2-94fe-7a824fa96383][Brussels sprouts]]  |
+  | 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]]             |
+  | 4 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]         |
+  | 1/2 tsp  | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]] |
+  | 18 oz    | [[id:5c4a5548-b5e7-4b9e-86ba-8915143c1c56][gnocchi]]           |
+  | 3 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]            |
+  | 1/2 tsp  | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]             |
+  |          | [[id:08ead7d8-5abe-4541-b18f-b68d991083a0][parmesan]]          |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]       |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]      |
+
+* Directions
+
+  1. Trim and halve the Brussels sprouts and zest the lemon.
+  2. In a large skillet, heat 3 Tbsp of olive oil over medium-high heat.
+	 - Add the Brussels sprouts, season with salt and pepper
+	 - Sprinkle lemon zest over the top, cook until sprouts are browned.
+	 - Transfer to a medium bowl.
+  3. Heat remaining olive oil over medium-high heat.
+	 - Break up any gnocchi that are stuck together and add to the pan.
+	 - Cook until slight brown on one side.
+	 - Add butter and honey, season with salt and pepper, and cook for another 1 - 2 min.
+  4. Add Brussels sprouts to the pan, then grate parmesan when serving.
+
+* References & Notes
+
+  1. Original recipe: [[https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter][NYT Cooking]]
+

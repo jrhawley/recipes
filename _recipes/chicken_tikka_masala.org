@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       e7608069-bc4f-4efe-a4cb-74b46e695f8a
+:END:
+#+TITLE: Chicken tikka masala
+#+DATE: [2022-11-12 Sat 21:25]
+#+LAST_MODIFIED: [2022-11-12 Sat 21:42]
+#+FILETAGS: :entree:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 15 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item               |
+  |----------+--------------------|
+  | 1 cup    | [[id:9b67d62e-13d2-46e0-9366-196393f90028][basmati rice]]       |
+  | 2        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]    |
+  | 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][white onion]], diced |
+  | 2        | [[id:3bff7e0c-815d-44cd-ae7b-296924ca59b0][carrots]], diced     |
+  | 15 oz    | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]]          |
+  | 400 mL   | [[id:760cc4e5-5cf7-4186-b7ef-79c2bc7ae2f9][Tikka masala sauce]] |
+  |          | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]          |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]        |
+
+* Directions
+
+  1. Cook the rice according to instructions.
+  2. While rice is cooking, heat olive oil and salt over medium-high heat in a large saucepan.
+	 - If using frozen chicken, cook until sealed, then place on a cutting board
+  3. Sautee the diced onion.
+	 - When soft, add diced carrots.
+  4. Add diced chicken and cook until sealed.
+  5. Reduce heat, pour in tikka masala sauce, and add chickpeas.
+	 - Cover and simmer for 10 min, stirring occasionally.
+  6. When rice has finished cooking, remove saucepan from heat and allow both to cool for a few minutes.
+  7. Plate rice and spoon chicken, vegetables, and tikka masala over rice.
+	   
+* References & Notes
+

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       95906D79-0D6E-4B3B-AC0C-0E00DC444583
+:END:
+#+TITLE: Tartar sauce
+#+DATE: [2022-10-17 Mon 12:28]
+#+LAST_MODIFIED: [2022-10-17 Mon 12:36]
+#+FILETAGS: :sauce:recipes:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 10 min |
+| Cook Time | 0 min |
+| Yields    | 2 cups |
+
+* Ingredients
+
+  | Quantity | Item                |
+  |----------+---------------------|
+  | 1        | [[id:7b7e13cf-0fb9-4dc6-a707-94bfd73417b2][shallot]]             |
+  | 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]              |
+  | 1 cup    | [[id:9dddf4a5-99df-4431-89f5-751dc7c04029][mayo]]                |
+  | 2 Tbsp   | [[id:e27d44f2-b9a3-4b4e-a4c3-c7aef4e94019][capers]]              |
+  | 1 Tbsp   | [[id:4a640bfd-1c57-4159-af05-12f6dfc43346][chives]]              |
+  | 1 Tbsp   | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]             |
+  | 1 Tbsp   | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]         |
+  | 1 tsp    | [[id:00a48416-bb29-468a-9498-dacf8e0491ba][Dijon mustard]]       |
+  | 1 tsp    | [[id:ac8ab019-7fa2-44f7-9cd7-4f9b64b41cbd][whole grain mustard]] |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]         |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]        |
+
+* Directions
+
+  1. Finely chop the shallot, capers, chives, and parsley and grate the garlic.
+  2. Whisk together all ingredients in a medium bowl and season with salt and pepper.
+
+* References & Notes
+
+  1. Original recipe: [[https://www.bonappetit.com/recipe/classic-tartar-sauce][Bon Appetit]]
+  2. Can last in the fridge, covered, for 1 week.
+
