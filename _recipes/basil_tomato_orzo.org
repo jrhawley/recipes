@@ -14,27 +14,27 @@
 
 * Ingredients
 
-| Quantity | Item                     |
-|----------+--------------------------|
-| 2 cups   | [[id:c3b39e8a-9df8-4f90-999e-7f888278d52e][orzo]], uncooked           |
-| 25       | fresh [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]] leaves       |
-| 1 Tbsp   | [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]] leaves           |
-| 1        | [[id:7b7e13cf-0fb9-4dc6-a707-94bfd73417b2][shallot]]                  |
-| 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced           |
-| 1/3 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                |
-| 1 tsp    | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                    |
-| 1 Tbsp   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                    |
-| 1 cup    | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][cherry tomatoes]], halved  |
-| 1 cup    | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated         |
-| 5        | [[id:03c1357c-225f-455d-af1f-86c11d3eafb9][mint]] leaves, chopped     |
-| 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]], zested and juiced |
-|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]              |
+  | Quantity | Item                     |
+  |----------+--------------------------|
+  | 2 cups   | [[id:c3b39e8a-9df8-4f90-999e-7f888278d52e][orzo]], uncooked           |
+  | 25       | fresh [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]] leaves       |
+  | 1 Tbsp   | [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]] leaves           |
+  | 1        | [[id:7b7e13cf-0fb9-4dc6-a707-94bfd73417b2][shallot]]                  |
+  | 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced           |
+  | 1/3 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                |
+  | 1 tsp    | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                    |
+  | 1 Tbsp   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                    |
+  | 1 cup    | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][cherry tomatoes]], halved  |
+  | 1 cup    | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated         |
+  | 5        | [[id:03c1357c-225f-455d-af1f-86c11d3eafb9][mint]] leaves, chopped     |
+  | 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]], zested and juiced |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]              |
 
 * Directions
 
-1. Cook orzo pasta according to package directions. Set aside.
-2. Place basil leaves, shallot, garlic, oil, lemon zest and juice, honey and salt in a blender with water and give it a whiz until blended.
-3. Mix dressing into pasta
-   - Stir in cherry tomatoes and Parmesan
-   - Garnish with fresh chopped mint
+  1. Cook orzo pasta according to package directions. Set aside.
+  2. Place basil leaves, shallot, garlic, oil, lemon zest and juice, honey and salt in a blender with water and give it a whiz until blended.
+  3. Mix dressing into pasta
+     - Stir in cherry tomatoes and Parmesan
+     - Garnish with fresh chopped mint
 

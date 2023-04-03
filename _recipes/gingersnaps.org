@@ -17,29 +17,29 @@
 
 * Ingredients
 
-| Quantity | Item                    |
-|----------+-------------------------|
-| 1 cup    | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]                   |
-| 3/4 cup  | [[id:2da7b183-9139-4ba6-9578-3d55c818b151][shortening]]              |
-| 1/4 cup  | Crosby's fancy [[id:48c198d6-bee2-40ed-8f99-749446ada8a3][molasses]] |
-| 1        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]]                     |
-| 2 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                   |
-| 2 tsp    | [[id:3977eee0-56ec-42eb-af6c-6b31a703c1f6][baking soda]]             |
-| 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]              |
-| 1/2 tsp  | [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][cinnamon]]                |
-| 1/4 tsp  | ground [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][cloves]]           |
-| 1/4 tsp  | ground [[id:5650869d-ec01-477c-ba1b-7b2a830a5c9e][ginger]]           |
+  | Quantity | Item                    |
+  |----------+-------------------------|
+  | 1 cup    | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]                   |
+  | 3/4 cup  | [[id:2da7b183-9139-4ba6-9578-3d55c818b151][shortening]]              |
+  | 1/4 cup  | Crosby's fancy [[id:48c198d6-bee2-40ed-8f99-749446ada8a3][molasses]] |
+  | 1        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]]                     |
+  | 2 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                   |
+  | 2 tsp    | [[id:3977eee0-56ec-42eb-af6c-6b31a703c1f6][baking soda]]             |
+  | 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]              |
+  | 1/2 tsp  | [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][cinnamon]]                |
+  | 1/4 tsp  | ground [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][cloves]]           |
+  | 1/4 tsp  | ground [[id:5650869d-ec01-477c-ba1b-7b2a830a5c9e][ginger]]           |
 
 * Directions
 
-1. Grease cookies sheets
-2. In large bowl, combine sugar, shortening, molasses, and egg, blending well
-3. Mix remaining ingredients together in a smaller bowl
-   1. Blend with creamed mixture
-   2. If desired, chill dough for easier handling
-4. Shape into 1" balls
-   3. Roll each in white sugar, if desired
-   4. Place 2" apart on cookie sheet
-   5. Press down lightly with a wet fork
-5. Bake for 10 min at 350 F or until edges are set
-   6. Let sit on cookie sheet for 5 min before removing to cool on rack
+  1. Grease cookies sheets
+  2. In large bowl, combine sugar, shortening, molasses, and egg, blending well
+  3. Mix remaining ingredients together in a smaller bowl
+	 1. Blend with creamed mixture
+	 2. If desired, chill dough for easier handling
+  4. Shape into 1" balls
+	 3. Roll each in white sugar, if desired
+	 4. Place 2" apart on cookie sheet
+	 5. Press down lightly with a wet fork
+  5. Bake for 10 min at 350 F or until edges are set
+	 6. Let sit on cookie sheet for 5 min before removing to cool on rack

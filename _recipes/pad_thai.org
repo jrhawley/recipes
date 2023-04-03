@@ -14,38 +14,38 @@
 
 * Ingredients
 
-| Quantity | Item              |
-|----------+-------------------|
-| 2 tsp    | [[id:92f76561-b1b0-49c0-8411-3f5aa86bba23][fish sauce]]        |
-| 2 Tbsp   | [[id:3d5af97e-e0c3-4886-b87f-91ac6d5206e4][oyster sauce]]      |
-| 2 Tbsp   | [[id:6594dbcb-ac42-4c68-a9f9-c1ba749b408a][vegetable oil]]     |
-| 1 tsp    | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]             |
-| 1 lb     | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]   |
-| 1 pkg    | [[id:57f12c91-bafd-4f86-a466-73d71df0fb09][rice noodles]]      |
-| 1        | [[id:3eeb40b4-7420-4c99-8a55-6c3e0193dfaa][lime]]              |
-| 1/2 cup  | [[id:dfc24138-2ce4-491f-a29e-da741b9c77fb][peanuts]], chopped  |
-| 1/2 cup  | [[id:9320e08a-476d-4306-8bb2-44f40dafc600][bean sprouts]]      |
-| 1/4 cup  | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrots]], shredded |
-| 2        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][eggs]]              |
+  | Quantity | Item              |
+  |----------+-------------------|
+  | 2 tsp    | [[id:92f76561-b1b0-49c0-8411-3f5aa86bba23][fish sauce]]        |
+  | 2 Tbsp   | [[id:3d5af97e-e0c3-4886-b87f-91ac6d5206e4][oyster sauce]]      |
+  | 2 Tbsp   | [[id:6594dbcb-ac42-4c68-a9f9-c1ba749b408a][vegetable oil]]     |
+  | 1 tsp    | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]             |
+  | 1 lb     | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]   |
+  | 1 pkg    | [[id:57f12c91-bafd-4f86-a466-73d71df0fb09][rice noodles]]      |
+  | 1        | [[id:3eeb40b4-7420-4c99-8a55-6c3e0193dfaa][lime]]              |
+  | 1/2 cup  | [[id:dfc24138-2ce4-491f-a29e-da741b9c77fb][peanuts]], chopped  |
+  | 1/2 cup  | [[id:9320e08a-476d-4306-8bb2-44f40dafc600][bean sprouts]]      |
+  | 1/4 cup  | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrots]], shredded |
+  | 2        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][eggs]]              |
 
 * Directions
 
-1. Cook rice noodles before adding to pan
-   1. Boil water in a pot, remove from heat
-   2. Set the noodles in it for ~10 mins until they're soft but not mushy
-2. Cook chicken in oil
-   1. When sealed (aka whole outside is white) add eggs into the pan and immediately mix around
-   2. Cook eggs until yellow
-3. Mix fish sauce, oyster sauce, vegetable oil, and sugar, and mix it all in the pan
-4. Add noodles to the pan
-5. Add sprouts and carrots and mix a bit
-   1. Take pan off heat 1-2 mins after you've added the veggies (they should still be somewhat crunchy)
-6. Garnish with chopped peanuts and lime juice
+  1. Cook rice noodles before adding to pan
+	 1. Boil water in a pot, remove from heat
+	 2. Set the noodles in it for ~10 mins until they're soft but not mushy
+  2. Cook chicken in oil
+	 1. When sealed (aka whole outside is white) add eggs into the pan and immediately mix around
+	 2. Cook eggs until yellow
+  3. Mix fish sauce, oyster sauce, vegetable oil, and sugar, and mix it all in the pan
+  4. Add noodles to the pan
+  5. Add sprouts and carrots and mix a bit
+	 1. Take pan off heat 1-2 mins after you've added the veggies (they should still be somewhat crunchy)
+  6. Garnish with chopped peanuts and lime juice
 
 * References & Notes
 
-1. Original recipe:  Heather McNeil
-2. Taste the noodles to ensure they're like al dente pasta before you put them in the pan. They won't cook that much in the pan
-3. Don't worry if it doesn't seem that saucy
-4. You don't want it saucy like pasta; the taste is too strong
-5. You want it all covered in sauce but a bit dry
+  1. Original recipe:  Heather McNeil
+  2. Taste the noodles to ensure they're like al dente pasta before you put them in the pan. They won't cook that much in the pan
+  3. Don't worry if it doesn't seem that saucy
+  4. You don't want it saucy like pasta; the taste is too strong
+  5. You want it all covered in sauce but a bit dry

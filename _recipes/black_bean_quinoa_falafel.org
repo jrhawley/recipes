@@ -30,21 +30,21 @@
 
 * Directions
 
-1. Prepare quinoa according to instructions, preheat oven to 350 F
-2. Add black beans to parchment-lined baking sheet
-   1. Bake for 15 min until beans crack
-   2. Remove from oven, increase temperature to 375 F
-3. Add black beans to food processor with pumpkin seeds and garlic
-   1. Pulse into a loose meal
-   2. Add quinoa and all remaining ingredients
-   3. Blend to combine until a textured dough forms
-4. Scoop 3/2 Tbsp at a time, form into small discs
-   1. Place on parchment-lined baking sheet
-   2. Repeat for entire dough mixture
-5. Bake for 15 min
-   1. Flip and back for another 10-15 min
-6. Garnish with chili garlic (optional) and serve with hummus or baba ghanoush
+  1. Prepare quinoa according to instructions, preheat oven to 350 F
+  2. Add black beans to parchment-lined baking sheet
+	 1. Bake for 15 min until beans crack
+	 2. Remove from oven, increase temperature to 375 F
+  3. Add black beans to food processor with pumpkin seeds and garlic
+	 1. Pulse into a loose meal
+	 2. Add quinoa and all remaining ingredients
+	 3. Blend to combine until a textured dough forms
+  4. Scoop 3/2 Tbsp at a time, form into small discs
+	 1. Place on parchment-lined baking sheet
+	 2. Repeat for entire dough mixture
+  5. Bake for 15 min
+	 1. Flip and back for another 10-15 min
+  6. Garnish with chili garlic (optional) and serve with hummus or baba ghanoush
 
 * References & Notes
 
-1. [[https://minimalistbaker.com/baked-quinoa-black-bean-falafel/][Original recipe]]
+  1. [[https://minimalistbaker.com/baked-quinoa-black-bean-falafel/][Original recipe]]

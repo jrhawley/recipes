@@ -14,41 +14,38 @@
 
 * Ingredients
 
-| Quantity   | Item                          |
-|------------+-------------------------------|
-| 1 tsp      | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                     |
-| 1          | medium [[id:6d78365c-626e-42af-a611-64d4c13757f8][sweet onion]], diced     |
-| 2 cloves   | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                |
-| 1          | red [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell pepper]], diced        |
-| 1          | medium [[id:8f199dec-d073-44dc-9225-a8b2d33c1bd2][sweet potato]], diced    |
-| 28 oz      | [[id:937c514a-0447-4ecd-bebb-bd5f2a09386c][diced tomatoes]], with juices   |
-| 1/3 cup    | [[id:6e61a7f2-b5a0-4740-9cc0-c915469ee602][peanut butter]]                 |
-| 4 cups     | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]               |
-| 3/2 tsp    | [[id:90505232-4100-4d41-a511-71ce3868f870][chili powder]]                  |
-| 15 oz      | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]], drained and rinsed |
-| 2 handfuls | [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]]                       |
-|            | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                   |
-|            | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                  |
-|            | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]                       |
-|            | [[id:dfc24138-2ce4-491f-a29e-da741b9c77fb][peanuts]]                       |
+  | Quantity   | Item                          |
+  |------------+-------------------------------|
+  | 1 tsp      | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                     |
+  | 1          | medium [[id:6d78365c-626e-42af-a611-64d4c13757f8][sweet onion]], diced     |
+  | 2 cloves   | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                |
+  | 1          | red [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell pepper]], diced        |
+  | 1          | medium [[id:8f199dec-d073-44dc-9225-a8b2d33c1bd2][sweet potato]], diced    |
+  | 28 oz      | [[id:937c514a-0447-4ecd-bebb-bd5f2a09386c][diced tomatoes]], with juices   |
+  | 1/3 cup    | [[id:6e61a7f2-b5a0-4740-9cc0-c915469ee602][peanut butter]]                 |
+  | 4 cups     | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]               |
+  | 3/2 tsp    | [[id:90505232-4100-4d41-a511-71ce3868f870][chili powder]]                  |
+  | 15 oz      | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]], drained and rinsed |
+  | 2 handfuls | [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]]                       |
+  |            | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                   |
+  |            | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                  |
+  |            | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]                       |
+  |            | [[id:dfc24138-2ce4-491f-a29e-da741b9c77fb][peanuts]]                       |
 
 * Directions
 
-1. In a large saucepan, heat olive oil over medium heat
-   - Add onion and garlic, saute until translucent
-
-2. Add bell pepper, sweet potato, tomatoes, and juices
-   - Raise to medium-high heat, simmer for 5 minutes
-   - Season with salt and pepper
-
-3. In a medium bowl, whisk together peanut butter, 1 cup of vegetable broth until no clumps remain
-   - Stir into vegetables with remaining vegetable broth with chili powder
-
-4. Cover with a lid, reduce to medium-low heat, simmer for 10-20 min until sweet potato is tender
-5. Stir in chickpeas and spinach, cook until spinach is wilted
-6. Salt and pepper to taste, garnish with parsley and roasted peanuts before serving
+  1. In a large saucepan, heat olive oil over medium heat
+     - Add onion and garlic, saute until translucent
+  2. Add bell pepper, sweet potato, tomatoes, and juices
+     - Raise to medium-high heat, simmer for 5 minutes
+     - Season with salt and pepper
+  3. In a medium bowl, whisk together peanut butter, 1 cup of vegetable broth until no clumps remain
+     - Stir into vegetables with remaining vegetable broth with chili powder
+  4. Cover with a lid, reduce to medium-low heat, simmer for 10-20 min until sweet potato is tender
+  5. Stir in chickpeas and spinach, cook until spinach is wilted
+  6. Salt and pepper to taste, garnish with parsley and roasted peanuts before serving
 
 * References & Notes
 
-  1. [[https://ohsheglows.com/book/][Oh She Glows]]
+  1. Original recipe: [[id:ed80ba22-bc45-46e7-893a-f5bcaf777b70][The Oh She Glows Cookbook]]
 

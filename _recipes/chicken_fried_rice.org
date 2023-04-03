@@ -17,42 +17,41 @@
 
 * Ingredients
 
-| Quantity | Item                       |
-|----------+----------------------------|
-| 3 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                     |
-| 2        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][eggs]], lightly beaten       |
-| 2        | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrots]], peeled, diced     |
-| 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], diced               |
-| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced             |
-|          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                |
-|          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                     |
-| 4 cup    | [[id:9b67d62e-13d2-46e0-9366-196393f90028][basmati rice]], uncooked     |
-| 3 stalks | [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onion]], thinly sliced |
-| 3 Tbsp   | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]                  |
-| 2 tsp    | [[id:3d5af97e-e0c3-4886-b87f-91ac6d5206e4][oyster sauce]]               |
-| 2 tsp    | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                  |
-| 2        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]            |
+  | Quantity | Item                       |
+  |----------+----------------------------|
+  | 3 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                     |
+  | 2        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][eggs]], lightly beaten       |
+  | 2        | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][carrots]], peeled, diced     |
+  | 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], diced               |
+  | 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced             |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][kosher salt]]                |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                     |
+  | 4 cup    | [[id:9b67d62e-13d2-46e0-9366-196393f90028][basmati rice]], uncooked     |
+  | 3 stalks | [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onion]], thinly sliced |
+  | 3 Tbsp   | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]                  |
+  | 2 tsp    | [[id:3d5af97e-e0c3-4886-b87f-91ac6d5206e4][oyster sauce]]               |
+  | 2 tsp    | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                  |
+  | 2        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]            |
 
 * Directions
 
-1. Cook the rice according to package directions
-   1. Place on plate and set aside to cool completely
-   2. Once cooled, break it up with your hands into individual grains
-2. Heat 1/2 Tbsp butter in a large pan or wok over medium-high heat.
-   1. Add eggs, cook until scrambled.
-   2. Place egg on a separate plate.
-3. Turn heat to medium, add and heat oil, placing chicken breast in the skillet
-   1. Cook 3 minutes on each side
-   2. Transfer the chicken to a cutting board, cut into very thin slices
-4. Add remaining butter, diced onion, carrot, and garlic.
-   1. Season with salt and pepper and cook until soft.
-   2. Add rice, green onion, soy sauce, and oyster sauce.
-   3. Turn heat to high, fry for another 5 min, stirring as needed.
-   4. Add eggs and diced chicken back, stirring all together.
+  1. Cook the rice according to package directions
+	 1. Place on plate and set aside to cool completely
+	 2. Once cooled, break it up with your hands into individual grains
+  2. Heat 1/2 Tbsp butter in a large pan or wok over medium-high heat.
+	 1. Add eggs, cook until scrambled.
+	 2. Place egg on a separate plate.
+  3. Turn heat to medium, add and heat oil, placing chicken breast in the skillet
+	 1. Cook 3 minutes on each side
+	 2. Transfer the chicken to a cutting board, cut into very thin slices
+  4. Add remaining butter, diced onion, carrot, and garlic.
+	 1. Season with salt and pepper and cook until soft.
+	 2. Add rice, green onion, soy sauce, and oyster sauce.
+	 3. Turn heat to high, fry for another 5 min, stirring as needed.
+	 4. Add eggs and diced chicken back, stirring all together.
 
 * References & Notes
 
-1. [[https://www.gimmesomeoven.com/fried-rice-recipe/print-recipe/62154/][Original recipe]]
-
-2. Will last in a refrigerated container for 3 days.
+  1. [[https://www.gimmesomeoven.com/fried-rice-recipe/print-recipe/62154/][Original recipe]]
+  2. Will last in a refrigerated container for 3 days.
 

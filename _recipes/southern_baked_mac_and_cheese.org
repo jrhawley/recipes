@@ -16,16 +16,16 @@
 
   | Amount  | Ingredient                               |
   |---------+------------------------------------------|
-  | 3 cup   | [[id:da6d7073-3e24-4401-bbd6-c92cbb8fdcc4][Macaroni]], uncooked                       |
-  | 3/2 cup | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][Milk]]                                     |
-  | 1/2 cup | [[id:eaf54217-f528-4d72-b1b1-4efff76983ae][Whipping cream]]                           |
+  | 3 cup   | [[id:da6d7073-3e24-4401-bbd6-c92cbb8fdcc4][macaroni]], uncooked                       |
+  | 3/2 cup | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                                     |
+  | 1/2 cup | [[id:eaf54217-f528-4d72-b1b1-4efff76983ae][whipping cream]]                           |
   | 1 cup   | [[id:58bbf85a-f39c-40ce-b0e7-7f48f825aa76][Colby and monterey jack cheese]], shredded |
-  | 1 cup   | [[id:a89a233e-066a-40bd-8081-de30271f7576][Cheddar cheese]], shredded                 |
-  | 2       | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][Eggs]]                                     |
-  | 1 cup   | [[id:c0d2d422-c5f4-4147-8bc8-6dc9e7148046][Smoked cheddar cheese]]                    |
-  |         | [[id:505e3767-00ab-4806-8966-555302b06297][Table salt]]                               |
-  |         | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][Pepper]]                                   |
-  |         | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][Paprika]]                                  |
+  | 1 cup   | [[id:a89a233e-066a-40bd-8081-de30271f7576][cheddar cheese]], shredded                 |
+  | 2       | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][eggs]]                                     |
+  | 1 cup   | [[id:c0d2d422-c5f4-4147-8bc8-6dc9e7148046][smoked cheddar cheese]]                    |
+  |         | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                               |
+  |         | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]                                   |
+  |         | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]                                  |
 
 * Directions
 
@@ -42,9 +42,11 @@
   5. Bake for 35 min [fn:1]
   6. Let sit for 10 min before serving
 
-* References & Footnotes
+* References
 
   1. [[https://divascancook.com/wprm_print/recipe/18403][Original recipe]]
+
+* Footnotes
 
   [fn:1] Be careful not to overcook
 

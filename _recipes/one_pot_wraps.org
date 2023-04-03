@@ -14,26 +14,26 @@
 
 * Ingredients
 
-| Quantity | Item                         |
-|----------+------------------------------|
-| 1 cup    | [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]], uncooked             |
-| 7/4 cup  | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]              |
-| 15 oz    | [[id:285345d6-78f4-42cd-af32-0738783c781d][black beans]], drained, rinsed |
-| 1        | small red [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell pepper]], diced |
-| 12 oz    | diced [[id:6850cbbb-964c-488c-8aaf-11faae0c6912][pineapple]]              |
-| 1 tsp    | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]                      |
-| 1 Tbsp   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]                   |
-| 4        | [[id:4447c70b-787f-49ba-ac31-69a5bf96726f][tortillas]]                    |
+  | Quantity | Item                         |
+  |----------+------------------------------|
+  | 1 cup    | [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]], uncooked             |
+  | 7/4 cup  | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]              |
+  | 15 oz    | [[id:285345d6-78f4-42cd-af32-0738783c781d][black beans]], drained, rinsed |
+  | 1        | small red [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell pepper]], diced |
+  | 12 oz    | diced [[id:6850cbbb-964c-488c-8aaf-11faae0c6912][pineapple]]              |
+  | 1 tsp    | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]                      |
+  | 1 Tbsp   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]                   |
+  | 4        | [[id:4447c70b-787f-49ba-ac31-69a5bf96726f][tortillas]]                    |
 
 * Directions
 
-1. In a large pot, bring quinoa and broth to a simmer over medium heat
-   1. Add all other ingredients but the wraps, and mix
-2. Bring to a boil over medium-high heat, reduce to medium, cover, and cook for 15-20 min
-3. Stir and serve in lettuce or wraps
-4. Garnish with cilantro, parsley, avocado, salsa, and/or green onion
+  1. In a large pot, bring quinoa and broth to a simmer over medium heat
+	 1. Add all other ingredients but the wraps, and mix
+  2. Bring to a boil over medium-high heat, reduce to medium, cover, and cook for 15-20 min
+  3. Stir and serve in lettuce or wraps
+  4. Garnish with cilantro, parsley, avocado, salsa, and/or green onion
 
 * References & Notes
 
-1. Original recipe: Wendy McNeil
+  1. Original recipe: Wendy McNeil
 

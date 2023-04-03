@@ -20,10 +20,10 @@
 | 2 lbs    | beets ([[id:4a0313ca-b26a-43fa-9fd6-a95f4f7f625c][canned]] or [[id:aa695135-a404-4546-a1df-75faf5c6e0ed][fresh beets]]) |
 | 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                        |
 | 1/2 cup  | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], diced                  |
-| 1 lb     | [[id:f9ceed1b-9c02-40b0-910b-cb65cb53125d][apples]], cored and quartered   |
+| 4        | [[id:f9ceed1b-9c02-40b0-910b-cb65cb53125d][apples]], cored and quartered   |
 | 1/4 cup  | [[id:9557565b-cbae-4bc7-bac6-d3e8ee9b3e6b][apple cider vinegar]]           |
 | 1 Tbsp   | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]                         |
-| 5 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]               |
+| 4 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]               |
 | 1 Tbsp   | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                         |
 | 1/2 cup  | [[id:3e80ceb1-aa3e-425a-a18b-d3acdc4353cf][Greek yogurt]]                  |
 |          | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]                          |
@@ -31,29 +31,29 @@
 
 * Directions
 
-1. If using fresh beets:
-   1. Preheat oven to 375 F.
-   2. Wrap the beets in a double layer of aluminium foil and crimp to seal.
-   3. Roast for 1 h, or until tender.
-   4. Remove from the oven and let rest until beets are cool to handle.
-   5. Remove the skin and chop into ~ 1 " chunks
-2. In a large soup pot over medium heat, melt the butter and add diced onions.
-   1. Saute for 6 - 7 min, until soft and translucent.
-   2. Add apples, vinegar, and sugar, and cook for another 1 - 2 min.
-   3. Add the beets and stock.
-   4. Bring to a boil over medium - high heat, then reduce to medium and simmer for 15 - 20 min, or until apples are soft.
-   5. Remove from heat and let cool.
-3. Blend until creamy and smooth.
-   1. Return blended soup to the pot and heat.
-   2. Season with salt and pepper to taste.
-4. Divide the soup into separate bowls.
-   1. In a separate small bowl, mix the honey and yogurt.
-   2. Place a dollop into each bowl.
+  1. If using fresh beets:
+	 1. Preheat oven to 375 F.
+	 2. Wrap the beets in a double layer of aluminium foil and crimp to seal.
+	 3. Roast for 1 h, or until tender.
+	 4. Remove from the oven and let rest until beets are cool to handle.
+	 5. Remove the skin and chop into ~ 1 " chunks
+  2. In a large soup pot over medium heat, melt the butter and add diced onions.
+	 1. Saute for 6 - 7 min, until soft and translucent.
+	 2. Add apples, vinegar, and sugar, and cook for another 1 - 2 min.
+	 3. Add the beets and stock.
+	 4. Bring to a boil over medium - high heat, then reduce to medium and simmer for 15 - 20 min, or until apples are soft.
+	 5. Remove from heat and let cool.
+  3. Blend until creamy and smooth.
+	 1. Return blended soup to the pot and heat.
+	 2. Season with salt and pepper to taste.
+  4. Divide the soup into separate bowls.
+	 1. In a separate small bowl, mix the honey and yogurt.
+	 2. Place a dollop into each bowl.
 
 * References & Notes
 
-1. Original recipe: [[https://www.eatyourbooks.com/library/197843/a-rising-tide-a-cookbook][A Rising Tide]]
-2. Pairs well Newman Estate Winery's Seyval Blanc
-3. Can garnish with parsley or dill fronds.
-4. The soup, alone without the yogurt mixture, will last for ~ 1 week in a refrigerated airtight container.
+  1. Original recipe: [[https://www.eatyourbooks.com/library/197843/a-rising-tide-a-cookbook][A Rising Tide]]
+  2. Pairs well Newman Estate Winery's Seyval Blanc
+  3. Can garnish with parsley or dill fronds.
+  4. The soup, alone without the yogurt mixture, will last for ~ 1 week in a refrigerated airtight container.
 

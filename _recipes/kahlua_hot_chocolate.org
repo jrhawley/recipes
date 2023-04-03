@@ -3,28 +3,28 @@
 :END:
 #+TITLE: Kahlua Hot Chocolate
 #+DATE: [2021-04-17]
-#+LAST_MODIFIED: [2022-09-27 Tue 09:37]
+#+LAST_MODIFIED: [2023-04-02 Sun 21:29]
 #+FILETAGS: :recipes:alcohol:beverage:
 
 * Ingredients
 
-| Quantity | Item         |
-|----------+--------------|
-| 2 cups   | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]         |
-| 1 Tbsp   | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]        |
-| 3/2 Tbsp | [[id:050ad5a8-b270-4ae7-874b-8a4a99887a80][cocoa powder]] |
-| 1/4 tsp  | [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][cinnamon]]     |
-| pinch    | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]       |
-| 1 oz     | [[id:2e53af8d-dae7-4ebb-9722-963c8c831bb8][Kahlua]]       |
+  | Quantity | Item         |
+  |----------+--------------|
+  | 2 cups   | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]         |
+  | 1 Tbsp   | [[9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]        |
+  | 3/2 Tbsp | [[id:050ad5a8-b270-4ae7-874b-8a4a99887a80][cocoa powder]] |
+  | 1/4 tsp  | [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][cinnamon]]     |
+  | pinch    | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]       |
+  | 1 oz     | [[id:2e53af8d-dae7-4ebb-9722-963c8c831bb8][Kahlua]]       |
 
 * Directions
 
-1. Combine all ingredients except the Kahlua in a small pot
-2. Heat on medium heat and stir
-3. Top with marshmallows, whipped cream, or a caramel syrup
+  1. Combine all ingredients except the Kahlua in a small pot
+  2. Heat on medium heat and stir
+  3. Top with marshmallows, whipped cream, or a caramel syrup
 
 * References & Notes
 
-1. [[https://damndelicious.net/2013/12/03/kahlua-hot-chocolate/][Original recipe]]
-2. Don't let the milk boil or else it will spoil
+  1. [[https://damndelicious.net/2013/12/03/kahlua-hot-chocolate/][Original recipe]]
+  2. Don't let the milk boil or else it will spoil
 

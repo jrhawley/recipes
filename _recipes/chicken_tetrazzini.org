@@ -14,40 +14,40 @@
 
 * Ingredients
 
-| Quantity | Item                 |
-|----------+----------------------|
-| 6 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]               |
-| 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], chopped       |
-| 1 stalk  | [[id:83c6ab82-bb15-4724-a51e-77237cb01b95][celery]]               |
-| 3 Tbsp   | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                |
-| 7/2 cup  | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                 |
-| 3/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]           |
-| 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]               |
-| 1 Tbsp   | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][worcestershire sauce]] |
-| 1/2 cup  | [[id:d208148d-02fe-4a3d-8675-f4934bc5a298][cream cheese]]         |
-| 3 cup    | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken]], cooked      |
-| 1 pkg    | [[id:0d373a67-f257-4d56-87b2-4041cb9c61be][egg noodles]], cooked  |
-| 1/2 cup  | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated     |
-| 1/2 cup  | [[id:77920ac4-23a6-41c9-8fb4-c8d7edb7ea8b][breadcrumbs]]          |
+  | Quantity | Item                 |
+  |----------+----------------------|
+  | 6 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]               |
+  | 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], chopped       |
+  | 1 stalk  | [[id:83c6ab82-bb15-4724-a51e-77237cb01b95][celery]]               |
+  | 3 Tbsp   | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                |
+  | 7/2 cup  | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                 |
+  | 3/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]           |
+  | 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]               |
+  | 1 Tbsp   | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][worcestershire sauce]] |
+  | 1/2 cup  | [[id:d208148d-02fe-4a3d-8675-f4934bc5a298][cream cheese]]         |
+  | 3 cup    | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken]], cooked      |
+  | 1 pkg    | [[id:0d373a67-f257-4d56-87b2-4041cb9c61be][egg noodles]], cooked  |
+  | 1/2 cup  | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][parmesan]], grated     |
+  | 1/2 cup  | [[id:77920ac4-23a6-41c9-8fb4-c8d7edb7ea8b][breadcrumbs]]          |
 
 * Directions
 
-1. Preheat oven to 350 F, cook chicken in a large frying pan, and cook egg noodles according to instructions
-2. Heat half the butter in a large saucepan
-   - Add onion and celery
-   - Cook until tender and liquid has evaporated
-3. Sprinkle with flour, cook for 1 min
-4. Add milk gradually and bring to a boil
-   - Add salt, pepper, worcestershire sauce
-   - Whisk in cream cheese small bits at a time
-   - Cook gently for ~ 2 min until melted and thickened
-5. Add chicken and noodles
-   - Place in buttered 9"x13" pan
-6. Melt remaining butter
-   - Combine with parmesan and bread crumbs
-   - Sprinkle over the casserole
-7. Place entire dish on a baking sheet to catch any spills
-   - Cook in oven for 30 min
+  1. Preheat oven to 350 F, cook chicken in a large frying pan, and cook egg noodles according to instructions
+  2. Heat half the butter in a large saucepan
+	 - Add onion and celery
+	 - Cook until tender and liquid has evaporated
+  3. Sprinkle with flour, cook for 1 min
+  4. Add milk gradually and bring to a boil
+	 - Add salt, pepper, worcestershire sauce
+	 - Whisk in cream cheese small bits at a time
+	 - Cook gently for ~ 2 min until melted and thickened
+  5. Add chicken and noodles
+	 - Place in buttered 9"x13" pan
+  6. Melt remaining butter
+	 - Combine with parmesan and bread crumbs
+	 - Sprinkle over the casserole
+  7. Place entire dish on a baking sheet to catch any spills
+	 - Cook in oven for 30 min
 
 * References & Notes
 

@@ -12,45 +12,41 @@
 | Cook Time | 4 h        |
 | Yields    | 4 servings |
 
-#+CAPTION: Pork tenderloin, potatoes, and green beans
-[[file:c:/Users/james/Documents/Org/personal-notes/recipes/_assets/pork-tenderloin-potatoes-beans.jpg][Pork tenderloin, potatoes, and green beans]]
-
 * Ingredients
 
-| Quantity | Item                 |
-|----------+----------------------|
-| 400 g    | [[id:4172ff60-dd6f-4154-ae3c-e301116ff4fa][pork tenderloin]]      |
-| 2 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]           |
-| 1 tsp    | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                |
-| 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]                 |
-| 1/2 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]               |
-| 1 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]      |
-| 1/4 cup  | [[id:02ccfac6-e705-4b80-949e-1dff24216a5b][brown sugar]]          |
-| 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]            |
-| 2 Tbsp   | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][Worcestershire sauce]] |
-| 1 Tbsp   | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]            |
-| 680 g    | [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][baby potatoes]]        |
-| 340 g    | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][baby carrots]]         |
-| 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], crushed      |
+  | Quantity | Item                 |
+  |----------+----------------------|
+  | 400 g    | [[id:4172ff60-dd6f-4154-ae3c-e301116ff4fa][pork tenderloin]]      |
+  | 2 tsp    | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]           |
+  | 1 tsp    | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]                |
+  | 1/2 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]                 |
+  | 1/2 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][pepper]]               |
+  | 1 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]      |
+  | 1/4 cup  | [[id:02ccfac6-e705-4b80-949e-1dff24216a5b][brown sugar]]          |
+  | 1 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]            |
+  | 2 Tbsp   | [[id:86d558aa-6ec7-4401-8a9b-9a70c790dc7e][Worcestershire sauce]] |
+  | 1 Tbsp   | [[id:72cd69cc-a1da-4d58-93e3-7c654fa6a28f][soy sauce]]            |
+  | 680 g    | [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][baby potatoes]]        |
+  | 340 g    | [[id:7fc6b423-7144-4755-ab42-4c7886d3069d][baby carrots]]         |
+  | 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], crushed      |
 
 * Directions
 
-1. Mix thyme, salt, and pepper in a small bowl
-   1. Rub pork all over with the olive oil and then coat it well with the spice mixture on all sides
-2. Heat a pan to medium-high heat
-   1. Sear all sides of the park tenderloin until brown, but don't cook through
-3. While the pork is searing, mix the broth, brown sugar, olive oil, Worcestershire sauce, and soy sauce together in the slow cooker
-   1. When the pork is finished searing, place it in the slow cooker
-   2. Add the potatoes, carrots, and garlic
-4. Cook for 4 h on LOW or until the pork registers 160 F
-   1. Let the pork rest for 3 min
-5. While the pork is resting, place the potatoes in a large bowl and add butter and salt to taste
-   1. Stir to combine
-   2. Slice the pork and place it on a serving platter
+  1. Mix thyme, salt, and pepper in a small bowl
+	 1. Rub pork all over with the olive oil and then coat it well with the spice mixture on all sides
+  2. Heat a pan to medium-high heat
+	 1. Sear all sides of the park tenderloin until brown, but don't cook through
+  3. While the pork is searing, mix the broth, brown sugar, olive oil, Worcestershire sauce, and soy sauce together in the slow cooker
+	 1. When the pork is finished searing, place it in the slow cooker
+	 2. Add the potatoes, carrots, and garlic
+  4. Cook for 4 h on LOW or until the pork registers 160 F
+	 1. Let the pork rest for 3 min
+  5. While the pork is resting, place the potatoes in a large bowl and add butter and salt to taste
+	 1. Stir to combine
+	 2. Slice the pork and place it on a serving platter
 
 * References & Notes
 
-1. [[https://www.blessthismessplease.com/slow-cooker-pork-tenderloin-and-potatoes/][Original recipe]]
-
-2. Can easily substitute carrots with another vegetable
+  1. [[https://www.blessthismessplease.com/slow-cooker-pork-tenderloin-and-potatoes/][Original recipe]]
+  2. Can easily substitute carrots with another vegetable
 
