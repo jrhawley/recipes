@@ -1,239 +1,352 @@
-#+TITLE: Summary
+:PROPERTIES:
+:ID:       16163338-ce7d-4d72-a24d-c4be0033e3ed
+:END:
+#+TITLE: Recipe Book
 #+DATE: [2021-02-27 Sat]
-#+LAST_MODIFIED: [2022-07-24 Sun 23:01]
-#+FILETAGS: 
+#+LAST_MODIFIED: [2023-04-02 Sun 21:42]
+#+FILETAGS: :personal:recipes:
 
 [[file:README.org][Introduction]]
 
 * Breakfasts
 
-  - [[file:_recipes/buttermilk-pancakes-waffles.md][Buttermilk pancakes or waffles]]
-  - [[file:_recipes/dark-chocolate-waffles.md][Dark chocolate waffles]]
-  - [[file:_recipes/pumpkin-waffles.md][Pumpkin waffles]]
-  - [[file:_recipes/french-toast.md][French toast]]
-  - [[file:_recipes/cinnamon-maple-granola.md][Cinnamon maple granola]]
+  - [[id:cb656b8d-7f89-49bb-9f11-f47d3ab01cfe][Pancakes]]
+  - [[id:cb656b8d-7f89-49bb-9f11-f47d3ab01cfe][Waffles]]
+  - [[id:331a67f1-569d-451f-8c49-e1bd6c05bf56][Dark Chocolate Waffles]]
+  - [[id:fc5a962c-03df-4356-a5bc-2da961fa5184][Pumpkin Waffles]]
+  - [[id:a811a78b-34f1-4522-8af7-61c8a95fec97][French Toast]]
+  - [[id:349fe98a-cae6-4b2f-a3b5-85472f618f48][Chocolate peanut butter overnight oats]]
+  - [[id:83ff3b6c-c8dc-4643-a0b9-5a1ebf1236c7][French-style omelette]]
+  - [[id:1bfb398e-d8ff-4a66-b2e8-5a96426115d0][Lox and pickled radish with Montreal-style bagels]]
+  - [[id:2b82f7bc-f20b-4286-bbdb-0bceecaafd2c][Strawberry shortcake scones]]
+  - [[id:67ee098e-2031-4f31-adfa-e1dba06b0e98][Crumpets]]
+  - [[id:a234e68e-3b06-4365-b3d3-bd8cf4c9c595][Sunrise scramble with homefries and avocado toast]]
+  - [[id:a001ac94-bba7-4f35-bd3b-9a60b9af0776][Cinnamon Maple Granola]]
 
 * Breads
 
-  - [[file:_recipes/no-knead-bread.md][No-knead bread]]
-  - [[file:_recipes/banana-bread.md][Banana bread]]
-  - [[file:_recipes/pumpkin-bread.md][Pumpkin bread]]
+  - [[id:31f940cb-1cd9-4f61-a1ce-64066a252325][Banana bread]]
+  - [[id:a68e6550-1f42-473a-8bd8-2187ec2a02cf][No-knead bread]] 
+  - [[id:4a888cb0-d55e-472e-a8b5-4a70700b662d][Garlic bread]]
+  - [[id:bca8da10-67f5-413d-bb28-39a2f1c6c5ce][Pumpkin bread]]
+  - [[id:afd99ed2-be78-4d1e-a0b9-aea30496ea55][Irish soda bread]]
 
 * Sides
 
-  - [[][Finger food]]
+** Appetizers
+
+   - [[id:22a16a98-1ce6-4df0-9bad-633fbe9bfa73][Black bean quinoa falafel]]
+   - [[id:76094a42-76c9-492d-927d-4e1ce7d90d99][Cherry basil bruschetta]]
+   - [[id:b920f3f5-1a45-4b59-bdbf-183ddd18068b][Eggplant and tomato phyllo pie]]
+   - [[id:e10a608c-01c6-4c0b-9dcf-96a619ed0a74][Smoked salmon and caper spread]]
+   - [[id:830290f0-5966-48d3-a21a-6e8279cf77ed][Stilton-stuffed dates with prosciutto]]
   
-    - [[file:_recipes/greek-fries.md][Greek fries]]
-    - [[file:_recipes/sweet-potato-fries.md][Sweet potato fries]]
-    - [[file:_recipes/black-bean-quinoa-falafel.md][Black bean quinoa falafel]]
+** Fries
+
+   - [[id:80bdf260-754f-4f5e-84fa-55405d62c6d8][Poutine]]
+   - [[id:47adf625-e086-4004-8edf-002ed30e1411][Greek fries]]
+   - [[id:3b108ea2-c1e3-488d-9a3f-d0da9deb4774][Sweet potato fries]]
+
+** Salads
+
+   - [[id:c2fc4758-f142-4784-8245-5c83563a83e7][Mediterranean chickpea casserole]]
+   - [[id:61817744-4a06-47bb-923b-a4b416a6410f][Goddess bowl]]
+   - [[id:eade19f6-852c-4ced-aefc-c5e6738aefe0][Creamy avocado potato salad]]
+   - [[id:dc0921ad-3acc-4236-a592-cf698a4b06dd][Peach burrata and basil salad]]
+   - [[id:b05779c7-6e91-44ad-83f8-7412cdfb8fb1][Sun-dried tomato herb salad with chickpeas]]
+   - [[id:0acc99f6-0d6f-42ee-b6df-b04dbd404115][Bean medley salad]]
+   - [[id:79faa659-14dd-4b6e-bad4-2040bc3f50e9][Greek tortellini salad]]
+   - [[id:d695ec65-a15d-4642-a8a3-aba410bcf44e][Craisin and feta salad]]
+   - [[id:b49985b0-e0ed-4d40-883e-0783538e34c5][Mediterranean salad]]
+   - [[id:0c30a9e3-20f7-43ea-aeb2-9035b25615e3][Blackberry balsamic chicken salad]]
+   - [[id:4ff5cde1-5985-4216-a4b2-96315ec1f1d5][Autumn arugula salad]]
   
-  - [[][Salads]]
+** Grains
   
-    - [[file:_recipes/bean-medley-salad.md][Bean medley salad]]
-    - [[file:_recipes/greek-tortellini-salad.md][Greek tortellini salad]]
-    - [[file:_recipes/craisin-feta-salad.md][Craisin and feta salad]]
-    - [[file:_recipes/mediterranean-salad.md][Mediterranean salad]]
-    - [[file:_recipes/blackberry-balsamic-chicken-salad.md][Blackberry balsamic chicken salad]]
-    - [[file:_recipes/honey-roasted-carrots.md][Honey roasted carrots]]
-    - [[file:_recipes/autumn-arugula-salad.md][Autumn arugula salad]]
+   - [[id:ef524938-76ab-456e-9e1c-a65c41ad035d][Spicy rice]]
+   - [[id:c866fb54-13a9-4472-b1c3-51410706295a][Spanish rice]]
+   - [[id:3aea73ab-ec9b-4210-a45c-f064f7627de8][Spanish quinoa]]
+   - [[id:51d27afa-5a67-44e4-800e-1762247f2361][Spanakorizo rice]]
   
-  - [[][Rice]]
+** Vegetables
   
-    - [[file:_recipes/spicy-rice.md][Spicy rice]]
-    - [[file:_recipes/spanish-rice.md][Spanish rice]]
-    - [[file:_recipes/spanakorizo-rice.md][Spanakorizo rice]]
-  
-  - [[][Vegetables]]
-  
-    - [[file:_recipes/garlic-mashed-potatoes.md][Garlic mashed potatoes]]
-    - [[file:_recipes/garlic-smashed-sweet-potatoes.md][Garlic smashed sweet potatoes]]
-  
-  - [[][Sauces & Dips]]
-  
-    - [[file:_recipes/alfredo-sauce.md][Alfredo]]
-    - [[file:_recipes/artichoke-spinach-dip.md][Artichoke and spinach dip]]
-    - [[file:_recipes/hummus.md][Hummus]]
-    - [[file:_recipes/spicy-mayo.md][Spicy mayo]]
+   - [[id:8657b90a-b21f-470f-ac6a-c3fc9950af6a][Garlic mashed potatoes]]
+   - [[id:0e36efa7-bf09-4e5e-8a5d-584898d5d788][Garlic butter smashed sweet potatoes]]
+   - [[id:3cc805f8-d51e-466d-8ad2-21f122995580][Honey whisky roasted parsnips]]
+   - [[id:8df9a785-294d-4a1e-a38e-27678203470a][Honey roasted carrots]]
+   - [[id:657088d7-b571-450b-b897-a92867f1d99b][Roasted beets and carrots with honey-balsamic glaze]]
+   - [[id:126a6526-17dd-4e4c-ab0e-150f0f0257c9][Roasted parsnips & mustard butter]]
+
+** Sauces & Dips
+
+   - [[id:9d7f4c3d-72b0-4c57-89e3-71c0e108a97e][Alfredo sauce]]
+   - [[id:be00aba6-829e-4998-956d-04d34d12e5e8][Artichoke and spinach dip]]
+   - [[id:83987201-cfd8-4d53-a7c0-bba0f561beed][Hummus]]
+   - [[id:f8db22d1-b230-4536-9081-f30287037914][Spicy mayo]]
+   - [[id:18989c82-0ab0-4dd3-9a1b-3f4ef6cc865c][Basil pesto]]
+   - [[id:39556d18-2c50-4244-8f5a-e21ead6fdd20][Tomato cranberry chutney]]
+   - [[id:2A8A74D1-5A49-4FF7-9CE3-C4587D482B00][Poor man's tartar sauce]]
+   - [[id:95906D79-0D6E-4B3B-AC0C-0E00DC444583][Tartar sauce]]
+
+** Snacks
+
+   - [[id:6c02602c-ade8-4ce3-b1ae-3130fab6642a][Date balls]]
+   - [[id:14291643-61e0-4a15-855c-9542e7813e8f][Yogurt parfait]]
 
 * Entrees
 
-  - [[][Sandwiches & wraps]]
+** Sandwiches & wraps
+
+   - [[id:5f87abf8-efaf-45d8-9980-d00182ff3e18][Pulled pork]]
+   - [[id:f6e579ef-9234-456a-b90d-1d919662a02a][Smashed chickpea avocado sandwich]]
+   - [[id:6bb4dd4e-601b-4be3-b1df-2bf1c530055e][Roasted tomato aioli sandwiches]]
+   - [[id:4701e35a-ab1b-4b79-8dc6-68014ac148eb][One pot wraps]]
+   - [[id:e8c6a89b-9a35-4d8b-b4af-c2ee62e29711][Sloppy glows]]
+   - [[id:e5ba1277-bdfe-4c2e-b618-b778da466985][Pesto chicken tzatziki salad wraps]]
+   - [[id:beef7655-31d7-4f59-8ded-13fec39d7dd4][Quesadillas]]
   
-    - [[file:_recipes/pulled-pork.md][Pulled pork sandwiches]]
-    - [[file:_recipes/smashed-chickpea-avocado-sandwich.md][Smashed chickpea avocado sandwich]]
-    - [[file:_recipes/roasted-tomato-aioli-sandwiches.md][Roasted tomato aioli sandwiches]]
-    - [[file:_recipes/one-pot-wraps.md][One pot wraps]]
-    - [[file:_recipes/sloppy-glows.md][Sloppy glows]]
+** Salads & bowls
+
+   - [[id:cb342e91-5721-4c90-af1d-48af98536955][Winter salad bowl]]
+   - [[id:9a7108d0-612c-4cce-95dc-a8c59b0b84ca][Sweet potato quinoa bowl]]
+   - [[id:1a2b8f69-62a9-4571-b4ba-112cb8e99cf7][Sweet potato burrito bowl]]
+   - [[id:63755b1d-5eba-49ba-9891-71c5c7b52f59][Thai veggie bowl]]
+   - [[id:63506438-1e85-452b-b947-9a2c0b8172c4][Roasted chickpea stuffed avocadoes]]
+   - [[id:9bd96b6c-e81b-43c1-bcd7-d805c2ad6144][Sweet potato, black bean, and lime rice bowl]]
+   - [[id:bcb8bba4-f71f-44b8-84c1-88e4c042c253][Green curry with tofu and cashews]]
+   - [[id:430b5ff9-e3ff-422b-8210-16365b849776][Farro and rapini gratin]]
+   - [[id:b50ee862-9005-42e4-9211-8c0428090d9e][Quinoa broccoli slaw with honey mustard dressing]]
+   - [[id:e7a9c1e1-16a4-4c9f-8f5d-e0295c78f6f7][California quinoa bowl]]
+   - [[id:77c3113b-a3ac-4293-b915-faafa2336fc5][Sweet potato chickpea bowl]]
   
-  - [[][Salad bowls]]
+** Fish
+
+   - [[id:5be8e6ff-a6e4-4d74-a271-81c24f8f27bb][Cod and tangy tartar sauce]]
+   - [[id:4f6f8631-76ff-45c8-b37d-9b9a056751c7][Spicy halibut]]
+   - [[id:6e875298-8e21-4673-b96d-ace8cedb1cd4][Salmon, asparagus, and rice]]
+   - [[id:4dab09c0-ed9a-4841-8aba-1af6feca6e3c][Shallow-fried beer-battered fish and chips]]
+   - [[id:bbb46fb8-2b75-4704-8760-5f741edcabd3][Crispy salmon]]
+   - [[id:ac16531a-e719-4917-af69-c33f8100b330][Fish tacos]]
+   - [[id:96ac5bb2-7926-446d-afeb-1c6156af0c73][Tomato-braised tilapia]]
+   - [[id:ff64633e-0540-4928-b8e0-4e84932c087a][Cod with lemon caper brown butter]]
   
-    - [[file:_recipes/winter-salad-bowl.md][Winter salad bowl]]
-    - [[file:_recipes/sweet-potato-quinoa-bowl.md][Sweet potato quinoa bowl]]
-    - [[file:_recipes/sweet-potato-burrito-bowl.md][Sweet potato burrito bowl]]
-    - [[file:_recipes/thai-veggie-bowl.md][Thai veggie bowl]]
-    - [[file:_recipes/spanish-quinoa.md][Spanish quinoa]]
-    - [[file:_recipes/roasted-chickpeas-stuffed-avocado.md][Roasted chickpeas stuffed avocado]]
-    - [[file:_recipes/sweet-potato-black-bean-lime-rice-bowl.md][Sweet potato, black bean, and lime rice bowl]]
+** Pasta
+
+   - [[id:8bb9f4d7-f17b-4028-bd9c-076a2fefea0e][Lasagna]]
+   - [[id:09ee4562-c6c3-4a13-8ed7-2ac5040856aa][Farfalle, tomato, feta, and balsamic]]
+   - [[id:aa17b1e9-c93f-4f36-bc54-4b8a4341a286][Basil and tomato orzo]]
+   - [[id:374f14d4-4288-4749-b4ec-37e52db3785b][Peanut butter noodles]]
+   - [[id:6649fc87-1356-4b9e-a39f-80364c9ca06a][Aglio, olio e peperoncino]]
+   - [[id:a6b79372-7f38-4926-b971-91256e45f719][Linguine, zucchine, e gamberetti]]
+   - [[id:d59a7584-cf12-4762-a2f4-3617859d82e3][Pasta al ragu]]
+   - [[id:c00450ce-37a8-4254-9b97-0d6b181390b0][Chicken tetrazzini]]
+   - [[id:1ab4e3e2-675d-4c41-a6df-636fe7f63edd][Broccoli, ham, macaroni, and cheese]]
+   - [[id:19965bd0-cc59-44c6-8d72-20e0fdbe5431][Roasted spaghetti squash]]
+   - [[id:1641b0db-07b8-4462-939b-d81c7f840b2f][Baked mac and cheese]]
+   - [[id:749d6fbe-8e77-4e23-bf06-3c1eb1f2eeb1][Gnocchi and Brussels sprouts]]
+   - [[id:991947d7-1850-4f90-aaff-0769e724cf59][Sheet pan gnocchi]]
+   - [[id:b698c969-065f-4050-96d7-e6dafbd504f5][Southern baked macaroni and cheese]]
+
+** Soups
+
+   - [[id:9dc2193b-fc3f-41f8-81b3-64edfacaa6e6][African peanut stew]]
+   - [[id:3b995750-b8c5-4bc4-b22b-50fc9baed2a5][Beef stew]]
+   - [[id:251bc074-477c-42ee-94d4-9fb9a5fcef0e][Beet and apple soup]]
+   - [[id:3aea7d0d-703c-4f6e-9bdf-e32541a5e14a][Broccoli and cheddar soup]]
+   - [[id:188391de-95b5-408d-bfb3-6f440c1f2d17][Carrot ginger soup]]
+   - [[id:0d42e893-8654-4a9b-a8f2-66358d7cf128][Chili]]
+   - [[id:27e4eb7c-8a71-42db-8910-904a9e64e27c][Tomato soup with crispy chickpea croutons]]
+   - [[id:18c86a2e-0346-41a5-bb88-fd900d8c0d12][French Onion Soup]]
+   - [[id:7f8e2c41-5d98-4bac-a955-cd470ee6d13a][Hamburger soup]]
+   - [[id:74bc1f20-dd17-40d8-bc81-2370ce0a0e74][Lentil soup]]
+   - [[id:0201158b-4650-4c3d-96c9-7254da897d36][Tomato spinach tortellini soup]]
+   - [[id:64a7db1c-ce51-4b1d-8b2e-08508976a6b0][Tortellini soup with Italian sausage]]
+   - [[id:0dbe5e21-dd4a-4649-a566-a34728b81579][Stuffed pepper soup]]
+   - [[id:38ccf877-fbcb-4af0-9352-2aad69010eab][Beer cheese soup]]
+   - [[id:0435e871-fa05-479b-b034-3512547817d7][Sunchoke and leek soup with Canadian gremolata]]
   
-  - [[][Fish]]
+** Beef
+
+   - [[id:433e5206-86d9-403b-a371-d597b403e56e][Apricot BBQ sticky ribs]]
+   - [[id:148297fa-47b3-44c1-bdf3-458a3af53340][Steak]]
+   - [[id:f0ed1dd8-4c94-48cb-acf5-c556988ee6a2][Pot roast]]
+   - [[id:f2aaed95-a506-4031-ba12-c779ae678252][Beef stroganoff]]
+   - [[id:6d22eab0-4ee0-4dee-9bda-5d94dbb501f4][Shepherd's pie]]
+   - [[id:e80ab2f0-cb93-4564-8d36-65809fe5bb12][Beef macaroni]]
   
-    - [[file:_recipes/cod-tangy-tartar-sauce.md][Cod and tangy tartar sauce]]
-    - [[file:_recipes/spicy-halibut.md][Spicy halibut]]
-    - [[file:_recipes/salmon-asparagus-rice.md][Salmon, asparagus, and rice]]
-    - [[file:_recipes/shallow-fried-beer-battered-fish-chips.md][Shallow-fried beer-battered fish and chips]]
-    - [[file:_recipes/crispy-salmon.md][Crispy salmon]]
+** Chicken
   
-  - [[][Pasta]]
+   - [[id:84679ac8-0dae-4cdf-9521-cdaf39aae5c5][Chicken breasts]]
+   - [[id:8d8b3b00-aa94-4fa4-9d91-85d7db1950a0][Chicken and chickpea tray bake]]
+   - [[id:6d450b2d-1832-491a-b972-37b6ed30d81a][Chicken, potatoes, green beans]]
+   - [[id:68f988f0-2c01-432b-9964-71102cd309aa][Honey garlic chicken and veggies]]
+   - [[id:283a7b8b-921c-4ac9-964d-3b3db5bf6c3e][Balsamic chicken]]
+   - [[id:10fbc2d0-e29b-4f3a-a6b4-d21ad5788de4][Honey mustard chicken and potatoes]]
+   - [[id:4e390c99-ccaf-41cb-b7ce-329989145aa4][Chicken lettuce wraps]]
+   - [[id:7323d7bf-f0e0-43c9-b404-389d0638a319][Lemon garlic chicken]]
+   - [[id:dfc00b08-53ce-4183-ba63-30d62f15133e][Maple cranberry chicken]]
+   - [[id:5f4000f6-2bf0-4bba-8fa5-378a5226f954][Grilled chicken and panzella]]
+   - [[id:a33f7782-d766-47ca-97ba-5383a737f07a][Chicken alfredo primavera]]
+   - [[id:32c741ba-0cbd-41b0-8226-e2563cde3480][Apple cider chicken and sweet potatoes]]
+   - [[id:fe9f85db-a32b-4a15-941d-611fd8431efa][Pomegranate chicken and roasted acorn squash]]
+   - [[id:DC259FFE-9D93-47A8-A0C3-726FD843D7B3][Green goddess sheet pan chicken and veggies]]
+   - [[id:ad713304-de4b-4c47-b1a4-003bd86493e3][One-skillet lemon chicken orzo]]
+   - [[id:527dd367-6200-448e-b53d-0ea5e8a8b3fe][Sun-dried tomato chicken and farro]]
+   - [[id:273849b8-c102-4b9c-ae83-76c8b2e521b2][Skillet lemon pepper chicken and garden veggies]]
+	 
+*** Indian
+
+	- [[id:e7608069-bc4f-4efe-a4cb-74b46e695f8a][Chicken tikka masala]]
+	- [[id:6c9d397b-454c-41e8-8de6-50a4d1e0a37a][Butter chicken]]
+
+*** East Asian
+
+	- [[id:cbced30e-6bd5-401c-b817-3691b3bce89f][Chicken lo mein]]
+	- [[id:c1c18351-62cb-4071-91e0-198021d684db][Pad Thai]]
+	- [[id:846f8be8-4164-41e8-8c84-721d44e3ab2e][Chicken fried rice]]
+
+** Pork
   
-    - [[file:_recipes/lasagna.md][Lasagna]]
-    - [[file:_recipes/farfalle-tomato-feta-balsamic.md][Farfalle, tomato, feta, and balsamic]]
-    - [[file:_recipes/basil-tomato-orzo.md][Basil and tomato orzo]]
-    - [[file:_recipes/peanut-butter-noodles.md][Peanut butter noodles]]
-    - [[file:_recipes/garlic-pepper-pasta.md][Aglio, olio, e peperoncino]]
-    - [[file:_recipes/linguine-zucchini-prawns.md][Linguine, zucchine, e gamberetti]]
-    - [[file:_recipes/pasta-al-ragu.md][Pasta al ragù]]
-    - [[file:_recipes/chicken-tetrazzini.md][Chicken tetrazzini]]
-    - [[file:_recipes/broccoli-ham-macaroni-cheese.md][Broccoli, ham, macaroni, and cheese]]
-    - [[file:_recipes/roasted-spaghetti-squash.md][Roasted spaghetti squash]]
-  
-  - [[][Soups]]
-  
-    - [[file:_recipes/african-peanut-stew.md][African peanut stew]]
-    - [[file:_recipes/beef-stew.md][Beef stew]]
-    - [[file:_recipes/beet-apple-soup.md][Beet and apple soup]]
-    - [[file:_recipes/broccoli-cheddar-soup.md][Broccoli and cheddar soup]]
-    - [[file:_recipes/carrot-ginger-soup.md][Carrot ginger soup]]
-    - [[file:_recipes/chili.md][Chili]]
-    - [[file:_recipes/cream-tomato-soup.md][Cream of tomato soup]]
-    - [[file:_recipes/french-onion-soup.md][French onion soup]]
-    - [[file:_recipes/hamburger-soup.md][Hamburger soup]]
-    - [[file:_recipes/lentil-soup.md][Lentil soup]]
-    - [[file:_recipes/tomato-spinach-tortellini-soup.md][Tomato spinach tortellini soup]]
-    - [[file:_recipes/tortellini-sausage-soup.md][Tortellini sausage soup]]
-  
-  - [[][Beef]]
-  
-    - [[file:_recipes/steak.md][Steak]]
-    - [[file:_recipes/pot-roast.md][Pot roast]]
-    - [[file:_recipes/beef-stroganoff.md][Beef stroganoff]]
-    - [[file:_recipes/stuffed-peppers.md][Stuffed peppers]]
-    - [[file:_recipes/shepherds-pie.md][Shepherd's pie]]
-    - [[file:_recipes/beef-macaroni.md][Beef macaroni]]
-  
-  - [[][Chicken]]
-  
-    - [[file:_recipes/chicken-breasts.md][Chicken breasts]]
-    - [[file:_recipes/butter-chicken.md][Butter chicken]]
-    - [[file:_recipes/chicken-chickpea-tray-bake.md][Chicken chickpea tray bake]]
-    - [[file:_recipes/pad-thai.md][Pad Thai]]
-    - [[file:_recipes/chicken-potatoes-green-beans.md][Chicken, potatoes, green beans]]
-    - [[file:_recipes/honey-garlic-chicken-veggies.md][Honey garlic chicken and veggies]]
-    - [[file:_recipes/balsamic-chicken.md][Balsamic chicken]]
-    - [[file:_recipes/chicken-fried-rice.md][Chicken fried rice]]
-    - [[file:_recipes/honey-mustard-chicken-potatoes.md][Honey mustard chicken and potatoes]]
-    - [[file:_recipes/chicken-lo-mein.md][Chicken lo mein]]
-    - [[file:_recipes/chicken-lettuce-wraps.md][Chicken lettuce wraps]]
-    - [[file:_recipes/lemon-garlic-chicken.md][Lemon garlic chicken]]
-    - [[file:_recipes/maple-cranberry-chicken.md][Maple cranberry chicken]]
-    - [[file:_recipes/grilled-chicken-panzella.md][Grilled chicken and panzella]]
-    - [[file:_recipes/chicken-alfredo-primavera.md][Chicken alfredo primavera]]
-    - [[file:_recipes/apple-cider-chicken.md][Apple cider chicken]]
-    - [[file:_recipes/pomegranate-chicken-squash.md][Pomegranate chicken and roasted acorn squash]]
-  
-  - [[][Pork]]
-  
-    - [[file:_recipes/pork-tenderloin-potatoes-beans.md][Brown sugar pork tenderloin, potatoes, and green beans]]
-    - [[file:_recipes/mustard-glazed-pork-tenderloin.md][Mustard-glazed pork tenderloin]]
+   - [[id:6aea2628-eefd-490b-b1a2-a6c20ea431c1][Brown sugar pork tenderloin, potatoes, and carrots]]
+   - [[id:fb211f75-e0da-49e0-86b5-73e6bad42eff][Mustard-glazed pork tenderloin]]
+   - [[id:25673c3f-cf8c-4aa0-97b0-3706c349e990][Balsamic pork chops with tomatoes]]
+   - [[id:0f4b52b1-b418-4f62-89f4-b6e720c3dbcf][Pork chops, apples, and onions]]
+
+** Lamb
+   
+   - [[id:b21c47bb-19f3-4830-bebe-23aa791c6cd3][Lamb chops with rosehip, fig, and green olives]]
 
 * Desserts
 
-  - [[][Sweets]]
-  
-    - [[file:_recipes/reeses-peanut-butter-bars.md][Reese's peanut butter bars]]
-    - [[file:_recipes/peanut-butter-fudge.md][Peanut butter fudge]]
-    - [[file:_recipes/gingersnaps.md][Gingersnaps]]
-  
-  - [[][Doughnuts]]
-  
-    - [[file:_recipes/birthday-doughnuts.md][Birthday doughnuts]]
-    - [[file:_recipes/glazed-guinness-chocolate-doughnuts.md][Glazed Guinness Chocolate Doughnuts]]
-  
-  - [[][Muffins]]
-  
-    - [[file:_recipes/pumpkin-muffins.md][Pumpkin muffins]]
-  
-  - [[][Pies]]
-  
-    - [[file:_recipes/apple-pie.md][Apple pie]]
-  
-  - [[][Cakes]]
-  
-    - [[file:_recipes/custard-berry-cake.md][Custard berry cake]]
-  
-  - [[][Fruit]]
-  
-    - [[file:_recipes/chocolate-covered-strawberries.md][Chocolate covered strawberries]]
+  - [[id:4206efbc-7548-4032-8538-250423cd96bc][Peanut Butter Fudge]]
+  - [[id:d3cf4b2c-7406-418e-987e-c9e6ff60554d][Chocolate covered strawberries]]
+  - [[id:25cdfee7-78f3-4317-8d67-bb1584ac4795][Rhubarb, bay leaf, and frangipane galette]]
+
+** Pies & tarts
+
+   - [[id:c3ebe194-8f36-4ecb-be77-f4deda1a847f][Apple pie]]
+
+** Doughnuts
+
+   - [[id:76f35591-1d4a-4935-a8dd-6f708b383656][Birthday doughnuts]]
+   - [[id:f612dbd9-e405-4aa4-b1ce-6d176a09036f][Glazed Guinness chocolate doughnuts]]
+
+** Cakes & muffins
+
+   - [[id:dbd6903d-ec7d-43ed-8367-ffa6031e2faa][Custard and Berry Cake]]
+   - [[id:8d0c3c2e-aa89-4312-a6a8-69ca18535375][Pumpkin muffins]]
+   - [[id:4a12a3dc-cbe2-4504-bf36-391568d9dcd2][Winter spiced oatcakes]]
+
+** Cookies
+
+   - [[id:f2c39994-b2bc-4290-932e-60bd6755377e][Gingersnaps]]
+   - [[id:2a3fb570-8886-4f64-bacb-a1ae75b12e49][Mulberry-stained meringue cookies]]
+
+** Bars & shortbread
+
+   - [[id:00775440-d6ea-4f3f-bf8f-7dc4f722bd27][Millionaire Shortbread]]
+   - [[id:74b000a8-34d9-4167-b210-847a2292e965][Reese's Peanut Butter Bars]]
 
 * Beverages
 
-  - [[][Bases]]
-  
-    - [[file:_recipes/simple-syrup.md][Simple syrup]]
-  
-  - [[][Virgin]]
-  
-    - [[file:_recipes/banana-honey-smoothie.md][Banana honey smoothie]]
-    - [[file:_recipes/apple-cider.md][Apple cider]]
-    - [[file:_recipes/peanut-butter-fruit-smoothie.md][Peanut butter fruit smoothie]]
-    - [[file:_recipes/frozen-berry-smoothie.md][Frozen berry fruit smoothie]]
-    - [[file:_recipes/london-fog.md][London fog]]
-  
-  - [[][Alcoholic]]
-  
-    - [[file:_recipes/777.md][777]]
-    - [[file:_recipes/aperol-spritz.md][Aperol spritz]]
-    - [[file:_recipes/bacardi-cocktail.md][Bacardi cocktail]]
-    - [[file:_recipes/black-manhattan.md][Black Manhattan]]
-    - [[file:_recipes/bramble.md][Bramble]]
-    - [[file:_recipes/bourbon-smash.md][Bourbon smash]]
-    - [[file:_recipes/cinnamon-maple-whiskey-sour.md][Cinnamon maple whiskey sour]]
-    - [[file:_recipes/crema-corretto.md][Crema corretto]]
-    - [[file:_recipes/dark-and-stormy.md][Dark and stormy]]
-    - [[file:_recipes/el-presidente.md][El Presidente]]
-    - [[file:_recipes/floradora.md][Floradora]]
-    - [[file:_recipes/gin-fizz.md][Gin fizz]]
-    - [[file:_recipes/kahlua-hot-chocolate.md][Kahlua hot chocolate]]
-    - [[file:_recipes/lynchburg-lemonade.md][Lynchburg lemonade]]
-    - [[file:_recipes/manhattan.md][Manhattan]]
-    - [[file:_recipes/margarita.md][Margarita]]
-    - [[file:_recipes/martini.md][Martini]]
-    - [[file:_recipes/moscow-mule.md][Moscow mule]]
-    - [[file:_recipes/negroni.md][Negroni]]
-    - [[file:_recipes/paper-plane.md][Paper plane]]
-    - [[file:_recipes/rum-old-fashioned.md][Rum old fashioned]]
-    - [[file:_recipes/scofflaw.md][Scofflaw]]
-    - [[file:_recipes/strawberry-daiquiri.md][Strawberry daiquiri]]
-    - [[file:_recipes/tequila-sunrise.md][Tequila sunrise]]
-    - [[file:_recipes/tom-collins.md][Tom Collins]]
-    - [[file:_recipes/treacle.md][Treacle]]
-    - [[file:_recipes/white-lady.md][White lady]]
-    - [[file:_recipes/whiskey-sour.md][Whiskey sour]]
+** Bases
 
-* On deck
+   - [[id:75f762b8-3f89-47ac-bde8-284a3506cd74][Simple syrup]]
+   - [[id:2cdbdaf1-6b37-4341-ad1e-92a41507bc86][Cinnamon simple syrup]]
+   - [[id:92eb3d11-b856-4fd4-bdc2-6964e675a9ab][Spiced pear syrup]]
+   - [[id:d58a9b88-026c-4831-b116-b856947b96ad][Spiced honey syrup]]
+  
+** Smoothies
 
-  - [[][Breads]]
+   - [[id:dbb589e8-c721-4a09-a7a9-f421124b9ef0][Banana honey smoothie]]
+   - [[id:66eef9c0-ebca-432d-9497-3ae382c463ad][Peanut butter fruit smoothie]]
+   - [[id:bba6702f-f5c9-42da-b79d-3c24ca19799e][Frozen berry smoothie]]
+   - [[id:66343afe-8f81-4b74-8c15-f491ccbd492c][Cheerful chocolate smoothie]]
+   - [[id:9ba0fbaf-2aaf-4a3a-9a8b-96440e201951][Green monster]]
+   - [[id:c7a07b02-9be9-4ee1-9228-4d26ce336a45][Gym rat]]
+
+** Warmers
+
+   - [[id:eacc9fe4-02af-4d91-b528-170d08124181][Apple cider]]
+   - [[id:91e2db24-5fe2-43cf-b496-52c469f686fc][London fog]]
   
-    - [[file:_recipes/garlic-bread.md][Garlic bread]]
+** Coffee
+
+   - [[id:162A6A0B-B4E9-4821-8D61-A1066B7313D9][Brown sugar oat milk shaken espresso]]
+   - [[id:10d825fe-da4b-487a-b9bd-4e7c4f5c951f][Caffe shakerato]]
+
+** Alcoholic
   
-  - [[][Vegetarian]]
-  
-    - [[file:_recipes/green-curry-tofu-cashews.md][Green curry, tofu, and cashews]]
-  
-  - [[][Lamb]]
-  
-    - [[file:_recipes/lamb-chops-rosehip-fig-olives.md][Lamb chops with rosehip, fig, and olives]]
-  
-  - [[][Alcoholic]]
-  
-    - [[file:_recipes/paperino.md][Paperino]]
-    - [[file:_recipes/capo-americano.md][Capo Americano]]
+*** Cognacs
+
+	- [[id:2aa36757-92a7-45ce-bcec-0c280c2d3dea][Harvard]]
+	- [[id:fc5d4acd-c852-490b-8a53-ae522baf03a6][Sidecar]]
+	- [[id:84a01ada-7025-481b-aaeb-d2fc3d3fd5ed][Sundowner]]
+
+*** Gins
+
+	- [[id:e30bcfdb-a003-43fb-b6fc-1a934dfc33a9][The 850]]
+	- [[id:a340d171-c7bb-438f-8b50-61595cdc9532][Floradora]]
+	- [[id:40935080-1806-4c82-9a68-792e63c43749][Gin fizz]]
+	- [[id:8b4255b6-540e-4a33-9121-529cdfd46d1a][L'alchimiste]]
+	- [[id:0d4e7424-6f00-4e9e-93c5-f50ce506aebc][Tom Collins]]
+	- [[id:da886a29-5d47-4804-bdc3-893e28441fbc][White Lady]]
+	- [[id:1bd0af37-7dee-4e34-ab1e-3550dfd67899][Bramble]]
+	- [[id:498e6f65-985f-469c-995d-c3ca2a77ee69][Martini]]
+	- [[id:46f16e9c-48d4-408d-8874-6c1ed9353dfe][Negroni]]
+
+*** Liqueurs
+
+	- [[id:288a18a1-4ada-41a2-9183-922982ed4d35][Capo Americano]]
+	- [[id:5298d22a-2d03-4a9e-943c-3861a4e4c485][Carajillo]]
+	- [[id:9b560859-5156-4436-a2c3-c0b9806e2816][Carajillo shakerato]]
+	- [[id:8c5da0e0-07a4-4548-91a5-777805112476][Kir Royale]]
+	- [[id:e9b4fc06-b993-41b5-a66a-c55e771a4e1d][Aperol spritz]]
+	- [[id:4144a50c-5728-41a9-b199-be269936b438][Paperino]]
+	- [[id:515451ea-9e8c-4128-98e8-785c73b576a5][Kahlua Hot Chocolate]]
+	- [[id:f0c0f430-b0a2-40ca-aab2-1006c94100d9][Crema corretto]]
+
+*** Rums
+
+	- [[id:5d6316fb-e7fb-4d50-8f09-90008349c830][Dark and stormy]]
+	- [[id:db208014-0a94-4026-b361-d6ddeb9ae27d][Bacardi cocktail]]
+	- [[id:155fba4d-75b2-40bc-b7a1-058400f98d04][Classic daiquiri]]
+	- [[id:f40cbe20-3028-492e-a9bd-dc496e5e0ecd][Spiced daquiri]]
+	- [[id:1d2fb554-5d19-4e20-8b40-2c2c43ac0e15][Strawberry daiquiri]]
+	- [[id:a09a2f37-efc6-4e9a-9451-aa1b803050af][Labyrinth]]
+	- [[id:3a707ccd-7a7f-450b-ab27-2a3a6524b345][Treacle]]
+	- [[id:e28aa207-400b-4bb5-a16b-584a6b5bd5c0][Rum Old-Fashioned]]
+	- [[id:e604ca69-fc4d-4876-a922-9c4b2bbb2b40][El Presidente]]
+
+*** Tequilas
+
+	- [[id:97ee542c-a8da-42c5-8532-c552ae4c97b9][Rude Cosmopolitan]]
+	- [[id:0c786a2b-6f7b-40ef-aa88-15fe515e23b2][El Diablo]]
+	- [[id:2b5d35e5-cee4-4727-b616-454eff7e525a][Tequila sunrise]]
+	- [[id:4c0c11a0-b830-4430-a685-d3c2e180f141][Tequila sour]]
+	- [[id:674ed0c9-dab0-40a1-b6cf-9f8a95c45b0a][Margarita]]
+*** Vodkas
+
+	- [[id:9a8f9602-f588-416a-b954-d04359128a6c][Bay Breeze]]
+	- [[id:071b12f6-53a0-47ef-b1a8-6821f49d1e6a][White Russian]]
+	- [[id:402ef3d6-8451-454f-9d40-3b954e91258a][Moscow mule]]
+	- [[id:4ff96e79-ed69-4078-bffe-ab9f9d6ddf95][Espresso martini]]
+
+*** Whiskeys
+
+	- [[id:0ccc9ddd-0aa1-4295-8246-cded8a3e6874][Bourbon Smash]]
+	- [[id:7c43c5f1-75f2-439c-b33d-54dd769e9d42][Cinnamon maple whiskey sour]]
+	- [[id:01a42507-3a09-4990-8656-a9c25fc2e48c][777]]
+	- [[id:7b7a68fa-1f89-4bec-8dba-0b788c6d44b5][Black Manhattan]]
+	- [[id:41ada254-5bc9-4a7b-b225-a50b2c27c457][Fall sangria]]
+	- [[id:e41b05e6-a985-4fd8-b28f-877000af7d68][Irish coffee]]
+	- [[id:fcc78e85-368c-4d0c-86f9-c57178f6568c][Rob Roy]]
+	- [[id:dd73d051-81bd-4dfc-80ec-975cc93f8650][Scofflaw]]
+	- [[id:34855089-f165-4ee3-826e-77ab380d0cef][Spiced pear and bourbon]]
+	- [[id:cc3dd554-76f5-4cee-b7ce-0e468fe5e375][Toronto]]
+	- [[id:0d590a3e-a370-4245-9f36-dadcc9a23560][The Erica]]
+	- [[id:09ae0265-884c-4b8f-959f-c494caa706a6][Whiskey sour]]
+	- [[id:9c410fa8-6a5d-4798-8ccf-5eea1f8264c6][Paper plane]]
+	- [[id:7227861b-820e-4e27-a6bb-1748cabb20a9][Manhattan]]
+	- [[id:0ba2596b-f0bf-4084-824b-41be1d114b7d][Lynchburg lemonade]]
+
