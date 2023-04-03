@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       83ff3b6c-c8dc-4643-a0b9-5a1ebf1236c7
+:END:
+#+TITLE: French-style omelette
+#+DATE: [2023-01-08 Sun 16:58]
+#+LAST_MODIFIED: [2023-03-12 Sun 11:24]
+#+FILETAGS: :breakfast:lunch:recipes:
+
+| Info      | Amount    |
+|-----------+-----------|
+| Prep Time | 2 min     |
+| Cook Time | 5 min     |
+| Yields    | 1 serving |
+
+* Ingredients
+
+  | Quantity | Item       |
+  |----------+------------|
+  | 1 tsp    | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]     |
+  | 3        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][eggs]]       |
+  | 1 pinch  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]] |
+  |          | [[id:4a640bfd-1c57-4159-af05-12f6dfc43346][chives]] or [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onion]]       |
+
+* Directions
+
+  1.
+
+* References & Notes
+

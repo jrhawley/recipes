@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       beef7655-31d7-4f59-8ded-13fec39d7dd4
+:END:
+#+TITLE: Quesadillas
+#+DATE: [2023-01-28 Sat 16:02]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:29]
+#+FILETAGS: :wraps:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 15 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item |
+  |----------+------|
+  |        |      |
+
+* Directions
+
+  1.
+
+* References & Notes
+

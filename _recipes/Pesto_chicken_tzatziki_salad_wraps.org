@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       e5ba1277-bdfe-4c2e-b618-b778da466985
+:END:
+#+TITLE: Pesto chicken tzatziki salad wraps
+#+DATE: [2023-03-28 Tue 18:18]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:28]
+#+FILETAGS: :chicken:wraps:recipes:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 30 min |
+| Cook Time | 30 min |
+| Yields    | 6 wraps |
+
+* Ingredients
+
+  | Quantity | Item |
+  |----------+------|
+  |        |      |
+
+* Directions
+
+  1.
+
+* References
+
+  1. Original recipe: [[https://www.halfbakedharvest.com/wprm_print/143715][Half-Baked Harvest]]
+
+* Footnotes
