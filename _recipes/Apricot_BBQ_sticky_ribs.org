@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       433e5206-86d9-403b-a371-d597b403e56e
+:END:
+#+TITLE: Apricot BBQ sticky ribs
+#+DATE: [2023-03-12 Sun 09:36]
+#+LAST_MODIFIED: [2023-04-02 Sun 18:50]
+#+FILETAGS: :beef:entree:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 1 day      |
+| Cook Time | 1 h 20 min |
+| Yields    | 6 servings |
+
+* Ingredients
+
+  | Quantity | Item                                      |
+  |----------+-------------------------------------------|
+  | 1.8 kg   | [[id:faff597b-a221-4f45-b3f7-0c226e35d5bd][beef back ribs]]                            |
+  | 4        | ripe [[id:04a64aef-675f-4002-a08e-d4d0c47c33c2][apricots]], stoned and roughly chopped |
+  | 1/2 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                                 |
+  | 1/4 cup  | [[id:7a9bbd87-4f90-4c59-8bb1-e1bdcdffceb3][canola oil]]                                |
+  | 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                            |
+  | 1/4 cup  | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                                     |
+  | 3 Tbsp   | [[id:00a48416-bb29-468a-9498-dacf8e0491ba][Dijon mustard]]                             |
+  | 3 Tbsp   | [[id:f166ad76-3c07-43ce-a9fa-826590535b84][balsamic vinegar]]                          |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                               |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                                          |
+
+* Directions
+
+  1. Season the ribs with salt and place in a plastic bag
+	 1. Place the apricots, olive and canola oils, garlic, honey, mustard, balsamic vinegar, salt, and pepper into a blender and blend on high until a smooth sauce has formed
+	 2. Pour the sauce over the ribs in the plastic bag, seal, and rub to coat the ribs in the sauce
+	 3. Marinate the ribs for 6 - 24 h in the refrigerator
+  2. Preheat a well-oiled grill to 120 C (250 F)
+	 1. Wipe excess marinade off the ribs
+	 2. Place ribs on the grill, then close the grill and cook the ribs for 1 h 20 min, flipping every 20 min
+	 3. Cook until the ribs have an internal temperature of at least 71 C (160 F), or 88 C (190 F) if you want fall-off-the-bone
+  3. Transfer the ribs to a cutting board, tent with foil, and let rest for 5 min before serving
+
+* References
+
+  1. Original recipe: Peak Season
+

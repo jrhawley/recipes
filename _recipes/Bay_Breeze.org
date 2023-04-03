@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       9a8f9602-f588-416a-b954-d04359128a6c
+:END:
+#+TITLE: Bay Breeze
+#+DATE: [2023-02-09 Thu 18:42]
+#+LAST_MODIFIED: [2023-04-01 Sat 11:38]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 0 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item                        |
+  |----------+-----------------------------|
+  | 3/2 oz   | [[id:ff705bb2-5bd0-49aa-8ed4-4680996fafe0][pineapple juice]]             |
+  | 1 oz     | [[id:4afa8dad-f20f-409e-a016-7f119bafbace][vodka]]                       |
+  | 3 oz     | [[id:fa7b1423-d495-4466-ba80-f3685503543e][cranberry juice]]             |
+  | 1 tsp    | [[id:75f762b8-3f89-47ac-bde8-284a3506cd74][simple syrup]] or [[id:716dd7d0-46db-4224-9391-75b5eaad5cfd][maple syrup]] |
+  | 1        | [[id:3eeb40b4-7420-4c99-8a55-6c3e0193dfaa][lime wedge]], garnish         |
+
+* Directions
+
+  1. Add pineapple juice and vodka to a glass and stir.
+  2. Fill the glass with ice.
+  3. In a separate small glass, stir the cranberry juice and syrup.
+  4. To ensure the layered look, tip the ice-filled glass slightly and slowly pour the cranberry juice along the side of the glass.
+  5. Garnish with a lime wedge and serve.
+
+* References
+
+  1. Original recipe: [[https://www.acouplecooks.com/bay-breeze-cocktail/print/52307/][A Couple Cooks]]
+
+

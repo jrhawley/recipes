@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       61817744-4a06-47bb-923b-a4b416a6410f
+:END:
+#+TITLE: Goddess bowl
+#+DATE: [2023-03-19 Sun 10:18]
+#+LAST_MODIFIED: [2023-03-25 Sat 11:11]
+#+FILETAGS: :vegetarian:salads:recipes:
+
+| Info      | Amount         |
+|-----------+----------------|
+| Prep Time | 30 min         |
+| Cook Time | 1 h            |
+| Yields    | 4 - 6 servings |
+
+* Ingredients
+
+** Dressing
+
+   | Quantity | Item                   |
+   |----------+------------------------|
+   | 1/4 cup  | [[id:0f07f0ef-525c-4456-a534-c58bcf2c1e02][tahini]]                 |
+   | 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]                 |
+   | 1/2 cup  | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]] (2 lemons) |
+   | 1/4 cup  | [[id:f70a5670-bf7f-4058-a1c9-cf83ab7d08bb][nutritional yeast]]      |
+   | 3 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]              |
+   |          | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]          |
+   |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]           |
+
+** Salad
+
+   | Quantity | Item                      |
+   |----------+---------------------------|
+   | 1 cup    | [[id:c66d521a-7e0c-4db2-982d-c996aeef49b7][lentils]]                   |
+   | 1 cup    | [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]], uncooked          |
+   | 3/2 tsp  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                 |
+   | 1        | small [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]], chopped  |
+   | 3 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced            |
+   | 1        | [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell pepper]], chopped      |
+   | 1        | [[id:062adc0a-d992-4452-a4fb-8010d2b4a0db][beefsteak tomato]], chopped |
+   | 3 cup    | [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]], roughly chopped  |
+   | 1/2 cup  | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], minced           |
+
+* Directions
+
+  1. In a food processor, combine all the dressing ingredients and blend until smooth
+  2. Cook the lentils and quinoa according to instructions, if necessary
+  3. In a large skillet, heat the olive oil over medium heat
+	 1. Add the onion and garlic, sauteeing for a few min
+	 2. Add the pepper and tomato, cooking for 7 - 8 min more
+	 3. Stir in the spinach and cook until wilted
+  4. Stir in the dressing and cooked lentils and spelt
+	 1. Reduce heat to low and simmer for a few min
+  5. Top with minced parsley, then season with salt and pepper to taste before serving
+
+* References
+
+  1. Original recipe: [[id:ed80ba22-bc45-46e7-893a-f5bcaf777b70][The Oh She Glows Cookbook]]
+

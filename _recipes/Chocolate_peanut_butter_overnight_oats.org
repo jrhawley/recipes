@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       349fe98a-cae6-4b2f-a3b5-85472f618f48
+:END:
+#+TITLE: Chocolate peanut butter overnight oats
+#+DATE: [2023-03-21 Tue 23:16]
+#+LAST_MODIFIED: [2023-03-21 Tue 23:21]
+#+FILETAGS: :breakfast:recipes:
+
+| Info       | Amount    |
+|------------+-----------|
+| Prep Time  | 5 min     |
+| Chill Time | 4 h       |
+| Yields     | 1 serving |
+
+* Ingredients
+
+  | Quantity | Item                  |
+  |----------+-----------------------|
+  | 1/2 cup  | [[id:6107efce-a8eb-421d-a8c6-725e38345a3e][oats]]                  |
+  | 2-3 tsp  | [[id:6e61a7f2-b5a0-4740-9cc0-c915469ee602][peanut butter]]         |
+  | 1 tsp    | [[id:050ad5a8-b270-4ae7-874b-8a4a99887a80][cocoa powder]]          |
+  | 1 tsp    | [[id:924ad22d-2f73-4def-b12f-f0133df00ff1][vanilla extract]]       |
+  | 2 tsp    | [[id:716dd7d0-46db-4224-9391-75b5eaad5cfd][maple syrup]] or [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]  |
+  | 1/2 cup  | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]                  |
+  | 1 tsp    | [[id:3caba7a8-7972-4cbb-ac09-a68d7d2e5176][chia seeds]] (optional) |
+
+* Directions
+
+  1. Combine all ingredients in small jar or bowl that can be sealed
+  2. Stir well and then cover
+  3. Refrigerate overnight 
+
+* References
+
+  1. Original recipe: [[https://lemonsandzest.com/wprm_print/9801][Lemons and Zest]]
+

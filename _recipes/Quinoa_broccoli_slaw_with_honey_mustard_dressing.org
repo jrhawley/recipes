@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       b50ee862-9005-42e4-9211-8c0428090d9e
+:END:
+#+TITLE: Quinoa broccoli slaw with honey mustard dressing
+#+DATE: [2023-03-12 Sun 19:36]
+#+LAST_MODIFIED: [2023-03-12 Sun 19:46]
+#+FILETAGS: :entree:vegetarian:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 20 min     |
+| Cook Time | 20 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item                         |
+  |----------+------------------------------|
+  | 3/4 cup  | [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]], uncooked             |
+  | 3/2 cup  | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                        |
+  | 1/2 cup  | [[id:00425ad7-8422-472e-b161-e83bd670ec76][almonds]], slivered            |
+  | 4 heads  | [[id:dfedd038-479e-42e5-9995-bd0beeea0dd4][broccoli]]                     |
+  | 1/3 cup  | [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]], chopped               |
+  | 1/2 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                    |
+  | 2 Tbsp   | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]                  |
+  | 2 Tbsp   | [[id:00a48416-bb29-468a-9498-dacf8e0491ba][Dijon mustard]]                |
+  | 1 Tbsp   | [[id:9557565b-cbae-4bc7-bac6-d3e8ee9b3e6b][apple cider vinegar]]          |
+  | 1 Tbsp   | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                        |
+  | 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced               |
+  | 1/2 tsp  | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][sea salt]]                     |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                 |
+  |          | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]] (optional) |
+
+* Directions
+
+  1. First, rinse the quinoa in a fine mesh colander under running water
+	 1. In a medium-sized pot, combine the rinsed quinoa and 3/2 cups water
+	 2. Bring the mixture to a gentle boil over medium heat, then reduce the heat to medium-low and gently simmer the quinoa until it has absorbed all of the water
+	 3. Remove the quinoa from heat, cover the pot and let it rest for 5 min
+	 4. Uncover the pot and fluff the quinoa with a fork
+	 5. Set it aside to cool
+  2. Meanwhile, toast the almonds in a small skillet over medium heat, until fragrant
+	 1. Transfer to a large serving bowl to cool
+  3. To prepare the broccoli, trim off any brown bits from the florets and stems, then slice the florets off the stems into manageable pieces
+	 1. Use a paring knife to peel off the tough, woody perimeter of the broccoli stems and then discard
+	 2. Feed the broccoli florets through your food processor using the slicing blade, then switch to the grating blade to shred the stems
+  4. Combine all of the dressing ingredients in a liquid measuring cup and whisk until emulsified [fn:1]
+  5. Add the shredded broccoli slaw, cooked quinoa and chopped basil to your large serving bowl
+	 1. Pour the dressing over the mixture and toss until well mixed
+	 2. Let the slaw rest for about 20 min to let the flavors meld
+
+* References
+
+  1. Original recipe: [[https://cookieandkate.com/quinoa-broccoli-slaw-recipe/print/23831/][Cookie and Kate]]
+
+* Footnotes
+
+  [fn:1]  The dressing should be pleasantly tangy and pack a punch.
+          If it's overwhelmingly acidic, add a little more honey to balance out the flavors.
+          If it needs more kick, add a bit more mustard or lemon juice.

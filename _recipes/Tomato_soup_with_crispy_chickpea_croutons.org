@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       27e4eb7c-8a71-42db-8910-904a9e64e27c
 :END:
-#+TITLE: Cream of tomato soup
+#+TITLE: Tomato soup with crispy chickpea croutons
 #+DATE: [2018-04-07]
-#+LAST_MODIFIED: [2022-11-12 Sat 21:50]
-#+FILETAGS: :recipes:vegetarian:vegan:lunch:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 20:44]
+#+FILETAGS: :soups:recipes:vegetarian:vegan:lunch:entree:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -12,7 +12,7 @@
 | Cook Time | 15 min     |
 | Yields    | 4 servings |
 
-#+CAPTION: Cream of tomato soup
+#+CAPTION: Tomato soup with crispy chickpea croutons
 [[../_assets/cream-tomato.jpg]]
 
 * Ingredients
@@ -54,7 +54,7 @@
 
 * Directions
 
-  1.  Preheat the oven to 425 F (220 C)
+  1.  Preheat the oven to 220 C (425 F)
   2.  Remove skins from the chickpeas
       1. Line a large rimmed baking sheet with paper towels
       2. Place the chickpeas on the paper towels and place a couple paper towels on top
@@ -78,5 +78,5 @@
 
 * References & Notes
 
-1. [[http://www.styleathome.com/food-and-drink/recipes/article/recipe-cream-of-tomato-soup-with-roasted-italian-chickpea-croutons][Original recipe]]
+  1. [[http://www.styleathome.com/food-and-drink/recipes/article/recipe-cream-of-tomato-soup-with-roasted-italian-chickpea-croutons][Original recipe]]
 

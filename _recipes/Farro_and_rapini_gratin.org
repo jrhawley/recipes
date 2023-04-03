@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       430b5ff9-e3ff-422b-8210-16365b849776
+:END:
+#+TITLE: Farro and rapini gratin
+#+DATE: [2022-12-31 Sat 13:12]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:23]
+#+FILETAGS: :bowls:vegetarian:entree:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 45 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item                        |
+  |----------+-----------------------------|
+  | 3 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]], divided          |
+  | 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][white onion]], finely chopped |
+  | 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]                  |
+  | 3/2 cup  | [[id:71c7467f-a428-4816-b62b-d8f731afbada][farro]]                       |
+  | 5/2 cup  | water                       |
+  | 2 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]             |
+  | 1/2 cup  | [[id:77920ac4-23a6-41c9-8fb4-c8d7edb7ea8b][Panko bread crumbs]]          |
+  | 1/4 cup  | [[id:08ead7d8-5abe-4541-b18f-b68d991083a0][parmesan]], grated            |
+  | 454 g    | [[id:56d96173-1dab-460a-8859-88487c93fd77][rapini]]                      |
+  | 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced              |
+  | 1/8 tsp  | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]]           |
+  | 15 oz    | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]]                   |
+  | 3/4 cup  | [[id:ad9aeb4e-4928-4086-b9a0-6acdbaedb591][sun-dried tomatoes]]          |
+
+* Directions
+
+  1. Heat 1 Tbsp of oil in a large saucepan over medium heat until shimmering.
+	 1. Add onion and salt, sauteeing until softened and lighly browned (5 - 7 min).
+	 2. Stir in farro, stirring occassionally, until lightly toasted (2 min).
+	 3. Stire in water and broth and bring to a simmer.
+	 4. Cooking, stirring often, until farro is tender and remaining liquid has thickening to a creamy sauce (25 - 35 min).
+  2. While farro is cooking:
+	 1. Toss bread crumbs with 1 Tbsp of oil in a bowl and microwave until golden brown (1 - 2 min).
+	 2. Stir in parmesan and set aside.
+  3. Bring water to a boil in a large pot.
+	 1. Add rapini and 1 Tbsp salt and cook until just tender (2 min).
+	 2. Drain and set aside.
+	 3. Combine remaining 1 Tbp of oil, garlic, and pepper flakes in the now-empty pot and cook over medium heat until gragrant and sizzling (1 - 2 min).
+	 4. Stir in reserved rapini and cook until hot and well-coated (2 min).
+  4. Remove from heat and add beans, tomatoes, and farro mixture once done cooking.
+	 1. Season with salt and pepper to taste.
+  5. Adjust oven rack 30 cm from broiler and heat.
+	 1. Transfer farro mixture to a 13"x9" broiler-safe dish and sprinkle with bread crumbs.
+	 2. Broil the mixture until lightly browned and hot (1 - 2 min).
+	 3. Serve.
+
+* References & Notes
+
+  1. The Cooking School Cookbook: Advances Fundamentals
+

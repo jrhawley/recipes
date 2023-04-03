@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       a234e68e-3b06-4365-b3d3-bd8cf4c9c595
+:END:
+#+TITLE: Sunrise scramble with homefries and avocado toast
+#+DATE: [2023-03-18 Sat 12:43]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:33]
+#+FILETAGS: :breakfast:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 25 min     |
+| Cook Time | 30 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+** Home fries
+
+   | Quantity | Item                |
+   |----------+---------------------|
+   | 1        | large [[id:c4a7d6a1-55f7-4c1a-a28c-de8b2020b89d][russet potato]] |
+   | 1        | [[id:8f199dec-d073-44dc-9225-a8b2d33c1bd2][sweet potato]]        |
+   | 1 Tbsp   | [[id:74ca1bf4-e5d8-4e1c-89fe-fb8a82ad8249][cornstarch]]          |
+   | 1/4 tsp  | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]       |
+   | 3/2 tsp  | [[id:f0fdd31d-6bdf-4c11-8622-9d7115165301][coconut oil]]         |
+
+** Tofu scramble
+
+   | Quantity | Item                            |
+   |----------+---------------------------------|
+   | 2 tsp    | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                       |
+   | 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                  |
+   | 2        | [[id:7b7e13cf-0fb9-4dc6-a707-94bfd73417b2][shallots]]                        |
+   | 1        | [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell pepper]], finely chopped     |
+   | 2 cup    | [[id:36223b51-b988-470c-ab00-748e4a5b3e66][kale]] or [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]], finely chopped |
+   | 1 Tbsp   | [[id:f70a5670-bf7f-4058-a1c9-cf83ab7d08bb][nutritional yeast]]               |
+   | 1/4 tsp  | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]                         |
+   | 450 g    | [[id:e530156c-ec74-467a-a30c-0b7283baa2bf][tofu]], pressed                   |
+   | 1/2 tsp  | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]                   |
+   |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                    |
+   |          | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]]                                |
+
+** Avocado toast
+
+   | Quantity | Item            |
+   |----------+-----------------|
+   | 1        | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocado]], mashed |
+   | 1 slice  | [[id:7cb5311c-afae-4dca-8bc2-e3a6159709dc][bread]], toasted  |
+   |          | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]       |
+   |          | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]   |
+   |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]    |
+
+* Directions
+
+  1. Preheat oven to 220 C (425 F) and line a large rimmed baking sheet with parchment paper.
+  2. Dice the potatoes into 1 cm (1/2") chunks, or smaller pieces
+  3. In a large bowl, combine the diced potatoes, the cornstarch, and the salt and stir to combine
+	 1. Stir in the coconut oil and mix until thoroughly combined
+	 2. Spread the potatoes into an even layer on the prepared baking sheet
+	 3. Bake for 15 min, then flip the potatoes and bake for an additional 15 to 25 min
+  4. In a large wok, combine the oil, garlic, and shallots and sauté over medium-high heat for 5 - 10 min
+	 1. Add the bell pepper, kale, nutritional yeast, and smoked paprika
+	 2. Stir well and continue cooking over medium-high heat
+	 3. Crumble or finely chop the tofu and add it to the wok, stirring to combine
+	 4. Reduce the heat to medium and sauté for about 10 min
+	 5. Season with salt, black pepper, and red pepper flakes, if desired
+  5. Spread the mashed avocado on the toast
+	 1. Top with a drizzle of flaxseed oil and a sprinkle of salt, black pepper, and red pepper flakes
+  6. Plate and serve
+
+* References
+
+  1. Original recipe: [[id:ed80ba22-bc45-46e7-893a-f5bcaf777b70][The Oh She Glows Cookbook]]
+

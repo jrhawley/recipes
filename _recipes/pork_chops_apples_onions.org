@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       0f4b52b1-b418-4f62-89f4-b6e720c3dbcf
+:END:
+#+TITLE: Pork chops, apples, and onions
+#+DATE: [2022-09-19 Mon 16:31]
+#+LAST_MODIFIED: [2023-02-18 Sat 13:19]
+#+FILETAGS: :entree:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 20 min     |
+| Yields    | 3 servings |
+
+* Ingredients
+
+  | Quantity | Item               |
+  |----------+--------------------|
+  | 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]], divided |
+  | 3        | [[id:bd79e1cd-b0ac-4263-958f-59d804b99da9][pork chops]]         |
+  | 1/2 cup  | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]    |
+  | 1/4 cup  | [[id:eaf54217-f528-4d72-b1b1-4efff76983ae][whipping cream]]     |
+  | 1 tsp    | [[id:00a48416-bb29-468a-9498-dacf8e0491ba][Dijon mustard]]      |
+  | 3/2 tsp  | [[id:473555c6-ad53-42f0-9301-71ed769e25e8][rosemary]]           |
+  | 1/2 tsp  | [[id:e9291faa-bd9d-4b1d-a751-3f99f7757fc6][thyme]]              |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]        |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]       |
+  | 2        | [[id:f9ceed1b-9c02-40b0-910b-cb65cb53125d][apples]]             |
+  | 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]]              |
+
+* Directions
+
+  1. Season both sides of pork chops with kosher salt and black pepper.
+	 1. Add 1 Tbsp olive oil to large heavy bottomed pan and heat over medium-high heat.
+	 2. Add pork chops to pan and sear 3-5 min per side, or until pork chops are mostly done [fn:1].
+	 3. Remove pork chops to a plate.
+  2. In a small mixing bowl, whisk together chicken stock and mustard, set aside.
+  3. Add remaining 1 Tbsp oil to the pan, then add apples and onions.
+	 1. Cook 4 min, stirring occasionally.
+	 2. Season with salt, pepper, sage, rosemary, and thyme. Stir to combine.
+  4. Pour in stock mixture, using a wooden spoon to gently scrape the bottom of the pan.
+  5. Slide pork chops back into the pan, nestling them down in between the apples.
+	 1. Cook 2-3 minutes, until pork chops are finished cooking and liquid has reduced by half.
+
+* References
+
+  1. Inspiration: [[https://www.thechunkychef.com/one-pan-pork-chops-apples-onions/][The Chunky Chef]]
+
+* Footnotes
+
+  [fn:1] The pork will continue cooking in the sauce later.

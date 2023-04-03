@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       96ac5bb2-7926-446d-afeb-1c6156af0c73
+:END:
+#+TITLE: Tomato-braised tilapia
+#+DATE: [2023-03-19 Sun 19:53]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:34]
+#+FILETAGS: :fish:entree:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 20 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item                         |
+  |----------+------------------------------|
+  | 4 filets | [[id:89195e13-ad70-465a-a3c4-3e30a5ddc324][tilapia]]                      |
+  | 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]                         |
+  | 1 Tbsp   | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]                  |
+  | 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                    |
+  | 1        | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]], chopped           |
+  | 10 oz    | [[id:937c514a-0447-4ecd-bebb-bd5f2a09386c][diced tomatoes]]               |
+  | 3/4 cup  | [[id:26f5cd26-6d0d-4437-bda3-dde950b8855f][roasted red peppers]], chopped |
+  | 1/2 cup  | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]              |
+  | 1/4 cup  | [[id:e6fe5a89-23f4-4236-8d7f-5f5575b9719f][tomato paste]]                 |
+  | 1 tsp    | [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]                      |
+  | 1 cup    | [[id:212403bf-61d3-4590-80fc-127cf80cbea8][Jasmine rice]], uncooked       |
+
+* Directions
+
+  1. Sprinkle fillets with seasoned salt and drizzle with lemon juice
+  2. Cook rice according to instructions
+  3. In a large skillet, heat oil over medium-high heat
+     1. Add onion; cook and stir until tender
+     2. Add tomatoes, peppers, broth, tomato paste, garlic powder and oregano
+     3. Cook and stir 2 - 3 min
+  4. Place fillets over tomato mixture; cook, covered, 6-8 min or until fish flakes easily with a fork
+
+* References & Notes
+
+  1. Original recipe: [[https://www.tasteofhome.com/recipes/savory-tomato-braised-tilapia/print/][Taste of Home]]
+  2. This was an okay meal, it wasn't great.
+

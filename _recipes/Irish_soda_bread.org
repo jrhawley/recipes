@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       afd99ed2-be78-4d1e-a0b9-aea30496ea55
+:END:
+#+TITLE: Irish soda bread
+#+DATE: [2023-03-12 Sun 08:35]
+#+LAST_MODIFIED: [2023-03-12 Sun 08:43]
+#+FILETAGS: :bread:recipes:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 5 min  |
+| Cook Time | 50 min |
+| Yields    | 1 loaf |
+
+* Ingredients
+
+  | Quantity | Item                   |
+  |----------+------------------------|
+  | 2 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                  |
+  | 2 cup    | [[id:4562dcdf-b952-4042-8238-93001642a569][whole wheat flour]]      |
+  | 1 tsp    | [[id:3977eee0-56ec-42eb-af6c-6b31a703c1f6][baking soda]]            |
+  | 4 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], unsalted       |
+  | 2        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][eggs]], room temperature |
+  | 3/2 tsp  | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]            |
+  | 5/3 cup  | [[id:459dff6c-a624-4bd9-bd30-18e62a117566][buttermilk]]             |
+
+* Directions
+
+  1. Preheat the oven to 200ºC (400ºF) and generously grease a 5×9" loaf pan with butter
+  2. In a large mixing bowl, mix the all-purpose flour, whole wheat flour, and baking soda using a spatula
+	 1. Use your hands or a pastry cutter to cut the butter into the flour
+	 2. Mix until the flour feels like coarse crumbs
+  3. In a separate large mixing bowl, whisk the eggs and salt together
+	 1. Gradually pour in the buttermilk, whisking until blended
+	 2. Pour the wet ingredients into the dry ingredients and stir gently to moisten the flour
+  4. Gently fold the dough together until it is too stiff to stir and a thick, spongy dough has formed.
+	 1. Scrape the batter into the pan and push down to cover all four corners of the pan.
+  5. Bake until the bread has a firm golden-brown crust that releases easily from the pan, 45 to 55 min
+	 1. Transfer the pan to a wire rack and let it rest for 5 min
+	 2. Run a knife around the edges of the bread before turning the bread out onto a wire rack to cool at room temperature
+	 3. Serve warm with butter and jam or use to sop up your favourite soups and stews
+	 4.
+
+* References & Notes
+
+  1. Original recipe: Peak Season
+  2. Leftover bread can be stored at room temperature for up to 2 days
+
+* Footnotes

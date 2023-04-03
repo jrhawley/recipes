@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       1bfb398e-d8ff-4a66-b2e8-5a96426115d0
+:END:
+#+TITLE: Lox and pickled radish with Montreal-style bagels
+#+DATE: [2023-03-12 Sun 10:05]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:25]
+#+FILETAGS: :breakfast:lunch:recipes:
+
+| Info      | Amount         |
+|-----------+----------------|
+| Prep Time | 5 min          |
+| Cook Time | 0 min          |
+| Yields    | 2 - 4 servings |
+
+* Ingredients
+
+  | Quantity | Item                          |
+  |----------+-------------------------------|
+  | 1/2 cup  | [[id:8a8a1424-203a-4d36-b557-8c0ccb9c43a3][creme fraiche]] or [[id:d208148d-02fe-4a3d-8675-f4934bc5a298][cream cheese]] |
+  | 1 tsp    | [[id:4230599e-0748-4d34-800a-f8aecf3b4514][ground sumac]]                  |
+  | 1 tsp    | [[id:672727d8-04e2-4f91-a42f-0de22f5e6bc1][white wine vinegar]]            |
+  | 2        | Montreal-style [[id:cd7bb702-4a50-459f-9a36-b2643b7bb414][bagels]]         |
+  | 1/4 cup  | quick pickled [[id:78392e7f-0087-4dc1-9898-07d67e17b7fa][radishes]]        |
+  | 225 g    | [[id:2fd6e33a-0e6a-4a23-86d6-f36e9d231ddc][smoked salmon]]                 |
+  | 2 Tbsp   | [[id:21f0f0f4-8f74-4fad-ab4e-872276c73c88][pickled onions]]                |
+  | 3/2 Tbsp | [[id:e27d44f2-b9a3-4b4e-a4c3-c7aef4e94019][capers]]                        |
+  |          | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                     |
+  |          | fresh [[id:ed1dc225-9206-4760-a3c0-9fc7274bbd31][dill]]                    |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                  |
+
+* Directions
+
+  1. In a small mixing bowl, whisk the crème fraîche, sumac, vinegar, and salt together until well combined
+	 1. Taste and season with more salt, if needed
+	 2. Set aside for spreading and reserve any extra in a sealed container for up to 3 days
+  2. Spread the sumac crème fraîche evenly across each bagel slice
+	 1. Place four to six slices of pickled radish on each bagel and layer on the smoked salmon
+	 2. Top with pickled onions and capers
+	 3. Drizzle the bagels with olive oil
+	 4. Sprinkle with dill and season with pepper to serve
+
+* References
+
+  1. Original recipe: Peak Season
+

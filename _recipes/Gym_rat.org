@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       c7a07b02-9be9-4ee1-9228-4d26ce336a45
+:END:
+#+TITLE: Gym rat
+#+DATE: [2023-03-18 Sat 13:38]
+#+LAST_MODIFIED: [2023-03-18 Sat 13:45]
+#+FILETAGS: :smoothies:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 smoothie |
+
+* Ingredients
+
+  | Quantity | Item                  |
+  |----------+-----------------------|
+  | 1 cup    | [[id:474cf203-5b93-4773-843d-19f248a36f2b][almond milk]]           |
+  | 2 Tbsp   | [[id:6107efce-a8eb-421d-a8c6-725e38345a3e][oats]]                  |
+  | 2 - 3    | [[id:c286f712-e223-4775-80f8-dc4973d0dfb5][Medjool dates]], pitted |
+  | 1 Tbsp   | [[id:3caba7a8-7972-4cbb-ac09-a68d7d2e5176][chia seeds]]            |
+  | 1 Tbsp   | [[id:6e61a7f2-b5a0-4740-9cc0-c915469ee602][peanut butter]]         |
+  | 1/2 tsp  | [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][ground cinnamon]]       |
+  | 1/4 tsp  | [[id:924ad22d-2f73-4def-b12f-f0133df00ff1][vanilla extract]]       |
+  | 4 - 5    | ice cubes             |
+
+* Directions
+
+  1. Blend all ingredients together in a blender until smooth
+
+
+* References
+
+  1. Original recipe: [[id:ed80ba22-bc45-46e7-893a-f5bcaf777b70][The Oh She Glows Cookbook]]
+

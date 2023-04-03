@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       1641b0db-07b8-4462-939b-d81c7f840b2f
+:END:
+#+TITLE: Baked mac and cheese
+#+DATE: [2023-02-19 Sun 22:41]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:25]
+#+FILETAGS: :pasta:entree:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 15 min     |
+| Cook Time | 35 min     |
+| Yields    | 8 servings |
+
+* Ingredients
+
+  | Quantity | Item             |
+  |----------+------------------|
+  | 454 g    | [[id:da6d7073-3e24-4401-bbd6-c92cbb8fdcc4][macaroni]]         |
+  | 2 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]           |
+  | 1/4 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]            |
+  | 2 cup    | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]             |
+  | 1 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]  |
+  | 227 g    | [[id:28a8ac05-3cd6-4c11-b9b1-1576f43a88c8][shredded cheddar]] |
+  | 2 Tbsp   | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][Parmesan]], grated |
+  |          | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]       |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]     |
+
+* Directions
+
+  1. Cook pasta according to the package directions.
+  2. While the pasta is cooking, preheat the oven to 190 C (375 F) and butter a casserole dish.
+  3. In a large skillet, melt the butter.
+	 1. Add flour and cook over low heat until the flour and butter are blended together into clumps
+	 2. Add the onion and cook for another 2 min.
+  4. Add milk and broth, slowly, whisking to form the cream.
+	 1. Once all the milk and broth are in, raise the temperature and simmer until smooth and thick.
+	 2. Season with salt and pepper.
+  5. Remove skillet from heat and add grated cheese, mixing until it melts.
+  6. Add the sauce to the pot with the cooked pasta, stirring to coat all the noodles.
+  7. Pour the pasta and sauce into the baking dish, top with Parmesan, place in the oven, and cook for 15 - 20 min.
+	 1. Broil for a few min to brown the top.
+  8. Remove and serve.
+
+* References
+
+  1. Original recipe: [[https://www.skinnytaste.com/wprm_print/50150][Skinnytaste]]
+

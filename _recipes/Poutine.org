@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       80bdf260-754f-4f5e-84fa-55405d62c6d8
+:END:
+#+TITLE: Poutine
+#+DATE: [2023-03-12 Sun 10:13]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:28]
+#+FILETAGS: :sides:entree:recipes:
+
+| Info      | Amount         |
+|-----------+----------------|
+| Prep Time | 5 min          |
+| Cook Time | 0 min          |
+| Yields    | 2 - 4 servings |
+
+* Ingredients
+
+** Fries
+   
+   | Quantity | Item                                   |
+   |----------+----------------------------------------|
+   | 6        | [[id:90910e36-410c-4b76-8b19-97d1c735b083][Yukon gold potatoes]], peeled            |
+   |          | [[id:ab65a9ea-074a-40c5-877a-000b30a13ada][sunflower oil]] (or another neutral oil) |
+   | 3/4 tsp  | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                            |
+
+** Gravy
+   
+   | Quantity | Item                                |
+   |----------+-------------------------------------|
+   | 3 Tbsp   | [[id:a2c3c450-ff9b-43bf-9da8-9ea7f07a990a][potato starch]]                       |
+   | 580 mL   | [[id:4ae06f0b-c9aa-4abf-a500-cbd463b217ce][bone broth]]                          |
+   | 3 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                      |
+   | 1        | large [[id:6d78365c-626e-42af-a611-64d4c13757f8][yellow onion]], roughly chopped |
+   |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                         |
+   |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                        |
+   | 675 g    | [[id:a93fd72b-9c24-4d4d-ba0c-c10497ef5be9][cheese curds]]                        |
+
+* Directions
+
+  1. Using a fry cutter or knife, cut the potatoes into evenly sized 1 cm fries
+  2. Pour the sunflower oil into a deep pot and heat over medium
+	 1. Add as many potatoes as will fit in the oil and cook until crispy, ~ 15 - 20 min
+	 2. Remove potatoes with a slotted spoon [fn:1]
+	 3. Spread the fries in a single layer on a baking sheet and set aside
+	 4. Repeat with the remaining potatoes, cycling as needed
+  3. Once all the fries have cooked, toss with extra salt, to taste
+  4. In a small bowl, whisk the potato starch with 100 mL of the bone broth until well combined, and set aside
+  5. Meanwhile, in a medium-size saucepan over high heat, heat the garlic, onions, and remaining bone broth
+	 1. Continually stir with a whisk until the broth comes to a boil
+	 2. Reduce heat to low
+	 3. Stir in the potato starch mixture and let simmer, continuing to stir, for 10 min or until the gravy thickens
+	 4. Season with salt and pepper
+  6. Transfer the gravy to a blender and blend on low speed until smooth
+	 1. Pour the blended gravy back into the saucepan to reheat when ready for serving
+  7. To serve, plate the fries on four wide plates or shallow bowls
+	 1. Crumble the cheese curds evenly across all four plates and pour the gravy on top while it is still hot; this will allow the cheese to become melty and stringy
+
+* References
+
+  1. Original recipe: Peak Season
+
+* Footnotes
+
+[fn:1] If the fries fall apart when you go to remove them, they need another 3 - 5 min 

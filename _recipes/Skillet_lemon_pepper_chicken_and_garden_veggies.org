@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       273849b8-c102-4b9c-ae83-76c8b2e521b2
+:END:
+#+TITLE: Skillet lemon pepper chicken and garden veggies
+#+DATE: [2023-03-11 Sat 12:55]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:31]
+#+FILETAGS: :entree:chicken:recipes:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 10 min |
+| Cook Time | 20 min |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item                     |
+  |----------+--------------------------|
+  | 454 g    | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]          |
+  | 1/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                |
+  | 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced           |
+  | 2 tsp    | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]                  |
+  | 1/4 cup  | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], chopped         |
+  | 1/4 cup  | [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]], chopped           |
+  | 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]], zested and juiced |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]              |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]             |
+  | 2        | [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell peppers]]             |
+  | 1        | [[id:7fc3b2ea-ebe8-4ce0-b3d1-5d3babb9d655][squash]]                   |
+  | 1 cup    | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][cherry tomatoes]]          |
+  | 3/4 cup  | [[id:3c0b48f9-96ce-4e4f-82d0-d816f1abdfcf][white wine]]               |
+  | 4 oz     | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]], crumbled           |
+
+* Directions
+
+  1.
+
+* References
+
+  1. Original recipe: [[https://www.halfbakedharvest.com/wprm_print/61417][Half-Baked Harvest]]
+
+* Footnotes

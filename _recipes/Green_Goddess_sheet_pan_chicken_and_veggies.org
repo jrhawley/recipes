@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       DC259FFE-9D93-47A8-A0C3-726FD843D7B3
+:END:
+#+TITLE: Green goddess sheet pan chicken and veggies
+#+DATE: [2023-03-31 Fri 18:08]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:23]
+#+FILETAGS: :chicken:entree:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 20 min     |
+| Cook Time | 45 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+** Chicken
+   
+   | Quantity | Item                     |
+   |----------+--------------------------|
+   | 15 oz    | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]]                |
+   | 227 g    | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][cherry tomatoes]]          |
+   | 1/4      | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]], thinly sliced |
+   | 3 cup    | [[id:90910e36-410c-4b76-8b19-97d1c735b083][Yukon gold potato]], cubed |
+   | 3        | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]], sliced  |
+   | 1/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]], split         |
+   | 1/2      | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]], juiced, split     |
+   |          | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][sea salt]]                 |
+   |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]             |
+   |          | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]                  |
+
+** Green goddess sauce
+   
+   | Quantity | Item          |
+   |----------+---------------|
+   | 2/3 cup  | [[id:3e80ceb1-aa3e-425a-a18b-d3acdc4353cf][Greek yogurt]]  |
+   | 1/2      | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]], juiced |
+   | 1 Tbsp   | [[id:00a48416-bb29-468a-9498-dacf8e0491ba][Dijon mustard]] |
+   | 1/2 Tbsp | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]         |
+   | 1/4 cup  | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]       |
+   | 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]        |
+   |          | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][sea salt]]      |
+   |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]  |
+
+* Directions
+
+  1. Preheat the oven to 220 C (425 F) and line a large baking sheet with parchment paper.
+  2. Add the chickpeas, tomatoes, onion, and potatoes to the tray then toss with half of the lemon juice, olive oil, sea salt, black pepper, and paprika
+	 1. Add the sliced chicken to the tray, add the remaining half of the chicken ingredients, and toss all to combine
+	 2. Transfer to oven and roast for 25 min
+	 3. Gently toss everything then roast for another 20 - 25 min
+  3. While the tray is baking in the oven, prepare the green goddess sauce by adding sauce ingredients to a blender and blending until smooth
+  4. When chicken and veggies are done roasting, remove from oven, sprinkle with feta and serve with the sauce
+
+* References
+
+  1. Original recipe: [[https://gatherednutrition.com/green-goddess-sheet-pan-chicken-and-veggies/print/5943/][Gathered Nutrition]]
+  2. The Green Goddess sauce can be kept in the fridge in an airtight container for up to 4 d
+

@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       eade19f6-852c-4ced-aefc-c5e6738aefe0
+:END:
+#+TITLE: Creamy avocado potato salad
+#+DATE: [2023-03-19 Sun 10:07]
+#+LAST_MODIFIED: [2023-03-19 Sun 10:15]
+#+FILETAGS: :entree:salads:recipes:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 25 min |
+| Cook Time | 30 min |
+| Yields    | 3 servings |
+
+* Ingredients
+
+  | Quantity    | Item                                  |
+  |-------------+---------------------------------------|
+  | 900 g       | [[id:13ffa7cb-0765-4325-b00f-5465f30dc7e9][baby potatoes]], cubed                  |
+  | 1 Tbsp      | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                             |
+  | 1 bunch     | [[id:79e39338-56c0-4eb7-98af-5474fbae80b6][asparagus]], chopped into 2.5 cm pieces |
+  | 1/2 cup + 1 | [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onion]], chopped                  |
+  | 1/2 cup     | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocado]]                               |
+  | 2 Tbsp      | [[id:ed1dc225-9206-4760-a3c0-9fc7274bbd31][dill]]                                  |
+  | 4 tsp       | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]                           |
+  |             | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]                         |
+  |             | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                          |
+
+* Directions
+
+  1. Preheat the oven to 220 C (425 F) and line two baking sheets with parchment paper
+  2. Spread the cubed potatoes in an even layer on one baking sheet and drizzle with 3/2 tsp of oil
+	 1. Spread the asparagus on the second baking sheet, drizzling with the remaining oil
+	 2. Season each with salt and pepper, mixing thoroughly
+  3. Roast the potatoes for 15 min, flip, then another 15 - 20 min
+	 1. After flipping the potatoes, add the asparagus to the oven and roast for 9 - 12 min
+	 2. Transfer the potatoes and asparagus to a large mixing bowl and stir in the 1/2 cup of green onion
+  4. In a food processor, combined the avocado, dill, lemon juice, remaining green onion, salt, and pepper with 1/4 cup of water and blend until smooth
+  5. Pour the dressing over the salad and serve immediately, seasoning with salt and pepper to taste
+
+* References
+
+  1. Original recipe: [[id:ed80ba22-bc45-46e7-893a-f5bcaf777b70][The Oh She Glows Cookbook]]
+  2. The salad will keep in an airtight container in the fridge for a couple days
+

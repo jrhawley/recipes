@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       18989c82-0ab0-4dd3-9a1b-3f4ef6cc865c
+:END:
+#+TITLE: Basil pesto
+#+DATE: [2023-01-28 Sat 16:22]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:28]
+#+FILETAGS: :sauce:recipes:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 5 min  |
+| Cook Time | 0 min  |
+| Yields    | 1 cup  |
+
+* Ingredients
+
+  | Quantity | Item                  |
+  |----------+-----------------------|
+  | 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]                |
+  | 2 cup    | [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]]                 |
+  | 1/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]             |
+  | 2 Tbsp   | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                 |
+  | 2 Tbsp   | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]           |
+  | 3/2 tsp  | [[id:f70a5670-bf7f-4058-a1c9-cf83ab7d08bb][nutritional yeast]]     |
+  | 1/4 tsp  | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]], to taste |
+
+* Directions
+
+  1. In a food processor or blender, mince the garlic.
+  2. Add the remaining ingredients and blend until smooth.
+
+* References & Notes
+
+  1. Original recipe: Oh She Glows for Dinner
+  2. Store in an airtight container in the fridge for 1 - 2 weeks, or in the freezer for up to 6 weeks.
+

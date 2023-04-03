@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       ad713304-de4b-4c47-b1a4-003bd86493e3
+:END:
+#+TITLE: One-skillet lemon chicken orzo
+#+DATE: [2023-02-24 Fri 19:14]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:27]
+#+FILETAGS: :chicken:pasta:entree:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 30 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity  | Item               |
+  |-----------+--------------------|
+  | 2 Tbsp    | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]          |
+  | 3         | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]    |
+  | 1         | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]], sliced      |
+  | 2 Tbsp    | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]             |
+  | 1 clove   | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced     |
+  | 1 cup     | [[id:c3b39e8a-9df8-4f90-999e-7f888278d52e][orzo]]               |
+  | 1/3 cup   | [[id:3c0b48f9-96ce-4e4f-82d0-d816f1abdfcf][white wine]]         |
+  | 5/2 cup   | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]    |
+  | 1/2 bunch | [[id:36223b51-b988-470c-ab00-748e4a5b3e66][kale]], roughly torn |
+  |           | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]        |
+  |           | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]       |
+
+* Directions
+
+  1. Preheat the oven to 200 C (400 F).
+  2. In a dutch oven, heat 1 Tbsp of olive oil.
+	 1. Season the chicken with salt and pepper, then add to the dutch oven when oil is hot.
+	 2. Fry chicken until almost cooked all the way through (~ 3 - 5 min per side, if fresh).
+	 3. Remove the chicken from the dutch oven.
+  3. Add the butter and juice from the 1 lemon to the dutch oven.
+	 1. Add the lemon slices and sear them for 1 min.
+	 2. Remove the slices and place them on the plate with the chicken.
+  4. Add the last Tbsp of oil, the garlic, and orzo to the dutch oven.
+	 1. Cook for 2 min, until fragrant.
+	 2. De-glaze the pan with the wine, add the chicken broth, kale, and any remaining lemon juice.
+	 3. Bring to a boil, then add chicken and lemons, turn off heat, and place the dutch oven in oven, uncovered.
+	 4. Cook for 15 min, or until the broth has evaporated.
+  5. Serve with fresh dill or other seasoning.
+
+* References
+
+  1. Original recipe: [[https://www.halfbakedharvest.com/wprm_print/58017][Half-Baked Harvest]]
+

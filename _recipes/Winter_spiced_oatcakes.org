@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       4a12a3dc-cbe2-4504-bf36-391568d9dcd2
+:END:
+#+TITLE: Winter spiced oatcakes
+#+DATE: [2023-03-12 Sun 10:36]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:34]
+#+FILETAGS: :snacks:dessert:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 30 min     |
+| Yields    | 9 oatcakes |
+
+* Ingredients
+
+  | Quantity | Item            |
+  |----------+-----------------|
+  | 1/2 cup  | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]          |
+  | 1 cup    | [[id:6107efce-a8eb-421d-a8c6-725e38345a3e][oats]]            |
+  | 3/4 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]           |
+  | 1/2 cup  | [[id:02ccfac6-e705-4b80-949e-1dff24216a5b][brown sugar]]     |
+  | 2 tsp    | [[id:43bd669a-5993-4218-9c8b-4c58bb4ad072][ground ginger]]   |
+  | 1 tsp    | [[id:cfdf3e4e-72c5-4bd2-aa76-dc03d92305ca][nutmeg]]          |
+  | 1 tsp    | [[id:06628b3e-2504-4c49-a2c8-8d303da9f5ea][cardamom]]        |
+  | 1/2 tsp  | [[id:a13bb3ad-60ac-4296-a52a-dda7a88177cc][allspice]]        |
+  | 6 oz     | [[id:c0ce612a-a364-4589-af0d-dc495c1971de][white chocolate]] |
+
+* Directions
+
+  1. Preheat the oven to 190 °C (375 °F)
+  2. In a small pot, melt the butter
+	 1. In a 9" square baking pan, using a wooden spoon or spatula, mix together the oats, flour, sugar, ginger, nutmeg, cardamom, and allspice until fully combined
+	 2. Pour in the melted butter and mix until the mixture is crumbly and no dry flour is visible
+	 3. If needed, use your fingers to get every last bit evenly moist
+	 4. Then, using the back of your hand, pack the mixture firmly into the dish in an even layer
+  3. Bake until golden brown and starting to look crisp around the edges, 25 - 30 min
+  4. As soon as you remove it from the oven, use a metal spatula or butter knife to cut around the outside of the pan and then cut nine squares
+	 1. Let cool in the pan for 10 - 15 min
+	 2. Transfer the squares to a wire rack and allow to cool completely [fn:1]
+  5. When the squares are fully cool, melt the chopped white chocolate
+	 1. In a small saucepan over low heat, begin to melt the chocolate chips, stirring constantly and being careful not to burn (or put them in a small bowl and microwave for 10 s intervals, stirring between intervals)
+	 2. Remove from the heat once half of the chocolate has melted
+	 3. Keep stirring until smooth and creamy
+	 4. Set aside to temper and cool
+	 5. You should have approximately 1/2 cup of melted chocolate
+	 6. Dip half of each oatcake square into the melted chocolate, hold it over the bowl for a few seconds to allow any excess to drip, off and return to the wire rack to allow the chocolate to set and harden, 30 - 40 min
+
+
+
+* References
+
+  1. Original recipe: A Rising Tide
+  2. The chocolate-dipped oatcakes will keep in an airtight container at room temperature for up to 1 week.
+	 The oatcakes without the chocolate will keep in an airtight container in the freezer for 2 - 3 months.
+
+* Footnotes
+
+  [fn:1] The squares may stick together a bit when you’re removing them from the pan, but breaking them apart is quite easy

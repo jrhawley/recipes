@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       9ba0fbaf-2aaf-4a3a-9a8b-96440e201951
+:END:
+#+TITLE: Green monster
+#+DATE: [2023-03-18 Sat 13:32]
+#+LAST_MODIFIED: [2023-03-19 Sun 10:06]
+#+FILETAGS: :smoothies:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 25 min     |
+| Cook Time | 30 min     |
+| Yields    | 1 smoothie |
+
+* Ingredients
+
+  | Quantity | Item                       |
+  |----------+----------------------------|
+  | 1 cup    | [[id:474cf203-5b93-4773-843d-19f248a36f2b][almond milk]]                |
+  | 1 cup    | [[id:36223b51-b988-470c-ab00-748e4a5b3e66][kale]] or [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]], destemmed |
+  | 1        | [[id:8e53ad86-0f2e-4b0f-8dc5-c982e76a0c25][banana]]                     |
+  | 2 - 3    | ice cubes                  |
+  | 1 Tbsp   | [[id:6e61a7f2-b5a0-4740-9cc0-c915469ee602][peanut butter]]              |
+  | 1 Tbsp   | [[id:3caba7a8-7972-4cbb-ac09-a68d7d2e5176][chia seeds]]                 |
+  | 1/4 tsp  | [[id:924ad22d-2f73-4def-b12f-f0133df00ff1][vanilla extract]]            |
+  |          | [[id:daefa35d-bb1d-46d4-93f7-e09c42df4d14][ground cinnamon]]            |
+
+* Directions
+
+  1. Blend all ingredients together in a blender until smooth
+
+* References
+
+  1. Original recipe: [[id:ed80ba22-bc45-46e7-893a-f5bcaf777b70][The Oh She Glows Cookbook]]

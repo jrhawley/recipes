@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       ac16531a-e719-4917-af69-c33f8100b330
+:END:
+#+TITLE: Fish tacos
+#+DATE: [2022-11-26 Sat 11:53]
+#+LAST_MODIFIED: [2023-03-12 Sun 11:32]
+#+FILETAGS: :entree:wraps:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 20 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item                    |
+  |----------+-------------------------|
+  | 2 filets | breaded [[id:35daa20c-8894-45a5-80aa-adfea6c60324][haddock]]         |
+  | 1/4      | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]], finely diced |
+  | 2        | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocadoes]], sliced       |
+  | 4        | [[id:4447c70b-787f-49ba-ac31-69a5bf96726f][tortillas]]               |
+  |          | [[id:32d73adc-34f4-4ff8-ace7-e19dbd9905aa][cherry tomatoes]]         |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]             |
+  |          | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]              |
+
+* Directions
+
+  1. Cook the fish, then dice into chunks
+  2. While the fish is cooking, dice the onion and slice the avocadoes and tomatoes
+  3. Put everything in the tortillas and drizzle with lime juice and sprinkle with salt, to taste
+

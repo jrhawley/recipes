@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       76094a42-76c9-492d-927d-4e1ce7d90d99
+:END:
+#+TITLE: Cherry basil bruschetta
+#+DATE: [2023-03-19 Sun 10:00]
+#+LAST_MODIFIED: [2023-04-01 Sat 21:55]
+#+FILETAGS: :vegetarian:appetizers:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 20 min     |
+| Cook Time | 5 min      |
+| Yields    | 2 servings |
+
+* Ingredients
+
+  | Quantity | Item                                    |
+  |----------+-----------------------------------------|
+  | 1 cup    | [[id:3b1e3157-ddb0-45f7-9898-4cef40286f27][cherries]], pitted and finely chopped     |
+  | 3 cup    | [[id:0769e2a6-ee62-4cc0-82e9-a66c7658df7e][strawberries]], hulled and finely chopped |
+  | 1/4 cup  | [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]], minced                           |
+  | 1/4 cup  | [[id:03c1357c-225f-455d-af1f-86c11d3eafb9][mint]], minced                            |
+  | 3 TBsp   | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]], finely chopped               |
+  | 4 tsp    | [[id:f166ad76-3c07-43ce-a9fa-826590535b84][balsamic vinegar]]                        |
+  | 1        | [[id:d0c6dd1c-f4ea-4094-ae0c-479152026dce][baguette]], sliced on a bias              |
+  | 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                               |
+
+* Directions
+
+  1. Preheat the oven to 230 C (450 F)
+  2. In a large bowl, combine the cherries, strawberries, basil, mint, onion, and vinegar, then set aside for 10 - 15 min
+  3. Slice the baguette, and brush one side with olive oil
+	 1. Place the oiled side face down on a large rimmed baking sheet
+	 2. Bake for 5 - 7 min, watching closely to avoid burning
+  4. Spoon the bruschetta mixture over the toasted bread
+  5. (Optional) drizzle each piece with a balsamic reduction [fn:1] immediately before serving
+
+* References
+
+  1. Original recipe: [[id:ed80ba22-bc45-46e7-893a-f5bcaf777b70][The Oh She Glows Cookbook]]
+
+* Footnotes
+
+  [fn:1] Low boiled balsamic vinegar that has been reduced by half

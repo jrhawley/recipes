@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       14291643-61e0-4a15-855c-9542e7813e8f
+:END:
+#+TITLE: Yogurt parfait
+#+DATE: [2023-04-02 Sun 21:08]
+#+LAST_MODIFIED: [2023-04-02 Sun 21:10]
+#+FILETAGS: :snacks:dairy:recipes:
+
+| Info      | Amount    |
+|-----------+-----------|
+| Prep Time | 2 min     |
+| Cook Time | 0 min     |
+| Yields    | 1 serving |
+
+* Ingredients
+
+  | Quantity | Item                   |
+  |----------+------------------------|
+  | 2/3 cup  | [[id:3e80ceb1-aa3e-425a-a18b-d3acdc4353cf][Greek yogurt]]           |
+  |          | [[id:8f289db4-29e6-4df7-87b1-b7de8753e246][blueberries]]            |
+  |          | [[id:a001ac94-bba7-4f35-bd3b-9a60b9af0776][Cinnamon Maple Granola]] |
+
+* Directions
+
+  1. Mix all ingredients in a bowl and serve immediately
+

@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       39556d18-2c50-4244-8f5a-e21ead6fdd20
+:END:
+#+TITLE: Tomato cranberry chutney
+#+DATE: [2023-03-12 Sun 09:59]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:34]
+#+FILETAGS: :sauces:recipes:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 5 min  |
+| Cook Time | 35 min |
+| Yields    | 180 mL |
+
+* Ingredients
+
+  | Quantity | Item                                 |
+  |----------+--------------------------------------|
+  | 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                            |
+  | 1        | [[id:6d78365c-626e-42af-a611-64d4c13757f8][yellow onion]], roughly chopped        |
+  | 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                       |
+  | 1/2 tsp  | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                          |
+  | 1        | large [[id:9ef44b85-448f-418f-8021-e60ba9de98e6][field tomato]], seeded and diced |
+  | 1/2 cup  | [[id:b1eb2299-28de-4f1d-b8bd-96343d0b4960][fresh cranberries]]                    |
+  | 2 tbsp   | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                                |
+
+* Directions
+
+  1. In a large skillet over medium, heat the oil
+	 1. Once the skillet is hot, sauté the onions to a blond caramelization, about 10 min
+	 2. Reduce the heat to medium-low and add the garlic and salt
+	 3. Stir and cook until fragrant, 2 - 3 min
+  2. Add the diced tomatoes and cranberries
+	 1. Simmer on low for 20 min, until the tomatoes and cranberries take on a deep red, jammy consistency
+	 2. Remove from the heat to cool slightly
+  3. Add the tomato-cranberry mixture and honey to a food processor
+	 1. Pulse until everything is well incorporated but still slightly chunky
+	 2. Taste and season with more salt, if needed
+
+* References & Notes
+
+  1. Original recipe: Peak Season
+  2. If you are not using your chutney right away, it can be stored in a sealed container in the refrigerator for up to 2 weeks
+

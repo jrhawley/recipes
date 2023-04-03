@@ -1,0 +1,99 @@
+:PROPERTIES:
+:ID:       25cdfee7-78f3-4317-8d67-bb1584ac4795
+:END:
+#+TITLE: Rhubarb, bay leaf, and frangipane galette
+#+DATE: [2023-03-12 Sun 08:54]
+#+LAST_MODIFIED: [2023-03-12 Sun 09:09]
+#+FILETAGS: :dessert:recipes:
+
+| Info      | Amount    |
+|-----------+-----------|
+| Prep Time | 40 min    |
+| Cook Time | 35 min    |
+| Yields    | 1 galette |
+
+* Ingredients
+
+** Pastry
+
+   | Quantity | Item                         |
+   |----------+------------------------------|
+   | 3/2 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][all-purpose flour]]            |
+   | 1 Tbsp   | [[id:9ab2d99f-49fe-49a5-9432-cbc493ac826d][granular sugar]]               |
+   | 1/2 tsp  | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                  |
+   | 1/2 cup  | cold, unsalted [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], cubed |
+   | 1/4 cup  | ice [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                    |
+
+** Filling
+
+   | Quantity     | Item                     |
+   |--------------+--------------------------|
+   | 3 - 4 stalks | [[id:7c38a3ef-0c59-4c4d-9c9f-d71ee70b91d9][rhubarb]]                  |
+   | 4            | fresh [[id:e2e9621c-0f45-41ca-b381-22b8fa8694b9][bay leaves]], minced |
+   | 1/4 cup      | [[id:9ab2d99f-49fe-49a5-9432-cbc493ac826d][granular sugar]]           |
+
+** Frangipane
+
+   | Quantity | Item                              |
+   |----------+-----------------------------------|
+   | 1/2 cup  | [[id:6404ad36-0947-4bb1-ab9f-227925b3ff47][almond flour]]                      |
+   | 2 Tbsp   | [[id:9ab2d99f-49fe-49a5-9432-cbc493ac826d][granular sugar]]                    |
+   | 1/4 tsp  | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                       |
+   | 2 Tbsp   | unsalted [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], room temperature |
+   | 1        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]]                               |
+   | 2 tsp    | [[id:924ad22d-2f73-4def-b12f-f0133df00ff1][vanilla extract]]                   |
+
+** To finish
+
+   | Quantity | Item              |
+   |----------+-------------------|
+   |        1 | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]], beaten       |
+   |          | vanilla [[id:e18571fc-1222-4f8e-89f5-12c328495214][ice cream]] |
+
+* Directions
+
+** Pastry
+
+   1. In a large bowl, mix the flour, sugar, and salt together
+	  1. Add the butter cubes and use your fingertips to lightly work the butter into the flour until it’s the size of peas [fn:1]
+	  2. Add the ice water and continue to use your hands to mix everything together a little more until the dough is crumbly
+   2. Lay a large sheet of plastic wrap on a work surface
+	  1. Place the crumbly pastry dough onto the plastic wrap
+	  2. Press the dough into a ball and wrap
+	  3. Set the dough ball aside in the refrigerator until ready to use
+   3. Place a 14" (36 cm) square piece of parchment paper onto a clean work surface
+	  1. Dust the parchment paper with flour and roll out the dough into a 12" (30 cm) round
+	  2. Sprinkle with more flour as needed to prevent it from sticking
+	  3. Transfer the dough along with the parchment paper to a baking sheet and place in the refrigerator to set for 30 min
+
+** Filling
+
+   1. Preheat the oven to 200 C (400 F)
+   2. Cut the rhubarb in half lengthwise, then into 3/2" (4 cm) pieces
+   3. In a small bowl, toss the bay leaves with the sugar
+	  1. Use your fingers to rub the bay leaves with the sugar [fn:2]
+	  2. Pour your sugar mixture into a large bowl and add the prepared rhubarb
+	  3. Mix until the rhubarb is well coated, then set aside
+
+** Frangipane
+
+   1. In a small food processor, combine the almond flour, sugar, salt, butter, egg, and vanilla, puréeing until smooth
+
+** Combining everything
+
+   1. Spoon the frangipane into the centre of the rolled-out dough, leaving a 2.5 cm (1") border
+   2. Artfully place the rhubarb on top of the frangipane to cover it
+   3. Use the parchment paper as an aid to fold the exposed edge of dough toward the centre, enclosing the filling in a rustic manner
+   4. Brush the edge of the dough with your egg wash
+   5. Bake for 35 min or until the crust is golden and the filling bubbles like a cauldron
+   6. Let the galette rest on a cooling rack for 5 - 10 min before serving
+   7. Serve with ice cream or on its own
+
+* References
+
+  1. Original recipe: Peak Season
+
+* Footnotes
+
+  [fn:1] Do your best not to let the butter melt in your hands 
+  [fn:2] This will release some of their aromatics into the sugar 

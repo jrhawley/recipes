@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       92eb3d11-b856-4fd4-bdc2-6964e675a9ab
+:ROAM_ALIASES: "spiced pear syrup"
+:END:
+#+TITLE: Spiced pear syrup
+#+DATE: [2023-03-11 Sat 00:17]
+#+LAST_MODIFIED: [2023-03-11 Sat 00:24]
+#+FILETAGS: :recipes:beverage:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 5 min  |
+| Cook Time | 45 min |
+| Yields    | 2 cups |
+
+* Ingredients
+
+  | Quantity | Item            |
+  |----------+-----------------|
+  | 3/2 cup  | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]           |
+  | 1        | [[id:d738f600-b8c8-4a0e-93e0-452e184112b7][pear]], cubed     |
+  | 3/4 cup  | [[id:9ab2d99f-49fe-49a5-9432-cbc493ac826d][granular sugar]]  |
+  | 3        | [[id:0e283442-f6f9-4404-9e01-5a9306f036dd][cinnamon sticks]] |
+
+* Directions
+
+ 1. Add water, pears, sugar, and cinnamon sticks to a large sauce pan over medium heat
+	1. Stir gently until sugar has completely dissolved
+	2. Allow to set for 25 min, gently simmering
+ 2. Turn heat to low, and simmer another 5 min
+ 3. Remove from heat, and allow to cool for 15 min
+ 4. Strain the syrup into a glass measuring cup and discard the pears and cinnamon sticks
+ 5. Strain the syrup a second time into a large glass bottle that tightly seals
+
+* References & Notes
+
+  - Original recipe: [[https://aflavorjournal.com/wprm_print/4511][A Flavor Journal]]
+  - Refrigerate for up to two weeks
+

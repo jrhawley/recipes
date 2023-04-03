@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       0435e871-fa05-479b-b034-3512547817d7
+:END:
+#+TITLE: Sunchoke and leek soup with Canadian gremolata
+#+DATE: [2023-03-12 Sun 09:46]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:33]
+#+FILETAGS: :vegetarian:soups:recipes:
+
+| Info      | Amount         |
+|-----------+----------------|
+| Prep Time | 15 min         |
+| Cook Time | 50 min         |
+| Yields    | 4 - 6 servings |
+
+* Ingredients
+
+  | Quantity | Item                        |
+  |----------+-----------------------------|
+  | 1 stalk  | [[id:e028f8da-abd1-43b1-aaa8-cc76b3dd77e1][leeks]], chopped              |
+  | 1 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                      |
+  | 4 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced              |
+  | 2 cup    | [[id:1854173b-5586-4066-a4c9-be9b8e581c9f][sunchokes]], peeled and cubed |
+  | 2 cup    | [[id:02de565c-1746-49f8-b306-4d2c47faac3e][cauliflower florets]]         |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                 |
+  | 1 L      | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]             |
+  | 2        | [[id:e2e9621c-0f45-41ca-b381-22b8fa8694b9][bay leaves]]                  |
+  | 1 cup    | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]                     |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                |
+  | 1 Tbsp   | [[id:b15a8f44-32ea-423f-84e1-d97ec8996b81][sunflower seeds]]             |
+  | 1 tsp    | [[id:4230599e-0748-4d34-800a-f8aecf3b4514][ground sumac]]                |
+  | 1/2 tsp  | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][flaky sea salt]]              |
+
+* Directions
+
+  1. Trim the leek, remove the dark green tops, and chop
+	 1. Place the chopped leeks in a colander and wash thoroughly
+	 2. Use your hands to inspect the leeks to ensure the dirt between the layers has been removed
+	 3. Dry and set aside
+  2. Place the sunchokes in a bowl of cold water after peeling and cubing
+  3. In a large pot over medium heat, melt the butter
+	 1. Add the leeks and sauté until caramelized and translucent, about 10 min
+	 2. Use a wooden spoon to stir often
+	 3. Reduce the heat to medium-low and add half the garlic
+	 4. Stirring frequently, cook until fragrant, 2 - 3 min
+	 5. Remove the sunchokes from the cold-water bath and add them and the cauliflower to the leeks and garlic
+	 6. Season with salt
+	 7. Stir and cook for another 2 - 3 min
+  4. Add the broth and increase the heat to high
+	 1. Cover with a lid
+	 2. Once the liquid reaches a boil, reduce the heat to a simmer
+	 3. Add the bay leaves and parsley and let simmer until the vegetables are fork-tender, about 35 min
+  5. While the soup is simmering, in a mortar, grind the sunflower seeds, sumac, thyme, and sea salt with a pestle
+	 1. Add the remaining garlic and continue to grind until a crunchy paste forms
+	 2. Add the parsley and continue to stamp, press, and muddle into a minced paste
+	 3. Set aside for serving
+  6. Remove the pot from the heat, take out the bay leaves, and set the soup aside to cool for 5 - 10 min before blending
+	 1. Use an immersion blender or transfer the soup to a good-quality blender to purée into a thick, creamy soup
+	 2. Season with salt and pepper to taste
+	 3. Garnish with 1 to 2 Tbsp of the gremolata, and serve
+
+* References
+
+  1. Original recipe: Peak Season
+

@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       c2fc4758-f142-4784-8245-5c83563a83e7
+:END:
+#+TITLE: Mediterranean chickpea casserole
+#+DATE: [2023-03-10 Fri 18:54]
+#+LAST_MODIFIED: [2023-04-01 Sat 12:17]
+#+FILETAGS: :entree:salads:vegan:vegetarian:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 40 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity      | Item                     |
+  |---------------+--------------------------|
+  | 3 tablespoons | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                |
+  | 2             | medium [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onions]], diced |
+  | 1 clove       | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced           |
+  | 1/2 teaspoon  | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]            |
+  | 680 mL jar    | [[id:b57a8dae-55d5-44ba-9145-d618c3fe48e2][passata]]                  |
+  | 1 cup         | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]          |
+  | 1 teaspoon    | [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]                  |
+  | 1/4 teaspoon  | [[id:1e78c132-4830-4a9e-82f8-6466628ec493][ground cloves]]            |
+  | 1/4 teaspoon  | [[id:a13bb3ad-60ac-4296-a52a-dda7a88177cc][allspice]]                 |
+  | 1/2 teaspoon  | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]                  |
+  | 2 15oz cans   | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]]                |
+  | 3 cups        | [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]]                  |
+  | 1/4 cup       | [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]]              |
+  | 2/3 cup       | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]] (omit if vegan)     |
+  |               | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]             |
+  |               | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]                  |
+
+* Directions
+
+   1. Heat olive oil in a large broiler-safe sauté pan or skillet over medium-high heat [fn:1]
+	  - Add onion, sauté until translucent, about 5 min
+	  - Reduce heat to medium
+	  - Add garlic and salt, cook, stirring frequently, until fragrant, 1 to 2 min
+   2. Stir in passata, vegetable broth, bay leaves, oregano, cloves, allspice, and cayenne
+	  - Cover the pot with a lid
+	  - Bring to a boil and cook for 20 min
+   3. Stir in the chickpeas
+	  - Cook uncovered until the liquid has reduced by one-third, 10 - 15 min, stirring occasionally [fn:2]
+   4. Position a oven rack so that the top of the pot will be 4-inches away from the broiler and turn oven to broil.
+   5. Remove bay leaves, stir in spinach, and cook until wilted, about 2 min
+	  - Stir in sugar and lemon juice
+	  - Season with salt and pepper, to taste
+   6. Crumble feta overtop, then broil until cheese is golden brown, about 5 min
+   7. Serve with bread or soft pita for dipping, or spoon over a grain like rice.
+
+* References & Notes
+
+  1. Original recipe: [[https://evergreenkitchen.ca/print-recipe/2622/][Evergreen Kitchen]]
+  2. Can be reheated in the oven (uncovered) at 140°C (275°F), in the microwave, or on the stove (covered) over medium-low heat until warmed through.
+
+* Footnotes
+
+  [fn:1] Sauté pans have straight sides; so they typically hold more volume and come with a lid. Use a sauté pan if you have. Otherwise, if using a skillet without a lid, you can position a baking sheet over top as the "lid" when the instructions say to cover. If you don't have a broiler safe pan, you can transfer to a broiler-safe casserole dish for the final step. 
+  [fn:2] Reduce heat if the mixture starts to splatter, but keep mixture actively simmering.
+

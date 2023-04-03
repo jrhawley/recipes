@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       0dbe5e21-dd4a-4649-a566-a34728b81579
+:END:
+#+TITLE: Stuffed pepper soup
+#+DATE: [2023-03-25 Sat 21:15]
+#+LAST_MODIFIED: [2023-03-25 Sat 21:29]
+#+FILETAGS: :vegetarian:vegan:soups:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 15 min     |
+| Yields    | 6 servings |
+
+* Ingredients
+
+  | Quantity | Item                               |
+  |----------+------------------------------------|
+  | 15 oz    | [[id:285345d6-78f4-42cd-af32-0738783c781d][black beans]]                        |
+  | 1        | [[id:6d78365c-626e-42af-a611-64d4c13757f8][yellow onion]]                       |
+  | 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                     |
+  | 4 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]]                    |
+  | 3 - 4    | [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell peppers]], diced                |
+  | 15 oz    | [[id:937c514a-0447-4ecd-bebb-bd5f2a09386c][diced tomatoes]]                     |
+  | 5 oz     | [[id:e6fe5a89-23f4-4236-8d7f-5f5575b9719f][tomato paste]]                       |
+  | 1 Tbsp   | Italian seasoning                  |
+  | 1 tsp    | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                        |
+  | 1/2 cup  | [[id:212403bf-61d3-4590-80fc-127cf80cbea8][Jasmine rice]]                       |
+  | 1 tsp    | [[id:9557565b-cbae-4bc7-bac6-d3e8ee9b3e6b][apple cider vinegar]] or [[id:18730889-23b6-49e0-8c23-89b600b3566b][lemon juice]] |
+
+* Directions
+
+  1. Heat a large skillet or Dutch oven on medium high heat.
+	 1. Add the black beans, onion, and garlic and sauté until onion is transluscent.
+     2. Deglaze the pan by adding about 1/4 cup of broth and use a spatula to scrape off any brown bits stuck to the bottom.
+     3. Add the rest of the broth, then layer on the bell peppers, diced tomatoes, tomato paste, Italian seasoning and salt.
+	 4. Add the rice and stir to combine
+  2. Cover, reduce heat, and simmer for 25 - 30 min.
+  3. Remove from heat and let cool for 5 min
+	 1. Mix in the apple cider vinegar/lemon juice and season with more salt to taste
+	 2. Serve topped with chopped parsley and/or finely grated parmesan
+
+* References & Notes
+
+  1. Original recipe: [[https://therecipewell.com/wprm_print/1029][The Recipe Well]]
+  2. Store any leftovers in a sealed container in the refrigerator and eat within 4 days.
+

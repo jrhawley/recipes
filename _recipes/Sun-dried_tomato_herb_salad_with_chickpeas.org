@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       b05779c7-6e91-44ad-83f8-7412cdfb8fb1
+:END:
+#+TITLE: Sun-dried tomato herb salad with chickpeas
+#+DATE: [2023-03-01 Wed 09:12]
+#+LAST_MODIFIED: [2023-03-01 Wed 09:20]
+#+FILETAGS: :vegetarian:entree:salads:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 20 min     |
+| Cook Time | 10 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+** Salad
+
+   | Quantity | Item                               |
+   |----------+------------------------------------|
+   | 3 Tbsp   | [[id:d3ed6d00-389c-4582-a314-3b1125162b3d][pine nuts]]                          |
+   | 1 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                             |
+   | 15 oz    | [[id:5bc0ee0b-9586-4918-b096-519617896669][chickpeas]], rinsed and dried        |
+   |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                        |
+   |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                       |
+   | 1 head   | [[id:36223b51-b988-470c-ab00-748e4a5b3e66][kale]]                               |
+   | 4 cup    | [[id:5e36609a-fd6f-49ce-9707-d28edbcb1860][arugula]]                            |
+   | 4        | [[id:3bff7e0c-815d-44cd-ae7b-296924ca59b0][carrots]], thinly sliced into rounds |
+   | 8 oz     | [[id:ad9aeb4e-4928-4086-b9a0-6acdbaedb591][sun-dried tomatoes]]                 |
+   | 1/4 cup  | [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]], roughly chopped             |
+   | 6 oz     | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]], crumbled                     |
+   | 2        | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocadoes]]                          |
+
+** Vinaigrette
+
+   | Quantity | Item                |
+   |----------+---------------------|
+   | 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]]               |
+   | 2 Ybsp   | [[id:9557565b-cbae-4bc7-bac6-d3e8ee9b3e6b][apple cider vinegar]] |
+   | 1 tsp    | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]               |
+   | 1 pinch  | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]]   |
+
+* Directions
+
+  1. Heat a skillet over medium heat.
+	 1. Add the pine nuts and toast for 2 min, then set aside.
+	 2. Add the butter, chickpeas, oregano, and salt and pepper, cooking for 5 min, then set aside.
+  2. While the other stuff is cooking, combined the kale, arugula carrots, tomatoes, and basil in a large salad bowl.
+  3. In a small bowl, whisk together the vinaigrette ingredients, seasoning with salt, pepper, and red pepper flakes.
+  4. Pour the vinaigrette over the salad and toss to combine.
+  5. Sprinkle with crumbled feta, chickpeas, and avocado to serve.
+
+* References
+
+  1. Original recipe: [[https://halfbakedharvest.com/wprm_print/72900][Half-Baked Harvest]]
+

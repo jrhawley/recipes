@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       34855089-f165-4ee3-826e-77ab380d0cef
+:END:
+#+TITLE: Spiced pear and bourbon
+#+DATE: [2023-03-11 Sat 00:15]
+#+LAST_MODIFIED: [2023-04-02 Sun 21:25]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 2 min      |
+| Cook Time | 40 min     |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item              |
+  |----------+-------------------|
+  | 2 oz     | [[id:437447cf-eabf-4f1a-89d0-e4d402eddf18][bourbon]]           |
+  | 1 oz     | [[id:92eb3d11-b856-4fd4-bdc2-6964e675a9ab][Spiced pear syrup]] |
+  | 1/2 oz   | [[id:f7a7c38b-0afe-4fce-9d30-49540dcf2035][orange juice]]      |
+
+* Directions
+
+  1. Original recipe: [[https://aflavorjournal.com/wprm_print/4519][A Flavor Journal]]
+

@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       38ccf877-fbcb-4af0-9352-2aad69010eab
+:END:
+#+TITLE: Beer cheese soup
+#+DATE: [2023-03-18 Sat 13:30]
+#+LAST_MODIFIED: [2023-04-01 Sat 11:38]
+#+FILETAGS: :entree:soups:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 30 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item                                   |
+  |----------+----------------------------------------|
+  | 1/4 cup  | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                                 |
+  | 1        | [[id:8a695016-03b5-4059-9a54-668f3b794e33][white onion]], diced                     |
+  | 2        | medium-sized [[id:3bff7e0c-815d-44cd-ae7b-296924ca59b0][carrots]], peeled and diced |
+  | 1 clove  | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                         |
+  | 1 stalk  | [[id:83c6ab82-bb15-4724-a51e-77237cb01b95][celery]], diced                          |
+  | 1/4 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                                  |
+  | 2 tsp    | [[id:ac8ab019-7fa2-44f7-9cd7-4f9b64b41cbd][brown mustard]]                          |
+  | 1 cup    | [[id:bf5fd3f9-5a4e-44a5-9aab-7e8218232d0b][light ale]]                              |
+  | 6 cup    | [[id:6aaa4d74-e28e-4e22-afc6-dc6cf0dee4ac][vegetable broth]] or [[id:c97f058b-0a91-450d-9df4-c1c32e84dc29][chicken broth]]       |
+  |          | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]                          |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                           |
+  | 3 cup    | [[id:28a8ac05-3cd6-4c11-b9b1-1576f43a88c8][shredded cheddar]]                       |
+  | 1/2 cup  | [[id:6d096aed-8c49-48c6-a4d0-c5ffde8f440a][heavy cream]]                            |
+
+* Directions
+
+  1. Melt butter in a large pot over medium-high heat
+	 1. Add carrots, onion, and celery
+	 2. Cook until tender, about 4-5 min
+  2. Add flour and coat vegetables, cook an additional 4-5 min, stirring frequently
+	 1. Add ground mustard, garlic, salt, pepper, sriracha, beer and stir to make a paste
+	 2. Slowly begin adding chicken broth while constantly stirring to blend well
+  3. Bring to a simmer for 25 min, stirring occasionally.
+  4. Using an immersion blender or food processor, puree vegetables in the soup
+	 1. Whisk in heavy whipping cream and cheddar cheese over medium-low heat until cheese is melted
+	 2. If soup is not thickened, mix cornstarch and cold water in a small dish and whisk into boiling soup
+
+* References
+
+  1. Original recipe: [[https://www.simplyhappenings.com/wprm_print/6721][Simply Happenings]]
+

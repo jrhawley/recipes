@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       67ee098e-2031-4f31-adfa-e1dba06b0e98
+:END:
+#+TITLE: Crumpets
+#+DATE: [2023-02-04 Sat 13:33]
+#+LAST_MODIFIED: [2023-03-02 Thu 23:34]
+#+FILETAGS: :breakfast:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 40 min     |
+| Cook Time | 10 min     |
+| Yields    | 8 crumpets |
+
+* Ingredients
+
+  | Quantity | Item             |
+  |----------+------------------|
+  | 3/2 cup  | [[id:5f1d6346-a46a-4d90-b1cd-ab72ada2716a][milk]]             |
+  | 1 Tbsp   | [[id:9ab2d99f-49fe-49a5-9432-cbc493ac826d][sugar]]            |
+  | 2 tsp    | [[id:87dc0381-68e7-4bc0-a570-38a0ee678619][quick-rise yeast]] |
+  | 1 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]            |
+  | 1 tsp    | [[id:218f6314-47d3-4d12-bc91-3adc8baf97a8][baking powder]]    |
+  | 1/2 tsp  | fine [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]  |
+  | 4 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]], divided  |
+  |          | jam, to serve    |
+
+* Directions
+
+  1. In a small pot over medium heat, warm the milk until it reaches 45 C (110 F).
+	 1. Remove from heat, sprinkle sugar over top, and stir to combine.
+	 2. Sprinkle the yeast over top and let sit 10 min to bloom and froth.
+  2. In a mixing bowl, whisk together flower, baking powder, and salt.
+	 1. Make a well in the centre of the mix and pour the milk-yeast mixture.
+	 2. Starting in the centre and working outwards, whisk to incorporate all the flower [fn:1].
+  3. Cover with a tea towl and let rest for 30 min in a warm, draft-free place until bubbles start forming on top and the batter has risen.
+  4. In a large, heavy-bottomed skillet over medium heat, melt 2 Tbsp of the butter.
+	 1. Use 1 tsp of the remaining butter to grease the inside of each egg ring.
+	 2. Place the egg rings in the skillet and scoop batter into each ring.
+	 3. Cook for 5 min, then remove the rings with tongs and flip each crumpet.
+	 4. Cook for another 30 - 45 s, then remove.
+  5. Repeat with the remaining batter, and serve with jam.
+
+* References
+
+  1. Original recipe: A Rising Tide
+  2. The crumpets will keep in an airtight container in the fridge for up to 1 week, or in the freezer for 3 months.
+
+* Footnotes
+
+  [fn:1] This will still be quite watery at this point, which is okay.
+
+

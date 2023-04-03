@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       2a3fb570-8886-4f64-bacb-a1ae75b12e49
+:END:
+#+TITLE: Mulberry-stained meringue cookies
+#+DATE: [2023-03-12 Sun 09:12]
+#+LAST_MODIFIED: [2023-03-12 Sun 09:20]
+#+FILETAGS: :dessert:recipes:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 15 min |
+| Cook Time | 1 h |
+| Yields    | 6 - 8 cookies |
+
+* Ingredients
+
+  | Quantity | Item                         |
+  |----------+------------------------------|
+  | 4        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg]] whites, room temperature |
+  | 1/8 tsp  | [[id:1bdb1c6a-b363-4e5b-8ae2-f14408d5acd7][cream of tartar]]              |
+  | 1/8 tsp  | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]                  |
+  | 1 cup    | [[id:9ab2d99f-49fe-49a5-9432-cbc493ac826d][granular sugar]]               |
+  | 1 tsp    | [[id:924ad22d-2f73-4def-b12f-f0133df00ff1][vanilla extract]]              |
+  | 2 cup    | [[id:54bb8b2b-d290-45a9-9a08-8731223d2110][mulberries]] [fn:1]            |
+
+* Directions
+
+  1. Preheat the oven to 110 C (225 F) and line a baking sheet with parchment paper
+  2. Place the egg whites, cream of tartar, and salt in a medium mixing bowl or a stand mixer fitted with the whisk attachment
+	 1. Turn on the mixer, or use a handheld electric mixer, and mix on low speed until the egg whites foam
+	 2. Increase the speed to high and gradually add the sugar
+	 3. Add more sugar as soon as the last spoonful has dissolved [fn:2]
+	 4. Continue to beat until stiff peaks form, then gently stir in the vanilla
+  3. Use a large spoon to scoop out about 1/4 cup of the fluffy meringue onto the prepared baking sheet [fn:3]
+	 1. Repeat with the rest of the meringue
+  4. Bake for 1 h
+	 1. Turn off the oven after the allotted time and place a wooden spoon in the door to let the oven cool with the baking sheet full of meringues still in the oven [fn:4]
+	 2. If you choose to store them in an airtight container, place them in the refrigerator and avoid high-moisture areas, as this can soften your meringues
+  5. The meringues are est when cracked with a spoon and showered in mulberries that bleed into the crevices
+
+* References
+
+* Footnotes
+
+  [fn:1] Substitute mulberries for [[id:f4be28ec-f5d2-4a1a-bf6d-29b941c8f922][raspberries]] or [[id:1e9655ad-169a-4d0e-ba18-12f3035676b1][blackberries]] if needed 
+  [fn:2] To test this, rub a small bit of the mixture between your fingers. If it feels gritty, the sugar has not fully dissolved. 
+  [fn:3] Do not sweat over distancing the meringues; they will not spread like cookies when they bake
+  [fn:4] This will allow the meringues to cool completely and crisp up nicely
+

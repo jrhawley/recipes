@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       a09a2f37-efc6-4e9a-9451-aa1b803050af
+:END:
+#+TITLE: Labyrinth
+#+DATE: [2022-12-27 Tue 15:24]
+#+LAST_MODIFIED: [2022-12-27 Tue 20:35]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item                            |
+  |----------+---------------------------------|
+  | 3/2 oz   | [[id:26f1f3c3-0825-47dd-a54e-4142fd2aef19][aged rum]]                        |
+  | 1/2 oz   | [[id:3620ff07-1ff6-4127-a63f-47f50512458a][Campari]]                         |
+  | 3/2 oz   | [[id:ff705bb2-5bd0-49aa-8ed4-4680996fafe0][pineapple juice]]                 |
+  | 1/2 oz   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]                      |
+  | 1/2 oz   | [[id:716dd7d0-46db-4224-9391-75b5eaad5cfd][maple syrup]]                     |
+  |          | rum-soaked pineapple (optional) |
+
+* Directions
+
+  1. Combine all ingredients with ice in a cocktail shaker.
+  2. Strain over ice into the glass.
+  3. Serve with a slice of rum-soaked pineapple for garnish.
+
+* References & Notes
+
+  1. Collective Arts
+

@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       b920f3f5-1a45-4b59-bdbf-183ddd18068b
+:END:
+#+TITLE: Eggplant and tomato phyllo pie
+#+DATE: [2023-01-14 Sat 14:59]
+#+LAST_MODIFIED: [2023-04-02 Sun 18:57]
+#+FILETAGS: :appetizers:vegetarian:recipes:
+
+| Info      | Amount         |
+|-----------+----------------|
+| Prep Time | 15 min         |
+| Cook Time | 2h 30 min      |
+| Yields    | 4 - 6 servings |
+
+* Ingredients
+
+  | Quantity | Item                                            |
+  |----------+-------------------------------------------------|
+  | 454 g    | [[id:062adc0a-d992-4452-a4fb-8010d2b4a0db][beefsteak tomatoes]], cored and sliced 1/4" thick |
+  | 5/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]], divided                             |
+  | 454 g    | [[id:ca257905-6ff1-46d9-bf2d-4fd0c163ee2a][eggplant]], sliced into 1/4" thick rounds         |
+  | 1/2 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]], divided                              |
+  | 12       | [[id:b391687c-68dc-421c-82e2-1785d6fa31ff][phyllo pastry sheets]]                            |
+  | 3 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                                  |
+  | 2 tsp    | [[id:88239f38-3c15-4b0d-8052-54718aaea7a3][oregano]]                                         |
+  | 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                                    |
+  | 3/2 cup  | [[id:38889812-b3dc-441f-81eb-db027dca59ef][shredded mozzarella]]                             |
+  | 2 Tbsp   | [[id:08ead7d8-5abe-4541-b18f-b68d991083a0][parmesan]], grated                                |
+  | 1 TBsp   | [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]], chopped                                       |
+
+* Directions
+
+  1. Toss tomatos and 1/4 tsp salt together in a colander and set aside to drain for 30 min.
+  2. Adjust the top oven rack to be 15 cm from the broiler.
+	 1. Turn on the broiler while slicing the eggplant.
+  3. Line a rimmed baking sheet with aluminium foil.
+	 1. Arrange eggplant in single layer on the prepared baking sheet and brush both
+	 2. Brush both sides of each round with oil.
+	 3. Broil eggplant until softened and beginning to brown, 10 - 12 min, flipping halfway through.
+	 4. Set aside to cool for 10 min.
+  4. Heat the oven to 190 C (375 F).
+	 1. Line a second rimmed baking sheet with parchment paper.
+	 2. Place 1/4 cup of oil in a small bowl, for brushing.
+	 3. Place 1 phyllo sheet on the parchment paper and lightly brush with oil.
+	 4. Rotate the sheet 30 deg, then repeat with the next sheet.
+	 5. Repeat with all sheets until the pinwheel pattern is complete.
+  5. Shake the colander to rid the tomatoes of any remaining water.
+	 1. Combine tomatoes, garlic, oregano, pepper, 1 Tbsp oil, and remaining 1/2 tsp salt in a bowl.
+	 2. Sprinkle mozzarella evenly in the centre of the phyllo in a 9" circle.
+	 3. Shingle tomatoes and eggplant on top of the mozzalrella in concentric circles, alternating tomatoes and eggplant.
+	 4. Sprinkle parmesan over top
+  6. Gently fold edges of the pastry up, pleating every 2 - 3 " as needed.
+	 1. Lightly brusg edges with oil to stick.
+	 2. Bake phyllo until golden brown, 30 - 35 min.
+	 3. Let pie cool for 15 min, then sprinkle with basil.
+  7. Slice and serve.
+
+* References & Notes
+
+  1. The New Cooking School Cookbook

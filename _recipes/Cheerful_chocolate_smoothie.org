@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       66343afe-8f81-4b74-8c15-f491ccbd492c
+:END:
+#+TITLE: Cheerful chocolate smoothie
+#+DATE: [2023-03-18 Sat 13:36]
+#+LAST_MODIFIED: [2023-03-18 Sat 13:37]
+#+FILETAGS: :smoothies:recipes:beverage:
+
+| Info      | Amount      |
+|-----------+-------------|
+| Prep Time | 5 min       |
+| Cook Time | 0 min       |
+| Yields    | 2 smoothies |
+
+* Ingredients
+
+  | Quantity | Item                  |
+  |----------+-----------------------|
+  | 2 cup    | [[id:474cf203-5b93-4773-843d-19f248a36f2b][almond milk]]           |
+  | 1/4 cup  | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocado]]               |
+  | 1 tsp    | [[id:924ad22d-2f73-4def-b12f-f0133df00ff1][vanilla extract]]       |
+  |          | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]         |
+  | 4 - 6    | [[id:c286f712-e223-4775-80f8-dc4973d0dfb5][Medjool dates]], pitted |
+  | 4 - 6    | ice cubes             |
+
+* Directions
+
+  1. Blend all ingredients together in a blender until smooth
+
+* References
+
+  1. Original recipe: [[id:ed80ba22-bc45-46e7-893a-f5bcaf777b70][The Oh She Glows Cookbook]]
+
