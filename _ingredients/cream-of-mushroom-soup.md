@@ -1,1 +1,0 @@
-# Cream of mushroom soup
