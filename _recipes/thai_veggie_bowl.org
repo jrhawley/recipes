@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Thai veggie bowl
 #+DATE: [2020-03-13]
-#+LAST_MODIFIED: [2022-08-21 Sun 10:19]
-#+FILETAGS: :recipes:vegetarian:vegan:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:49]
+#+FILETAGS: :bowls:recipes:vegetarian:vegan:entree:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -54,5 +54,5 @@
 
 * References & Notes
 
-1. Original recipe: [[https://ohsheglows.com/book/][Oh She Glows]]
+  1. Original recipe: [[https://ohsheglows.com/book/][Oh She Glows]]
 

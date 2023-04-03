@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Chicken tetrazzini
 #+DATE: [2020-09-09]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:54]
-#+FILETAGS: :recipes:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:50]
+#+FILETAGS: :pasta:recipes:entree:
 
 | Info      | Amount         |
 |-----------+----------------|

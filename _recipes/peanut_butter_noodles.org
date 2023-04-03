@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Peanut butter noodles
 #+DATE: [2020-05-21]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:24]
-#+FILETAGS: :recipes:vegetarian:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:50]
+#+FILETAGS: :pasta:recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

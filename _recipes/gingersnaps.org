@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Gingersnaps
 #+DATE: [2018-12-18]
-#+LAST_MODIFIED: [2022-10-11 Tue 21:14]
-#+FILETAGS: :recipes:dessert:
+#+LAST_MODIFIED: [2023-02-11 Sat 13:26]
+#+FILETAGS: :baking:recipes:dessert:
 
 | Info      | Amount     |
 |-----------+------------|

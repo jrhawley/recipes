@@ -3,14 +3,14 @@
 :END:
 #+TITLE: Alfredo sauce
 #+DATE: [2013-09-14]
-#+LAST_MODIFIED: [2022-08-03 Wed 22:23]
-#+FILETAGS: :recipes:sauce:
+#+LAST_MODIFIED: [2023-04-01 Sat 22:12]
+#+FILETAGS: :recipes:sauces:
 
-| Info      | Amount                    |
-|-----------+---------------------------|
-| Prep Time | 5 min                     |
-| Cook Time | 10 min                    |
-| Yields    | 4 servings/1 box of pasta |
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 5 min      |
+| Cook Time | 10 min     |
+| Yields    | 4 servings |
 
 * Ingredients
 

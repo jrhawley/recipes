@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Butter chicken
 #+DATE: [2013-10-17]
-#+LAST_MODIFIED: [2022-10-11 Tue 21:30]
-#+FILETAGS: :recipes:slow_cooker:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:52]
+#+FILETAGS: :chicken:recipes:slow_cooker:entree:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Paper plane
 #+DATE: [2021-08-07]
-#+LAST_MODIFIED: [2022-09-27 Tue 09:35]
+#+LAST_MODIFIED: [2023-03-31 Fri 21:34]
 #+FILETAGS: :recipes:alcohol:beverage:
 
 * Ingredients
@@ -17,10 +17,10 @@
 
 * Directions
 
-1. Add ice all ingredients to a cocktail shaker; shake until cool
-2. Strain into a coupe glass
+  1. Add ice all ingredients to a cocktail shaker; shake until cool
+  2. Strain into a coupe glass
 
 * References & Notes
 
-1. [[https://www.liquor.com/recipes/the-paper-plane/][Original recipe]]
+  1. [[https://www.liquor.com/recipes/the-paper-plane/][Original recipe]]
 

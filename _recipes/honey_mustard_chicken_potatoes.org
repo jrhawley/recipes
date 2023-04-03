@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Honey mustard chicken and potatoes
 #+DATE: [2020-08-17]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:09]
-#+FILETAGS: :recipes:chicken :potatoes :entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:52]
+#+FILETAGS: :recipes:chicken:potatoes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

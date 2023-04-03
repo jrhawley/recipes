@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Mediterranean salad
 #+DATE: [2017-03-18]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:14]
-#+FILETAGS: :recipes:vegetarian:entree:
+#+LAST_MODIFIED: [2023-04-01 Sat 21:57]
+#+FILETAGS: :salads:recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

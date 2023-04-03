@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Sweet potato quinoa bowl
 #+DATE: [2020-03-01]
-#+LAST_MODIFIED: [2022-07-25 Mon 20:24]
-#+FILETAGS: :recipes:vegetarian:vegan:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:48]
+#+FILETAGS: :bowls:recipes:vegetarian:vegan:entree:
 
 | Info      | Amount     |
 |-----------+------------|

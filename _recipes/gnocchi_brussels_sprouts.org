@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Gnocchi and Brussels sprouts
 #+DATE: [2022-11-12 Sat 22:25]
-#+LAST_MODIFIED: [2022-11-12 Sat 22:55]
-#+FILETAGS: :recipes:
+#+LAST_MODIFIED: [2023-04-02 Sun 20:48]
+#+FILETAGS: :pasta:entree:recipes:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -16,7 +16,7 @@
 
   | Quantity | Item              |
   |----------+-------------------|
-  | 16 oz    | [[id:9fe71d5b-9abd-4ca2-94fe-7a824fa96383][Brussels sprouts]]  |
+  | 16 oz    | [[id:94ac513c-c985-464c-95d4-23e65fffc60b][Brussels sprouts]]  |
   | 1        | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]]             |
   | 4 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]         |
   | 1/2 tsp  | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]] |

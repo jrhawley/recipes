@@ -3,13 +3,13 @@
 :END:
 #+TITLE: Honey whisky roasted parsnips
 #+DATE: [2022-10-01 Sat 00:56]
-#+LAST_MODIFIED: [2022-10-01 Sat 01:03]
-#+FILETAGS: :recipes:
+#+LAST_MODIFIED: [2023-04-02 Sun 20:53]
+#+FILETAGS: :vegetarian:vegan:sides:recipes:
 
-| Info      | Amount |
-|-----------+--------|
-| Prep Time | 10 min |
-| Cook Time | 40 min |
+| Info      | Amount  |
+|-----------+---------|
+| Prep Time | 10 min  |
+| Cook Time | 40 min  |
 | Yields    | 4 sides |
 
 * Ingredients

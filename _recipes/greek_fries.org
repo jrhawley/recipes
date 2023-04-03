@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Greek fries
 #+DATE: [2021-02-26]
-#+LAST_MODIFIED: [2022-07-25 Mon 09:05]
-#+FILETAGS: :recipes:appetizers:
+#+LAST_MODIFIED: [2023-04-01 Sat 21:53]
+#+FILETAGS: :vegetarian:recipes:appetizers:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Banana bread
 #+DATE: [2013-09-21]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
-#+FILETAGS: :recipes:
+#+LAST_MODIFIED: [2023-04-02 Sun 20:36]
+#+FILETAGS: :bread:recipes:
 
 | Info      | Amount |
 |-----------+--------|

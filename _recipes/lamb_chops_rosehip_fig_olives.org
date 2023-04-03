@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Lamb chops with rosehip, fig, and green olives
 #+DATE: [2021-09-25]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:11]
-#+FILETAGS: :recipes:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 20:14]
+#+FILETAGS: :lamb:recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -4,8 +4,8 @@
 :END:
 #+TITLE: Hummus
 #+DATE: [2022-07-25 Mon]
-#+LAST_MODIFIED: [2022-11-16 Wed 15:01]
-#+FILETAGS: :recipes:sides:
+#+LAST_MODIFIED: [2023-04-01 Sat 21:55]
+#+FILETAGS: :appetizers:vegetarian:recipes:
 
 | Info      | Amount |
 |-----------+--------|

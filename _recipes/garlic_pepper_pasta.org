@@ -4,8 +4,8 @@
 :END:
 #+TITLE: Aglio, olio e peperoncino
 #+DATE: [2020-11-01]
-#+LAST_MODIFIED: [2022-07-25 Mon 09:03]
-#+FILETAGS: :recipes:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:50]
+#+FILETAGS: :pasta:recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Cod with lemon caper brown butter
 #+DATE: [2022-08-21 Sun 10:25]
-#+LAST_MODIFIED: [2022-08-21 Sun 10:38]
-#+FILETAGS: :recipes:
+#+LAST_MODIFIED: [2023-04-02 Sun 20:43]
+#+FILETAGS: :entree:fish:recipes:
 
 | Info      | Amount     |
 |-----------+------------|

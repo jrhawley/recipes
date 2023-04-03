@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Chicken tikka masala
 #+DATE: [2022-11-12 Sat 21:25]
-#+LAST_MODIFIED: [2022-11-12 Sat 21:42]
-#+FILETAGS: :entree:recipes:
+#+LAST_MODIFIED: [2023-04-02 Sun 20:42]
+#+FILETAGS: :chicken:entree:recipes:
 
 | Info      | Amount     |
 |-----------+------------|

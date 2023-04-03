@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Beef stew
 #+DATE: [2018-02-03]
-#+LAST_MODIFIED: [2022-10-12 Wed 00:33]
-#+FILETAGS: :recipes:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:39]
+#+FILETAGS: :soups:recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

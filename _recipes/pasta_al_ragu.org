@@ -4,8 +4,8 @@
 :END:
 #+TITLE: Pasta al ragu
 #+DATE: [2020-11-01]
-#+LAST_MODIFIED: [2022-10-11 Tue 21:19]
-#+FILETAGS: :recipes:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:50]
+#+FILETAGS: :pasta:recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

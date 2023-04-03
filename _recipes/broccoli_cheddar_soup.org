@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Broccoli and cheddar soup
 #+DATE: [2019-11-13]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:48]
-#+FILETAGS: :recipes:vegetarian:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:40]
+#+FILETAGS: :soups:recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

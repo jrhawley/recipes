@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Custard and Berry Cake
 #+DATE: [2013-09-22]
-#+LAST_MODIFIED: [2022-07-25 Mon 09:00]
-#+FILETAGS: :recipes:dessert:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:57]
+#+FILETAGS: :cakes:recipes:dessert:
 
 | Info      | Amount |
 |-----------+--------|

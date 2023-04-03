@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Balsamic pork chops with tomatoes
 #+DATE: [2022-10-11 Tue 19:54]
-#+LAST_MODIFIED: [2022-10-11 Tue 20:33]
-#+FILETAGS: :entree:recipes:
+#+LAST_MODIFIED: [2023-04-02 Sun 20:36]
+#+FILETAGS: :pork:entree:recipes:
 
 | Info      | Amount     |
 |-----------+------------|

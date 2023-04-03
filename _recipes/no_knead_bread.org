@@ -3,8 +3,8 @@
 :END:
 #+TITLE: No-knead bread
 #+DATE: [2021-03-26]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:21]
-#+FILETAGS: :recipes:bread :baking:
+#+LAST_MODIFIED: [2023-04-01 Sat 21:23]
+#+FILETAGS: :recipes:bread:baking:
 
 | Info      | Amount       |
 |-----------+--------------|

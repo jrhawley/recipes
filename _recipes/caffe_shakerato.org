@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Caffe shakerato
 #+DATE: [2022-09-20 Tue 18:04]
-#+LAST_MODIFIED: [2022-09-20 Tue 18:20]
+#+LAST_MODIFIED: [2023-04-02 Sun 20:38]
 #+FILETAGS: :alcohol:recipes:beverage:coffee:
 
 | Info      | Amount     |

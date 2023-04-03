@@ -1,10 +1,11 @@
 :PROPERTIES:
 :ID:       251bc074-477c-42ee-94d4-9fb9a5fcef0e
+:ROAM_ALIASES: "Beet and apple soup"
 :END:
 #+TITLE: Beet & apple soup
 #+DATE: [2022-03-25]
-#+LAST_MODIFIED: [2022-10-12 Wed 00:35]
-#+FILETAGS: :recipes:entree:vegetarian:
+#+LAST_MODIFIED: [2023-03-12 Sun 19:27]
+#+FILETAGS: :soups:recipes:entree:vegetarian:
 
 | Info      | Amount     |
 |-----------+------------|

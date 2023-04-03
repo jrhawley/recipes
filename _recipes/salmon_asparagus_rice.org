@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Salmon, asparagus, and rice
 #+DATE: [2015-03-05]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:30]
-#+FILETAGS: :recipes:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:49]
+#+FILETAGS: :fish:recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

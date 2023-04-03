@@ -3,12 +3,12 @@
 :END:
 #+TITLE: Apple pie
 #+DATE: [2018-12-18]
-#+LAST_MODIFIED: [2022-10-11 Tue 21:13]
-#+FILETAGS: :recipes:dessert:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:56]
+#+FILETAGS: :pies:recipes:dessert:
 
 | Info      | Amount  |
 |-----------+---------|
-| Prep Time | 1h      |
+| Prep Time | 1 h     |
 | Bake Time | 50 min  |
 | Yields    | 13" pie |
 

@@ -3,8 +3,8 @@
 :END:
 #+TITLE: California quinoa bowl
 #+DATE: [2022-10-02 Sun 22:53]
-#+LAST_MODIFIED: [2022-10-02 Sun 23:01]
-#+FILETAGS: :entree:recipes:
+#+LAST_MODIFIED: [2023-04-02 Sun 20:39]
+#+FILETAGS: :chicken:bowls:entree:recipes:
 
 | Info      | Amount     |
 |-----------+------------|

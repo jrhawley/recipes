@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Chicken breasts
 #+DATE: [2013-09-14]
-#+LAST_MODIFIED: [2022-10-12 Wed 00:35]
-#+FILETAGS: :recipes:basics:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:51]
+#+FILETAGS: :entree:chicken:recipes:
 
 | Info      | Amount      |
 |-----------+-------------|

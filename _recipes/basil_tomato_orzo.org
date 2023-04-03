@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Basil and tomato orzo
 #+DATE: [2017-05-28]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:46]
-#+FILETAGS: :recipes:vegetarian:lunch:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:50]
+#+FILETAGS: :pasta:recipes:vegetarian:lunch:entree:
 
 | Info      | Amount     |
 |-----------+------------|

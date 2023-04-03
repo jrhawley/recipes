@@ -4,8 +4,8 @@
 :END:
 #+TITLE: Winter salad bowl
 #+DATE: [2020-02-01]
-#+LAST_MODIFIED: [2022-10-16 Sun 14:46]
-#+FILETAGS: :recipes:vegetarian:vegan:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:48]
+#+FILETAGS: :bowls:recipes:vegetarian:vegan:entree:
 
 | Info      | Amount     |
 |-----------+------------|

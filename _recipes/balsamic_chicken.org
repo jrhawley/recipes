@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Balsamic chicken
 #+DATE: [2020-01-05]
-#+LAST_MODIFIED: [2022-11-12 Sat 22:12]
-#+FILETAGS: :recipes:slow_cooker:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:52]
+#+FILETAGS: :chicken:recipes:slow_cooker:entree:
 
 | Info      | Amount     |
 |-----------+------------|

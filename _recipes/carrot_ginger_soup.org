@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Carrot ginger soup
 #+DATE: [2018-03-26]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:50]
-#+FILETAGS: :recipes:vegan:vegetarian:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:40]
+#+FILETAGS: :soups:recipes:vegan:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

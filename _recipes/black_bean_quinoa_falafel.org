@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Black bean quinoa falafel
 #+DATE: [2020-09-24]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:48]
+#+LAST_MODIFIED: [2023-02-11 Sat 13:11]
 #+FILETAGS: :recipes:vegetarian:entree:
 
 | Info      | Amount     |

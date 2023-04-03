@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Garlic bread
 #+DATE: [2021-09-26]
-#+LAST_MODIFIED: [2022-07-25 Mon 09:02]
-#+FILETAGS: :recipes:appetizers:sides:
+#+LAST_MODIFIED: [2023-04-01 Sat 21:54]
+#+FILETAGS: :vegetarian:recipes:appetizers:
 
 | Info      | Amount              |
 |-----------+---------------------|

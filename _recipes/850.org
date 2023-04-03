@@ -3,8 +3,8 @@
 :END:
 #+TITLE: The 850
 #+DATE: [2022-09-26 Mon 22:59]
-#+LAST_MODIFIED: [2022-09-26 Mon 23:10]
-#+FILETAGS: :alcohol:recipes:beverage:
+#+LAST_MODIFIED: [2023-04-01 Sat 11:40]
+#+filetags: :agenda:alcohol:recipes:beverage:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -26,6 +26,9 @@
 * Directions
 
   1.
+
+** TODO Finish writing this recipe
+   SCHEDULED: <2023-04-01 Sat>
 
 * References & Notes
 

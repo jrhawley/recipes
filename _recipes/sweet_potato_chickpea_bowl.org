@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Sweet potato chickpea bowl
 #+DATE: [2022-11-12 Sat 21:44]
-#+LAST_MODIFIED: [2022-11-12 Sat 21:53]
-#+FILETAGS: :entree:recipes:
+#+LAST_MODIFIED: [2023-04-02 Sun 20:58]
+#+FILETAGS: :vegetarian:vegan:bowls:entree:recipes:
 
 | Info      | Amount     |
 |-----------+------------|

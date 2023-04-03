@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Roasted chickpea stuffed avocadoes
 #+DATE: [2017-08-22]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:29]
-#+FILETAGS: :recipes:vegetarian:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:49]
+#+FILETAGS: :bowls:recipes:vegetarian:entree:
 
 | Info      | Amount     |
 |-----------+------------|

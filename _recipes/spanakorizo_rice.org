@@ -4,7 +4,7 @@
 :END:
 #+TITLE: Spanakorizo rice
 #+DATE: [2020-04-16]
-#+LAST_MODIFIED: [2022-11-09 Wed 12:00]
+#+LAST_MODIFIED: [2022-12-18 Sun 10:27]
 #+FILETAGS: :recipes:vegetarian:entree:
 
 | Info      | Amount     |

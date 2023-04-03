@@ -1,10 +1,10 @@
 :PROPERTIES:
 :ID:       32c741ba-0cbd-41b0-8226-e2563cde3480
 :END:
-#+TITLE: Apple cider chicken
+#+TITLE: Apple cider chicken and sweet potatoes
 #+DATE: [2021-11-08]
-#+LAST_MODIFIED: [2022-07-25 Mon 08:45]
-#+FILETAGS: :recipes:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:54]
+#+FILETAGS: :chicken:recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

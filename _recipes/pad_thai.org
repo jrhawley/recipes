@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Pad Thai
 #+DATE: [2017-11-27]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:22]
-#+FILETAGS: :recipes:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:52]
+#+FILETAGS: :chicken:recipes:entree:
 
 | Info      | Amount     |
 |-----------+------------|

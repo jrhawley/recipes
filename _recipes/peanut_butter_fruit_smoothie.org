@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Peanut butter fruit smoothie
 #+DATE: [2017-05-28]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:24]
-#+FILETAGS: :recipes:beverage:
+#+LAST_MODIFIED: [2023-04-02 Sun 19:08]
+#+FILETAGS: :smoothies:recipes:beverage:
 
 | Info      | Amount |
 |-----------+--------|

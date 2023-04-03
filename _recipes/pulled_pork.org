@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Pulled pork
 #+DATE: [2017-12-03]
-#+LAST_MODIFIED: [2022-07-25 Mon 18:27]
-#+FILETAGS: :recipes:slow_cooker:entree:
+#+LAST_MODIFIED: [2023-04-02 Sun 18:48]
+#+FILETAGS: :lunch:sandwiches:recipes:slow_cooker:entree:
 
 | Info      | Amount     |
 |-----------+------------|
