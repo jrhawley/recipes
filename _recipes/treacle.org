@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Treacle
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED: [2022-11-13 Sun 00:03]
+#+LAST_MODIFIED: [2023-04-06 Thu 23:02]
 #+FILETAGS: :recipes:alcohol:beverage:
 
 * Ingredients
@@ -19,12 +19,12 @@
 
 * Directions
 
-1. Add simple syrup, bitters, half the rum, and 2 ice cubes to a rocks glass; stir.
-2. Add the remaining rum and another 2 ice cubes and stir.
-3. Fill the glass with ice and float the apple juice on top.
-4. Garnish with a strip of lemon zest.
+  1. Add simple syrup, bitters, half the rum, and 2 ice cubes to a rocks glass; stir.
+  2. Add the remaining rum and another 2 ice cubes and stir.
+  3. Fill the glass with ice and float the apple juice on top.
+  4. Garnish with a strip of lemon zest.
 
 * References
 
-1. The Periodic Table of Cocktails
+  1. The Periodic Table of Cocktails
 

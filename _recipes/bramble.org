@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Bramble
 #+DATE: [2021-12-05]
-#+LAST_MODIFIED: [2022-09-27 Tue 09:36]
+#+LAST_MODIFIED: [2023-04-06 Thu 21:08]
 #+FILETAGS: :recipes:beverage:alcohol:
 
 * Ingredients
@@ -19,8 +19,9 @@
 
 * Directions
 
-1. Add gin, lemon juice, and simple syrup into a cocktail shaker with ice.
-2. Shake until well-chilled.
-3. Fill a rocks glass with ice and strain the cocktail shaker into the glass.
-4. Pour the creme de mure over top.
-5. Garnish with a lemon wedge and blackberry.
+  1. Add gin, lemon juice, and simple syrup into a cocktail shaker with ice.
+  2. Shake until well-chilled.
+  3. Fill a rocks glass with ice and strain the cocktail shaker into the glass.
+  4. Pour the creme de mure over top.
+  5. Garnish with a lemon wedge and blackberry.
+

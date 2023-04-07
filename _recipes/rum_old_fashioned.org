@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Rum Old-Fashioned
 #+DATE: [2021-02-17]
-#+LAST_MODIFIED: [2022-11-13 Sun 00:03]
+#+LAST_MODIFIED: [2023-04-06 Thu 23:03]
 #+FILETAGS: :recipes:alcohol:beverage:
 
 * Ingredients
@@ -17,13 +17,13 @@
 
 * Directions
 
-1. Place the orange peel at the bottom of a rocks glass
-2. Add the simple syrup, bitters, and half the rum
-3. Add 2-3 ice cubes and stir 20 - 30 times to dilute
-4. Add the remaining rum, then 2 more ice cubes and stir again
-5. Serve in the glass as is
+  1. Place the orange peel at the bottom of a rocks glass
+  2. Add the simple syrup, bitters, and half the rum
+  3. Add 2-3 ice cubes and stir 20 - 30 times to dilute
+  4. Add the remaining rum, then 2 more ice cubes and stir again
+  5. Serve in the glass as is
 
 * References & Notes
 
-1. The Periodic Table of Cocktails
+  1. The Periodic Table of Cocktails
 
