@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       f77fc50c-10bd-4385-9820-8a7fb7dbcabd
+:END:
+#+TITLE: Brayon ployes
+#+DATE: [2023-04-04 Tue 22:27]
+#+LAST_MODIFIED: [2023-04-04 Tue 22:36]
+#+FILETAGS: :breakfast:vegetarian:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 10 min     |
+| Yields    | 6 servings |
+
+* Ingredients
+
+  | Quantity | Item                                          |
+  |----------+-----------------------------------------------|
+  | 1 Tbsp   | [[id:218f6314-47d3-4d12-bc91-3adc8baf97a8][baking powder]]                                 |
+  | 1 tsp    | [[id:3977eee0-56ec-42eb-af6c-6b31a703c1f6][baking soda]]                                   |
+  | 2 cup    | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]] (1 cup boiling, 1 cup room temperature) |
+  | 3/2 cup  | [[id:094d6e1c-c7f7-4642-aaac-a619f64da6a4][buckwheat flour]]                               |
+  | 1 cup    | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][all-purpose flour]]                             |
+  | 1 tsp    | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]                                 |
+  |          | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                                        |
+
+* Directions
+
+  1. In a small bowl, combine the baking powder, baking soda, and boiling water, and let sit for 5 min
+  2. In a large mixing bowl, mix together both flours and salt
+	 1. Pour in the water mixture and slowly add the room temparature water to form a batter
+	 2. Let sit for 3 min
+  3. Preheat the oven to 165 C (325 F), then turn it off once the temperature has been reached
+  4. Place a heavy-bottomed skillet or griddle over medium-high heat and add butter to lightly grease it
+	 1. When the butter is bubbling, ladle 1/3 cup of batter into a circle
+	 2. Let cook until the top is bubbling, firm to the touch (1 - 2 min)
+	 3. Remove the ploye from the pan, then place on a dish or baking sheet in the oven to keep warm
+	 4. Repeat until all the batter is used
+  5. Serve with molasses, maple syrup, and/or fruit
+
+* References
+
+  1. Original recipe: A Rising Tide
+  2. Best enjoyed day-of, but can laste in an airtight container in the fridge for up to 3 days
+
