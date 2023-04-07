@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Mediterranean chickpea casserole
 #+DATE: [2023-03-10 Fri 18:54]
-#+LAST_MODIFIED: [2023-04-01 Sat 12:17]
+#+LAST_MODIFIED: [2023-04-04 Tue 18:53]
 #+FILETAGS: :entree:salads:vegan:vegetarian:recipes:
 
 | Info      | Amount     |
@@ -35,7 +35,7 @@
 
 * Directions
 
-   1. Heat olive oil in a large broiler-safe sauté pan or skillet over medium-high heat [fn:1]
+   1. Heat olive oil in a Dutch oven over medium-high heat
 	  - Add onion, sauté until translucent, about 5 min
 	  - Reduce heat to medium
 	  - Add garlic and salt, cook, stirring frequently, until fragrant, 1 to 2 min
@@ -43,7 +43,7 @@
 	  - Cover the pot with a lid
 	  - Bring to a boil and cook for 20 min
    3. Stir in the chickpeas
-	  - Cook uncovered until the liquid has reduced by one-third, 10 - 15 min, stirring occasionally [fn:2]
+	  - Cook uncovered until the liquid has reduced by one-third, 10 - 15 min, stirring occasionally [fn:1]
    4. Position a oven rack so that the top of the pot will be 4-inches away from the broiler and turn oven to broil.
    5. Remove bay leaves, stir in spinach, and cook until wilted, about 2 min
 	  - Stir in sugar and lemon juice
@@ -58,6 +58,5 @@
 
 * Footnotes
 
-  [fn:1] Sauté pans have straight sides; so they typically hold more volume and come with a lid. Use a sauté pan if you have. Otherwise, if using a skillet without a lid, you can position a baking sheet over top as the "lid" when the instructions say to cover. If you don't have a broiler safe pan, you can transfer to a broiler-safe casserole dish for the final step. 
-  [fn:2] Reduce heat if the mixture starts to splatter, but keep mixture actively simmering.
+  [fn:1] Reduce heat if the mixture starts to splatter, but keep mixture actively simmering.
 
