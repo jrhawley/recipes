@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       442f9581-8f05-4188-bd5d-1cdf4eef37ac
+:END:
+#+TITLE: Black currant buttermilk doughnuts
+#+DATE: [2023-04-08 Sat 11:41]
+#+LAST_MODIFIED: [2023-04-08 Sat 11:56]
+#+FILETAGS: :dessert:recipes:
+
+| Info      | Amount      |
+|-----------+-------------|
+| Prep Time | 10 min      |
+| Cook Time | 10 min      |
+| Yields    | 8 doughnuts |
+
+* Ingredients
+
+** Doughnuts
+
+   | Quantity | Item                 |
+   |----------+----------------------|
+   | 2        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][eggs]]                 |
+   | 1/2 cup  | [[id:459dff6c-a624-4bd9-bd30-18e62a117566][buttermilk]]           |
+   | 1/3 cup  | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                |
+   | 1 Tbsp   | [[id:218f6314-47d3-4d12-bc91-3adc8baf97a8][baking powder]]        |
+   | 1/2 tsp  | [[id:3977eee0-56ec-42eb-af6c-6b31a703c1f6][baking soda]]          |
+   | 5/2 cup  | [[id:52b06361-3a75-4b35-84ff-6b1f3ac96b23][flour]]                |
+   |          | [[id:6594dbcb-ac42-4c68-a9f9-c1ba749b408a][vegetable oil]]        |
+
+** Glaze
+
+   | Quantity | Item              |
+   |----------+-------------------|
+   | 2 cup    | [[id:65262120-03a6-474b-a6f6-819e4e9207cb][icing sugar]]       |
+   | 1/2 cup  | [[id:4e0854a7-f4b7-4535-be8e-6dd7503bc3b3][black currant jam]] |
+   | 1 Tbsp   | [[id:eaf54217-f528-4d72-b1b1-4efff76983ae][whipping cream]]    |
+
+* Directions
+
+  1. In a mixing bowl, whisk together the eggs, buttermilk, and honey until fully combined.
+	 1. Add baking powder and soda and mix.
+	 2. Add the flour and fold 2 - 3 times, until just mixed and a soft dough forms.
+  2. Turn the dough out onto a well-floured surface and shape it into a disc, about 1/2 cm thick.
+	 1. Using a 7.5 cm (3") cookie cutter, cut out rounds from the dough.
+	 2. Using a small cookie cutter or icing tip, cut out a centre hole in each round, about 1 cm (1/2 ") thick.
+	 3. Reform the dough and repeat until all the dough is used.
+  3. In a heavy-bottomed skillet or pot over medium-high heat, heat 2.5 cm (1 ") of oil to 190 C (375 F).
+	 1. Turn down the heat to medium once the oil reaches the desired temperature.
+	 2. Using tongs, slip 2 - 3 doughnuts in at a time into the oil [fn:1].
+	 3. Flip after 1 min [fn:2].
+	 4. Cook for another minute, then transfer to a wire rack with parchment paper underneath to catch and dripping oil.
+	 5. Give the oil 1 - 2 min to return to temperature, then repeat with the remaining doughnuts.
+  4. In a shallow bowl, whisk together the glaze ingredients.
+	 1. When the doughnuts are cool enough to touch, dip each one in the glaze and place back on the wire rack for 10 min.
+  5. Serve as soon as the glaze has set.
+
+* References
+
+  1. Original recipe: A Rising Tide
+
+* Footnotes
+
+  [fn:1] Ensure the doughnuts have space to move, aren't over-crowded, and aren't sticking to the bottom of the pan.
+  [fn:2] They will be golden brown and may have cracked open a bit, which is perfect.
+         The cracks allow the glaze to seep into the doughnuts.

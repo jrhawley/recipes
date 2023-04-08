@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Recipe Book
 #+DATE: [2021-02-27 Sat]
-#+LAST_MODIFIED: [2023-04-03 Mon 09:25]
+#+LAST_MODIFIED: [2023-04-08 Sat 11:41]
 #+FILETAGS: :personal:recipes:
 
 [[file:README.org][Introduction]]
@@ -231,6 +231,7 @@
 
    - [[id:76f35591-1d4a-4935-a8dd-6f708b383656][Birthday doughnuts]]
    - [[id:f612dbd9-e405-4aa4-b1ce-6d176a09036f][Glazed Guinness chocolate doughnuts]]
+   - [[id:442f9581-8f05-4188-bd5d-1cdf4eef37ac][Blackcurrant buttermilk doughnuts]]
 
 ** Cakes & muffins
 
