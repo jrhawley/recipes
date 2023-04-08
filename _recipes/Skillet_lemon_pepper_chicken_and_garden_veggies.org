@@ -3,13 +3,13 @@
 :END:
 #+TITLE: Skillet lemon pepper chicken and garden veggies
 #+DATE: [2023-03-11 Sat 12:55]
-#+LAST_MODIFIED: [2023-04-02 Sun 20:31]
+#+LAST_MODIFIED: [2023-04-08 Sat 11:20]
 #+FILETAGS: :entree:chicken:recipes:
 
-| Info      | Amount |
-|-----------+--------|
-| Prep Time | 10 min |
-| Cook Time | 20 min |
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 20 min     |
 | Yields    | 4 servings |
 
 * Ingredients
