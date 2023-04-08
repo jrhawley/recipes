@@ -105,6 +105,7 @@
    - [[id:e8c6a89b-9a35-4d8b-b4af-c2ee62e29711][Sloppy glows]]
    - [[id:e5ba1277-bdfe-4c2e-b618-b778da466985][Pesto chicken tzatziki salad wraps]]
    - [[id:beef7655-31d7-4f59-8ded-13fec39d7dd4][Quesadillas]]
+   - [[id:4e390c99-ccaf-41cb-b7ce-329989145aa4][Chicken lettuce wraps]]
   
 ** Salads & bowls
 
@@ -183,7 +184,6 @@
    - [[id:68f988f0-2c01-432b-9964-71102cd309aa][Honey garlic chicken and veggies]]
    - [[id:283a7b8b-921c-4ac9-964d-3b3db5bf6c3e][Balsamic chicken]]
    - [[id:10fbc2d0-e29b-4f3a-a6b4-d21ad5788de4][Honey mustard chicken and potatoes]]
-   - [[id:4e390c99-ccaf-41cb-b7ce-329989145aa4][Chicken lettuce wraps]]
    - [[id:7323d7bf-f0e0-43c9-b404-389d0638a319][Lemon garlic chicken]]
    - [[id:dfc00b08-53ce-4183-ba63-30d62f15133e][Maple cranberry chicken]]
    - [[id:5f4000f6-2bf0-4bba-8fa5-378a5226f954][Grilled chicken and panzella]]
