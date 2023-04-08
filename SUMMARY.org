@@ -134,20 +134,20 @@
   
 ** Pasta
 
-   - [[id:8bb9f4d7-f17b-4028-bd9c-076a2fefea0e][Lasagna]]
    - [[id:09ee4562-c6c3-4a13-8ed7-2ac5040856aa][Farfalle, tomato, feta, and balsamic]]
-   - [[id:aa17b1e9-c93f-4f36-bc54-4b8a4341a286][Basil and tomato orzo]]
+   - [[id:1641b0db-07b8-4462-939b-d81c7f840b2f][Baked mac and cheese]]
+   - [[id:19965bd0-cc59-44c6-8d72-20e0fdbe5431][Roasted spaghetti squash]]
+   - [[id:1ab4e3e2-675d-4c41-a6df-636fe7f63edd][Broccoli, ham, macaroni, and cheese]]
    - [[id:374f14d4-4288-4749-b4ec-37e52db3785b][Peanut butter noodles]]
    - [[id:6649fc87-1356-4b9e-a39f-80364c9ca06a][Aglio, olio e peperoncino]]
-   - [[id:a6b79372-7f38-4926-b971-91256e45f719][Linguine, zucchine, e gamberetti]]
-   - [[id:d59a7584-cf12-4762-a2f4-3617859d82e3][Pasta al ragu]]
-   - [[id:c00450ce-37a8-4254-9b97-0d6b181390b0][Chicken tetrazzini]]
-   - [[id:1ab4e3e2-675d-4c41-a6df-636fe7f63edd][Broccoli, ham, macaroni, and cheese]]
-   - [[id:19965bd0-cc59-44c6-8d72-20e0fdbe5431][Roasted spaghetti squash]]
-   - [[id:1641b0db-07b8-4462-939b-d81c7f840b2f][Baked mac and cheese]]
    - [[id:749d6fbe-8e77-4e23-bf06-3c1eb1f2eeb1][Gnocchi and Brussels sprouts]]
+   - [[id:8bb9f4d7-f17b-4028-bd9c-076a2fefea0e][Lasagna]]
    - [[id:991947d7-1850-4f90-aaff-0769e724cf59][Sheet pan gnocchi]]
+   - [[id:a6b79372-7f38-4926-b971-91256e45f719][Linguine, zucchine, e gamberetti]]
+   - [[id:aa17b1e9-c93f-4f36-bc54-4b8a4341a286][Basil and tomato orzo]]
    - [[id:b698c969-065f-4050-96d7-e6dafbd504f5][Southern baked macaroni and cheese]]
+   - [[id:c00450ce-37a8-4254-9b97-0d6b181390b0][Chicken tetrazzini]]
+   - [[id:d59a7584-cf12-4762-a2f4-3617859d82e3][Pasta al ragu]]
 
 ** Soups
 
