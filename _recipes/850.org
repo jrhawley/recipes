@@ -3,8 +3,8 @@
 :END:
 #+TITLE: The 850
 #+DATE: [2022-09-26 Mon 22:59]
-#+LAST_MODIFIED: [2023-04-01 Sat 11:40]
-#+filetags: :agenda:alcohol:recipes:beverage:
+#+LAST_MODIFIED: [2023-04-11 Tue 12:43]
+#+filetags: :alcohol:recipes:beverage:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -16,20 +16,19 @@
 
   | Quantity | Item         |
   |----------+--------------|
-  |          | [[id:b428319f-a717-4af6-8002-c697645d5d3b][Ungava Gin]]   |
-  |          | [[id:f4be28ec-f5d2-4a1a-bf6d-29b941c8f922][raspberries]]  |
-  |          | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]   |
-  |          | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg white]]    |
-  |          | [[id:75f762b8-3f89-47ac-bde8-284a3506cd74][simple syrup]] |
+  | 3/2 oz   | [[id:b428319f-a717-4af6-8002-c697645d5d3b][Ungava Gin]]   |
+  | 3/4 oz   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]   |
+  | 3/4 oz   | [[id:75f762b8-3f89-47ac-bde8-284a3506cd74][simple syrup]] |
+  | 1        | [[id:1bf90d00-d03c-4492-9f4f-16fff79fc251][egg white]]    |
   |          | ice          |
+  |          | [[id:f4be28ec-f5d2-4a1a-bf6d-29b941c8f922][raspberries]]  |
 
 * Directions
 
-  1.
-
-** TODO Finish writing this recipe
-   SCHEDULED: <2023-04-01 Sat>
+  1. Combine the gin, lime juice, syrup, and egg white in a tumbler with ice and shake vigorously.
+  2. Strain into a cocktail glass with ice and garnish with raspberries.
 
 * References & Notes
 
   1. Le Boudoir cafe-bar
+

@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       a64f754f-829f-4ea2-8375-b095600a0cc1
+:END:
+#+TITLE: Mexican Firing Squad
+#+DATE: [2023-04-20 Thu 20:19]
+#+LAST_MODIFIED: [2023-04-20 Thu 20:20]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 2 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item              |
+  |----------+-------------------|
+  | 2 oz     | [[id:1cc52ced-0115-42f9-9fe7-6ad85fc3d3ca][tequila]]           |
+  | 3/4 oz   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]        |
+  | 3/4 oz   | [[id:3a37487a-599e-4c93-b961-8d13cfbaa780][grenadine]]         |
+  | 4 dashes | [[id:0ec50573-a2d4-4421-b07c-d43736a9a586][Angostura bitters]] |
+  |          | ice               |
+
+* Directions
+
+  1. Combine all ingredients in a tumbler and shake to combine.
+  2. Pour into a chilled cocktail glass over ice.
+
+* References
+
+  1. Original recipe: [[https://www.liquor.com/mexican-firing-squad-cocktail-recipe-5270686][Liquor.com]]
+

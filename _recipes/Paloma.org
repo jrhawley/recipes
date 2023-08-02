@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       84A1321A-2D66-400B-A572-115DFB3D9263
+:END:
+#+TITLE: Paloma
+#+DATE: [2023-04-25 Tue 10:02]
+#+LAST_MODIFIED: [2023-04-25 Tue 10:07]
+#+FILETAGS: :alcohol:recipes:beverage:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 2 min      |
+| Cook Time | 0 min      |
+| Yields    | 1 cocktail |
+
+* Ingredients
+
+  | Quantity | Item             |
+  |----------+------------------|
+  | 2 oz     | [[id:1cc52ced-0115-42f9-9fe7-6ad85fc3d3ca][tequila]]          |
+  | 2 oz     | [[id:2DBEFDBF-7DE4-4732-AA06-B3DF3CB900B4][grapefruit juice]] |
+  | 2 oz     | [[id:290eae8a-1021-4a0f-9a5d-1ea5e06452f7][sparkling water]]  |
+  | 1/2 oz   | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]       |
+  | 1/4 oz   | [[id:75f762b8-3f89-47ac-bde8-284a3506cd74][simple syrup]]     |
+  |          | ice              |
+  |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]      |
+
+* Directions
+
+  1. Salt the rim of the glass by rubbing a grapefruit wedge (or other citrus) around the rim and running the glass through a plate of salt.
+  2. Add all ingredients to a tumbler and shake to combine.
+  3. Pour the drink into a cocktail glass and fill with ice.
+  4. Add sugar/simple syrup to desired sweetness and serve with the grapefruit wedge as a garnish.
+
+* References
+
+  1. Original recipe: [[https://loveandlemons.com/wprm_print/recipe/47109][Love and Lemons]]
+

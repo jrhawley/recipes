@@ -1,9 +1,10 @@
 :PROPERTIES:
 :ID:       4701e35a-ab1b-4b79-8dc6-68014ac148eb
+:ROAM_ALIASES: "One-pot wraps"
 :END:
 #+TITLE: One pot wraps
 #+DATE: [2020-02-22]
-#+LAST_MODIFIED: [2023-04-02 Sun 18:48]
+#+LAST_MODIFIED: [2023-07-24 Mon 16:46]
 #+FILETAGS: :lunch:wraps:recipes:vegetarian:entree:
 
 | Info      | Amount     |

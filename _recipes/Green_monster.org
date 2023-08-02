@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Green monster
 #+DATE: [2023-03-18 Sat 13:32]
-#+LAST_MODIFIED: [2023-03-19 Sun 10:06]
+#+LAST_MODIFIED: [2023-07-24 Mon 16:41]
 #+FILETAGS: :smoothies:recipes:beverage:
 
 | Info      | Amount     |
@@ -32,3 +32,4 @@
 * References
 
   1. Original recipe: [[id:ed80ba22-bc45-46e7-893a-f5bcaf777b70][The Oh She Glows Cookbook]]
+

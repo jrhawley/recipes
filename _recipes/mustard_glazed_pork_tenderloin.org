@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Mustard-glazed pork tenderloin
 #+DATE: [2021-03-28]
-#+LAST_MODIFIED: [2023-04-02 Sun 18:54]
+#+LAST_MODIFIED: [2023-06-07 Wed 09:04]
 #+FILETAGS: :pork:recipes:entree:
 
 | Info      | Amount     |
@@ -14,24 +14,24 @@
 
 * Ingredients
 
-| Quantity | Item                |
-|----------+---------------------|
-| 400 g    | [[id:4172ff60-dd6f-4154-ae3c-e301116ff4fa][pork tenderloin]]     |
-| 3 Tbsp   | [[id:02ccfac6-e705-4b80-949e-1dff24216a5b][brown sugar]]         |
-| 2 Tbsp   | [[id:8229d1fa-b72c-4ed1-8d8e-cc10f0ff35ef][grainy mustard]]      |
-| 2 tsp    | [[id:473555c6-ad53-42f0-9301-71ed769e25e8][rosemary]]            |
-| 2 Tbsp   | [[id:9557565b-cbae-4bc7-bac6-d3e8ee9b3e6b][apple cider vinegar]] |
+  | Quantity | Item                |
+  |----------+---------------------|
+  | 400 g    | [[id:4172ff60-dd6f-4154-ae3c-e301116ff4fa][pork tenderloin]]     |
+  | 3 Tbsp   | [[id:02ccfac6-e705-4b80-949e-1dff24216a5b][brown sugar]]         |
+  | 2 Tbsp   | [[id:8229d1fa-b72c-4ed1-8d8e-cc10f0ff35ef][grainy mustard]]      |
+  | 2 tsp    | [[id:473555c6-ad53-42f0-9301-71ed769e25e8][rosemary]]            |
+  | 2 Tbsp   | [[id:9557565b-cbae-4bc7-bac6-d3e8ee9b3e6b][apple cider vinegar]] |
 
 * Directions
 
-1. Combine all ingredients in a waterproof bag, let marinate for 15 min, or overnight
-2. Heat a large cast iron skillet or grill pan over medium-high heat
-   1. Brush pan with olive oil and add tenderloins
-   2. Reduce heat to medium-low
-   3. Cook, turning tenderloins every 3 to 4 minutes, until deeply caramelized on all sides, about 20 to 25 minutes
-3. Remove and lightly tent with foil; let rest about 10 minutes before cutting into 1/4- to 1/2-inch slices
+  1. Combine all ingredients in a waterproof bag, let marinate for 15 min, or overnight
+  2. Heat a large cast iron skillet or grill pan over medium-high heat
+	 1. Brush pan with olive oil and add tenderloins
+	 2. Reduce heat to medium-low
+	 3. Cook, turning tenderloins every 3 to 4 minutes, until deeply caramelized on all sides, about 20 to 25 minutes
+  3. Remove and lightly tent with foil; let rest about 10 minutes before cutting into 1/4- to 1/2-inch slices
 
 * References & Notes
 
-1. [[https://cooking.nytimes.com/recipes/10080-mustard-glazed-pork-tenderloin][Original recipe]]
+  1. [[https://cooking.nytimes.com/recipes/10080-mustard-glazed-pork-tenderloin][Original recipe]]
 

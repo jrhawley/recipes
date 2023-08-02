@@ -3,24 +3,24 @@
 :END:
 #+TITLE: Margarita
 #+DATE: [2022-03-13]
-#+LAST_MODIFIED: [2022-09-27 Tue 09:36]
+#+LAST_MODIFIED: [2023-05-24 Wed 21:13]
 #+FILETAGS: :recipes:alcohol:beverage:
 
 * Ingredients
 
-| Quantity | Item       |
-|----------+------------|
-| 5/3 oz   | [[id:1cc52ced-0115-42f9-9fe7-6ad85fc3d3ca][tequila]]    |
-| 1 oz     | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]] |
-| 5/6 oz   | [[id:0abff3a4-882b-4b60-a2f1-598710047b2f][Triple Sec]] |
+  | Quantity | Item       |
+  |----------+------------|
+  | 5/3 oz   | [[id:1cc52ced-0115-42f9-9fe7-6ad85fc3d3ca][tequila]]    |
+  | 1 oz     | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]] |
+  | 5/6 oz   | [[id:0abff3a4-882b-4b60-a2f1-598710047b2f][Triple Sec]] |
 
 * Directions
 
-1. Salt the rim of a martini glass or champagne coupe.
-2. Shake all ingredients with ice.
-3. Double strain into the glass.
+  1. Salt the rim of a martini glass or champagne coupe.
+  2. Shake all ingredients with ice.
+  3. Double strain into the glass.
 
 * References & Notes
 
-1. The Periodic Table of Cocktails
+  1. The Periodic Table of Cocktails
 

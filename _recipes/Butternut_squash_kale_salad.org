@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       5d1e8082-4323-4acb-9faf-0ed948b83c70
+:END:
+#+TITLE: Butternut squash kale salad
+#+DATE: [2023-07-30 Sun 13:28]
+#+LAST_MODIFIED: [2023-07-30 Sun 13:50]
+#+FILETAGS: :salads:vegetarian:recipes:
+
+| Info      | Amount |
+|-----------+--------|
+| Prep Time | 15 min |
+| Cook Time | 25 min |
+| Yields    | 4 servings |
+
+* Ingredients
+
+** Salad
+
+   | Quantity | Item                    |
+   |----------+-------------------------|
+   | 3 cups   | [[id:0fa89b45-f8e0-43c7-8a83-65845eacc02c][butternut squash]], cubed |
+   | 2 Tbsp   | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]               |
+   | `/1 tsp  | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]             |
+   | 1/2 tsp  | [[id:42bb6cab-f3f5-4018-814f-dba5fcf0e95a][garlic powder]]           |
+   | 1/2 tsp  | [[id:591e51ef-30b7-48f4-9232-a0834f4c31af][cumin]]                   |
+   | 1/2 tsp  | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]                 |
+   | 1 head   | [[id:36223b51-b988-470c-ab00-748e4a5b3e66][kale]], stemmed           |
+   | 2 oz     | [[id:2cf79b19-153c-44ba-afce-677f23741680][goat cheese crumble]]     |
+   | 1/4 cup  | [[id:26ca4439-8ab4-4422-a478-8c2354ea8724][pumpkin seeds]]           |
+
+** Vinaigrette
+
+   | Quantity | Item                |
+   |----------+---------------------|
+   | 1/4 cup  | [[id:9557565b-cbae-4bc7-bac6-d3e8ee9b3e6b][apple cider vinegar]] |
+   | 1/2 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                    |
+   | 2 Tbsp   | [[id:3d8b94b2-1ea8-42de-a3c2-e69d4ac70c7f][apricot preserves]]   |
+   | 2 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced      |
+   | 1/4 tsp  | [[id:505e3767-00ab-4806-8966-555302b06297][table salt]]          |
+   | 1/4 tsp  | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]        |
+   | 1 pinch  | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]]   |
+
+* Directions
+
+  1. Preheat the oven to 200 C (425 F) and line a baking sheet with parchment paper.
+  2. Place the cubed squash on the sheet and toss with 1 Tbsp of olive oil.
+	 - Season with salt, pepper, garlic powder, cumin, and paprika.
+	 - Toss well, then roast for 20 - 25 min.
+  3. While the squash is roasting, chop the kale leaves.
+	 - Place the leaves in a large bowl and drizzle 1 - 2 tsp of olive oil.
+	 - Use your hands to massage the kale for a few minutes and let set for 5 min. [fn:1]
+  4. Add a pinch of salt and pepper to the kale and toss.
+     - Add the crumbled goat cheese and roasted pepitas/pumpkin seeds.
+  5. In a bowl or jar, whisk the vinegar, garlic, salt, pepper, and pepper flakes. Stream in the olive oil while whisking until emulsified.
+  6. Once the squash has finished roasting, combine everything in a large salad bowl and toss.
+	 - Drizzle with salad dressing when ready to serve.
+
+* References & Notes
+
+  1. Original recipe: [[https://www.howsweeteats.com/2020/02/butternut-squash-kale-salad/][How Sweet Eats]]
+  2. Vinaigrette will last sealed in the fridge for 3 - 4 days.
+
+* Footnotes
+
+[fn:1] Seriously, massage the kale.
+       It really helps soften the texture, especially since you're not roasting or frying it.

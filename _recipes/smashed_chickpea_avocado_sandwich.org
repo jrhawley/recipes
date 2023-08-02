@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Smashed chickpea avocado sandwich
 #+DATE: [2019-12-07]
-#+LAST_MODIFIED: [2023-04-02 Sun 18:48]
+#+LAST_MODIFIED: [2023-04-29 Sat 14:29]
 #+FILETAGS: :sandwiches:recipes:vegetarian:lunch:entree:
 
 | Info      | Amount       |
@@ -36,5 +36,5 @@
 
 * References & Notes
 
-1. [[https://www.ambitiouskitchen.com/smashed-chickpea-avocado-salad-sandwich-with-cranberries-lemon/][Original recipe]]
+  1. [[https://www.ambitiouskitchen.com/smashed-chickpea-avocado-salad-sandwich-with-cranberries-lemon/][Original recipe]]
 

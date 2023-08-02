@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Thai veggie bowl
 #+DATE: [2020-03-13]
-#+LAST_MODIFIED: [2023-04-02 Sun 18:49]
+#+LAST_MODIFIED: [2023-04-10 Mon 18:23]
 #+FILETAGS: :bowls:recipes:vegetarian:vegan:entree:
 
 | Info      | Amount     |
@@ -33,7 +33,7 @@
 
    | Quantity | Item                   |
    |----------+------------------------|
-   | 1 cup    | [[id:9b67d62e-13d2-46e0-9366-196393f90028][rice]]                   |
+   | 1 cup    | [[id:9b67d62e-13d2-46e0-9366-196393f90028][rice]], cooked           |
    | 16 oz    | [[id:426f19a5-a43a-45d4-af0c-7c0537117834][edamame beans]]          |
    | 1        | red [[id:4390c023-512f-49c7-8320-0b6fba85a579][bell pepper]], diced |
    | 1/2      | [[id:91d2bb4a-3cc3-4dfd-8c54-953a701ad3a2][cucumber]], diced        |

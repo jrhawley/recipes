@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Recipe Book
 #+DATE: [2021-02-27 Sat]
-#+LAST_MODIFIED: [2023-04-08 Sat 11:41]
+#+LAST_MODIFIED: [2023-07-30 Sun 13:36]
 #+FILETAGS: :personal:recipes:
 
 [[file:README.org][Introduction]]
@@ -61,6 +61,7 @@
    - [[id:b49985b0-e0ed-4d40-883e-0783538e34c5][Mediterranean salad]]
    - [[id:0c30a9e3-20f7-43ea-aeb2-9035b25615e3][Blackberry balsamic chicken salad]]
    - [[id:4ff5cde1-5985-4216-a4b2-96315ec1f1d5][Autumn arugula salad]]
+   - [[id:5d1e8082-4323-4acb-9faf-0ed948b83c70][Butternut squash kale salad]]
   
 ** Grains
   
@@ -77,6 +78,7 @@
    - [[id:8df9a785-294d-4a1e-a38e-27678203470a][Honey roasted carrots]]
    - [[id:657088d7-b571-450b-b897-a92867f1d99b][Roasted beets and carrots with honey-balsamic glaze]]
    - [[id:126a6526-17dd-4e4c-ab0e-150f0f0257c9][Roasted parsnips & mustard butter]]
+   - [[id:76970e5f-57b6-4d6b-8e16-539d93d57374][Roasted beets, carrots, and onions with feta and pomegranate vinaigrette]]
 
 ** Sauces & Dips
 
@@ -148,6 +150,7 @@
    - [[id:b698c969-065f-4050-96d7-e6dafbd504f5][Southern baked macaroni and cheese]]
    - [[id:c00450ce-37a8-4254-9b97-0d6b181390b0][Chicken tetrazzini]]
    - [[id:d59a7584-cf12-4762-a2f4-3617859d82e3][Pasta al ragu]]
+   - [[id:f886862a-6c0f-4bca-87ef-8067353d810b][One-pot lemony pasta with spring greens]]
 
 ** Soups
 
@@ -166,6 +169,7 @@
    - [[id:0dbe5e21-dd4a-4649-a566-a34728b81579][Stuffed pepper soup]]
    - [[id:38ccf877-fbcb-4af0-9352-2aad69010eab][Beer cheese soup]]
    - [[id:0435e871-fa05-479b-b034-3512547817d7][Sunchoke and leek soup with Canadian gremolata]]
+   - [[id:39bbf3f7-3f0f-43b7-9546-df0909a1f94d][Ribolitta]]
   
 ** Beef
 
@@ -288,6 +292,7 @@
 *** Gins
 
 	- [[id:e30bcfdb-a003-43fb-b6fc-1a934dfc33a9][The 850]]
+	- [[id:63b7be7f-cc54-454b-8c21-38239a279756][Elderflower gin sour]]
 	- [[id:a340d171-c7bb-438f-8b50-61595cdc9532][Floradora]]
 	- [[id:40935080-1806-4c82-9a68-792e63c43749][Gin fizz]]
 	- [[id:8b4255b6-540e-4a33-9121-529cdfd46d1a][L'alchimiste]]
@@ -296,6 +301,7 @@
 	- [[id:1bd0af37-7dee-4e34-ab1e-3550dfd67899][Bramble]]
 	- [[id:498e6f65-985f-469c-995d-c3ca2a77ee69][Martini]]
 	- [[id:46f16e9c-48d4-408d-8874-6c1ed9353dfe][Negroni]]
+	- [[id:8715c4a2-95ed-4da3-a28c-cfde9485c97f][Prado]]
 
 *** Liqueurs
 
@@ -327,6 +333,8 @@
 	- [[id:2b5d35e5-cee4-4727-b616-454eff7e525a][Tequila sunrise]]
 	- [[id:4c0c11a0-b830-4430-a685-d3c2e180f141][Tequila sour]]
 	- [[id:674ed0c9-dab0-40a1-b6cf-9f8a95c45b0a][Margarita]]
+	- [[id:a64f754f-829f-4ea2-8375-b095600a0cc1][Mexican Firing Squad]]
+	- [[id:84A1321A-2D66-400B-A572-115DFB3D9263][Paloma]]
 
 *** Vodkas
 

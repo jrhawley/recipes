@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Cherry basil bruschetta
 #+DATE: [2023-03-19 Sun 10:00]
-#+LAST_MODIFIED: [2023-04-01 Sat 21:55]
+#+LAST_MODIFIED: [2023-05-06 Sat 20:28]
 #+FILETAGS: :vegetarian:appetizers:recipes:
 
 | Info      | Amount     |

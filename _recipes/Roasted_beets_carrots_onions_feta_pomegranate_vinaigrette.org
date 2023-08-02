@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       76970e5f-57b6-4d6b-8e16-539d93d57374
+:END:
+#+TITLE: Roasted beets, carrots, and onions with feta and pomegranate vinaigrette
+#+DATE: [2023-04-15 Sat 10:38]
+#+LAST_MODIFIED: [2023-04-15 Sat 10:56]
+#+FILETAGS: :sides:vegetarian:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 1 h        |
+| Yields    | 6 servings |
+
+* Ingredients
+
+  | Quantity | Item                              |
+  |----------+-----------------------------------|
+  | 1/2 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]], divided                |
+  | 1 Tbsp   | [[id:41605fe1-8b95-41a2-9031-1bfe668a46cf][red wine vinegar]]                  |
+  | 2 Tbsp   | [[id:4cf4d740-5b5b-4a3d-be88-929f383663ef][pomegranate juice]]                 |
+  | 1 Tbsp   | [[id:257897fc-30ec-4477-aa93-abff6398d8c1][honey]]                             |
+  | 1/4 tsp  | [[id:591e51ef-30b7-48f4-9232-a0834f4c31af][cumin]]                             |
+  | 454 g    | [[id:3bff7e0c-815d-44cd-ae7b-296924ca59b0][carrots]], halved lengthwise        |
+  | 8        | [[id:aa695135-a404-4546-a1df-75faf5c6e0ed][beets]], scrubbed, quartered [fn:1] |
+  | 1        | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]], peeled, quartered      |
+  | 1/4 cup  | [[id:3c0b48f9-96ce-4e4f-82d0-d816f1abdfcf][white wine]]                        |
+  | 1 Tbsp   | [[id:ac8ab019-7fa2-44f7-9cd7-4f9b64b41cbd][grainy mustard]]                    |
+  | 1/4 cup  | [[id:03c1357c-225f-455d-af1f-86c11d3eafb9][mint]] leaves                       |
+  |          | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]                     |
+  |          | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]]                              |
+
+* Directions
+
+  1. Preheat oven to 205 C (400 F) and line one large rimmed baking sheet with parchment paper [fn:2].
+  2. In a large bowl, combine carrots, beets, onion, 1/4 cup olive oil, white wine, mustard, salt, and pepper [fn:2].
+	 1. Toss until well-coated and transfer to the baking sheet.
+	 2. Roast until fork-tender, about 45 - 55 min.
+  3. Whisk 1/4 cup olive oil, red wine vinegar, honey, pomegranate juice, and cumin in a small bowl.	
+  4. Transfer cooked vegetables to a serving plattter, drizzle with vinaigrette, and top with feta and mint.
+
+* References
+
+  1. Original recipe: [[https://www.lcbo.com/en/recipe/roasted-beets-carrots-onions-with-feta-pomegranate-vinaigrette/F202206025][LCBO Food and Drink (Holiday 2022)]]
+
+* Footnotes
+
+  [fn:1] The beets can be of various colours to make the dish more colourful.
+  [fn:2] If using red beets, toss them after the other vegetable.
+         Similarly, keep them on a separate baking sheet so they don't stain the colours of the other vegetables.
+
+

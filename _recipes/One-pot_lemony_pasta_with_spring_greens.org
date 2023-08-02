@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       f886862a-6c0f-4bca-87ef-8067353d810b
+:END:
+#+TITLE: One-pot lemony pasta with spring greens
+#+DATE: [2023-04-15 Sat 12:17]
+#+LAST_MODIFIED: [2023-04-15 Sat 19:56]
+#+FILETAGS: :pasta:vegetarian:recipes:
+
+| Info      | Amount         |
+|-----------+----------------|
+| Prep Time | 10 min         |
+| Cook Time | 10 min         |
+| Yields    | 4 - 6 servings |
+
+* Ingredients
+
+  | Quantity | Item                           |
+  |----------+--------------------------------|
+  | 454 g    | rigatone or other [[id:910d3288-fe36-47b2-b211-8218ce14da3f][pasta]]        |
+  | 4 cup    | [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]]                        |
+  | 4 cup    | [[id:36223b51-b988-470c-ab00-748e4a5b3e66][kale]], stemmed                  |
+  | 1 bunch  | [[id:79e39338-56c0-4eb7-98af-5474fbae80b6][asparagus]], trimmed and chopped |
+  | 1/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                      |
+  | 4 Tbsp   | [[id:c2560014-7e89-4ef5-a628-378773b307e5][butter]]                         |
+  | 4 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], minced                 |
+  | 2 Tbsp   | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon zest]]                     |
+  | 1 tsp    | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]]              |
+  |          | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][Parmesan]]                       |
+
+* Directions
+
+  1. Bring a medium pot of salted water to a boil and cook the pasta for 5 min.
+	 1. Add spinach, kale, and asparagus, cooking for another 1 min.
+	 2. Reserve 3/4 cup of the pasta water, then drain pasta and greens.
+  2. Place pot back on the stove over medium heat.
+	 1. Add olive oil and butter, and garlic once hot.
+	 2. Cook garlic until golden brown, about 2 min.
+	 3. Add 1/2 cup pasta water, lemon zest, chili flakes, pasta, and greens, and stir to combine.
+	 4. Increase heat to high and cool until sauce has thickened slightly and coats pasta.
+	 5. Add remaining past water as needed to keep the sauce smooth.
+  3. Remove pasta from heat, stir in lemon juice, season with salt and top with grated Parmesan.
+
+* References
+
+  1. Original recipe: LCBO Food and Drink (Spring 2023)
+

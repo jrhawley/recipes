@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       ee5d9627-91a3-4717-8d63-9f0327d43144
+:END:
+#+TITLE: Meatballs, orzo, and feta sauce
+#+DATE: [2023-04-29 Sat 12:06]
+#+LAST_MODIFIED: [2023-04-29 Sat 14:17]
+#+FILETAGS: :entree:beef:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 40 min     |
+| Cook Time | 20 min     |
+| Yields    | 4 servings |
+
+* Ingredients
+
+  | Quantity | Item |
+  |----------+------|
+  |          |      |
+
+* Directions
+
+  1.
+
+* References
+
+  1. Original recipe: [[https://www.ambitiouskitchen.com/wprm_print/72143][Ambitious Kitchen]]
+
+* Footnotes

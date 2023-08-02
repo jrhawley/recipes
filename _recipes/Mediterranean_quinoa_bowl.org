@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       725d7cb4-b912-4fae-af69-af654176100e
+:END:
+#+TITLE: Mediterranean quinoa bowl
+#+DATE: [2023-04-15 Sat 11:13]
+#+LAST_MODIFIED: [2023-05-08 Mon 19:28]
+#+FILETAGS: :entree:vegetarian:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 10 min     |
+| Yields    | 8 servings |
+
+* Ingredients
+
+** Roasted red pepper sauce
+
+   | Quantity    | Item                         |
+   |-------------+------------------------------|
+   | 1 16 oz jar | [[id:26f5cd26-6d0d-4437-bda3-dde950b8855f][roasted red peppers]], drained |
+   | 1 clove     | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]                       |
+   | 1/2 tsp     | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]                |
+   | 1           | [[id:3bf1d509-27e0-42f6-a975-be224e071ba7][lemon]], juiced                |
+   | 1/2 cup     | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                    |
+   | 1/2 cup     | [[id:00425ad7-8422-472e-b161-e83bd670ec76][almonds]] or [[id:9c21df94-eb4c-47b4-8490-12ef0b3e8a57][cashews]]           |
+
+** Quinoa bowl
+
+   | Quantity   | Item                     |
+   |------------+--------------------------|
+   | 5/4 cup    | [[id:cc0d409b-ba32-4755-b5ee-41837ba5d47d][quinoa]], uncooked         |
+   | 2 handfuls | [[id:4ec12783-0876-4af5-85cc-049fb575f738][spinach]]                  |
+   | 1          | [[id:91d2bb4a-3cc3-4dfd-8c54-953a701ad3a2][cucumber]]                 |
+   |            | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]]                     |
+   |            | [[id:28ed392f-6531-4633-86b1-aa98ebf55498][kalamata olives]]          |
+   |            | [[id:d95f338d-64d3-43ae-a553-ac91dd109234][red onion]], thinly sliced |
+   |            | [[id:f62c8021-74a6-4070-a240-25e5c072cdba][basil]]                    |
+   |            | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]]                  |
+
+* Directions
+
+  1. Cook quinoa according to instructions.
+  2. Mix all red pepper sauce ingredients in a blender and blend until smooth.
+  3. Combine remaining ingredients as desired in each bowl and serve immediately.
+
+* References
+
+  1. Original recipe: [[https://pinchofyum.com/mediterranean-quinoa-bowls-with-roasted-red-pepper-sauce/print/41658][Pinch of Yum]]
+

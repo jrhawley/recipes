@@ -3,27 +3,53 @@
 :END:
 #+TITLE: Pesto chicken tzatziki salad wraps
 #+DATE: [2023-03-28 Tue 18:18]
-#+LAST_MODIFIED: [2023-04-02 Sun 20:28]
+#+LAST_MODIFIED: [2023-04-15 Sat 14:51]
 #+FILETAGS: :chicken:wraps:recipes:
 
-| Info      | Amount |
-|-----------+--------|
-| Prep Time | 30 min |
-| Cook Time | 30 min |
+| Info      | Amount  |
+|-----------+---------|
+| Prep Time | 30 min  |
+| Cook Time | 30 min  |
 | Yields    | 6 wraps |
 
 * Ingredients
 
-  | Quantity | Item |
-  |----------+------|
-  |        |      |
+** Tzatziki marinade and chicken
+
+   | Quantity | Item              |
+   |----------+-------------------|
+   | 1/3 cup  | [[id:3e80ceb1-aa3e-425a-a18b-d3acdc4353cf][Greek yogurt]]      |
+   | 1/4 cup  | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]         |
+   | 3/2 lbs  | [[id:844b425a-0bc1-486c-a3ce-755652960211][chicken breasts]]   |
+   | 4 cloves | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]]            |
+   | 1 Tbsp   | [[id:6e7f70b8-9dc3-4a23-82f8-c178689d5266][paprika]]           |
+   | 1 Tbsp   | [[id:229255c9-73ba-48f6-9216-7e4fa5938c06][parsley]], chopped  |
+   |          | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]] |
+   |          | [[id:026747d6-33c9-43c8-9d71-e201ed476116][Kosher salt]]       |
+   |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]      |
+
+** Wraps
+
+   | Quantity | Item            |
+   |----------+-----------------|
+   | 4 cup    | [[id:59af50e9-6ec9-4ffa-8de6-80903f12468a][romaine lettuce]] |
+   | 2        | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocadoes]]       |
+   | 1/2 cup  | [[id:0542dc9c-467d-467c-8b28-a319f5993572][feta]]            |
+   | 4        | [[id:4447c70b-787f-49ba-ac31-69a5bf96726f][tortillas]]       |
+   | 1/4 cup  | [[id:ea46b13b-cc27-48bf-98f2-1e6bb9ac26d2][pesto]]           |
 
 * Directions
 
-  1.
+  1. Preheat the oven to 220 C (425 F).
+  2. In a bowl, combine the chicken and marinade ingredients and let marinade for 15 min at room temperature.
+  3. Arrange chicken breasts on a baking sheet and cook for 25 min, or until cooked through.
+  4. Mix lettuce, avocadoes, feta in a bowl while the chicken is cooking.
+  5. Turn on the broiler and broil for 1 - 2 min, or until the chicken edges start to char.
+  6. Remove the chicken and chop into large chunks.
+  7. Spread pesto and lettuce mixture on each tortilla, and add the chicken and tzatziki.
+  8. If desired, wrap in alumium foil and place in the oven or in a panini press to sear the outside of the wraps.
 
 * References
 
   1. Original recipe: [[https://www.halfbakedharvest.com/wprm_print/143715][Half-Baked Harvest]]
 
-* Footnotes

@@ -3,7 +3,7 @@
 :END:
 #+TITLE: Balsamic pork chops with tomatoes
 #+DATE: [2022-10-11 Tue 19:54]
-#+LAST_MODIFIED: [2023-04-02 Sun 20:36]
+#+LAST_MODIFIED: [2023-05-09 Tue 18:52]
 #+FILETAGS: :pork:entree:recipes:
 
 | Info      | Amount     |
@@ -31,7 +31,7 @@
 
 * Directions
 
-  1. In a large, oven safe skillet, heat olive oil over medium high heat.
+  1. In a large skillet, heat olive oil over medium high heat.
   2. Pat pork chops dry and season with salt and pepper on both sides.
 	 - Add chops to skillet and cook 2-3 min per side.
 	 - Remove to a plate to rest and cover with foil.

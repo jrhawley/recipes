@@ -3,8 +3,8 @@
 :END:
 #+TITLE: Sun-dried tomato chicken and farro
 #+DATE: [2022-12-28 Wed 21:27]
-#+LAST_MODIFIED: [2023-04-02 Sun 21:15]
-#+FILETAGS: :chicken:recipes:
+#+LAST_MODIFIED: [2023-04-30 Sun 19:28]
+#+FILETAGS: :entree:chicken:recipes:
 
 | Info      | Amount     |
 |-----------+------------|
@@ -34,7 +34,7 @@
 
 * Directions
 
-  1. Preheat over to 200 C (400 F).
+  1. Preheat oven to 200 C (400 F).
   2. In a medium bowl, combine 2 Tbsp olive oil, chicken, balsamic vinegar, oregano, paprika, garlic, salt, and pepper. Toss to combine.
   3. Heat 2 Tbsp of olive oil in a large oven-safe skillet or dutch oven over medium-high heat.
 	 1. Add the chicken and sear on both sides until golden (3 - 5 min / side).

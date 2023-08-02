@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       39bbf3f7-3f0f-43b7-9546-df0909a1f94d
+:END:
+#+TITLE: Ribolitta
+#+DATE: [2023-04-15 Sat 10:11]
+#+LAST_MODIFIED: [2023-04-15 Sat 10:27]
+#+FILETAGS: :soups:vegetarian:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 10 min     |
+| Cook Time | 1 h 10 min |
+| Yields    | 6 servings |
+
+* Ingredients
+
+  | Quantity     | Item                                             |
+  |--------------+--------------------------------------------------|
+  | 1/2 cup      | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                                        |
+  | 3/2 cup      | [[id:8a695016-03b5-4059-9a54-668f3b794e33][onion]], chopped                                   |
+  | 3/2 cup      | [[id:3bff7e0c-815d-44cd-ae7b-296924ca59b0][carrots]], chopped                                 |
+  | 3/2 cup      | [[id:83c6ab82-bb15-4724-a51e-77237cb01b95][celery]], chopped                                  |
+  | 1 bunch      | [[id:627cde61-8356-42ba-a61b-e5d57c1705fc][Swiss chard]]                                      |
+  | 3 cloves     | [[id:f120187f-f080-4f7c-b2cc-72dc56228a07][garlic]], 2 chopped + 1 halved                     |
+  | 3/4 tsp      | [[id:f19e1410-5db4-4f98-ae57-a40c7cec7912][red pepper flakes]]                                |
+  | 1 tsp        | [[id:473555c6-ad53-42f0-9301-71ed769e25e8][rosemary]]                                         |
+  | 800 mL       | [[id:4f47a6bf-1020-4d5f-bead-f6b18e2ba80f][plum tomatoes]], strained with the liquid reserved |
+  | 6 cup        | [[id:970d7f49-6f00-4caf-b73f-90d3e7f5039c][water]]                                            |
+  | 1 540 mL can | [[id:a3627a71-6d74-4b45-bc14-4b0ad3f519e5][white kidney beans]]                               |
+  | 1            | [[id:e2e9621c-0f45-41ca-b381-22b8fa8694b9][bay leaf]]                                         |
+  |              | [[id:505e3767-00ab-4806-8966-555302b06297][salt]]                                             |
+  |              | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]                                     |
+  | 6 slices     | [[id:9dcac603-639f-4586-90e6-2a53a80b3365][Italian bread]]                                    |
+  |              | [[id:a2ed6c9e-2e2c-4918-b61b-78c3c9d36c8c][Parmesan cheese]] with optional rind               |
+
+* Directions
+
+  1. Heat olive oil in a Dutch oven.
+	 1. Add onion, carrots, and celery and saute until softened (~ 15 min).
+	 2. Remove stems from Swiss chard, chop, and tear leaves into bite-sized pieces.
+	 3. Add chard stems to the Dutch oven and saute for 5 min more.
+  2. Add garlic, red pepper flakes, and rosemary, sauteing for 1 min more.
+	 1. Turn heat to medium-high and add strained tomatoes, cooking until tomatoes begin to caramelize (~ 5 min).
+	 2. Add tomato liquid, water, beans, thie Parmesan rind (if using), and bay leaf, and bring to a boil.
+	 3. Turn down heat to low and cover, leaving the lid slightly askew.
+	 4. Simmer for 45 min, or until soup is flavourful.
+	 5. Season with salt and pepper to taste
+  3. Preheat oven broiler to high and place the rack 15 cm (6 ") from the broiler.
+	 1. Lightly brush both sides of the bread slices wiith olive oil and place on a rimmed baking sheet.
+	 2. Broil for 30 s - 1 min per side, watching closely.
+	 3. Rub each slice with the cut half of a garlic clove.
+  4. Remove bay leaf and rind and allow to cool for a few minutes before serving.
+	 1. Grate additional Parmesan cheese onto each bowl and serve.
+
+* References
+
+  1. Original recipe: LCBO Food and Drink (Winter 2021)
+

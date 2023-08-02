@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       25607c3e-f880-4fce-b424-4f98b4e1fc49
+:END:
+#+TITLE: Sweet potato noodle bowl
+#+DATE: [2023-04-21 Fri 18:04]
+#+LAST_MODIFIED: [2023-04-29 Sat 12:03]
+#+FILETAGS: :entree:vegan:recipes:
+
+| Info      | Amount     |
+|-----------+------------|
+| Prep Time | 20 min     |
+| Cook Time | 0 min      |
+| Yields    | 2 servings |
+
+* Ingredients
+
+  | Quantity | Item                      |
+  |----------+---------------------------|
+  |        2 | [[id:8f199dec-d073-44dc-9225-a8b2d33c1bd2][sweet potatoes]]            |
+  |   2 Tbsp | [[id:a3cbe672-676d-4ce9-b3d5-2ab7cdef6810][olive oil]]                 |
+  |        2 | large [[id:1a3ef043-075e-45ac-af8a-02dfee2bc251][green onions]]        |
+  |        1 | [[id:89016951-c43f-4a15-9f44-8430793f9529][avocado]], pitted and diced |
+  |  1/2 can | [[id:285345d6-78f4-42cd-af32-0738783c781d][black beans]]               |
+  |          | [[id:0072c0fd-c843-44b6-92de-27f3e7845c52][fine sea salt]]             |
+  |          | [[id:68516e6c-ad08-45fd-852b-ba45ce50a68b][black pepper]]              |
+  |          | [[id:4728f717-972e-46f4-9eb3-d847be411c3a][lime juice]]                |
+  |          | [[id:0f07f0ef-525c-4456-a534-c58bcf2c1e02][tahini]]                    |
+
+* Directions
+
+  1.
+
+* References
+
+  1. Original recipe: [[id:e3a5fd0e-055f-40b3-86d8-1d073b379478][Oh She Glows for Dinner]] (pg. 102)
+
